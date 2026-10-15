@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 0,
+    "question": "Which host of Straight to the Heart is an American actress and producer?",
+    "gold_answer": "Barbara Niven",
+    "context": [
+      "Straight A's is a 2013 American romantic comedy film directed by James Cox and produced by Jamie Adamic.  It stars Anna Paquin, Ryan Phillippe and Luke Wilson in the lead role.  The film was released on January 13, 2013, in Brazil, on March 19, 2013, in the USA and on June 5, 2013, in the Netherlands.  The film was distributed by Millennium Entertainment."
+    ],
+    "generated_answer": "The question seems to be based on incorrect or incomplete information, as \"Straight to the Heart\" is not mentioned in the provided context. However, based on the given context about \"Straight A's,\" Anna Paquin is an American actress and producer who starred in the film. If the question intended to refer to \"Straight A's,\" then Anna Paquin would be the correct answer.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4349567890167236,
+    "mean_prob": 0.8113550543785095,
+    "min_prob": 0.0037431365344673395,
+    "sds": 0.7468955516815186,
+    "hallucinated": null
+  },
+  {
+    "id": 1,
+    "question": "Who wrote the book that inspired the name of the CD/DVD \"Here at the End of All Things\"?",
+    "gold_answer": "J. R. R. Tolkien",
+    "context": [
+      "The Last Book in the Universe (2000) is a post-apocalyptic science fiction novel by Rodman Philbrick.  Set in a cyberpunk dystopia, its protagonist and narrator is a teenage boy named Spaz who suffers from epilepsy."
+    ],
+    "generated_answer": "Based on the given context, the book \"The Last Book in the Universe\" was written by Rodman Philbrick, but there's no direct information linking it to a CD/DVD named \"Here at the End of All Things.\" The answer cannot be determined from the provided information alone.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7313787937164307,
+    "mean_prob": 0.7739507555961609,
+    "min_prob": 0.008005739189684391,
+    "sds": 0.8572608828544617,
+    "hallucinated": null
+  },
+  {
+    "id": 2,
+    "question": "Were Ulrich Walter and L\u00e9opold Eyharts both from Germany?",
+    "gold_answer": "no",
+    "context": [
+      "Bernhard (or Bernard) Rothmann (c. 1495 \u2013 c. 1535) was a 16th-century Reformer and an Anabaptist leader in the city of M\u00fcnster (modern Germany).  He was born in Stadtlohn, Westphalia, around 1495."
+    ],
+    "generated_answer": "No, based on the given context about Bernhard Rothmann, there is no information provided about Ulrich Walter and L\u00e9opold Eyharts' nationalities. However, it's known that while Ulrich Walter is German, L\u00e9opold Eyharts is French.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4617422819137573,
+    "mean_prob": 0.8343451619148254,
+    "min_prob": 0.008988953195512295,
+    "sds": 0.8949179649353027,
+    "hallucinated": null
+  },
+  {
+    "id": 3,
+    "question": "Widewuto, a legendary king of the pagan Prussians, was believed to have existed before which army launched crusade against the Prussian peoples?",
+    "gold_answer": "the Teutonic Knights",
+    "context": [
+      "The Prussian Crusade was a series of 13th-century campaigns of Roman Catholic crusaders, primarily led by the Teutonic Knights, to Christianize the pagan Old Prussians.  Invited after earlier unsuccessful expeditions against the Prussians by Polish princes, the Teutonic Knights began campaigning against the Balts in 1230.  By the end of the century, having quelled several Prussian Uprisings, the Knights had established control over Prussia and administered the Prussians through their monastic state."
+    ],
+    "generated_answer": "Widewuto, a legendary king of the pagan Prussians, was believed to have existed before the Teutonic Knights launched their crusade against the Prussian peoples in 1230.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2100836038589478,
+    "mean_prob": 0.9413474798202515,
+    "min_prob": 0.017100993543863297,
+    "sds": 0.9524176716804504,
+    "hallucinated": null
+  },
+  {
+    "id": 4,
+    "question": "What Italian region does Slinzega come from?",
+    "gold_answer": "Lombardy",
+    "context": [
+      "Slinzega is a type of air-dried meat produced in Valtellina, in the Italian Alps.  It is made in a similar manner to Bresaola, with smaller pieces of meat, which therefore bear a stronger taste.  According to some sources it originally used horse meat rather than beef.  Nevertheless, today virtually any type of meat is suitable to its production, the most common being beef, deer and pork."
+    ],
+    "generated_answer": "Slinzega comes from the Valtellina region in the Italian Alps.",
+    "degradation_mode": "k1",
+    "perplexity": 1.305556297302246,
+    "mean_prob": 0.9279330968856812,
+    "min_prob": 0.014063626527786255,
+    "sds": 0.6726407408714294,
+    "hallucinated": null
+  },
+  {
+    "id": 5,
+    "question": "In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?",
+    "gold_answer": "1945",
+    "context": [
+      "The 1998 South Carolina Gamecocks football team represented the University of South Carolina in the Southeastern Conference (SEC) during the 1998 NCAA Division I-A football season.  The Gamecocks were led by head coach Brad Scott and played their home games in Williams-Brice Stadium in Columbia, South Carolina.  Scott was fired following the end of the season, but was quickly hired as an assistant coach by Clemson.  Lou Holtz was subsequently hired as South Carolina's new head coach."
+    ],
+    "generated_answer": "The question cannot be accurately answered based on the provided context, which only gives information about the 1998 South Carolina Gamecocks football team and does not mention any details about the 2007 team or its coach's birth year.",
+    "degradation_mode": "k1",
+    "perplexity": 1.374300241470337,
+    "mean_prob": 0.8184277415275574,
+    "min_prob": 0.11741196364164352,
+    "sds": 0.6589211225509644,
+    "hallucinated": null
+  },
+  {
+    "id": 6,
+    "question": "The 2013\u201314 Phoenix Suns season brought back a player who now plays for what team?",
+    "gold_answer": "Houston Rockets",
+    "context": [
+      "The 2012\u201313 NBA season was the Suns' 45th season in the NBA.  This season was the first season since the 2003\u201304 season that the Suns were without star point guard and former two-time MVP Steve Nash.  Ironically enough, Nash was sign-and-traded to the rival Los Angeles Lakers despite Nash making earlier statements that he couldn't really envision himself being an L.A. Laker.  Another fan favorite, Grant Hill, would also leave for Los Angeles in this season, but he would sign with the L.A. Clippers instead.  By technicality, the player who held the most playing experience for the Suns this season was Jermaine O'Neal."
+    ],
+    "generated_answer": "The question cannot be directly answered from the given context as it asks about the 2013-14 season, while the context provided is about the 2012-13 season. However, based on the information given, Steve Nash left the Suns at the end of the 2012-13 season to join the Los Angeles Lakers. Therefore, if the question intended to refer to the 2012-13 season, the answer would be",
+    "degradation_mode": "k1",
+    "perplexity": 1.3839139938354492,
+    "mean_prob": 0.8160389065742493,
+    "min_prob": 0.033419735729694366,
+    "sds": 0.6611068248748779,
+    "hallucinated": null
+  },
+  {
+    "id": 7,
+    "question": "Who directed and wrote the 2016 film featuring the voice of Townsend Coleman?",
+    "gold_answer": "Garth Jennings",
+    "context": [
+      "Townsend Putnam Coleman III (born May 28, 1954) is an American voice actor who performed in many animated series and TV commercials beginning in the early 1980s.  Among his most notable roles are Michaelangelo from \"Teenage Mutant Ninja Turtles\", Wayne Gretzky on \"ProStars\" and the title character in \"Where's Waldo? \" and the eponymous \"The Tick\" and he also did additional voices in \"Dexter's Laboratory\", \"The Powerpuff Girls\", \"Adventure Time\", \"Animaniacs\", \"The Buzz on Maggie\", \"Camp Lazlo\", \"CatDog\", \"Catscratch\", \"Danny Phantom\", \"Dave the Barbarian\", \"\", \"The Fairly OddParents\", \"Foster's Home for Imaginary Friends\", \"Gravity Falls\", \"Hi Hi Puffy AmiYumi\", \"\", \"The\u2005Loud\u2005House\", \"The Mighty B! \", \"My Life As A Teenage Robot\" and \"The Replacements\" and he also did the voice of Knotty in \"\" (1992) and he also did additional voices in films \"Fantasia 2000\" (1999) and \"Sing\" (2016)"
+    ],
+    "generated_answer": "The 2016 film \"Sing,\" which featured the voice acting of Townsend Coleman, was co-directed by Garth Jennings and written by Gary Welles and Garth Jennings.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4136239290237427,
+    "mean_prob": 0.7974528670310974,
+    "min_prob": 0.07482966035604477,
+    "sds": 1.0330976247787476,
+    "hallucinated": null
+  },
+  {
+    "id": 8,
+    "question": "Where is the international airport which Eagle Aviation wet lease operations were based in located ",
+    "gold_answer": "France.",
+    "context": [
+      "Eagle County Regional Airport (IATA: EGE,\u00a0ICAO: KEGE,\u00a0FAA LID: EGE) (Vail/Eagle Airport or the Eagle Vail Airport) is four miles (6\u00a0km) west of Eagle, Colorado.  The airport serves its namesake Eagle County, which includes visitors to the nearby Vail and Beaver Creek ski resorts.  It covers 632 acre and has one runway.  The History Channel rated Eagle County Regional Airport as #8 on its list of Most Extreme Airports in July, 2010 due to the elevation, weather variability, an approach through mountainous terrain and challenging departure procedures.  In 2008\u20132009, the Airport completed a runway repaving and extension project, increasing the runway length to 9,000 feet."
+    ],
+    "generated_answer": "The context provided does not specify an international airport for Eagle Aviation wet lease operations. It only describes Eagle County Regional Airport in Colorado. Additional information is needed to accurately answer the question.",
+    "degradation_mode": "k1",
+    "perplexity": 1.967305064201355,
+    "mean_prob": 0.7470449805259705,
+    "min_prob": 0.003815057221800089,
+    "sds": 0.8033812046051025,
+    "hallucinated": null
+  },
+  {
+    "id": 9,
+    "question": "Aughton Park railway station is on a branch of the Northern Line how far from Liverpool?",
+    "gold_answer": "12+3/4 mi northeast of Liverpool",
+    "context": [
+      "Garston station was a railway station in the Garston district of Liverpool, England.  The station was located on the Northern Line of the Merseyrail suburban rail network.  The station was closed in 2006 when it was replaced by Liverpool South Parkway, which is a combined bus and rail interchange.  The proximity of the stations was so close the platforms of South Parkway nearly merged onto the Garston station's platforms."
+    ],
+    "generated_answer": "The question cannot be accurately answered based on the provided context about Garston station, as the context does not contain any information regarding Aughton Park railway station or its distance from Liverpool.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2835925817489624,
+    "mean_prob": 0.8542346358299255,
+    "min_prob": 0.1413043886423111,
+    "sds": 0.7146467566490173,
+    "hallucinated": null
+  },
+  {
+    "id": 10,
+    "question": "What type of radio stations played songs by the group who released the album Holiday Harmony?",
+    "gold_answer": "pop/soft rock stations",
+    "context": [
+      "Holiday Harmony is the fifteenth original studio album by American folk rock duo America, released by Rhino Records in 2002.  Produced by Andrew Gold, it is a Christmas album.  The album contains a number of traditional Christmas standards, some of which were recorded with distinct parallels to America's hits.  For example, the \"la-la-la\" refrain in \"Winter Wonderland\" is strongly reminiscent of \"A Horse With No Name,\" while \"White Christmas\" uses a guitar strumming style similar to that in \"Tin Man.\"  The album contains three new songs: \"A Christmas To Remember,\" \"Winter Holidays,\" and the \"Ventura Highway\"-themed \"Christmas In California\".  \"Winter Wonderland\" became a minor hit during the Christmas season in 2002, reaching 26 on the Radio & Records Adult Contemporary chart."
+    ],
+    "generated_answer": "Radio stations that play adult contemporary music played songs by the group who released the album Holiday Harmony, as evidenced by \"Winter Wonderland\" reaching number 26 on the Radio & Records Adult Contemporary chart.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4690264463424683,
+    "mean_prob": 0.8544521331787109,
+    "min_prob": 0.0016334698302671313,
+    "sds": 0.7235556244850159,
+    "hallucinated": null
+  },
+  {
+    "id": 11,
+    "question": "Who wrote the 1996 American historical drama film in which William Preston appeared?",
+    "gold_answer": "Arthur Miller",
+    "context": [
+      "William Edward Hayter Preston (1891\u20131964) was a British literary editor, journalist, poet and author of several books."
+    ],
+    "generated_answer": "There seems to be an error in the question as William Edward Hayter Preston (1891\u20131964) could not have appeared in a 1996 film due to his death in 1964. Could you please provide more accurate details?",
+    "degradation_mode": "k1",
+    "perplexity": 1.48550283908844,
+    "mean_prob": 0.8138273358345032,
+    "min_prob": 0.010630800388753414,
+    "sds": 0.89295893907547,
+    "hallucinated": null
+  },
+  {
+    "id": 12,
+    "question": "What award did the writer of Never Let Me Go novel win in 1989?",
+    "gold_answer": "Man Booker Prize for Fiction",
+    "context": [
+      "Never Let Me Go is a 2005 dystopian science fiction novel by Japanese-born British author Kazuo Ishiguro.  It was shortlisted for the 2005 Booker Prize (an award Ishiguro had previously won in 1989 for \"The Remains of the Day\"), for the 2006 Arthur C. Clarke Award and for the 2005 National Book Critics Circle Award. \" Time\" magazine named it the best novel of 2005 and included the novel in its \"TIME 100 Best English-language Novels from 1923 to 2005\".  It also received an ALA Alex Award in 2006.  A film adaptation directed by Mark Romanek was released in 2010; a Japanese television drama aired in 2016."
+    ],
+    "generated_answer": "The writer of the \"Never Let Me Go\" novel, Kazuo Ishiguro, won the Booker Prize in 1989 for his work \"The Remains of the Day.\"",
+    "degradation_mode": "k1",
+    "perplexity": 1.0567662715911865,
+    "mean_prob": 0.9614099264144897,
+    "min_prob": 0.3477562665939331,
+    "sds": 0.7516561150550842,
+    "hallucinated": null
+  },
+  {
+    "id": 13,
+    "question": "The player who defeated Johnny Majors for the Heisman Trophy in 1956 was born in what year?",
+    "gold_answer": "1935",
+    "context": [
+      "John Terrill Majors (born May 21, 1935) is a former American football player and coach.  A standout halfback at the University of Tennessee, he was an All-American in 1956 and a two-time winner of the Southeastern Conference Most Valuable Player award, in 1955 and 1956.  He finished second to Paul Hornung in voting for the Heisman Trophy in 1956.  Majors served as the head football coach at Iowa State University (1968\u20131972), the University of Pittsburgh (1973\u20131976, 1993\u20131996), and Tennessee (1977\u20131992), compiling a career college football record of 185\u2013137\u201310.  His 1976 Pittsburgh squad won a national championship after capping a 12\u20130 season with a victory in the Sugar Bowl.  Majors was inducted into the College Football Hall of Fame as a player in 1987."
+    ],
+    "generated_answer": "Paul Hornung, who defeated Johnny Majors for the Heisman Trophy in 1956, was born in 1935.",
+    "degradation_mode": "k1",
+    "perplexity": 1.560552716255188,
+    "mean_prob": 0.8919581770896912,
+    "min_prob": 0.003418198088183999,
+    "sds": 0.8243353962898254,
+    "hallucinated": null
+  },
+  {
+    "id": 14,
+    "question": "Home was an animation film that included which Rihanna song that premiered on February 24, 2015?",
+    "gold_answer": "Towards the Sun",
+    "context": [
+      "Home: Original Motion Picture Soundtrack is the soundtrack album for \"Home\", a 2015 animation film based on the 2007 children book \"The True Meaning of Smekday\" by Adam Rex.  It features songs recorded by Rihanna, Clarence Coffee Jr., Kiesza, Charli XCX, Jacob Plant, and Jennifer Lopez.  It was released on March 23, 2015 through Westbury Road and Roc Nation.  Following the announcement that Rihanna would star in the film, it was revealed she would release a concept album based on the animated film.  As the executive producer of the soundtrack, she called on various artists to feature on the album.  Rihanna's \"Towards the Sun\" and Jennifer Lopez's \"Feel the Light\" were released as singles to promote the album."
+    ],
+    "generated_answer": "Rihanna's song \"Towards the Sun\" from the soundtrack of the animation film \"Home\" premiered on February 24, 2015, to promote the album.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4630744457244873,
+    "mean_prob": 0.90532386302948,
+    "min_prob": 5.8060581068275496e-05,
+    "sds": 0.7347555756568909,
+    "hallucinated": null
+  },
+  {
+    "id": 15,
+    "question": "Which of these universities, Northwestern University or Johns Hopkins University, have a campus outside of the United States territories?",
+    "gold_answer": "with other campuses located in Chicago and Doha, Qatar",
+    "context": [
+      "Northwestern University (NU) is a private research university based in Evanston, Illinois, with other campuses located in Chicago and Doha, Qatar, and academic programs and facilities in Washington, D.C., and San Francisco, California."
+    ],
+    "generated_answer": "Northwestern University has a campus outside of the United States territories, specifically in Doha, Qatar.",
+    "degradation_mode": "k1",
+    "perplexity": 1.0515080690383911,
+    "mean_prob": 0.9626470804214478,
+    "min_prob": 0.4501290023326874,
+    "sds": 0.8388184309005737,
+    "hallucinated": null
+  },
+  {
+    "id": 16,
+    "question": "Are both Parodia and Thalictrum flowering plants?",
+    "gold_answer": "yes",
+    "context": [
+      "Thalictrum sparsiflorum is a species of flowering plant in the buttercup family known by the common name fewflower meadow-rue.  It is native to northwestern North America and parts of northeastern Asia.  It grows in moist habitat, such as streambanks and forest understory.  It is a perennial herb producing erect stems up to about a meter in maximum height.  The leaves have compound blades divided into a few or many segments which are borne on long, slender petioles.  The blades are usually finely hairy and glandular.  The inflorescence is a leafy panicle of flowers.  Unlike some other \"Thalictrum\" species which are dioecious, this species has bisexual flowers.  Each has a calyx of five greenish sepals, and up to 20 light-colored dangling stamens tipped with large anthers.  The flowers develop into compressed, beaked fruits."
+    ],
+    "generated_answer": "Yes, both Parodia and Thalictrum are flowering plants, but they belong to different families; Parodia is part of the cactus family (Cactaceae), while Thalictrum belongs to the buttercup family (Ranunculaceae).",
+    "degradation_mode": "k1",
+    "perplexity": 1.5363341569900513,
+    "mean_prob": 0.8937483429908752,
+    "min_prob": 4.425229053595103e-05,
+    "sds": 0.7459696531295776,
+    "hallucinated": null
+  },
+  {
+    "id": 17,
+    "question": "Were Halld\u00f3r Laxness and Timothy Leary from the same country?",
+    "gold_answer": "no",
+    "context": [
+      "Leary v. United States, 395 U.S. 6 (1969) , is a U.S. Supreme Court case dealing with the constitutionality of the Marihuana Tax Act of 1937.  Timothy Leary, a professor and activist, was arrested for the possession of marijuana in violation of the Marihuana Tax Act.  Leary challenged the act on the ground that the act required self-incrimination, which violated the Fifth Amendment.  The unanimous opinion of the court was penned by Justice John Marshall Harlan II and declared the Marihuana Tax Act unconstitutional.  Thus, Leary's conviction was overturned.  Congress responded shortly thereafter by replacing the Marihuana Tax Act with the newly written Controlled Substances Act while continuing the prohibition of certain drugs in the United States."
+    ],
+    "generated_answer": "No, Halld\u00f3r Laxness was from Iceland, while Timothy Leary was from the United States.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7710413932800293,
+    "mean_prob": 0.8666349649429321,
+    "min_prob": 7.484560774173588e-05,
+    "sds": 1.1139142513275146,
+    "hallucinated": null
+  },
+  {
+    "id": 18,
+    "question": "Liz Rose has co-written songs with which artist including \"White Horse\" and \"You Belong with Me\"?",
+    "gold_answer": "Taylor Swift",
+    "context": [
+      "Liz Rose (born in Dallas, Texas) is an American country music songwriter best known for her work with Taylor Swift.  She has co-written twenty of Swift's officially-released songs and singles, including \"White Horse,\" \"Teardrops on My Guitar,\" and \"You Belong with Me,\" which won her and Swift a Grammy Award in 2010."
+    ],
+    "generated_answer": "Liz Rose has co-written songs with Taylor Swift, including \"White Horse\" and \"You Belong with Me.\"",
+    "degradation_mode": "k1",
+    "perplexity": 1.0069903135299683,
+    "mean_prob": 0.9935424327850342,
+    "min_prob": 0.8519490361213684,
+    "sds": 0.4712519347667694,
+    "hallucinated": null
+  },
+  {
+    "id": 19,
+    "question": "What is the chemical formula of the organic material that clementines have less of than oranges?",
+    "gold_answer": "CHO",
+    "context": [
+      "The Saint Clement's is a non-alcoholic cocktail.  Though the ingredients may vary, it always consists of orange juice mixed with a lemon-flavored drink, usually in equal proportions; the name of the drink refers to the English nursery rhyme Oranges and Lemons.  The drink is therefore named (indirectly) after either St Clement Eastcheap or St Clement Danes, both churches in London.  The traditional recipe calls for equal parts orange juice and lemon juice served over ice in a highball glass.  There are many variations, in which the lemon juice is replaced with a sweeter drink (like lemonade), or even a carbonated citrus-flavored soft drink (like Sprite, 7-Up, or Fanta Lemon)."
+    ],
+    "generated_answer": "Clementines have less limonin than oranges. Limonin is an organic compound found in citrus fruits, and clementines generally contain lower levels of this bitter-tasting triterpenoid compared to oranges.",
+    "degradation_mode": "k1",
+    "perplexity": 1.812069058418274,
+    "mean_prob": 0.730588972568512,
+    "min_prob": 0.0017987563041970134,
+    "sds": 0.8291189670562744,
+    "hallucinated": null
+  },
+  {
+    "id": 20,
+    "question": "This film is an adaption of a Jacques Offenbach's opera that was written by a Hungarian British screenwriter?",
+    "gold_answer": "The Tales of Hoffmann",
+    "context": [
+      "This is a list of musical compositions by Jacques Offenbach (1819\u20131880).  Offenbach is principally known for his operettas, of which he composed 98 between 1847 and 1880.  He also wrote two op\u00e9ras, \"Die Rheinnixen\" and his unfinished masterpiece \"Les contes d'Hoffmann\"."
+    ],
+    "generated_answer": "The question cannot be accurately answered based on the given context, as it does not provide information about any film adaptations or a specific screenwriter.",
+    "degradation_mode": "k1",
+    "perplexity": 2.072587728500366,
+    "mean_prob": 0.6347958445549011,
+    "min_prob": 0.045852795243263245,
+    "sds": 1.282721757888794,
+    "hallucinated": null
+  },
+  {
+    "id": 21,
+    "question": "Which member of The New Russian School was both a doctor and a chemist besides being a composer?",
+    "gold_answer": "Alexander Porfiryevich Borodin",
+    "context": [
+      "Alexander Konstantinovich Glazunov (Russian: \u0410\u043b\u0435\u043a\u0441\u0430\u0301\u043d\u0434\u0440 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u0301\u043d\u043e\u0432\u0438\u0447 \u0413\u043b\u0430\u0437\u0443\u043d\u043e\u0301\u0432 , 10 August 1865 \u2013 21 March 1936) was a Russian composer, music teacher, and conductor of the late Russian Romantic period.  He served as director of the Saint Petersburg Conservatory between 1905 and 1928 and was instrumental in the reorganization of the institute into the Petrograd Conservatory, then the Leningrad Conservatory, following the Bolshevik Revolution.  He continued heading the Conservatory until 1930, though he had left the Soviet Union in 1928 and did not return.  The best-known student under his tenure during the early Soviet years was Dmitri Shostakovich."
+    ],
+    "generated_answer": "The given context does not provide information about a member of The New Russian School who was both a doctor and a chemist besides being a composer. The text is focused on Alexander Glazunov's career as a composer, teacher, and conductor.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4706926345825195,
+    "mean_prob": 0.8000888824462891,
+    "min_prob": 0.06352654099464417,
+    "sds": 0.8611618280410767,
+    "hallucinated": null
+  },
+  {
+    "id": 22,
+    "question": " What annual event occurs on a property co-founded by an American who was the best-selling recording artist of the 20th century?",
+    "gold_answer": "San Diego County Fair",
+    "context": [
+      "John R. Cash (born J. R. Cash; February 26, 1932\u00a0\u2013 September 12, 2003) was an American singer-songwriter, guitarist, actor, and author.  He is widely considered one of the most influential popular musicians of the 20th century and is one of the best-selling music artists of all time, having sold more than 90 million records worldwide.  Although primarily remembered as a country music icon, his genre-spanning songs and sound embraced rock and roll, rockabilly, blues, folk, and gospel.  This crossover appeal won Cash the rare honor of multiple inductions in the Country Music, Rock and Roll, and Gospel Music Halls of Fame."
+    ],
+    "generated_answer": "The question does not provide enough information to accurately identify an annual event related to Johnny Cash or a property he co-founded. Johnny Cash was indeed a highly successful musician, but he was not the best-selling recording artist of the 20th century. The context provided does not mention any specific annual event associated with a property co-founded by him.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7663846015930176,
+    "mean_prob": 0.6929890513420105,
+    "min_prob": 0.02883402816951275,
+    "sds": 0.8787890672683716,
+    "hallucinated": null
+  },
+  {
+    "id": 23,
+    "question": "The 53rd National Hockey League All-Star Game took place at the indoor arena that was completed in what year?",
+    "gold_answer": "1998",
+    "context": [
+      "The 61st National Hockey League All-Star Game, also known as the 2016 NHL All-Star Game, was held on January 31, 2016.  The game was held in Nashville, Tennessee, at Bridgestone Arena, home of the Nashville Predators.  This was Nashville's first time hosting the NHL All-Star Game."
+    ],
+    "generated_answer": "The question cannot be accurately answered from the given context since the context provides information about the 61st National Hockey League All-Star Game in 2016, not the 53rd game. However, since Bridgestone Arena hosted the 2016 NHL All-Star Game and opened in 1998, it can be inferred that if the 53rd game had been held there, the arena would have been completed by 1998. But",
+    "degradation_mode": "k1",
+    "perplexity": 1.4218406677246094,
+    "mean_prob": 0.8155582547187805,
+    "min_prob": 0.0012016427936032414,
+    "sds": 0.7054187059402466,
+    "hallucinated": null
+  },
+  {
+    "id": 24,
+    "question": "In what year did the brother-in-law of Ezzo, Count Palatine of Lotharingia, die?",
+    "gold_answer": "1002",
+    "context": [
+      "Eberhard III (c. 885 \u2013 2 October 939), a member of the Conradine dynasty, was Duke of Franconia, succeeding his elder brother, King Conrad I, in December 918.  From 926 to 928, he also acted as ruler of Lotharingia."
+    ],
+    "generated_answer": "The given context does not provide information about Ezzo, Count Palatine of Lotharingia, or his brother-in-law's death year. Therefore, the answer cannot be determined from the provided information.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3077360391616821,
+    "mean_prob": 0.8474372625350952,
+    "min_prob": 0.09678469598293304,
+    "sds": 1.0071464776992798,
+    "hallucinated": null
+  },
+  {
+    "id": 25,
+    "question": "Which conflict was this person whose assassination led to Mark Fulton taking over command the Loyalist Volunteer Force involved in?",
+    "gold_answer": "the Troubles",
+    "context": [
+      "William James \"Jim\" Fulton (born 25 November 1968) is a Northern Irish loyalist.  He was a volunteer in the Loyalist Volunteer Force (LVF), the paramilitary organisation founded in 1996 by Billy Wright and later commanded by his brother Mark \"Swinger\" Fulton until the latter's death in 2002."
+    ],
+    "generated_answer": "The person whose assassination led to Mark Fulton taking over the command of the Loyalist Volunteer Force was Billy Wright, involved in the Northern Ireland conflict.",
+    "degradation_mode": "k1",
+    "perplexity": 2.0723836421966553,
+    "mean_prob": 0.838074803352356,
+    "min_prob": 1.1981074976574746e-06,
+    "sds": 0.7510486841201782,
+    "hallucinated": null
+  },
+  {
+    "id": 26,
+    "question": "What title did the actor who worked with Sivaji Ganesan in a 1970 drama film other than actor?",
+    "gold_answer": "politician",
+    "context": [
+      "\"Vietnam Veedu\" Sundaram was a popular Tamil scriptwriter and director.  He has written scripts for nearly all the actors and wrote for 8 films starring Sivaji Ganesan after 1970.  His directorial ventures Gauravam, Gnana Paravai, Vijaya, Devi Sri Kumariamman and Payanam are considered cult classics.  He was the writer for Tamil classics like Vietnam Veedu, Gnana Oli, Satyam, Grihapravesam, Justice Gopinath Annan Oru Koyil starring Sivaji Ganesan, Naan Yen Pirandhen, Naalai Namadhe starring  M. G. Ramachandran.  He has directed more than a dozen films and is well known for his family themes.  His stories have been made into films in Telugu, Kannada and Hindi.  He has turned actor on the small screen and films after 1998 and has to his credit quite a few television serials."
+    ],
+    "generated_answer": "Based on the given context, \"Vietnam Veedu\" Sundaram is the title of the person referred to, as he was the scriptwriter and director who worked with Sivaji Ganesan on multiple films, including those after 1970. However, the question seems to be asking about a title other than \"actor\" for someone working with Sivaji Ganesan, which would be \"scriptwriter\" or \"director\" for Sundaram himself, not an actor",
+    "degradation_mode": "k1",
+    "perplexity": 1.5154168605804443,
+    "mean_prob": 0.7560129761695862,
+    "min_prob": 0.08177891373634338,
+    "sds": 0.6924867630004883,
+    "hallucinated": null
+  },
+  {
+    "id": 27,
+    "question": "Who passed away first Max Oph\u00fcls and Shirley Clarke ?",
+    "gold_answer": "Max Oph\u00fcls",
+    "context": [
+      "Shirley Clarke (October 2, 1919 \u2013 September 23, 1997) was an American experimental and independent filmmaker.  She was also a director and editor to many famous works."
+    ],
+    "generated_answer": "Shirley Clarke passed away first, on September 23, 1997. Note that the context does not provide information about Max Oph\u00fcls's death date. However, since Max Oph\u00fcls died in 1957, he did pass away before Shirley Clarke.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5857034921646118,
+    "mean_prob": 0.8402381539344788,
+    "min_prob": 0.0026719290763139725,
+    "sds": 1.0206305980682373,
+    "hallucinated": null
+  },
+  {
+    "id": 28,
+    "question": "Huell Howser provided the voice of Backson in Disney's what numbered animated film?",
+    "gold_answer": "51st Disney animated feature film.",
+    "context": [
+      "Mark Elliot (born September 24, 1939) is an American voice-over artist best known as the primary voice for Walt Disney Entertainment from 1983 to 2008.  He also provided voice overs for trailers of non-Disney films, logos, feature presentation bumpers and commercials.  He's well known for his voice overs in theatrical and home video trailers for films produced by The Walt Disney Studios from the 1980s to the 2000s.  He was also the voice of CBS and FOX throughout the 1980s and 1990s, and various theatrical trailers for such non-Disney animated movies as \"All Dogs Go to Heaven\", \"The Seventh Brother\", \"Rover Dangerfield\", \"Rock-A-Doodle\", \"\", \"The Magic Voyage\", \"The Thief and the Cobbler\", \"Once Upon a Forest\", \"The Princess And The Goblin\", \"Andre\", \"Asterix Conquers America\", \"The Swan Princess\", \"The Pagemaster\", \"The Pebble and the Penguin\", \"Balto\", \"All Dogs Go to Heaven 2\", \"Tiny Heroes\" (\"Vacak 2 - az erd\u0151 h\u0151se\"), \"Zeus and Roxanne\", \"The Fearless Four\", \"The Prince of Egypt\", \"The Adventures of Brer Rabbit\", \"\", \"House Arrest\", and \"\".  In addition to his behind-the-scenes work, Elliott starred with four other notable voice artists in the 1997 short film \"5 Men and a Limo\".  One of his most well-known voice-overs for Disney is the catchphrase \"And now, our feature presentation,\" which he says at the start of most animated Disney films on video on a \"Feature Presentation\" bumper."
+    ],
+    "generated_answer": "The question seems to contain incorrect information. Huell Howser did not provide the voice of Backson in any Disney animated film. Backson is a character from the live-action film \"Wreck-It Ralph\" (Disney's 53rd animated feature film), but he was voiced by Jack McBrayer. If you meant to ask about Mark Elliot or another specific voice actor, please clarify the question.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4799888134002686,
+    "mean_prob": 0.7602238655090332,
+    "min_prob": 0.059331487864255905,
+    "sds": 0.9321380257606506,
+    "hallucinated": null
+  },
+  {
+    "id": 29,
+    "question": "Are Bitter Jester and The Future of Food both documentaries about food?",
+    "gold_answer": "no",
+    "context": [
+      "Bitter Jester is a documentary starring Maija DiGiorgio, Kenny Simmons, Jody Del Giorno and Heather McConnell.  It's a portrait of the comedy world that includes interviews with a multitude of stars including Richard Pryor, Richard Belzer and many others."
+    ],
+    "generated_answer": "No, Bitter Jester is a documentary about the comedy world, not about food. The Future of Food, while also a documentary, focuses on the topic of genetically modified organisms in food production.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5807685852050781,
+    "mean_prob": 0.7540233135223389,
+    "min_prob": 0.0425422228872776,
+    "sds": 0.655627429485321,
+    "hallucinated": null
+  },
+  {
+    "id": 30,
+    "question": "Which writer of French descent actually lived in France, Maurice Level or John Dufresne?",
+    "gold_answer": "Maurice Level",
+    "context": [
+      "John Dufresne (born January 30, 1948) is an American author of French Canadian descent born in Worcester, Massachusetts.  He graduated from Worcester State College in 1970 and the University of Arkansas in 1984.   He is a professor in the Master of Fine Arts Creative Writing program of the English Department at Florida International University.   In 2012, he won a John Simon Guggenheim Memorial Foundation Fellowship for his work."
+    ],
+    "generated_answer": "Based on the given context, John Dufresne did not live in France. The information provided does not indicate that he ever resided in France. Maurice Level, not mentioned in the context, is known to have lived in France. Therefore, among the two, Maurice Level is the one who actually lived in France.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6478501558303833,
+    "mean_prob": 0.7596527338027954,
+    "min_prob": 0.02019510418176651,
+    "sds": 1.0409010648727417,
+    "hallucinated": null
+  },
+  {
+    "id": 31,
+    "question": "The Memphis Hustle are based in a suburb of a city with a population of what in 2010?",
+    "gold_answer": "48,982",
+    "context": [
+      "The Memphis Hustle are an American professional basketball team of the NBA G League announced to begin play for the 2017\u201318 season as an affiliate of the Memphis Grizzlies of the National Basketball Association (NBA).  Based in the Memphis suburb of Southaven, Mississippi, the team will play their home games at the Landers Center."
+    ],
+    "generated_answer": "The Memphis Hustle are based in a suburb of Memphis, which had a population of 653,360 in 2010. However, the specific suburb Southaven, Mississippi, is where the team is based. For direct reference to Southaven's 2010 population, it was 49,343. Since the question asks about the city of Memphis, the answer provided is for Memphis's population.",
+    "degradation_mode": "k1",
+    "perplexity": 1.852962613105774,
+    "mean_prob": 0.7186955809593201,
+    "min_prob": 0.0009486794588156044,
+    "sds": 0.8571250438690186,
+    "hallucinated": null
+  },
+  {
+    "id": 32,
+    "question": "Which member of Northern Kings was born on 14 January 1966?",
+    "gold_answer": "Marco Hietala",
+    "context": [
+      "Northern Kings was a Finnish symphonic metal cover supergroup, made up of four well known musicians: Jarkko Ahola from Ter\u00e4sbetoni, ex-Dreamtale, Marco Hietala from Nightwish and Tarot, Tony Kakko from Sonata Arctica and Juha-Pekka Lepp\u00e4luoto from Charon and Harmaja."
+    ],
+    "generated_answer": "Marco Hietala, a member of Northern Kings, was born on 14 January 1966.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4124977588653564,
+    "mean_prob": 0.9099138379096985,
+    "min_prob": 0.0011506435694172978,
+    "sds": 1.0603288412094116,
+    "hallucinated": null
+  },
+  {
+    "id": 33,
+    "question": "John Stoltenberg is the managing editor of the magazine that focuses on what?",
+    "gold_answer": "aging issues",
+    "context": [
+      "James R. Gaines (born August 11, 1947) is a journalist and historian who between 2011 and 2015 was at Reuters in various capacities: as global editor-at-large, as editor in charge of the Americas, as editor in charge of global photography and as global editor for ethics and standards.  He spent most of his career at Time Inc., where he was the managing editor of \"People, Life\" and \"Time\" magazines, then corporate editor of Time Inc..  Between Time Inc. and Reuters, he was a consultant on magazine startups, acquisitions and digital initiatives for publishers including Conde Nast International and American Express Publishing.  In 2007 he became the editor-in-chief of FLYP, a biweekly multimedia publication online that produced interactive material for the web sites of \"Fortune, Sports Illustrated, Entertainment Weekly, Scientific American\" and ProPublica.  He also served briefly as managing editor of The Daily, News Corp.\u2019s \u201cnewspaper\u201d for tablets."
+    ],
+    "generated_answer": "The context does not provide any information about John Stoltenberg or the magazine he manages. Therefore, it's not possible to answer the question based on the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3304061889648438,
+    "mean_prob": 0.8522467017173767,
+    "min_prob": 0.037292640656232834,
+    "sds": 1.1340422630310059,
+    "hallucinated": null
+  },
+  {
+    "id": 34,
+    "question": "What professionn does Stanley Kwan and Ken Hughes have in common?",
+    "gold_answer": "director",
+    "context": [
+      "Stanley Kwan (; born October 9, 1957) is a Hong Kong Second Wave Hong Kong film director and producer."
+    ],
+    "generated_answer": "Stanley Kwan and Ken Hughes both work in film, with Kwan being a director and producer, and Hughes being known as a film director and writer.",
+    "degradation_mode": "k1",
+    "perplexity": 2.71830677986145,
+    "mean_prob": 0.7157686948776245,
+    "min_prob": 1.350955471934867e-06,
+    "sds": 0.7739896774291992,
+    "hallucinated": null
+  },
+  {
+    "id": 35,
+    "question": "Be Quick '28  football club is locayed in what province?",
+    "gold_answer": "Overijssel",
+    "context": [
+      "Satellite Football Club is a Guinean football club whose team plays in the Guin\u00e9e Championnat National.  Their home games are played at the 35,000-capacity Stade 28 Septembre in Conakry."
+    ],
+    "generated_answer": "Satellite Football Club, which plays its home games at Stade 28 Septembre, is located in Conakry, which is both the capital and the largest city of Guinea, situated on the coast. However, Conakry is also considered a special capital region, not a standard province.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7653439044952393,
+    "mean_prob": 0.8179780840873718,
+    "min_prob": 2.140543074347079e-06,
+    "sds": 0.6217207908630371,
+    "hallucinated": null
+  },
+  {
+    "id": 36,
+    "question": "Robert Suettinger was the national intelligence officer under which former Governor of Arkansas?",
+    "gold_answer": "William Jefferson Clinton",
+    "context": [
+      "Robert Suettinger was United States President Bill Clinton's national intelligence officer for East Asia at the National Intelligence Council (NIC) from 1997-1998.  While there, Suettinger oversaw the preparation of national intelligence estimates for the director of the Central Intelligence Agency.  His areas of specialty included the People's Republic of China and the North Korean nuclear weapons program.  After working in the Clinton administration, Suettinger has been a senior analyst for the Brookings Institution where he wrote the book \"Beyond Tiananmen \u2013 The Politics of U.S.-China Relations, 1989-2000\".  He also is a senior advisor at The Stimson Center."
+    ],
+    "generated_answer": "Robert Suettinger was the national intelligence officer under former Governor of Arkansas Bill Clinton, who later became the President of the United States.",
+    "degradation_mode": "k1",
+    "perplexity": 1.0057035684585571,
+    "mean_prob": 0.9944156408309937,
+    "min_prob": 0.9540941715240479,
+    "sds": 0.8922507762908936,
+    "hallucinated": null
+  },
+  {
+    "id": 37,
+    "question": "Who was the brother of the wife of the Democratic Party nomination for Vice President in 1972?",
+    "gold_answer": "President John F. Kennedy",
+    "context": [
+      "The 1992 vice-presidential debate was part of the 1992 presidential election.  The participants were Democratic nominee, Bill Clinton's running mate, U.S. Senator Al Gore from Tennessee; Ross Perot's running mate, retired Vice Admiral James Stockdale; and Republican candidate, incumbent Vice President Dan Quayle.  It was held on Tuesday, October 13, 1992."
+    ],
+    "generated_answer": "The context provided does not contain information about the 1972 Democratic Party nomination for Vice President or any related family members. Therefore, the answer cannot be derived from the given text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4511075019836426,
+    "mean_prob": 0.772424578666687,
+    "min_prob": 0.09479042142629623,
+    "sds": 0.9792416095733643,
+    "hallucinated": null
+  },
+  {
+    "id": 38,
+    "question": "Does Linzhou, Henan have a larger population than Xingcheng?",
+    "gold_answer": "yes",
+    "context": [
+      "Xingcheng (), former name Ningyuan (\u5b81\u8fdc), is a county-level city of southwest Liaoning province, China, with a population of approximately 140,000 urban inhabitants, and is located on the Liaodong Bay, i.e. the northern coast of the Bohai Sea.  Currently under the administration of Huludao City, the area is steeped in history, and contains one of the best preserved Ming Dynasty towns in China, as well as functioning as a laidback summer resort."
+    ],
+    "generated_answer": "Without specific population data for Linzhou, Henan, it's not possible to definitively state whether it has a larger population than Xingcheng, which has approximately 140,000 urban inhabitants. However, given that Linzhou is a much larger administrative division, it is likely to have a higher population.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5312128067016602,
+    "mean_prob": 0.810276448726654,
+    "min_prob": 0.0010763023747131228,
+    "sds": 0.8129947185516357,
+    "hallucinated": null
+  },
+  {
+    "id": 39,
+    "question": "The Kellock-Taschereau Commission was appointed by a prime minister who served how long in office?",
+    "gold_answer": "21 years and 154 days",
+    "context": [
+      "The Prime Minister's Office (PMO) consists of the immediate staff of the Prime Minister of India, as well as multiple levels of support staff reporting to the Prime Minister.  The PMO is headed by the Principal Secretary, currently Nripendra Misra.  The PMO was originally called the Prime Minister's Secretariat until 1977, when it was renamed during the Morarji Desai ministry."
+    ],
+    "generated_answer": "The provided context does not contain any information about the Kellock-Taschereau Commission or its appointing prime minister's term length. Therefore, the question cannot be answered based solely on the given information.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2801631689071655,
+    "mean_prob": 0.8383092284202576,
+    "min_prob": 0.13334792852401733,
+    "sds": 1.102819561958313,
+    "hallucinated": null
+  },
+  {
+    "id": 40,
+    "question": "Which as more species Cassiope or Deutzia?",
+    "gold_answer": "Deutzia",
+    "context": [
+      "Deutzia ( or ) is a genus of about 60 species of flowering plants in the family Hydrangeaceae, native to eastern and central Asia (from the Himalayas east to Japan and the Philippines), and Central America and also Europe.  By far the highest species diversity is in China, where 50 species occur."
+    ],
+    "generated_answer": "Based on the given context, Deutzia has about 60 species, while there is no information provided about the number of species in the genus Cassiope, so we cannot compare the two directly from this information alone. However, it's clear that Deutzia has more species than mentioned for Cassiope if we consider only the provided data.",
+    "degradation_mode": "k1",
+    "perplexity": 1.9210914373397827,
+    "mean_prob": 0.7484562397003174,
+    "min_prob": 1.2097229955543298e-06,
+    "sds": 0.8268007636070251,
+    "hallucinated": null
+  },
+  {
+    "id": 41,
+    "question": "On which coast can the California Aqueduct and the Lake Washington Ship Canal be found?  ",
+    "gold_answer": "west",
+    "context": [
+      "The Lake Washington Ship Canal, which runs through the city of Seattle, connects the fresh water body of Lake Washington with the salt water inland sea of Puget Sound.  The Hiram M. Chittenden Locks accommodate the approximately 20 ft difference in water level between Lake Washington and the sound.  The canal runs east\u2013west and connects Union Bay, the Montlake Cut, Portage Bay, Lake Union, the Fremont Cut, Salmon Bay, and Shilshole Bay, which is part of the sound."
+    ],
+    "generated_answer": "The Lake Washington Ship Canal is found on the west coast of the United States, specifically in Seattle, Washington. The California Aqueduct, however, is also on the west coast but located in California. The question seems to mix two different geographical features from distinct locations.",
+    "degradation_mode": "k1",
+    "perplexity": 1.592030644416809,
+    "mean_prob": 0.746743381023407,
+    "min_prob": 0.005406269803643227,
+    "sds": 0.7825640439987183,
+    "hallucinated": null
+  },
+  {
+    "id": 42,
+    "question": "What 1996 book was written by the founder of Media Matter for America?",
+    "gold_answer": "The Seduction of Hillary Rodham",
+    "context": [
+      "Manufacturing Consent: The Political Economy of the Mass Media is a 1988 book by Edward S. Herman and Noam Chomsky."
+    ],
+    "generated_answer": "The context provided does not contain information about a 1996 book written by the founder of Media Matters for America. Therefore, based solely on the given context, this question cannot be answered.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3534842729568481,
+    "mean_prob": 0.8769334554672241,
+    "min_prob": 0.0026192236691713333,
+    "sds": 0.9295823574066162,
+    "hallucinated": null
+  },
+  {
+    "id": 43,
+    "question": "Where is the historic meeting venue built in a style taught at the Ecole des Beaux-Arts?",
+    "gold_answer": "First Street",
+    "context": [
+      "The German Forum for Art History Paris (Deutsches Forum f\u00fcr Kunstgeschichte (DFK; Centre Allemand d'Histoire de l'Art de Paris; German Center for the History of Art, Paris) is a German research institute specialized in French and German art and currently situated in the H\u00f4tel de Lully in Paris, the former residence of the French composer Jean-Baptiste Lully.  It organizes conferences, symposia, and workshops, undertakes research projects, and has published many books on art."
+    ],
+    "generated_answer": "The historic meeting venue described, built in a style taught at the \u00c9cole des Beaux-Arts, is the H\u00f4tel de Lully in Paris, which houses the German Forum for Art History Paris (DFK).",
+    "degradation_mode": "k1",
+    "perplexity": 1.7173596620559692,
+    "mean_prob": 0.8246584534645081,
+    "min_prob": 3.421046130824834e-05,
+    "sds": 0.5483148097991943,
+    "hallucinated": null
+  },
+  {
+    "id": 44,
+    "question": " Which 1970's film was released first, Charley and the Angel or The Boatniks?",
+    "gold_answer": "The Boatniks is a 1970 American comedy film starring Robert Morse, Stefanie Powers, Don Ameche and Phil Silvers.",
+    "context": [
+      "Charley and the Angel is a 1973 Disney family/comedy film set in an unidentified small city in the 1930s Depression-era Midwestern United States and starring Fred MacMurray in one of his final film appearances and his last movie for Disney.  The film, directed by Vincent McEveety, is based on \"The Golden Evenings of Summer\", a 1971 novel written by Will Stanton."
+    ],
+    "generated_answer": "Charley and the Angel was released first in 1973, while The Boatniks was released in 1971. However, please note that there might be some confusion since typically The Boatniks precedes Charley and the Angel by two years according to their release dates. If you meant to ask about another film or need clarification, please provide additional details. Based strictly on the provided context, Charley and the Angel in 1973 follows after The Boat",
+    "degradation_mode": "k1",
+    "perplexity": 1.6144986152648926,
+    "mean_prob": 0.7565102577209473,
+    "min_prob": 0.01782364211976528,
+    "sds": 0.8453105688095093,
+    "hallucinated": null
+  },
+  {
+    "id": 45,
+    "question": "When was the Austrian \"Schutzstaffel\" (SS) officer born based on who's life Schapira co-authored a book?",
+    "gold_answer": "8 April 1912",
+    "context": [
+      "Franz Schuh (born March 15, 1947) is an Austrian novelist, literary critic and, above all, essayist in the tradition of Karl Kraus and Alfred Polgar.  Schuh was born, and lives, in Vienna, where, just like his predecessors, he prefers to write in one of the traditional coffeehouses."
+    ],
+    "generated_answer": "The provided context does not contain any information about an Austrian SS officer or a book co-authored by Schapira. Therefore, there isn't enough information to answer the given question based on the context provided.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3745981454849243,
+    "mean_prob": 0.8252719640731812,
+    "min_prob": 0.11139672994613647,
+    "sds": 1.057196855545044,
+    "hallucinated": null
+  },
+  {
+    "id": 46,
+    "question": "What cast member of Flashbacks of a Fool was educated at Bryanston School in Blandford, Dorset?",
+    "gold_answer": "Emilia Fox",
+    "context": [
+      "Flashbacks of a Fool is a 2008 British drama film about a Hollywood actor who, following the death of his childhood best friend, reflects upon his life and what might have been, had he stayed in England.  The film was directed by Baillie Walsh, and stars Daniel Craig, Harry Eden, Claire Forlani, Felicity Jones, Emilia Fox, Eve, Jodhi May, Helen McCrory and Miriam Karlin."
+    ],
+    "generated_answer": "Harry Eden, who plays the lead role in Flashbacks of a Fool, was educated at Bryanston School in Blandford, Dorset.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5885674953460693,
+    "mean_prob": 0.8791515827178955,
+    "min_prob": 0.00013128822320140898,
+    "sds": 0.8450742959976196,
+    "hallucinated": null
+  },
+  {
+    "id": 47,
+    "question": "Thomas Maclellan of Bombie was Provost of what town, as well as constructing MacLellan's Castle in the center of that town?",
+    "gold_answer": "Kirkcudbright, southwest Scotland",
+    "context": [
+      "Sir Thomas Maclellan (died 1597) was Provost of Kirkcudbright and father of Robert Maclellan, 1st Lord Kirkcudbright.  He was responsible for the construction of MacLellan's Castle in the town."
+    ],
+    "generated_answer": "Thomas Maclellan of Bombie was the Provost of Kirkcudbright and constructed MacLellan's Castle in the center of that town.",
+    "degradation_mode": "k1",
+    "perplexity": 1.072228193283081,
+    "mean_prob": 0.951028048992157,
+    "min_prob": 0.32049402594566345,
+    "sds": 0.5885891318321228,
+    "hallucinated": null
+  },
+  {
+    "id": 48,
+    "question": "What federal agency was founded in 1935 and maintains a list of wanted persons?",
+    "gold_answer": "the Federal Bureau of Investigation (FBI)",
+    "context": [
+      "The FBI Seeking Terror Information list is the third major \"wanted\" list to have been created by the United States Department of Justice's Federal Bureau of Investigation to be used as a primary tool for publicly identifying and tracking down suspected terrorists operating against United States nationals at home and abroad.  The first preceding list for this purpose was the FBI Ten Most Wanted Fugitives list.  In 2001, after the September 11 attacks, that list was supplanted by the FBI Most Wanted Terrorists list, for the purpose of listing fugitives who are specifically wanted for acts of terrorism."
+    ],
+    "generated_answer": "The Federal Bureau of Investigation (FBI), founded in 1935, maintains lists of wanted persons, including the FBI Ten Most Wanted Fugitives and the FBI Most Wanted Terrorists lists.",
+    "degradation_mode": "k1",
+    "perplexity": 1.245045781135559,
+    "mean_prob": 0.9123179912567139,
+    "min_prob": 0.006539897061884403,
+    "sds": 0.633549690246582,
+    "hallucinated": null
+  },
+  {
+    "id": 49,
+    "question": "What is the rank of the incumbent that RJ Harris challenged in 2010?",
+    "gold_answer": "the fourth-ranking Republican leader in the House",
+    "context": [
+      "Richard Jason Satawk \"R. J.\" Harris (born November 16, 1972) is a United States Army National Guard warrant officer, politician, law student and former Air Traffic Controller.  He was a candidate for the Libertarian Party's 2012 nomination for President of the United States.  In 2010, he unsuccessfully challenged incumbent Tom Cole for the Republican Party nomination in the primary election for Oklahoma's 4th congressional district.  He ran as an independent candidate for the same congressional seat in 2012."
+    ],
+    "generated_answer": "The context does not specify the rank of the incumbent Tom Cole, only that RJ Harris challenged him for the Republican Party nomination for Oklahoma's 4th congressional district in 2010. Tom Cole held the position of Representative in Congress.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4391883611679077,
+    "mean_prob": 0.8254514336585999,
+    "min_prob": 0.004556279629468918,
+    "sds": 0.8669548630714417,
+    "hallucinated": null
+  },
+  {
+    "id": 50,
+    "question": "Which services did Rock Nominees Ltd and  ISS A/S (Integrated Service Solutions) have in common?",
+    "gold_answer": "cleaning, catering and security",
+    "context": [
+      "Rock Nominees Ltd was part of the business empire of Lord Ashcroft, a Tory peer who has been criticised for offshore tax avoidance.  It is a company which holds shares on behalf of other companies.  It had 201,300 shares for Gambier Holdings Inc. (a British Virgin Islands company) and 65,000 shares for Kiwi Ltd. (a Belize company) invested in RCO (Holdings) plc.  Its stake made up 2.48%.  RCO itself was in the cleaning, catering and security porterage business.  In 2000 a company called ISS (UK) Ltd took over RCO, acquiring 96.4% of the shares.  It made one of RCO's subsidiaries transfer its shares to one of ISS's subsidiaries for \u00a330,117,784.  Rock Nominee's filed for a petition of unfair prejudice on the grounds that this was a transaction at an undervalue.  It did not reflect the value to the purchaser of the synergies arising from the sale or the value of avoiding risk from a sale on the open market."
+    ],
+    "generated_answer": "Based on the provided context, Rock Nominees Ltd did not directly provide any services; it was a holding company. ISS (UK) Ltd, part of ISS A/S, acquired RCO (Holdings) plc, which operated in cleaning, catering, and security porterage. Therefore, the commonality would be their involvement in the business sectors of cleaning, catering, and security.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6423587799072266,
+    "mean_prob": 0.7596009373664856,
+    "min_prob": 0.001996898092329502,
+    "sds": 0.6711462736129761,
+    "hallucinated": null
+  },
+  {
+    "id": 51,
+    "question": "Which hospital opened first, St. Elizabeths Hospital or Providence Hospital?",
+    "gold_answer": "St. Elizabeths Hospital",
+    "context": [
+      "St. Elizabeths Hospital opened in 1855 as the first federally operated psychiatric hospital in the United States.  Housing over 8,000 patients at its peak in the 1950s, the hospital at one point had a fully functioning medical-surgical unit, a school of nursing, and accredited internships and psychiatric residencies.  Its campus was designated a National Historic Landmark in 1990."
+    ],
+    "generated_answer": "The context provided does not include information about Providence Hospital's opening date, so we cannot determine which hospital opened first based solely on this information. However, since St. Elizabeths Hospital is explicitly stated to have opened in 1855, it opened that year.",
+    "degradation_mode": "k1",
+    "perplexity": 1.558539628982544,
+    "mean_prob": 0.7741751074790955,
+    "min_prob": 0.0054901372641325,
+    "sds": 0.7302097678184509,
+    "hallucinated": null
+  },
+  {
+    "id": 52,
+    "question": "Are both Snowboard Magazine and The Believer sporting magazines?",
+    "gold_answer": "no",
+    "context": [
+      "Snowboard Magazine is an independent snowboarding publication.  It was founded in April 2004 by Mark Sullivan and Liz Sullivan in Hailey, Idaho.  Soon they were joined by Jeff Baker, Aaron Draplin, Gary Hansen and Jason \"J2\" Rasmus.  Most of the crew were previous employees and/or contracted employees of \"Snowboarder Magazine\".  Until 2007 Mark Sullivan was also the publisher.  The magazine was the first product focused magazine in snowboarding, quickly set trends for competing titles to follow and quickly became the third largest snowboarding publication in the world.  In 2011 \"Snowboard Magazine\" was sold to Storm Mountain Publishing, publishers of \"Freeskier Magazine\", which is based in Boulder, Colorado."
+    ],
+    "generated_answer": "No, Snowboard Magazine is a sports magazine focused on snowboarding, while The Believer is not a sports magazine; it is a literary magazine known for its eclectic mix of essays, interviews, and cultural criticism.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3397996425628662,
+    "mean_prob": 0.8125962615013123,
+    "min_prob": 0.08438432216644287,
+    "sds": 0.9015923738479614,
+    "hallucinated": null
+  },
+  {
+    "id": 53,
+    "question": "What prize was won in 1963by this physicist who was part of the Princeton Three?",
+    "gold_answer": "Nobel Prize",
+    "context": [
+      "Sheldon Lee Glashow ( ; born December 5, 1932) is a Nobel Prize winning American theoretical physicist.  He is the Metcalf Professor of Mathematics and Physics at Boston University and Higgins Professor of Physics, Emeritus, at Harvard University, and is a member of the Board of Sponsors for the \"Bulletin of the Atomic Scientists\"."
+    ],
+    "generated_answer": "In 1979, Sheldon Lee Glashow, part of the Princeton Three, won the Nobel Prize in Physics, not in 1963. The award was shared with Steven Weinberg and Abdus Salam for their contributions to the unification of the electromagnetic interaction and the weak interaction.",
+    "degradation_mode": "k1",
+    "perplexity": 1.872644305229187,
+    "mean_prob": 0.8253235816955566,
+    "min_prob": 7.48462334740907e-05,
+    "sds": 0.7036369442939758,
+    "hallucinated": null
+  },
+  {
+    "id": 54,
+    "question": "What musical duo used samples from the first presenter of \"Tomorrow's World\" in their album Lost and Safe?",
+    "gold_answer": "American musical duo The Books",
+    "context": [
+      "Various, or Various Production, is an English dubstep/electronic music duo formed in 2002.  The group blends samples, acoustic and electronic instrumentation, and singing from a revolving cast of vocalists.  Its members, Adam and Ian, purposefully give very little information about the group or themselves, and tend to do little in the way of self-promotion.  Nevertheless, the group began winning critical acclaim with its single releases in 2005 and 2006, with singers Rachel Thomas Davies and Nicola Kearey.  Their full-length for XL, \"The World is Gone\", arrived in July 2006.  They have released a large number of vinyl EPs and 7\" records, as well as digital exclusives for Rough Trade, iTunes, and Boomkat.  They have released remixes of a large variety of artists (sometimes uncredited) such as Thom Yorke, Adele, Virus Syndicate, Dave Cloud, Cat Power, Emma Pollock and Ian Brown and participated with one track on the Vexille Movie Soundtrack."
+    ],
+    "generated_answer": "Based on the given context, Various (the English dubstep/electronic music duo) is likely the answer, but the specific album \"Lost and Safe\" and the use of samples from the first presenter of \"Tomorrow's World\" are not mentioned in the provided information. The context does indicate that the group uses samples extensively, so it's plausible they could have used such a sample, but this particular detail is not covered in the given text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7151362895965576,
+    "mean_prob": 0.7333700656890869,
+    "min_prob": 0.011204497888684273,
+    "sds": 1.0078930854797363,
+    "hallucinated": null
+  },
+  {
+    "id": 55,
+    "question": "Which teams did Jimmy Butler play and what role did he play on these teams?",
+    "gold_answer": "swingman",
+    "context": [
+      "Jimmy Butler III (born September 14, 1989) is an American professional basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA).  Born in Houston, Butler grew up in Tomball, Texas, and played college basketball for Tyler Junior College and Marquette University.  He was drafted with the 30th overall pick in the 2011 NBA draft by the Chicago Bulls.  He is a three-time NBA All-Star and a three-time NBA All-Defensive Team honoree, and was named to his first All-NBA Team in 2017.  In 2015, he was named the NBA Most Improved Player."
+    ],
+    "generated_answer": "Jimmy Butler has played for the Chicago Bulls, Miami Heat, Minnesota Timberwolves, and the Philadelphia 76ers in his NBA career. On these teams, he primarily played as a shooting guard and small forward, known for his defensive skills and leadership.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4119410514831543,
+    "mean_prob": 0.816702127456665,
+    "min_prob": 0.00953353475779295,
+    "sds": 0.5794649720191956,
+    "hallucinated": null
+  },
+  {
+    "id": 56,
+    "question": "Are Tweedia and Crossandra in separate families?",
+    "gold_answer": "yes",
+    "context": [
+      "\"Tweedia\" is a genus of flowering plants in the Apocynaceae family, first described as a genus in 1835.  The genus is native to South America.  An ornamental plant, \"Oxypetalum coeruleum\", formerly included in this genus is commonly referred to as \"tweedia\"."
+    ],
+    "generated_answer": "Yes, Tweedia and Crossandra are in separate families; Tweedia is in the Apocynaceae family, while Crossandra is in the Acanthaceae family.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6850018501281738,
+    "mean_prob": 0.9396275877952576,
+    "min_prob": 1.93403995041308e-08,
+    "sds": 0.8711069822311401,
+    "hallucinated": null
+  },
+  {
+    "id": 57,
+    "question": "Which bi-annual British style magazine did  Tim Walker  regularly shoots for",
+    "gold_answer": "Love",
+    "context": [
+      "Richard Walker (born around 1956) is a Scottish journalist who was editor of the \"Sunday Herald\" 1999\u20132015 and who launched \"The National\" in 2014.  He was Newsquest's editor of the year in 2014."
+    ],
+    "generated_answer": "The given context does not provide information about Tim Walker or any bi-annual British style magazine he shoots for. The context is about Richard Walker, a Scottish journalist. Therefore, the question cannot be answered based on the provided information.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2732384204864502,
+    "mean_prob": 0.8606603145599365,
+    "min_prob": 0.047418031841516495,
+    "sds": 0.8801321387290955,
+    "hallucinated": null
+  },
+  {
+    "id": 58,
+    "question": "Syracuse Orange men's basketball team was part of a conference that participated in how many total sports?",
+    "gold_answer": "24",
+    "context": [
+      "The 2014\u201315 Syracuse Orange men's basketball team represented Syracuse University during the 2014\u201315 NCAA Division I men's basketball season.  The Orange were led by thirty-ninth-year head coach Jim Boeheim and played their home games at the Carrier Dome in Syracuse, New York.  They were second-year members of the Atlantic Coast Conference (ACC)."
+    ],
+    "generated_answer": "The Atlantic Coast Conference (ACC), of which the Syracuse Orange men's basketball team was a member, participates in over 25 sports. However, the exact number can vary slightly depending on the current sport offerings, but it is typically around 27 total sports.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7986061573028564,
+    "mean_prob": 0.760613203048706,
+    "min_prob": 0.0025674558710306883,
+    "sds": 0.7335487604141235,
+    "hallucinated": null
+  },
+  {
+    "id": 59,
+    "question": "What  profession did Mike Robbie's father practice?",
+    "gold_answer": "an American attorney",
+    "context": [
+      "Mike Robbie ( Born April 5, 1943 ), is a former General Manager of the Miami Dolphins and the son of the late Joe Robbie, former owner of the team."
+    ],
+    "generated_answer": "Mike Robbie's father, Joe Robbie, was the former owner of the Miami Dolphins.",
+    "degradation_mode": "k1",
+    "perplexity": 1.156447410583496,
+    "mean_prob": 0.9159305691719055,
+    "min_prob": 0.26890450716018677,
+    "sds": 0.40625375509262085,
+    "hallucinated": null
+  },
+  {
+    "id": 60,
+    "question": "In what year did the Tornoto International Film Fesitval premiere a movie produced by BBC Films?",
+    "gold_answer": "2011",
+    "context": [
+      "Louis Feuillade (] ; 19 February 1873 \u2013 25 February 1925) was a prolific and prominent French film director from the silent era.  Between 1906 and 1924 he directed over 630 films."
+    ],
+    "generated_answer": "The provided context does not contain any information about the Toronto International Film Festival or movies produced by BBC Films. Therefore, the question cannot be answered based on the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.18009352684021,
+    "mean_prob": 0.8946032524108887,
+    "min_prob": 0.09687385708093643,
+    "sds": 1.2129501104354858,
+    "hallucinated": null
+  },
+  {
+    "id": 61,
+    "question": "What was the real name of the author of the book \"Coraline\" has been compared to?",
+    "gold_answer": "Charles Lutwidge Dodgson",
+    "context": [
+      "Coraline is a dark fantasy children's novella by British author Neil Gaiman, published in 2002 by Bloomsbury and Harper Collins.  It was awarded the 2003 Hugo Award for Best Novella, the 2003 Nebula Award for Best Novella, and the 2002 Bram Stoker Award for Best Work for Young Readers.  It has been compared to Lewis Carroll's \"Alice's Adventures in Wonderland\" and was adapted into a 2009 stop-motion film directed by Henry Selick."
+    ],
+    "generated_answer": "The author of \"Coraline\" has been compared to Lewis Carroll, whose real name was Charles Lutwidge Dodgson.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3028173446655273,
+    "mean_prob": 0.911761462688446,
+    "min_prob": 0.007879074662923813,
+    "sds": 0.8356116414070129,
+    "hallucinated": null
+  },
+  {
+    "id": 62,
+    "question": "Which actor starred in Angels in the Outfield, Predator 2, and Places in the Heart?",
+    "gold_answer": "Danny Glover",
+    "context": [
+      "Angels in the Outfield is a 1951 American comedy film produced and directed by Clarence Brown and starring Paul Douglas and Janet Leigh.  Based on a story by Richard Conlin, the film is about a young woman reporter who blames the Pittsburgh Pirates' losing streak on their abusive manager, who begins hearing the voice of an angel promising to help the team if he changes his ways.  The film was released by Metro-Goldwyn-Mayer on October 19, 1951."
+    ],
+    "generated_answer": "Janet Leigh starred in Angels in the Outfield and Places in the Heart, but not in Predator 2.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5047354698181152,
+    "mean_prob": 0.8658136129379272,
+    "min_prob": 0.0014630540972575545,
+    "sds": 0.9241952300071716,
+    "hallucinated": null
+  },
+  {
+    "id": 63,
+    "question": "What type of media does Hot Pixel and PlayStation Portable have in common?",
+    "gold_answer": "video game",
+    "context": [
+      "DJMax Portable: Hot Tunes (Korean: \ub514\uc81c\uc774\ub9e5\uc2a4 \ud3ec\ud130\ube14 \ud56b\ud2a0\uc988; Japanese: DJ\u30de\u30c3\u30af\u30b9 \u30db\u30c3\u30c8\u30c1\u30e5\u30fc\u30f3\u30ba) is an action-rhythm video game for the PlayStation Portable published and developed by Pentavision.  It is a compilation of the DJMax Portable and DJMax Portable 2 games.  The game is intended to be beginner-friendly and Pentavision stated that players who have never played the DJMax series would find it easy to play.  It also has been specifically designed for a Japanese audience and precautions have been taken in avoiding translation errors.  It is the second DJMax game to be formally released in Japan.  Hot Tunes is the sixth installment of the DJMax series for the PlayStation Portable platform.  Currently only a UMD distribution for the game is available.  A total of 2000 limited edition sets was made available.  Each package included a wooden case, calendar, original soundtrack and piano collection, and 8 mini-posters."
+    ],
+    "generated_answer": "The context provided does not mention \"Hot Pixel,\" so there's no information to compare with the PlayStation Portable regarding shared media types. However, based on the given information, DJMax Portable: Hot Tunes is distributed via UMD (Universal Media Disc), which is specific to the PlayStation Portable.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5808135271072388,
+    "mean_prob": 0.7413558959960938,
+    "min_prob": 0.050324518233537674,
+    "sds": 0.7483169436454773,
+    "hallucinated": null
+  },
+  {
+    "id": 64,
+    "question": "Where does the story take place in 1988 film The Moderns?",
+    "gold_answer": "1926 Paris",
+    "context": [
+      "Modern Girls is a 1986 comedy film.  The film is directed by Jerry Kramer and stars Virginia Madsen, Daphne Zuniga and Cynthia Gibb."
+    ],
+    "generated_answer": "There seems to be a discrepancy in your question. \"Modern Girls\" is a 1986 film, not a 1988 film titled \"The Moderns.\" Based on the provided context about \"Modern Girls,\" no specific location for the story is mentioned. If you're asking about \"Modern Girls,\" the location isn't specified in the given context. Could you clarify which film you're referring to?",
+    "degradation_mode": "k1",
+    "perplexity": 1.6207786798477173,
+    "mean_prob": 0.7659827470779419,
+    "min_prob": 0.0012352555058896542,
+    "sds": 0.7356539368629456,
+    "hallucinated": null
+  },
+  {
+    "id": 65,
+    "question": "How old was Virginia Bruce when she starred in Let Freedom Ring?",
+    "gold_answer": "29",
+    "context": [
+      "Virginia Bruce (September 29, 1910 \u2013 February 24, 1982) was an American actress and singer."
+    ],
+    "generated_answer": "The context provided does not include information about Virginia Bruce starring in \"Let Freedom Ring\" or her age when she did so. Therefore, the answer cannot be determined from the given information.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3907510042190552,
+    "mean_prob": 0.8108911514282227,
+    "min_prob": 0.0639873817563057,
+    "sds": 0.8025315403938293,
+    "hallucinated": null
+  },
+  {
+    "id": 66,
+    "question": "The 1st Virginia Regiment saw action at a battle that led to the departure of what Royal Governor?",
+    "gold_answer": "Royal Governor Lord Dunmore",
+    "context": [
+      "The 1st Virginia Regiment was raised, on July 17, 1775, at Williamsburg, Virginia as a state militia unit and later for service with the (U.S.) Continental Army.  Its origins go back to the Charles City-Henrico County Regiment of Militia founded in 1652.  During the French and Indian War, the Virginia Regiment was commanded by Colonel George Washington.  The regiment saw action at the Battle of Great Bridge, New York Campaign, Battle of Trenton, Battle of Princeton, Battle of Brandywine, Battle of Germantown, Battle of Monmouth, Battle of Stony Point and the Siege of Charleston.  Most of the regiment was captured at Charlestown, South Carolina, on May 12, 1780, by the British and the regiment was formally disbanded on November 15, 1783.  The 276th Engineer Battalion is the successor to the 1st Virginia Regiment."
+    ],
+    "generated_answer": "The 1st Virginia Regiment saw action at the Battle of Great Bridge, which led to the departure of Royal Governor John Murray, 4th Earl of Dunmore, from Virginia.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1654335260391235,
+    "mean_prob": 0.9092323780059814,
+    "min_prob": 0.16497968137264252,
+    "sds": 0.9772860407829285,
+    "hallucinated": null
+  },
+  {
+    "id": 67,
+    "question": "Are The Writer and Jewish Currents both magazines ?",
+    "gold_answer": "yes",
+    "context": [
+      "Jewish Currents is a progressive, secular Jewish quarterly magazine that carries on the insurgent tradition of the Jewish left through independent journalism, political commentary, and a \"countercultural\" approach to Jewish arts and literature."
+    ],
+    "generated_answer": "Yes, Jewish Currents is a magazine, but The Writer is not specified in the given context, so we can only confirm that Jewish Currents is indeed a magazine.",
+    "degradation_mode": "k1",
+    "perplexity": 2.4259707927703857,
+    "mean_prob": 0.7372937202453613,
+    "min_prob": 3.901421223417856e-06,
+    "sds": 0.6353327035903931,
+    "hallucinated": null
+  },
+  {
+    "id": 68,
+    "question": "What is the formal name for the sporting facility located in Coos County, New Hampshire?",
+    "gold_answer": "Nansen Ski Jump",
+    "context": [
+      "Co\u00f6s County ( , with two syllables), frequently spelled Coos County, is a county in the state of New Hampshire, in the United States.  As of the 2010 census, the population was 33,055, the least of any New Hampshire county.  The county seat is Lancaster."
+    ],
+    "generated_answer": "The context provided does not contain information about any specific sporting facility in Coos County, New Hampshire. Therefore, the question cannot be answered based solely on the given information.",
+    "degradation_mode": "k1",
+    "perplexity": 1.332501769065857,
+    "mean_prob": 0.8417642116546631,
+    "min_prob": 0.037325453013181686,
+    "sds": 0.8301972150802612,
+    "hallucinated": null
+  },
+  {
+    "id": 69,
+    "question": "What is the fourth most populous urban area in the Republic of Ireland and has the housing estate Corrib Park?",
+    "gold_answer": "Galway",
+    "context": [
+      "The Derry Urban Area (Irish: \"Limist\u00e9ar Uirbeach Dhoire\" ) is the urban area that includes and surrounds the city of Derry in Northern Ireland, and is part of the Derry City Council area.  It had a population of 93,512 in the 2001 census.  It is the second largest urban area in Northern Ireland (after Belfast) and the fifth largest urban area in Ireland (after Dublin, Belfast, Cork and Limerick)."
+    ],
+    "generated_answer": "The fourth most populous urban area in the Republic of Ireland is not Derry, as it is in Northern Ireland. However, based on the given information, Cork is listed as the third most populous urban area in Ireland after Dublin and Limerick. The context provided does not specify which urban area in the Republic of Ireland has the housing estate Corrib Park. Therefore, the question cannot be accurately answered with the given information.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7246006727218628,
+    "mean_prob": 0.7792221307754517,
+    "min_prob": 2.9443062885547988e-05,
+    "sds": 0.6054925918579102,
+    "hallucinated": null
+  },
+  {
+    "id": 70,
+    "question": "John ruskin named his album due to a removal of what?",
+    "gold_answer": "marker pen",
+    "context": [
+      "A number of institutions and locations have been named after John Ruskin, including two places in the United States and one in Canada.  For a short period \"Ruskin\" was also adopted as a forename.  The name Ruskin is derived from the old given name Rose and the diminutive Kin."
+    ],
+    "generated_answer": "The context provided does not mention anything about an album or its naming; therefore, there is no information to answer the question as stated.",
+    "degradation_mode": "k1",
+    "perplexity": 2.0162882804870605,
+    "mean_prob": 0.6747215986251831,
+    "min_prob": 0.009181646630167961,
+    "sds": 1.3423000574111938,
+    "hallucinated": null
+  },
+  {
+    "id": 71,
+    "question": "Tefik Selim Mborja was a part of a party that held power in Albania until what year? ",
+    "gold_answer": "1943",
+    "context": [
+      "The Albanian Fascist Party (Albanian: \"Partia Fashiste e Shqip\u00ebris\u00eb\" , or PFSh) was a Fascist organization active during World War II which held nominal power in Albania from 1939, when the country was conquered by Italy, until 1943, when Italy capitulated to the Allies.  Afterwards, Albania fell under German occupation, and the PFSh was replaced by the Guard of Greater Albania."
+    ],
+    "generated_answer": "Tefik Selim Mborja was part of the Albanian Fascist Party which held power in Albania until 1943.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5657583475112915,
+    "mean_prob": 0.863885223865509,
+    "min_prob": 0.017467012628912926,
+    "sds": 0.8020118474960327,
+    "hallucinated": null
+  },
+  {
+    "id": 72,
+    "question": "Nicolau Colaco played as a defender in the men's professional league sponsored by which company?",
+    "gold_answer": "Hero",
+    "context": [
+      "Nicolau Colaco (born 16 May 1984) is an Indian footballer who plays as a defender for FC Goa in the Indian Super League, on loan from I-League club Salgaocar."
+    ],
+    "generated_answer": "Nicolau Colaco played as a defender in the men's professional league sponsored by Star Sports, known as the Indian Super League.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7262418270111084,
+    "mean_prob": 0.8991435170173645,
+    "min_prob": 0.0009110476821660995,
+    "sds": 0.6580913662910461,
+    "hallucinated": null
+  },
+  {
+    "id": 73,
+    "question": "What Golden Globe Award actor starred in the film Little Fugitive? ",
+    "gold_answer": "Peter Dinklage",
+    "context": [
+      "Tommy Lee Jones (born September 15, 1946) is an American actor and filmmaker.  He has received four Academy Award nominations, winning Best Supporting Actor for his performance as U.S. Marshal Samuel Gerard in the 1993 thriller film \"The Fugitive\"."
+    ],
+    "generated_answer": "The question does not pertain to Tommy Lee Jones or his role in \"The Fugitive.\" The actor who starred in the film \"Little Fugitive\" (1953) is Steven Copp, though he is not known for winning a Golden Globe Award. If you're looking for a Golden Globe-winning actor associated with \"The Fugitive,\" Tommy Lee Jones won critical acclaim for his role but did not win a Golden Globe for it; he won the Oscar for Best Supporting Actor",
+    "degradation_mode": "k1",
+    "perplexity": 1.5885401964187622,
+    "mean_prob": 0.7805162668228149,
+    "min_prob": 0.00610534381121397,
+    "sds": 0.6645263433456421,
+    "hallucinated": null
+  },
+  {
+    "id": 74,
+    "question": "The English company behind the British Rail Class D1/3 locomotive, Ruston & Hornsby is now a part of what German company?",
+    "gold_answer": "the Siemens group",
+    "context": [
+      "Ruston & Hornsby, later known as Ruston, was an industrial equipment manufacturer in Lincoln, England, the company's history going back to 1840.  The company is best known as a manufacturer of narrow and standard gauge diesel locomotives and also of steam shovels.  Other products included cars, steam locomotives and a range of internal combustion engines, and later gas turbines.  The company is now part of the Siemens group of Germany."
+    ],
+    "generated_answer": "Ruston & Hornsby, the English company behind the British Rail Class D1/3 locomotive, is now part of the Siemens group of Germany.",
+    "degradation_mode": "k1",
+    "perplexity": 1.026724100112915,
+    "mean_prob": 0.9796364307403564,
+    "min_prob": 0.49868014454841614,
+    "sds": 0.654586136341095,
+    "hallucinated": null
+  },
+  {
+    "id": 75,
+    "question": "What is the birthdate of this English actor best known for playing in Harry Potter and starring in The Woman in Black?",
+    "gold_answer": "23 July 1989",
+    "context": [
+      "Several actors of the United Kingdom and Ireland have voiced or portrayed characters appearing in the \"Harry Potter\" film series based on the book series by J. K. Rowling.  Daniel Radcliffe, Rupert Grint and Emma Watson have played Harry Potter, Ron Weasley and Hermione Granger in all the films.  When they were cast only Radcliffe had previously acted in a film.  Complementing them on screen are such actors as Helena Bonham Carter, Jim Broadbent, John Cleese, Robbie Coltrane, Warwick Davis, Ralph Fiennes, Michael Gambon, Brendan Gleeson, Richard Griffiths, Richard Harris, John Hurt, Jason Isaacs, Miriam Margolyes, Helen McCrory, Gary Oldman, Alan Rickman, Fiona Shaw, Maggie Smith, Timothy Spall, Imelda Staunton, David Thewlis, Emma Thompson, and Julie Walters, among others.  Thirteen actors have appeared as the same character in all eight films of the series."
+    ],
+    "generated_answer": "Daniel Radcliffe, the English actor best known for playing Harry Potter and starring in \"The Woman in Black,\" was born on July 23, 1989.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2130134105682373,
+    "mean_prob": 0.9396628141403198,
+    "min_prob": 0.006646856665611267,
+    "sds": 0.9816375970840454,
+    "hallucinated": null
+  },
+  {
+    "id": 76,
+    "question": "Who was born first, Mary Collins or Polly Draper?",
+    "gold_answer": "Mary Collins",
+    "context": [
+      "Mary Collins (born 1940) is a former Canadian politician."
+    ],
+    "generated_answer": "Mary Collins was born first in 1940, while Polly Draper, born in 1950, followed later.",
+    "degradation_mode": "k1",
+    "perplexity": 2.682088613510132,
+    "mean_prob": 0.7551294565200806,
+    "min_prob": 1.8191811250289902e-05,
+    "sds": 0.8764795064926147,
+    "hallucinated": null
+  },
+  {
+    "id": 77,
+    "question": "The pseudonymous partner to \"Willis the Guard\" in the American musical duo of Jerry Buckner and Gary Garcia is noun which refers to which portion of a bet?",
+    "gold_answer": "amount charged by a bookmaker",
+    "context": [
+      "The Bandit is an album by The Nashville String Band.  The band consisted of Chet Atkins and Homer and Jethro."
+    ],
+    "generated_answer": "The question seems unrelated to the provided context about the album \"The Bandit\" by The Nashville String Band. However, based on the question itself, \"Willis the Guard\" is a pseudonym used alongside \"Bill the Butcher,\" referring to the stake or amount at risk in a bet, often referred to as \"the vig\" or vigorish in gambling contexts. But this answer does not align with the given context about the album.",
+    "degradation_mode": "k1",
+    "perplexity": 2.232501745223999,
+    "mean_prob": 0.6896520853042603,
+    "min_prob": 2.6525912133479324e-08,
+    "sds": 0.8894656896591187,
+    "hallucinated": null
+  },
+  {
+    "id": 78,
+    "question": "South Dade High School is located between what two national parks?",
+    "gold_answer": "Biscayne National Park to the east and Everglades National Park to the west",
+    "context": [
+      "Dade Christian School is a private school (kindergarten-twelfth grade) located in Country Club, Florida and operated by New Testament Baptist Church.  DCS has a 2012-2013 enrollment of 771.  In 2008, it was the second largest private school in Miami-Dade.  The school was named a Blue Ribbon School in 1984.  Its sister school is The Master's Academy in Broward which is a K-8 school with a 2009-2010 enrollment of 305.  It was founded as a segregation academy in response to the court ordered desegregation of Miami-Dade public schools."
+    ],
+    "generated_answer": "The provided context does not contain any information about South Dade High School or its location relative to any national parks. Therefore, the question cannot be answered based on the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1185204982757568,
+    "mean_prob": 0.9120615720748901,
+    "min_prob": 0.3330640196800232,
+    "sds": 0.859076201915741,
+    "hallucinated": null
+  },
+  {
+    "id": 79,
+    "question": "Are the Barton Mine and Hermiston-McCauley Mine located in The United States of America?",
+    "gold_answer": "no",
+    "context": [
+      "Barton Mine, also known as Net Lake Mine, is an abandoned surface and underground mine in Northeastern Ontario, Canada.  It is located about 0.50 km north of the Temagami Arena in Temagami North and just east of the Ontario Northland Railway in northwestern Strathy Township.  Dating back to the early 1900s, it is one of the oldest mines in Temagami.  Barton was the site of a fire in the early 1900s, after which it never had active mining again."
+    ],
+    "generated_answer": "No, the Barton Mine is located in Temagami North, Ontario, Canada. There is no mention of the Hermiston-McCauley Mine in the provided context, so we cannot determine its location from this information alone. However, the question specifically about Barton Mine's location is answered.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5407756567001343,
+    "mean_prob": 0.7792851328849792,
+    "min_prob": 0.0046342345885932446,
+    "sds": 0.7777420878410339,
+    "hallucinated": null
+  },
+  {
+    "id": 80,
+    "question": "Who was born in August and was a professor?",
+    "gold_answer": "Fred MacMurray",
+    "context": [
+      "Professor Edward Orton Jr. (October 8, 1863 in Chester, New York, United States \u2013 February 10, 1932 in Columbus, Ohio, USA) was an American academic administrator, businessman, ceramic engineer, geologist, and philanthropist."
+    ],
+    "generated_answer": "The given context does not provide information about anyone born in August who was a professor. Professor Edward Orton Jr. was born in October.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3876092433929443,
+    "mean_prob": 0.8360208868980408,
+    "min_prob": 0.03490960970520973,
+    "sds": 0.7850767970085144,
+    "hallucinated": null
+  },
+  {
+    "id": 81,
+    "question": " Which album did the band Kraftwerk release after their successful album which reached number 25 on the US \"Billboard\" Hot 100 chart?",
+    "gold_answer": "Radio-Activity",
+    "context": [
+      "The discography of German electronic music band Kraftwerk consists of 10 studio albums, one live album, one remix album and 26 singles.  Formed by Ralf H\u00fctter and Florian Schneider in D\u00fcsseldorf in 1970, Kraftwerk were part of the krautrock scene.  However, the group mostly found fame as pioneers of electronic music, showcasing their styles on a series of concept albums."
+    ],
+    "generated_answer": "Kraftwerk released \"The Man-Machine\" after their successful album \"Radio-Activity,\" which reached number 25 on the US \"Billboard\" Hot 200 chart. However, it's important to note that \"Radio-Activity\" is often cited as the album that preceded \"The Man-Machine,\" but the specific chart performance mentioned should be verified against official sources, as direct correlation isn't explicitly detailed in the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.941721796989441,
+    "mean_prob": 0.7360908389091492,
+    "min_prob": 1.6708572729839943e-06,
+    "sds": 1.0047054290771484,
+    "hallucinated": null
+  },
+  {
+    "id": 82,
+    "question": " Steven S. Crompton is a Canadian-born artist known as the artist for a a fantasy role-playing game designed by Ken St. Andre and first published by who?",
+    "gold_answer": "Flying Buffalo",
+    "context": [
+      "Steve Peterson is a game designer who has worked primarily on role-playing games."
+    ],
+    "generated_answer": "Steven S. Crompton is known for his artwork in the fantasy role-playing game Tunnels & Trolls, which was first published by Flying Buffalo Inc.",
+    "degradation_mode": "k1",
+    "perplexity": 1.560235619544983,
+    "mean_prob": 0.901517927646637,
+    "min_prob": 1.3006855624553282e-05,
+    "sds": 1.053073525428772,
+    "hallucinated": null
+  },
+  {
+    "id": 83,
+    "question": "The Swallow Bluff Island Mounds is a Mississippian culture archaeological site that is located in this river which was once known by what name?",
+    "gold_answer": "the Cherokee River",
+    "context": [
+      "The Ware Mounds and Village Site, located west of Ware, Illinois, is an archaeological site comprising three mounds and a 160 acre village site.  The site was inhabited by the Late Woodland and Mississippian cultures from c. 800 to c. 1300.  The village is one of the only Mississippian villages known to have existed in the Mississippi River valley in Southern Illinois.  As the village was located near two major sources of chert, which Mississippian cultures used to make agricultural tools, it was likely a trading center for the mineral."
+    ],
+    "generated_answer": "Based on the given context, there is no mention of the Swallow Bluff Island Mounds or its location in any specific river. However, since the question refers to a site near the Mississippi River valley in Southern Illinois, we can infer that the river in question is the Mississippi River, which was known by various names historically but is not specified to have had a different historical name in the provided context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7097227573394775,
+    "mean_prob": 0.7394675016403198,
+    "min_prob": 0.013921758159995079,
+    "sds": 0.9446026086807251,
+    "hallucinated": null
+  },
+  {
+    "id": 84,
+    "question": "Are Horace Ov\u00e9 and A. Edward Sutherland both photographers?",
+    "gold_answer": "no",
+    "context": [
+      "Edward Anthony (January 31, 1819 \u2013 December 14, 1888) was an American photographer and one of the founders of E. & H. T. Anthony & Company which was the largest manufacturer and distributor of photographic supplies in the United States during the 19th century.  Edward Anthony was a brother of Henry T. Anthony and had a very close business relationship with Mathew Brady."
+    ],
+    "generated_answer": "No, based on the given context, only A. Edward Sutherland, who is mentioned indirectly through Edward Anthony's biography as a figure in the photography industry, can be inferred to be related to photography. Horace Ov\u00e9 is not mentioned in the provided context and cannot be confirmed as a photographer from this information alone.",
+    "degradation_mode": "k1",
+    "perplexity": 1.9484776258468628,
+    "mean_prob": 0.6659537553787231,
+    "min_prob": 0.0041671982035040855,
+    "sds": 0.8601067662239075,
+    "hallucinated": null
+  },
+  {
+    "id": 85,
+    "question": "Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?",
+    "gold_answer": "yes",
+    "context": [
+      "Giuseppe Fortunino Francesco Verdi (] ; 9 or 10 October 1813 \u2013 27 January 1901) was an Italian opera composer."
+    ],
+    "generated_answer": "Yes, Giuseppe Verdi and Ambroise Thomas were both opera composers.",
+    "degradation_mode": "k1",
+    "perplexity": 1.210414171218872,
+    "mean_prob": 0.9270190000534058,
+    "min_prob": 0.06008660048246384,
+    "sds": 0.887087345123291,
+    "hallucinated": null
+  },
+  {
+    "id": 86,
+    "question": "Which comic book character was originally written by Vic Bloom after appearing in \"Pep Comics\"?",
+    "gold_answer": "Archie Andrews",
+    "context": [
+      "Pep Comics is the name of an American comic book anthology series published by the Archie Comics predecessor MLJ Magazines Inc. (commonly known as MLJ Comics) during the 1930s and 1940s period known as the Golden Age of Comic Books.  The title continued under the Archie Comics imprint for a total of 411 issues until March 1987."
+    ],
+    "generated_answer": "The character Archie Andrews was originally written by Vic Bloom after appearing in \"Pep Comics\".",
+    "degradation_mode": "k1",
+    "perplexity": 1.6304999589920044,
+    "mean_prob": 0.7802145481109619,
+    "min_prob": 0.012339652515947819,
+    "sds": 0.9490047693252563,
+    "hallucinated": null
+  },
+  {
+    "id": 87,
+    "question": "Handi-Snacks are a snack food product line sold by what American multinational confectionery, food, and beverage company that is based in Illinois?",
+    "gold_answer": "Mondelez International, Inc.",
+    "context": [
+      "International Home Foods was an American manufacturer, distributor and marketer of food products, acquired in June 2000 by ConAgra Foods in a $2.9 Billion dollar deal.  Its best known brands were Chef Boyardee pasta products, PAM cooking spray, Bumble Bee Seafood, and Gulden's mustard.  International Home Foods was formed in Nov. 1996 when American Home Products spun off its food business, which was acquired by Hicks, Muse, Tate & Furst and C. Dean Metropoulos & Co.  The latter paid $1.2 Billion to acquire 80% of International Home Foods, and grew it to annual sales of about $2.2 billion before the ConAgra acquisition."
+    ],
+    "generated_answer": "Handi-Snacks are a snack food product line that was part of International Home Foods, which was acquired by ConAgra Foods in 2000; however, since the specific ownership of the Handi-Snacks brand post-acquisition is not detailed in the given context, the answer focuses on the acquiring company, ConAgra Foods, an American multinational food company based in Illinois.",
+    "degradation_mode": "k1",
+    "perplexity": 1.8130980730056763,
+    "mean_prob": 0.7599067091941833,
+    "min_prob": 0.0005527524626813829,
+    "sds": 0.8511293530464172,
+    "hallucinated": null
+  },
+  {
+    "id": 88,
+    "question": "Where was the first governor after the The Missouri Compromise from?",
+    "gold_answer": "Bath, Maine",
+    "context": [
+      "The Missouri Compromise is the title generally attached to the legislation passed by the 16th United States Congress on May 8, 1820.  The measures provided for the admission of Maine as a state along with Missouri as a slave state, thus maintaining the balance of power between North and South.  As part of the compromise, slavery was prohibited North of the 36\u00b030\u2032 parallel, excluding Missouri.  President James Monroe signed the legislation on April 6, 1820."
+    ],
+    "generated_answer": "The context does not provide information about the first governor of Missouri after the Missouri Compromise; therefore, this question cannot be answered based solely on the given information.",
+    "degradation_mode": "k1",
+    "perplexity": 1.8535395860671997,
+    "mean_prob": 0.7999338507652283,
+    "min_prob": 0.0024691871367394924,
+    "sds": 0.8406208157539368,
+    "hallucinated": null
+  },
+  {
+    "id": 89,
+    "question": "When was the actor who plays Marius Josipovic in Sneaky Pete born?",
+    "gold_answer": "December 17, 1974",
+    "context": [
+      "Sneaky Pete is an American crime drama series created by David Shore and Bryan Cranston.  The series follows Marius Josipovic (Giovanni Ribisi), a released convict who adopts the identity of his cell mate, Pete Murphy, in order to avoid his past life.  The series also stars Marin Ireland, Shane McRae, Libe Barer, Michael Drayer, Peter Gerety, and Margo Martindale.  The pilot debuted on August 7, 2015, and was followed by a full series order that September.  Shore left the project in early 2016 and was replaced by Graham Yost, who served as executive producer and showrunner for the remaining nine episodes.  The series premiered in its entirety on January 13, 2017, exclusively on Amazon Video.  On January 19, 2017, Amazon announced that \"Sneaky Pete\" had been renewed for a second season."
+    ],
+    "generated_answer": "The context provided does not include the birth date of Giovanni Ribisi, who plays Marius Josipovic in Sneaky Pete.",
+    "degradation_mode": "k1",
+    "perplexity": 1.06272554397583,
+    "mean_prob": 0.950476884841919,
+    "min_prob": 0.4841689169406891,
+    "sds": 0.9117172360420227,
+    "hallucinated": null
+  },
+  {
+    "id": 90,
+    "question": "Tysons Galleria is located in what county?",
+    "gold_answer": "Fairfax County",
+    "context": [
+      "Tysons, or formerly \u201cTysons Corner\u201d is a census-designated place (CDP) and unincorporated community in Fairfax County, Virginia, United States.  Located in Northern Virginia between the community of McLean and the town of Vienna along the Capital Beltway (I-495), it lies within the Washington Metropolitan Area.  Tysons is home to two super-regional shopping malls\u2014Tysons Corner Center and Tysons Galleria\u2014and the corporate headquarters of numerous companies such as Intelsat, Gannett, Hilton Worldwide, Freddie Mac, Capital One and Booz Allen Hamilton.  Tysons is Fairfax County's central business district and a regional commercial center.  It has been characterized as a quintessential example of an edge city.  The population was 19,627 as of the 2010 census."
+    ],
+    "generated_answer": "Tysons Galleria is located in Fairfax County, Virginia.",
+    "degradation_mode": "k1",
+    "perplexity": 1.0008556842803955,
+    "mean_prob": 0.9991493225097656,
+    "min_prob": 0.9890129566192627,
+    "sds": 0.6570755243301392,
+    "hallucinated": null
+  },
+  {
+    "id": 91,
+    "question": "What novella was the basis of the movie that featured the song \"Wien, du Stadt meiner Tr\u00e4ume\" by Rudolf Sieczy\u0144ski?",
+    "gold_answer": "Traumnovelle",
+    "context": [
+      "Rudolf Sieczy\u0144ski (1879, Vienna \u2013 1952, Vienna) was an Austrian composer of Polish ancestry.  His fame today rests almost exclusively on the nostalgic Viennese song \"Wien, du Stadt meiner Tr\u00e4ume\" (\"Vienna, City of My Dreams\"), whose melody and lyrics he wrote in 1914.  A well-known recording was made in 1957 by Elisabeth Schwarzkopf with Otto Ackermann conducting the Philharmonia Orchestra.  The song was featured in the soundtrack of the Stanley Kubrick film \"Eyes Wide Shut\"."
+    ],
+    "generated_answer": "The movie that featured the song \"Wien, du Stadt meiner Tr\u00e4ume\" by Rudolf Sieczy\u0144ski was \"Eyes Wide Shut,\" which was based on the novella \"Traumnovelle\" by Arthur Schnitzler.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1276501417160034,
+    "mean_prob": 0.952403724193573,
+    "min_prob": 0.013990316540002823,
+    "sds": 0.5976918935775757,
+    "hallucinated": null
+  },
+  {
+    "id": 92,
+    "question": "Which city is at coastal county-level, Wenling or Ruili?",
+    "gold_answer": "Wenling",
+    "context": [
+      "Wenling (Wenling dialect: Uen-lin Zy ] ; ) is a coastal county-level city in the municipal region of Taizhou, in southeastern Zhejiang province, China.  It borders Luqiao and Huangyan to the north, Yuhuan to the south, Yueqing to the west, looks out to the East China Sea to the east.  Wenling locates on 28\u00b022'N, 121\u00b021'E, approximately 300\u00a0km south of Shanghai."
+    ],
+    "generated_answer": "Wenling is the coastal county-level city mentioned in the context provided. Ruili is not discussed in the given information.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4378466606140137,
+    "mean_prob": 0.8320803642272949,
+    "min_prob": 0.0337630920112133,
+    "sds": 0.7898892164230347,
+    "hallucinated": null
+  },
+  {
+    "id": 93,
+    "question": "Which contributor to the CBS News program \"60 Minutes\" also contributed to The Great American Dream Machine?",
+    "gold_answer": "Andy Rooney",
+    "context": [
+      "Jeff Fager (born December 10, 1954) is the former Chairman of CBS News and the current Executive Producer of \"60 Minutes\", the hour-long CBS news magazine created in 1968."
+    ],
+    "generated_answer": "Jeff Fager, as the Executive Producer of \"60 Minutes,\" has been a key figure in the program's operations, but the specific connection to \"The Great American Dream Machine\" is not provided in the given context. Without additional information linking Jeff Fager or any other \"60 Minutes\" contributor directly to \"The Great American Dream Machine,\" a precise answer cannot be given based solely on this context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7711361646652222,
+    "mean_prob": 0.786904513835907,
+    "min_prob": 3.3470839753135806e-06,
+    "sds": 0.8865131735801697,
+    "hallucinated": null
+  },
+  {
+    "id": 94,
+    "question": "Leonard Stogel managed which rock singer known for his robe-and-turban outfit?",
+    "gold_answer": "Domingo \"Sam\" Samudio",
+    "context": [
+      "Leonard Stogel (September 23, 1934 - May 25, 1979), music business manager/promoter/producer/executive for music festivals California Jam and California Jam II, and Canada Jam.  He also managed Sweathog, The Cowsills, Sam the Sham, Tommy James & The Shondells, Redbone, Gentle Giant, Napoleon XIV, The Royal Guardsmen, and other musical groups.  Coincidentally, Stogel's parents, Julius and Doris (Eisenberg) Stogel, had earlier perished on American Airlines Flight 1.  He died when American Airlines Flight 191 crashed on May 25, 1979."
+    ],
+    "generated_answer": "Leonard Stogel managed Tommy James, who is known for his distinctive robe-and-turban outfit.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4489842653274536,
+    "mean_prob": 0.8591504693031311,
+    "min_prob": 0.02395455352962017,
+    "sds": 0.98188716173172,
+    "hallucinated": null
+  },
+  {
+    "id": 95,
+    "question": "Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?",
+    "gold_answer": "1969 until 1974",
+    "context": [
+      "Andrew Bart Steinberg (October 12, 1958 \u2013 May 20, 2012) was a leading aviation regulatory lawyer, who held several key posts in the public and private sectors in the United States.  He served until 2008 as the Assistant Secretary for Aviation and International Affairs within the United States Department of Transportation, after being confirmed to the position by the U.S. Senate on September 29, 2006, following appointment by President George W. Bush.  Prior to that post, he had been appointed by the President in May 2003, as the Chief Counsel of the Federal Aviation Administration, where he served as the top legal advisor to FAA Administrator Marion C. Blakey.  Steinberg was a partner in the Washington D.C. office of the international law firm of Jones Day, where he led the firm\u2019s aviation regulatory practice, a post once held by aviation pioneer L. Welch Pogue."
+    ],
+    "generated_answer": "The question does not provide information about Roger O. Egeberg or the president under whom he served as Assistant Secretary for Health and Scientific Affairs. The given context is about Andrew Bart Steinberg and does not contain any relevant information to answer the question about Roger O. Egeberg. Therefore, based on the provided context, an answer cannot be derived.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3232858180999756,
+    "mean_prob": 0.8330636024475098,
+    "min_prob": 0.06086656451225281,
+    "sds": 0.9901099801063538,
+    "hallucinated": null
+  },
+  {
+    "id": 96,
+    "question": "Ambrose Mendy has managed and/or advised a British professional boxer that as of July 2017 is ranked the world's seventh best super middleweight by who?",
+    "gold_answer": "\"The Ring\" magazine",
+    "context": [
+      "Ambrose Mendy (born August 1954) is a British boxing manager, advisor and sports agent.  He has managed and/or advised Nigel Benn; James DeGale; Chris Eubank Junior; Lloyd Honeyghan & Errol Christie among others during a career in boxing that started in the late 1970s."
+    ],
+    "generated_answer": "As of July 2017, Ambrose Mendy has managed and/or advised James DeGale, who was ranked the world's seventh-best super-middleweight by the International Boxing Federation (IBF).",
+    "degradation_mode": "k1",
+    "perplexity": 1.2485471963882446,
+    "mean_prob": 0.9013910293579102,
+    "min_prob": 0.01556129939854145,
+    "sds": 0.7163207530975342,
+    "hallucinated": null
+  },
+  {
+    "id": 97,
+    "question": "IS Paul Sloane noted for directing more musicals than  Jacques Demy",
+    "gold_answer": "no",
+    "context": [
+      "Jacques Demy (] ; 5 June 1931 \u2013 27 October 1990) was a French director, lyricist, and screenwriter.  He appeared in the wake of the French New Wave alongside contemporaries like Jean-Luc Godard and Fran\u00e7ois Truffaut.  Demy's films are celebrated for their sumptuous visual style.  Demy's style drew upon such diverse sources as Classic Hollywood musicals, the documentary realism of his New Wave colleagues, fairy-tales, jazz, Japanese manga, and the opera.  His films contain overlapping continuity (i.e., characters cross over from film to film), lush musical scores (typically composed by Michel Legrand) and motifs like teenaged love, labor rights, incest, and the intersection between dreams and reality.  He is best known for the two musicals he directed in the mid-1960s: \"The Umbrellas of Cherbourg\" (1964) and \"The Young Girls of Rochefort\" (1967)."
+    ],
+    "generated_answer": "No, based on the provided context, Jacques Demy is noted for directing musicals, particularly \"The Umbrellas of Cherbourg\" (1964) and \"The Young Girls of Rochefort\" (1967), while there is no mention of Paul Sloane's work in musicals.",
+    "degradation_mode": "k1",
+    "perplexity": 1.323210597038269,
+    "mean_prob": 0.8703400492668152,
+    "min_prob": 0.002163708209991455,
+    "sds": 0.769717812538147,
+    "hallucinated": null
+  },
+  {
+    "id": 98,
+    "question": "While Jennifer Granholm was the Govenor of Michigan from 2003-2011, Ray Wert was responsible for doing what for her?",
+    "gold_answer": "senior staffer",
+    "context": [
+      "Jennifer Mulhern Granholm (born February 5, 1959) is a Canadian-American politician, lawyer, educator, author, political commentator and member of the Democratic Party who served as the Attorney General of Michigan from 1999 to 2003 and as the Governor of Michigan from 2003 to 2011.  She is currently an MSNBC political contributor.  In January 2017, she became a CNN political contributor."
+    ],
+    "generated_answer": "The provided context does not mention Ray Wert or his responsibilities during Jennifer Granholm's tenure as Governor of Michigan. Therefore, there is no information to answer this specific question.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6121629476547241,
+    "mean_prob": 0.7488069534301758,
+    "min_prob": 0.03357906639575958,
+    "sds": 0.982301652431488,
+    "hallucinated": null
+  },
+  {
+    "id": 99,
+    "question": "which university was founded first Duke University or Tufts University?",
+    "gold_answer": "Duke University",
+    "context": [
+      "The history of Tufts University, originally Tufts College, can be traced back to 1847 when the Universalist Church set up convention for the creation of a university for the parish.  In 1852, the college was established when Boston businessman Charles Tufts donated 20 acres of land to the church to establish the college.  It is the second oldest college that was founded in the Boston area.  .  During the 19th century the college grew.  The official college seal, bearing the motto Pax et Lux (Peace and Light) was adopted in 1857.  The school colors of brown and blue were selected in 1876.  Tufts' mascot became Jumbo when P.T. Barnum gave a natural history museum to the university."
+    ],
+    "generated_answer": "Duke University was founded first, as Tufts University is the second oldest college founded in the Boston area, indicating it was established after other colleges including Duke University, which was founded in 1838.",
+    "degradation_mode": "k1",
+    "perplexity": 2.8210060596466064,
+    "mean_prob": 0.7353687286376953,
+    "min_prob": 1.6577828318986576e-06,
+    "sds": 0.7356109619140625,
+    "hallucinated": null
+  }
+]

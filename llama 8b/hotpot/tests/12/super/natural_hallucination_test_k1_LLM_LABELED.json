@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 0,
+    "question": "How long did the state exist whose army ransacked and looted the city, Halebidu, twice in the 14th century ?",
+    "gold_answer": "320 years",
+    "context": [
+      "The 1534 capture of Baghdad by Suleiman the Magnificent of the Ottoman Empire from the Safavid dynasty under Tahmasp I was part the Ottoman–Safavid War of 1532 to 1555, itself part a series of Ottoman–Persian Wars.  The city was taken without resistance, the Safavid government having fled and leaving the city undefended.  Baghdad's capture was a significant achievement given its mastery of the Tigris and Euphrates rivers and their international and regional trade.  It represented, along with the fall of Basra in 1546, a significant step towards eventual Ottoman victory and the procurement of the lower Mesopotamia, the mouths of the Euphrates and Tigris rivers, opening a trading outlet into the Persian Gulf.  The Ottomans wintered there until 1535, overseeing the reconstruction of Sunni and Shia religious shrines and agricultural irrigation projects.  Suleiman returned to Constantinople, leaving a strong garrison force.  Over the next few decades, the Ottomans solidified their control of the region, incorporating it into their empire until it was recaptured by the Persians in 1623."
+    ],
+    "generated_answer": "The answer cannot be determined from the given context as it does not mention Halebidu or any state that ransacked and looted the city twice in the 14th century.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5338762998580933,
+    "mean_prob": 0.7348514199256897,
+    "min_prob": 0.11669791489839554,
+    "sds": 1.1357836723327637,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer does not mention Halebidu or any state that ransacked and looted the city twice in the 14th century, and the context does not provide any information about Halebidu. | Judge2: The generated answer does not mention Halebidu or any state that ransacked and looted the city twice in the 14th century, and the context does not provide any information about Halebidu.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 1,
+    "question": "Which genus has more species Babiana or Ceratophyllum ?",
+    "gold_answer": "Babiana",
+    "context": [
+      "Ceratophyllum is a cosmopolitan genus of flowering plants including four accepted species in 2016, commonly found in ponds, marshes, and quiet streams in tropical and in temperate regions.  It is the only genus in the family Ceratophyllaceae, itself the only family in the order Ceratophyllales.  They are usually called coontails or hornworts, although hornwort is also used for unrelated plants of the division Anthocerotophyta."
+    ],
+    "generated_answer": "Ceratophyllum has more species, with four accepted species in 2016.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6493502855300903,
+    "mean_prob": 0.7370594143867493,
+    "min_prob": 0.057694826275110245,
+    "sds": 0.7766265869140625,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer claims Ceratophyllum has more species, but the context states it has four accepted species in 2016, which is a fixed number and does not imply more species. | Judge2: The generated answer claims Ceratophyllum has more species, but the context states it has four accepted species in 2016, which is a fixed number and does not imply more species.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 2,
+    "question": " Afonwen is situated just under four miles from what road also known as the North Wales Expressway",
+    "gold_answer": "A55",
+    "context": [
+      "Afonwen (] ; Welsh: \"Afon-wen\" ) is a town in Flintshire, Wales.  It is situated just under four miles from the A55 North Wales Expressway and on the A541 Mold-Denbigh road.  At the 2001 Census, the population of Afonwen was included into the civil parish of Caerwys and was 1,319, with a total ward population of 2,496."
+    ],
+    "generated_answer": "Afonwen is situated just under four miles from the A55 North Wales Expressway.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7139332294464111,
+    "mean_prob": 0.8773112297058105,
+    "min_prob": 0.00041032792069017887,
+    "sds": 0.694340169429779,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer matches the gold answer and is fully supported by the context. | Judge2: The generated answer matches the gold answer and is fully supported by the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 3,
+    "question": "Julien Kang is the younger brother of the mixed martial artist of what nationality?",
+    "gold_answer": "Canadian",
+    "context": [
+      "Julien Kang (; born 11 April 1982) is a French television actor and model born in Saint Pierre and Miquelon, an overseas French territory off the coast of Canada, to a Korean father and a French mother.  He is the younger brother of mixed martial artist Denis Kang."
+    ],
+    "generated_answer": "Julien Kang is the younger brother of the mixed martial artist of Korean nationality.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3399449586868286,
+    "mean_prob": 0.8672730922698975,
+    "min_prob": 0.035363294184207916,
+    "sds": 0.5617818236351013,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as the context states that Julien Kang's father is Korean, but it does not specify the nationality of his brother Denis Kang's mixed martial art. | Judge2: The generated answer contains an unsupported claim, as the context states that Julien Kang's father is Korean, but it does not specify the nationality of his brother Denis Kang's mixed martial art.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 4,
+    "question": "How many assists did the Bosnian football player account for during the 2008–09 VfL Wolfsburg season?",
+    "gold_answer": "20 assists",
+    "context": [
+      "VfL Wolfsburg won their first ever Bundesliga title during this season.  Manager Felix Magath formed an attacking lineup, which included strikers Edin Džeko and Grafite, the pair scoring 54 goals between them, much due to the help of attacking midfielder Zvjezdan Misimović's 20 assists."
+    ],
+    "generated_answer": "Zvjezdan Misimović accounted for 20 assists during the 2008-09 VfL Wolfsburg season.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1071721315383911,
+    "mean_prob": 0.9312726855278015,
+    "min_prob": 0.271247923374176,
+    "sds": 0.9459511637687683,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer matches the gold answer and is supported by the context. | Judge2: The generated answer matches the gold answer and is supported by the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 5,
+    "question": "Who was born first, Lecrae Devaughn Moore or Gawvi?",
+    "gold_answer": "Lecrae Devaughn Moore",
+    "context": [
+      "Joseph Lee Moore, Jr. (born June 29, 1949) is a former American football running back.  He was drafted in the first round (11th overall) of the 1971 NFL Draft by the Chicago Bears after playing college football for Missouri."
+    ],
+    "generated_answer": "I couldn't find any information on Lecrae Devaughn Moore or Gawvi in the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3754829168319702,
+    "mean_prob": 0.796463668346405,
+    "min_prob": 0.20924967527389526,
+    "sds": 1.0486854314804077,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as it states 'I couldn't find any information on Lecrae Devaughn Moore or Gawvi in the given context', which is not relevant to the question of who was born first. | Judge2: The generated answer contains an unsupported claim, as it mentions Lecrae Devaughn Moore and Gawvi, which are not related to the context of Joseph Lee Moore, Jr.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 6,
+    "question": "What Cuban American baseball player was suspended in the new steroid policy of the 2005 Major League Baseball season?",
+    "gold_answer": "Rafael Palmeiro Corrales",
+    "context": [
+      "The 2005 Major League Baseball season was notable for the league's new steroid policy in the wake of the BALCO scandal, which enforced harsher penalties ever than before for steroid use in Major League Baseball.  Several players, including veteran Rafael Palmeiro, were suspended under the new policy.  Also, every team in the NL East division had at least 81 wins (at least half of the 162 games played).  It was also notable for being the first season featuring a baseball team in Washington, D.C. for more than 4 decades, with the Washington Nationals having moved from Montreal."
+    ],
+    "generated_answer": "Rafael Palmeiro, a veteran player, was suspended under the new steroid policy in the 2005 Major League Baseball season.",
+    "degradation_mode": "k1",
+    "perplexity": 1.412657380104065,
+    "mean_prob": 0.8153749108314514,
+    "min_prob": 0.10991718620061874,
+    "sds": 0.7876500487327576,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer is fully supported by the context, mentioning the correct player and the new steroid policy in the 2005 season. | Judge2: The generated answer is fully supported by the context, mentioning the correct player and the new steroid policy in the 2005 season.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 7,
+    "question": "Who is younger, Terry Glaze or Hayley Williams?",
+    "gold_answer": "Hayley Williams",
+    "context": [
+      "Gwyn Williams is a Welsh rugby union and professional rugby league footballer who played in the 1930s, playing club level rugby league (RU) for Cardiff RFC, and playing representative level rugby league (RL) for Wales, and at club level for Wigan, as a wing , Centre , or second-row , i.e. number 2 or 5, 3 or 4, or, 11 or 12, during the era of contested scrums."
+    ],
+    "generated_answer": "There is no information provided about Terry Glaze or Hayley Williams in the context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5649583339691162,
+    "mean_prob": 0.6977012157440186,
+    "min_prob": 0.2579424977302551,
+    "sds": 1.040879487991333,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as there is no information provided about Terry Glaze or Hayley Williams in the context. | Judge2: The generated answer contains an unsupported claim, as there is no information provided about Terry Glaze or Hayley Williams in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 8,
+    "question": "Stephen Sondheim and Thomas Z. Shepard both worked in the production of what genre of music?",
+    "gold_answer": "musicals",
+    "context": [
+      "Sondheim on Sondheim is a musical revue consisting of music and lyrics written by Stephen Sondheim for his many shows.  It is conceived and directed by James Lapine.  The revue had a limited run on Broadway in 2010."
+    ],
+    "generated_answer": "Stephen Sondheim and Thomas Z. Shepard both worked in the production of musical theater.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5362496376037598,
+    "mean_prob": 0.7943447828292847,
+    "min_prob": 0.03188781067728996,
+    "sds": 0.9072163701057434,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer is fully supported by the context and matches the gold answer. | Judge2: The generated answer is fully supported by the context and matches the gold answer.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 9,
+    "question": "The producer of \"Live By NIght\" began his film career playing what role in \"Critters 3\"?",
+    "gold_answer": "Josh",
+    "context": [
+      "Live by Night is a 2016 American crime drama film written, directed, co-produced by and starring Ben Affleck.  Based on the 2012 novel of the same name by Dennis Lehane, the film follows an Ybor City bootlegger (Affleck) who becomes a notorious gangster.  The film also stars Elle Fanning, Brendan Gleeson, Chris Messina, Sienna Miller, Zoe Saldana and Chris Cooper."
+    ],
+    "generated_answer": "Ben Affleck began his film career as a child actor, but I couldn't find any information about him being in \"Critters 3\".",
+    "degradation_mode": "k1",
+    "perplexity": 1.7314211130142212,
+    "mean_prob": 0.6866588592529297,
+    "min_prob": 0.02070189081132412,
+    "sds": 1.1678199768066406,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about Ben Affleck's involvement in 'Critters 3'. | Judge2: The generated answer contains an unsupported claim about Ben Affleck's involvement in 'Critters 3'.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 10,
+    "question": "Which film featured Rosalind Cash prior to the release of \"Sister, Sister\"?",
+    "gold_answer": "The Omega Man",
+    "context": [
+      "Sister, Sister is a 1982 American drama television movie that stars Diahann Carroll, Rosalind Cash, and Irene Cara.  It was written by Maya Angelou.  It's the story of a family of three sisters who come together to decide the fate of their family home after the death of their revered father.  The movie aired on June 7, 1982 on NBC.  The film won the NAACP Image Award for Outstanding Television Movie, Mini-Series or Dramatic Special.  Irene Cara won the NAACP Image Award for Outstanding Actress in a Television Movie, Mini-Series or Dramatic Special for the film."
+    ],
+    "generated_answer": "Rosalind Cash's film career is extensive, but one notable film prior to \"Sister, Sister\" is \"Norma Rae\" (1979), where she played the role of Mrs. Bodeen.",
+    "degradation_mode": "k1",
+    "perplexity": 1.8371611833572388,
+    "mean_prob": 0.6918630003929138,
+    "min_prob": 0.022739851847290993,
+    "sds": 0.8705669045448303,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer is fully supported by the context, mentioning a notable film prior to 'Sister, Sister' and the role played by Rosalind Cash. | Judge2: The generated answer is fully supported by the context, mentioning a notable film prior to 'Sister, Sister' and the role played by Rosalind Cash.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 11,
+    "question": "How many years in prison did the Norfolk farmer defended by Anthony Scrivener serve?",
+    "gold_answer": "three",
+    "context": [
+      "Matthew Scrivener (1580 – January 7, 1609) was an English colonist in Virginia.  He served briefly as acting governor of Jamestown, when he was succeeded by Captain John Smith.  Scrivener drowned with eight other colonists, half of them members of the governing Council, including Bartholomew Gosnold's brother Anthony, while attempting to cross to nearby Hog Island in a storm in 1609."
+    ],
+    "generated_answer": "There is no information in the provided context about a Norfolk farmer defended by Anthony Scrivener serving time in prison.",
+    "degradation_mode": "k1",
+    "perplexity": 1.377976655960083,
+    "mean_prob": 0.7851312756538391,
+    "min_prob": 0.25300464034080505,
+    "sds": 1.034867525100708,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim and invented detail about a Norfolk farmer, which is not mentioned in the provided context. | Judge2: The generated answer contains an unsupported claim and invented detail about a Norfolk farmer, which is not mentioned in the provided context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 12,
+    "question": "Who was born first,  Morgan Llywelyn or Robert Jordan?",
+    "gold_answer": "Morgan Llywelyn",
+    "context": [
+      "Jordan Morgan (born May 13, 1994) is an American football guard for the Chicago Bears of the National Football League.  He played college football at Kutztown University.  Morgan was drafted by the Bears in the fifth round of the 2017 NFL Draft."
+    ],
+    "generated_answer": "There is no information about Morgan Llywelyn or Robert Jordan in the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3838880062103271,
+    "mean_prob": 0.7938902974128723,
+    "min_prob": 0.19759075343608856,
+    "sds": 1.0581622123718262,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about Morgan Llywelyn and Robert Jordan, which are not mentioned in the given context. | Judge2: The generated answer contains an unsupported claim about Morgan Llywelyn and Robert Jordan, which are not mentioned in the given context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 13,
+    "question": "Which of the two came out first, The Wind in the Willows or The Bears and I?",
+    "gold_answer": "The Wind in the Willows",
+    "context": [
+      "The Wind in the Willows is a 1983 British stop motion animated film produced by Cosgrove Hall Films for Thames Television and aired on the ITV network.  The film is based on Kenneth Grahame's classic story \"The Wind in the Willows\".  It won a BAFTA award and an international Emmy award."
+    ],
+    "generated_answer": "The Wind in the Willows (1983) came out before The Bears and I.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3792484998703003,
+    "mean_prob": 0.7963780760765076,
+    "min_prob": 0.21208956837654114,
+    "sds": 0.741237461566925,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer is fully supported by the context, specifically mentioning the year 1983 which is provided in the context. | Judge2: The generated answer is fully supported by the context, specifically mentioning the year 1983 which is provided in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 14,
+    "question": "\"wild combination\" was a film about a man who was an American cellist, composer, producer and singer, who is he?",
+    "gold_answer": "Arthur Russell",
+    "context": [
+      "The Wild is a 2006 American 3D computer animated comedy directed by animator Steve \"Spaz\" Williams, and written by Ed Decter, John J. Strauss, Mark Gibson and Philip Halprin.  It features the voices of Kiefer Sutherland, Jim Belushi, Janeane Garofalo, Greg Cipes, Eddie Izzard, Richard Kind, William Shatner and Patrick Warburton."
+    ],
+    "generated_answer": "The answer is not directly related to the film \"The Wild\". However, based on the context of \"wild combination\", I found that a \"wild combination\" is a term often associated with jazz music. One famous musician who was known as a \"wild combination\" is Louis Armstrong, an American cellist, composer, producer, and singer.",
+    "degradation_mode": "k1",
+    "perplexity": 1.990119218826294,
+    "mean_prob": 0.5915522575378418,
+    "min_prob": 0.08957863599061966,
+    "sds": 1.0306516885757446,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, Louis Armstrong was not an American cellist. | Judge2: The generated answer contains an unsupported claim, Louis Armstrong was not an American cellist.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 15,
+    "question": "What time did the show, in which Gordon Burns was the host, usually air on Monday?",
+    "gold_answer": "7pm",
+    "context": [
+      "George Burns Comedy Week is a comedy anthology television series broadcast in the United States by CBS as part of its 1985 fall lineup, hosted by George Burns."
+    ],
+    "generated_answer": "There is no information about a show hosted by Gordon Burns. The show in question is actually George Burns Comedy Week, hosted by George Burns.",
+    "degradation_mode": "k1",
+    "perplexity": 1.9275027513504028,
+    "mean_prob": 0.6244563460350037,
+    "min_prob": 0.08559347689151764,
+    "sds": 0.7061341404914856,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about Gordon Burns being the host. | Judge2: The generated answer contains an unsupported claim about Gordon Burns being the host.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 16,
+    "question": "What genre is What's It Gonna Be due to its 4x4 rhythm?",
+    "gold_answer": "UK garage",
+    "context": [
+      "Rhythm Is It!  is a 2004 German documentary film directed by Thomas Grube and Enrique Sánchez Lansch.  The film documents a project undertaken by the Berlin Philharmonic principal conductor Simon Rattle and choreographer Royston Maldoom who decided to popularize classical music by staging a performance of Igor Stravinsky's ballet \"The Rite of Spring\" with a cast of 250 children recruited from Berlin's public schools."
+    ],
+    "generated_answer": "I can't find any information about a film called \"What's It Gonna Be\" in the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6584067344665527,
+    "mean_prob": 0.659307599067688,
+    "min_prob": 0.24847649037837982,
+    "sds": 1.1641403436660767,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about a film called 'What's It Gonna Be' which is not related to the given context of the RAG hallucination detection benchmark. | Judge2: The generated answer contains an unsupported claim about a film called 'What's It Gonna Be' which is not related to the given context of the RAG hallucination detection benchmark.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 17,
+    "question": "Between the two film makers Fabián Bielinsky and Murdock MacQuarrie, who was born earlier?",
+    "gold_answer": "Murdock MacQuarrie",
+    "context": [
+      "Fabián Bielinsky (3 February 1959 – 28 June 2006) was an Argentine film director born in Buenos Aires."
+    ],
+    "generated_answer": "There is no information about a film maker named Murdock MacQuarrie in the given context. However, based on the information provided, Fabián Bielinsky was born on 3 February 1959.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2912859916687012,
+    "mean_prob": 0.8351827263832092,
+    "min_prob": 0.07394488900899887,
+    "sds": 0.797143280506134,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about Murdock MacQuarrie, as there is no information about this person in the given context. | Judge2: The generated answer contains an unsupported claim about Murdock MacQuarrie, as there is no information about this person in the given context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 18,
+    "question": "Eduard Schweizer teaches at a German university with over how many students? ",
+    "gold_answer": "26,000",
+    "context": [
+      "Mark Schweizer (born 1956) is an American musician, composer, writer, and music professor.  A native of Florida, Schweizer received music degrees from Stetson University in DeLand and the University of Arizona including a doctorate in vocal performance.  He returned to teach at Stetson University, followed by eight years at Louisiana College in Pineville.  He has taught also at Austin Peay State University, Murray State University, Hopkinsville Community College and the University of the South."
+    ],
+    "generated_answer": "There is no information provided about Eduard Schweizer teaching at a German university. The text actually refers to Mark Schweizer, not Eduard Schweizer.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4863486289978027,
+    "mean_prob": 0.7445538640022278,
+    "min_prob": 0.2018996924161911,
+    "sds": 0.8387861251831055,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim and a contradiction, as it refers to Eduard Schweizer instead of Mark Schweizer, and there is no information about the number of students at a German university. | Judge2: The generated answer contains an unsupported claim and a contradiction, as it refers to Eduard Schweizer instead of Mark Schweizer, and there is no information about the number of students at a German university.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 19,
+    "question": "What was the name of the Danish musician who died in 1931 and who composed String Quartet No. 4 in F major or Quartet for Two Violins, Viola and Cello in F major, Opus 44 ?",
+    "gold_answer": "Carl August Nielsen",
+    "context": [
+      "Carl Nielsen's String Quartet No. 2 in F minor or Quartet for Two Violins, Viola and Cello in F minor, Opus 5, was composed in 1890, partly in Denmark but mostly in Germany where the composer was travelling on a stipend.  The second of Nielsen's four string quartets in the official series, it was first performed privately for Joseph Joachim on 18 November 1890 at the Hochschule für Ausübende Tonkunst in Berlin."
+    ],
+    "generated_answer": "The Danish musician who composed String Quartet No. 4 in F major, Opus 44, was Carl Nielsen.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2933475971221924,
+    "mean_prob": 0.8181710839271545,
+    "min_prob": 0.25857263803482056,
+    "sds": 0.6354487538337708,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer matches the gold answer and is supported by the context. | Judge2: The generated answer matches the gold answer and is supported by the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 20,
+    "question": "The water-based dark ride in Walt Disney is connected to a song known for what?",
+    "gold_answer": "most performed song of all time",
+    "context": [
+      "Splash Mountain is a log flume dark ride at Disneyland, Tokyo Disneyland, and the Magic Kingdom at the Walt Disney World Resort, based on the characters, stories, and songs from the 1946 Disney film \"Song of the South\".  Although there are variations in the story and features between the three locations, each installation begins with a peaceful outdoor float-through that leads to indoor dark ride segments, with a climactic steep drop into a \"briar patch\" followed by an indoor finale.  The drop is 50 ft ."
+    ],
+    "generated_answer": "The water-based dark ride in Walt Disney is connected to the song \"Zip-a-Dee-Doo-Dah,\" which is from the 1946 Disney film \"Song of the South.\"",
+    "degradation_mode": "k1",
+    "perplexity": 1.1987643241882324,
+    "mean_prob": 0.874746561050415,
+    "min_prob": 0.21147751808166504,
+    "sds": 0.8892192840576172,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer accurately describes the connection between the water-based dark ride and the song from the 1946 Disney film 'Song of the South'. | Judge2: The generated answer matches the gold answer and is supported by the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 21,
+    "question": "Which peak stands higher, Muztagh Ata or Manaslu?",
+    "gold_answer": "Manaslu",
+    "context": [
+      "Muztagh Ata, or Muztagata (Uyghur: مۇز تاغ ئاتا, Музтаң Ата, literally \"ice-mountain-father\"; ), is the second highest (7509 metres) of the mountains which form the northern edge of the Tibetan Plateau (not the second highest of the mountains of the Tibetan Plateau).  It is sometimes regarded as being part of the Kunlun Shan, although physically it is more closely connected to the Pamirs.  It is also one of the relatively easier 7,000 m peaks in the world to climb, due to its gentle western slope and the comparatively drier weather of Xinjiang, though a thorough acclimatization period and a very strong physical condition are crucial for success."
+    ],
+    "generated_answer": "There is no information provided in the context about Manaslu. However, Manaslu is a mountain in the Himalayas, and its height is 8163 meters. Muztagh Ata is 7509 meters. Therefore, Manaslu stands higher than Muztagh Ata.",
+    "degradation_mode": "k1",
+    "perplexity": 1.315255045890808,
+    "mean_prob": 0.8122642040252686,
+    "min_prob": 0.122003473341465,
+    "sds": 0.8735355138778687,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about Manaslu's height and its relation to Muztagh Ata, as this information is not provided in the context. | Judge2: The generated answer contains an unsupported claim about Manaslu's height and its relation to Muztagh Ata, as this information is not provided in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 22,
+    "question": "Whose native growing land is more south, Beech or Daviesia?",
+    "gold_answer": "Daviesia",
+    "context": [
+      "Fagus engleriana, also known as Chinese beech, is a species of beech native to central and eastern China (Anhui, Guangxi, Guizhou, Henan, Hubei, Hunan, Shaanxi, Sichuan, Yunnan, and Zhejiang provinces) where it grows in broad-leaved and mixed forests.  It can reach 25 m in height."
+    ],
+    "generated_answer": "There is no information about Daviesia in the context. However, based on the information provided, the native growing land of Fagus engleriana (Beech) is in central and eastern China, which is more south than many other regions.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6251206398010254,
+    "mean_prob": 0.6899969577789307,
+    "min_prob": 0.09807952493429184,
+    "sds": 0.8776484131813049,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim that 'many other regions' are more north than central and eastern China, which is not mentioned in the context. | Judge2: The generated answer contains an unsupported claim that 'many other regions' are more north than central and eastern China, which is not mentioned in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 23,
+    "question": "What type of area did Michel Thomas work in when he was in the French Resistance?",
+    "gold_answer": "rural",
+    "context": [
+      "Thomas-François de Treil de Pardailhan (1754, Paris - 2 August 1822, Pardailhan) was the eldest of an ennobled Languedocien family, originating in the Saint-Pons-de-Thomières region.  At first an officer in the Maison Militaire du Roi, baron Thomas de Treil de Pardailhan was Maître d'hôtel du Roi at the Court of Versailles at the end of the Ancien Régime.  His writings, however, show him as an opponent of the privileges of aristocracy and in favor of the new ideas.  The French Revolution marks a rupture with his milieu: in support of deep social reform, he was elected député for Paris in 1791 to the Legislative Assembly, but always remained attached to the idea of a constitutional monarchy and was imprisoned as a suspect during the Reign of Terror.  Ruined by bad business dealings under the Directory and by sources of income he had lost in the Revolution, he ended his life at his château at Pardailhan in 1822."
+    ],
+    "generated_answer": "There is no mention of Michel Thomas working in the French Resistance. The text actually refers to Thomas-François de Treil de Pardailhan, a French aristocrat who was involved in the French Revolution.",
+    "degradation_mode": "k1",
+    "perplexity": 1.463924765586853,
+    "mean_prob": 0.7432713508605957,
+    "min_prob": 0.2360311597585678,
+    "sds": 0.9128305315971375,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about Michel Thomas working in the French Resistance, which is not mentioned in the context. | Judge2: The generated answer contains an unsupported claim about Michel Thomas working in the French Resistance, which is not mentioned in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 24,
+    "question": "What star of Two and a Half Men won two young artist and TV-land awards for his character?",
+    "gold_answer": "Angus Turner Jones",
+    "context": [
+      "Alan Jerome Harper, later Harper-Schmidt, DC, is a fictional character from the CBS situation comedy \"Two and a Half Men\".  Jon Cryer portrayed the character for the entire duration of the series, the only original main cast member to do so.  For his portrayal, Cryer was nominated for a Primetime Emmy Award from 2006–2012, winning the award for Outstanding Supporting Actor in a Comedy Series in 2009 and Outstanding Lead Actor in a Comedy Series in 2012."
+    ],
+    "generated_answer": "Jon Cryer won two Young Artist Awards and a TV Land Award for his portrayal of Alan Harper in Two and a Half Men.",
+    "degradation_mode": "k1",
+    "perplexity": 1.253493070602417,
+    "mean_prob": 0.8307722806930542,
+    "min_prob": 0.23689866065979004,
+    "sds": 0.707583487033844,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer is fully supported by the context, and it answers the question correctly. | Judge2: The generated answer is fully supported by the context, and it answers the question correctly.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 25,
+    "question": "What was the nationality and profession of the person responsible for the concept of a dimensionless number in physics and engineering?",
+    "gold_answer": "French mathematician and physicist",
+    "context": [
+      "In dimensional analysis, a dimensionless quantity is a quantity to which no physical dimension is applicable.  It is also known as a bare number or a quantity of dimension one.  Dimensionless quantities are widely used in many fields, such as mathematics, physics, engineering, and economics.  By contrast, examples of quantities with dimensions are length, time, and speed, which are measured in dimensional units, such as metre, second and metre per second."
+    ],
+    "generated_answer": "Unfortunately, the provided context does not mention the nationality and profession of the person responsible for the concept of a dimensionless number in physics and engineering.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2375297546386719,
+    "mean_prob": 0.8461151719093323,
+    "min_prob": 0.29062750935554504,
+    "sds": 0.7889781594276428,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as the context does not mention the person responsible for the concept of a dimensionless number in physics and engineering. | Judge2: The generated answer contains an unsupported claim, as the context does not mention the person responsible for the concept of a dimensionless number in physics and engineering.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 26,
+    "question": "What offence were opening batsman Khalid Latif and 5 other cricketers suspended for, in February 2017?",
+    "gold_answer": "spot-fixing",
+    "context": [
+      "The 2017 Pakistan Super League spot-fixing scandal arose in February 2017 when the Pakistan Cricket Board (PCB) suspended cricketers under its anti-corruption code in an ongoing investigation backed by International Cricket Council (ICC)'s Anti-Corruption and Security Unit on spot-fixing during the 2017 Pakistan Super League.  The six cricketers suspended by the PCB are: Sharjeel Khan (on 10 February), Khalid Latif (on 10 February), Nasir Jamshed (on 13 February), Mohammad Irfan (on 14 March), Shahzaib Hasan (on 17 March) and Mohammad Nawaz (16 May)."
+    ],
+    "generated_answer": "Khalid Latif and 5 other cricketers were suspended for spot-fixing during the 2017 Pakistan Super League.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1557103395462036,
+    "mean_prob": 0.9186969995498657,
+    "min_prob": 0.0879267081618309,
+    "sds": 0.6815946102142334,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer matches the gold answer and is fully supported by the context. | Judge2: The generated answer matches the gold answer and is fully supported by the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 27,
+    "question": "Swingin' Down Yonder is the first full-length, 12-inch album recorded by a singer known by what nickname?",
+    "gold_answer": "\"King of Cool\"",
+    "context": [
+      "\"A Swingin' Safari\" is an instrumental composed by Bert Kaempfert (using his alias, Bernd Bertie) in 1962.  It was recorded by Kaempfert on Polydor Records and released in the United States on Decca Records, but failed to chart.  That same year, Billy Vaughn recorded it, and his cover reached number 13 on the \"Billboard\" charts that summer."
+    ],
+    "generated_answer": "The answer is \"The Gentleman.\"",
+    "degradation_mode": "k1",
+    "perplexity": 2.988689422607422,
+    "mean_prob": 0.4394146800041199,
+    "min_prob": 0.04113295301795006,
+    "sds": 1.3142658472061157,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as the context does not mention the nickname 'The Gentleman' associated with the singer of 'Swingin' Down Yonder'. | Judge2: The generated answer contains an unsupported claim, as the context does not mention the nickname 'The Gentleman' associated with the singer of 'Swingin' Down Yonder'.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 28,
+    "question": "Grammy winner for song of the year, also put out a 1971 album by the Carpenters, but what song did he win an Academy Award for Best Original Songs?",
+    "gold_answer": "A Star Is Born",
+    "context": [
+      "The album won both the Academy Award and the Golden Globe Award for Best Original Score.  At the World Soundtrack Awards it won two awards: \"Best Original Soundtrack of the Year\" and \"Soundtrack Composer of the Year\"."
+    ],
+    "generated_answer": "The answer is not directly available in the given context. However, based on the information provided, it can be inferred that the person in question is likely John Williams, who is known for his work on the Carpenters' 1971 album and has won Academy Awards for Best Original Score.",
+    "degradation_mode": "k1",
+    "perplexity": 1.9094347953796387,
+    "mean_prob": 0.6083441972732544,
+    "min_prob": 0.07618890702724457,
+    "sds": 1.1402932405471802,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about John Williams' work on the Carpenters' 1971 album, which is not mentioned in the given context. | Judge2: The generated answer contains an unsupported claim about John Williams' work on the Carpenters' 1971 album, which is not mentioned in the given context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 29,
+    "question": "An English operatic tenor performed \"Walking in the Air\" for which 1982 animated film?",
+    "gold_answer": "The Snowman",
+    "context": [
+      "\"Walking on Air\" is a song recorded by Australian recording artist and producer Anise K.  The song originally features guest vocals from American rapper Snoop Dogg and American singer Bella Blue.  In January 2014 it was re-released worldwide with additional vocals by Lance Bass and specially for Belgium featuring Lance Bass and Ian Thomas."
+    ],
+    "generated_answer": "The English operatic tenor, Steven Houghton, performed \"Walking in the Air\" for the 1982 animated film \"The Snowman\".",
+    "degradation_mode": "k1",
+    "perplexity": 1.3470326662063599,
+    "mean_prob": 0.8312830924987793,
+    "min_prob": 0.0920935571193695,
+    "sds": 1.0250846147537231,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about the English operatic tenor, Steven Houghton, which is not mentioned in the context. | Judge2: The generated answer contains an unsupported claim about the English operatic tenor, Steven Houghton, which is not mentioned in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 30,
+    "question": "In which region is the town in which  Fort Kongenstein is located ?",
+    "gold_answer": "the Greater Accra Region",
+    "context": [
+      "Fort Prinzenstein (Danish: \"Fort Prinsensten\" ) is a fort located at Keta, Ghana which was used in the slave trade.  Many such forts were built in Africa, but Prinzenstein is one of the few that lie east of the Volta River.  It was initially built by Danish traders in 1784 for defensive purposes in a war against the Anlo Ewe and to keep the area safe from other colonial powers."
+    ],
+    "generated_answer": "I couldn't find any information on a fort called \"Fort Kongenstein\". However, based on the context provided, I can tell you that Fort Prinzenstein is located in the Volta Region of Ghana.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4598180055618286,
+    "mean_prob": 0.7315422296524048,
+    "min_prob": 0.25878846645355225,
+    "sds": 0.6816236972808838,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about Fort Kongenstein, which is not mentioned in the context. | Judge2: The generated answer contains an unsupported claim about Fort Kongenstein, which is not mentioned in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 31,
+    "question": "Philadelphia, Here I come! is a 1964 play by an Irish dramatist who has been likened to an Irish Checkhov?",
+    "gold_answer": "Brian Patrick Friel",
+    "context": [
+      "Philadelphia, Here I Come!  is a 1964 play by Irish dramatist Brian Friel.  Set in the fictional town of Ballybeg, County Donegal, the play launched Friel onto the international stage."
+    ],
+    "generated_answer": "Brian Friel is an Irish dramatist who has been likened to Anton Chekhov.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4573649168014526,
+    "mean_prob": 0.8231617212295532,
+    "min_prob": 0.07118821889162064,
+    "sds": 1.0024176836013794,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, 'likened to Anton Chekhov', which is not mentioned in the context. | Judge2: The generated answer contains an unsupported claim, 'likened to Anton Chekhov', which is not mentioned in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 32,
+    "question": "Thomas Henry Moray Followed work down on nuclear batteries in 1912 by this English physicist?",
+    "gold_answer": "Henry Moseley",
+    "context": [
+      "Henry Miles, FRS (2 Jun 1698 – 10 Feb 1763) was an English Dissenting minister and scientific writer; a Fellow of the Royal Society known for experiments on electricity."
+    ],
+    "generated_answer": "I couldn't find any information about Thomas Henry Moray following work on nuclear batteries by an English physicist in 1912. However, I can tell you that the work on nuclear batteries is often associated with the work of Henry Moray, not Thomas Henry Moray.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7337554693222046,
+    "mean_prob": 0.6666061282157898,
+    "min_prob": 0.1336553394794464,
+    "sds": 1.003563404083252,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about Henry Moray, which is not mentioned in the context. | Judge2: The generated answer contains an unsupported claim about Henry Moray, which is not mentioned in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 33,
+    "question": "How high on the US \"Billboard\" Hot 100 chart did Dan Smith's song reach in 2013?",
+    "gold_answer": "number 5",
+    "context": [
+      "The highest-selling digital singles in the United States are ranked in the Hot Digital Songs chart, published by \"Billboard\" magazine.  The data are compiled by Nielsen SoundScan based on each single's weekly digital sales, which combines sales of different versions of a single for a summarized figure."
+    ],
+    "generated_answer": "I cannot verify the peak position of Dan Smith's song on the US \"Billboard\" Hot 100 chart in 2013.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4015239477157593,
+    "mean_prob": 0.8067564964294434,
+    "min_prob": 0.07733678817749023,
+    "sds": 1.004746675491333,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer does not provide any information about Dan Smith's song, so it fails to answer the question. | Judge2: The generated answer does not provide any information about Dan Smith's song, so it fails to answer the question.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 34,
+    "question": "Which player won more Grand Slam titles, Kevin Ullyett or Billie Jean King?",
+    "gold_answer": "Billie Jean King",
+    "context": [
+      "Billie Jean King (\"née\" Moffitt; born November 22, 1943) is an American former World No. 1 professional tennis player.  King won 39 Grand Slam titles: 12 in singles, 16 in women's doubles, and 11 in mixed doubles.  King won the singles title at the inaugural WTA Tour Championships.  King often represented the United States in the Federation Cup and the Wightman Cup.  She was a member of the victorious United States team in seven Federation Cups and nine Wightman Cups.  For three years, King was the United States' captain in the Federation Cup."
+    ],
+    "generated_answer": "There is no information about a tennis player named Kevin Ullyett in the context provided.",
+    "degradation_mode": "k1",
+    "perplexity": 1.434116005897522,
+    "mean_prob": 0.7703743577003479,
+    "min_prob": 0.18819379806518555,
+    "sds": 1.2503758668899536,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer is fully supported as it correctly states that there is no information about a tennis player named Kevin Ullyett in the provided context. | Judge2: The generated answer is fully supported as it correctly states that there is no information about a tennis player named Kevin Ullyett in the provided context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 35,
+    "question": "Broadbent Arena and Freedom Hall are landmarks of which U.S. city?",
+    "gold_answer": "Louisville",
+    "context": [
+      "The Canton Memorial Civic Center is a multi-purpose arena located in Canton, Ohio, United States, and is currently the home arena for the Canton Charge of the NBA G League."
+    ],
+    "generated_answer": "Broadbent Arena and Freedom Hall are landmarks of Lexington, Kentucky.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6275218725204468,
+    "mean_prob": 0.8052069544792175,
+    "min_prob": 0.015114360488951206,
+    "sds": 1.0564020872116089,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as Broadbent Arena and Freedom Hall are actually landmarks of Louisville, Kentucky, not Lexington, Kentucky. | Judge2: The generated answer contains an unsupported claim, as Broadbent Arena and Freedom Hall are actually landmarks of Louisville, Kentucky, not Lexington, Kentucky.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 36,
+    "question": "The We The People Amendment was introduced by the U.S. Representative for what congressional district?",
+    "gold_answer": "Minnesota's 8th congressional district",
+    "context": [
+      "The We The People Amendment is a joint resolution to amend the United States Constitution to abolish the doctrines of corporate personhood and money equals political speech.  It was introduced by Representative Rick Nolan as on February 23, 2013.  It has been re-introduced two more times as on April 29, 2015 and again as on January 30, 2017."
+    ],
+    "generated_answer": "The We The People Amendment was introduced by Representative Rick Nolan, who represents Minnesota's 8th congressional district.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2939010858535767,
+    "mean_prob": 0.8312908411026001,
+    "min_prob": 0.24443931877613068,
+    "sds": 0.8414350152015686,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer is fully supported by the context and matches the gold answer. | Judge2: The generated answer is fully supported by the context and matches the gold answer.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 37,
+    "question": "Phyllis Kohn holds a seat in the House of Representatives which meets where?",
+    "gold_answer": "Saint Paul",
+    "context": [
+      "Phyllis M. Katsakiores (born September 22, 1934 in Wakefield, Massachusetts) is an American newspaper reporter and politician who represents the Rockingham 6 district of the New Hampshire House of Representatives.  She previously served in the House from 1982 to 2012.  Katsakiores also served on the Derry, New Hampshire Town Council multiple times, from 1990 to 1996 from 1999 to 2004, and from 2013 to present."
+    ],
+    "generated_answer": "The information provided does not mention Phyllis Kohn, but rather Phyllis M. Katsakiores. However, based on the context, Phyllis M. Katsakiores holds a seat in the New Hampshire House of Representatives. The New Hampshire House of Representatives meets in the State House in Concord, New Hampshire.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2372292280197144,
+    "mean_prob": 0.8520573377609253,
+    "min_prob": 0.20526836812496185,
+    "sds": 0.6449769139289856,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer correctly identifies Phyllis M. Katsakiores as the entity and states that she holds a seat in the New Hampshire House of Representatives, which meets in the State House in Concord, New Hampshire. | Judge2: The generated answer correctly identifies Phyllis M. Katsakiores as the entity and states that she holds a seat in the New Hampshire House of Representatives, which meets in the State House in Concord, New Hampshire.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 38,
+    "question": "George Reed was, along with which Drake University player, one of the greatest running backs in CFL history?",
+    "gold_answer": "Johnny D. Bright",
+    "context": [
+      "George Robert Reed, CM, SOM (born October 2, 1939), is a former American college football and Canadian Football League player.  Reed, along with Mike Pringle and Johnny Bright, is one of the players most often mentioned as being the greatest running back in CFL history.  In November 2006, Reed was voted one of the CFL's Top 50 players (#2) of the league's modern era by Canadian sports network TSN."
+    ],
+    "generated_answer": "George Reed was, along with Johnny Bright, one of the greatest running backs in CFL history.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2128862142562866,
+    "mean_prob": 0.8909972310066223,
+    "min_prob": 0.1029827743768692,
+    "sds": 0.6040881872177124,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer matches the gold answer and is supported by the context. | Judge2: The generated answer matches the gold answer and is supported by the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 39,
+    "question": "Who were the lead members of the group of actors who were in the film which was remade as the first film of \"Ocean's Trilogy\"?",
+    "gold_answer": "Frank Sinatra, Dean Martin, Sammy Davis Jr.",
+    "context": [
+      "Ocean's Twelve is a 2004 American comedy heist film, the first sequel to 2001's \"Ocean's Eleven\".  Like its predecessor, which was a remake of the 1960 heist film \"Ocean's 11\", the film was directed by Steven Soderbergh and used an ensemble cast.  It was released in the United States on December 10, 2004.  A third film, \"Ocean's Thirteen\", was released on June 8, 2007, in the United States—thus forming the \"Ocean's Trilogy\".  The film stars George Clooney, Brad Pitt, Matt Damon, Catherine Zeta-Jones, Andy García, Julia Roberts, Don Cheadle, Bernie Mac.  It was the tenth-highest-grossing film of 2004."
+    ],
+    "generated_answer": "The lead members of the group of actors in the film \"Ocean's Eleven\" (2001) included George Clooney, Brad Pitt, Matt Damon, and Julia Roberts.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4344103336334229,
+    "mean_prob": 0.7765050530433655,
+    "min_prob": 0.053678710013628006,
+    "sds": 0.7473350763320923,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, specifically that Brad Pitt was in the 2001 film 'Ocean's Eleven', whereas the context only mentions that a third film, 'Ocean's Thirteen', was released in 2007 and that the film stars George Clooney, Brad Pitt, Matt Damon, Catherine Zeta-Jones, Andy García, Julia Roberts, Don Cheadle, Bernie Mac. | Judge2: The generated answer contains an unsupported claim, specifically that Brad Pitt was in the 2001 film 'Ocean's Eleven', whereas the context only mentions that a third film, 'Ocean's Thirteen', was released in 2007 and that the film stars George Clooney, Brad Pitt, Matt Damon, Catherine Zeta-Jones, Andy García, Julia Roberts, Don Cheadle, Bernie Mac.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 40,
+    "question": "Joe Walker played for which team that ends their regular season with the Civil War rivalry game?",
+    "gold_answer": "Oregon Ducks football",
+    "context": [
+      "Robert Walker (born June 26, 1972) was an American football running back for the West Virginia Mountaineers.  Walker is most remembered for his game-winning run against Miami in 1993."
+    ],
+    "generated_answer": "I couldn't find any information about a Joe Walker playing for a team that ends their regular season with the Civil War rivalry game. However, based on the given context, Robert Walker played for the West Virginia Mountaineers, which ends their regular season with the Backyard Brawl or the East Carolina game, but not the Civil War.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5225356817245483,
+    "mean_prob": 0.741290271282196,
+    "min_prob": 0.11505565047264099,
+    "sds": 0.8592283129692078,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about Robert Walker and the Backyard Brawl/East Carolina game, which is unrelated to the question about the Civil War rivalry game. | Judge2: The generated answer contains an unsupported claim about Robert Walker and the Backyard Brawl/East Carolina game, which is unrelated to the question about the Civil War rivalry game.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 41,
+    "question": "Repertoire of Plácido Domingo appeared in an opera written by whom which was based on a play by William Shakespeare?",
+    "gold_answer": "Giuseppe Verdi",
+    "context": [
+      "José Plácido Domingo Embil, {'1': \", '2': \", '3': \", '4': \"} (] ; born 21 January 1941), known as Plácido Domingo, is a Spanish tenor, conductor and arts administrator.  He has recorded over a hundred complete operas and is well known for his versatility, regularly performing in Italian, French, German, Spanish, English and Russian in the most prestigious opera houses in the world.  Although primarily a \"lirico-spinto\" tenor for most of his career, especially popular for his Cavaradossi, Hoffmann, Don José, and Canio, he quickly moved into more dramatic roles, becoming the most acclaimed Otello of his generation.  In the early 2010s, he transitioned from the tenor repertory into almost exclusively baritone parts, most notably Simon Boccanegra.  He has performed 147 different roles."
+    ],
+    "generated_answer": "Plácido Domingo performed in the opera \"Otello\", which was written by Giuseppe Verdi and based on William Shakespeare's play \"Othello\".",
+    "degradation_mode": "k1",
+    "perplexity": 1.4945915937423706,
+    "mean_prob": 0.7740451097488403,
+    "min_prob": 0.03726666048169136,
+    "sds": 0.7751873135566711,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer accurately states that Plácido Domingo performed in the opera 'Otello', which was written by Giuseppe Verdi and based on William Shakespeare's play 'Othello', and this information is supported by the context. | Judge2: The generated answer accurately states that Plácido Domingo performed in the opera 'Otello', which was written by Giuseppe Verdi and based on William Shakespeare's play 'Othello', and this information is supported by the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 42,
+    "question": "What date did the movement Hans Knirsch was an activist for officially gain traction?",
+    "gold_answer": "November 15, 1903",
+    "context": [
+      "Simon Lindberg, born in 1983, is the leader of the Neo-Nazi organization Nordic Resistance Movement since December 2015.  He has a background in the National Socialist Front which he became a member of in August 2000.  Lindberg became a regional leader in NSF in Skåne, Trollhättan in August 2005."
+    ],
+    "generated_answer": "I can't provide information on the date the movement Hans Knirsch was an activist for officially gained traction.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6149041652679443,
+    "mean_prob": 0.70345538854599,
+    "min_prob": 0.18910889327526093,
+    "sds": 0.9695350527763367,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer fails to provide any information about the movement Hans Knirsch was an activist for, which is not supported by the context. | Judge2: The generated answer fails to provide any information about the movement Hans Knirsch was an activist for, which is not supported by the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 43,
+    "question": "Elizabeth Austin wrote for a fitness magazine founded by who?",
+    "gold_answer": "Christine MacIntyre",
+    "context": [
+      "Fitness is a United States-based women's magazine, focusing on health, exercise, and nutrition.  It is owned and published by the Meredith Corporation.  The editor-in-chief of \"Fitness\" is Betty Wong."
+    ],
+    "generated_answer": "Elizabeth Austin wrote for a fitness magazine founded by Bill Phillips and later became the editor-in-chief of the magazine, but the specific magazine she wrote for is not mentioned in the provided context.",
+    "degradation_mode": "k1",
+    "perplexity": 2.474118232727051,
+    "mean_prob": 0.5707158446311951,
+    "min_prob": 0.007912686094641685,
+    "sds": 0.9072672128677368,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about Elizabeth Austin becoming the editor-in-chief of the magazine, which is not mentioned in the provided context. | Judge2: The generated answer contains an unsupported claim about Elizabeth Austin becoming the editor-in-chief of the magazine, which is not mentioned in the provided context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 44,
+    "question": "Come from the Heart:was first recorded by an artist that sang what genre of music?",
+    "gold_answer": "country",
+    "context": [
+      "Sings from the Heart is the 1962 country music studio album released by George Jones in June 1962.  The album was his eleventh studio LP release, and was his last with Mercury, after switching to United Artists in late 1961.  The album's theme was listing of songs about the heart, and contains his last #1 with Mercury Records from 1961, Tender Years."
+    ],
+    "generated_answer": "The artist who sang the genre of music for \"Come from the Heart\" was country music.",
+    "degradation_mode": "k1",
+    "perplexity": 1.8490532636642456,
+    "mean_prob": 0.6180733442306519,
+    "min_prob": 0.13572049140930176,
+    "sds": 0.8163121938705444,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer is fully supported by the context and matches the gold answer. | Judge2: The generated answer is fully supported by the context and matches the gold answer.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 45,
+    "question": "The 1997–98 UCLA Bruins men's basketball team lost to what team in the sweet sixteen match?",
+    "gold_answer": "The 1997–98 Kentucky Wildcats men's basketball team",
+    "context": [
+      "The 1992–93 UCLA Bruins men's basketball team represented the University of California, Los Angeles in the 1992–93 NCAA Division I men's basketball season.  The Bruins began the season ranked 24th in the AP Poll.  The team finished 3rd in the conference.  The Bruins competed in the 1993 NCAA Men's Division I Basketball Tournament.  The UCLA Bruins beat Iowa State in the first round, 81-70, and lost to Michigan in the second round, 84-86."
+    ],
+    "generated_answer": "Unfortunately, the provided context does not mention the 1997-98 UCLA Bruins men's basketball team.",
+    "degradation_mode": "k1",
+    "perplexity": 1.420635461807251,
+    "mean_prob": 0.7543288469314575,
+    "min_prob": 0.34241220355033875,
+    "sds": 0.8615218997001648,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as the context only provides information about the 1992-93 UCLA Bruins men's basketball team, not the 1997-98 UCLA Bruins men's basketball team. | Judge2: The generated answer contains an unsupported claim, as the context only provides information about the 1992-93 UCLA Bruins men's basketball team, not the 1997-98 UCLA Bruins men's basketball team.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 46,
+    "question": "The name od the Jason Hook album \"Safety Dunce\" is a play on the words of a song released in what year? ",
+    "gold_answer": "1983",
+    "context": [
+      "Jason's Lyric is a 1994 erotic romantic drama film, written by Bobby Smith, Jr, and directed by Doug McHenry, who co-produced the film with George Jackson and Marilla Lane Ross.  Both Jackson and McHenry have been notably successful as producers with films that include \"New Jack City\"."
+    ],
+    "generated_answer": "I'm not aware of any information about a Jason Hook album called \"Safety Dunce\" or its relation to a song. However, based on the context provided, it seems like the question might be a play on words with the movie \"Jason's Lyric\" (1994) and possibly a Jason Hook album.",
+    "degradation_mode": "k1",
+    "perplexity": 1.8509747982025146,
+    "mean_prob": 0.6159828305244446,
+    "min_prob": 0.1697365641593933,
+    "sds": 1.0143649578094482,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about a Jason Hook album called 'Safety Dunce' and its relation to a song, which is not supported by the provided context. | Judge2: The generated answer contains an unsupported claim about a Jason Hook album called 'Safety Dunce' and its relation to a song, which is not supported by the provided context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 47,
+    "question": "Who had the best singles ranking, Roberta Vinci or Jorge Lozano?",
+    "gold_answer": "Roberta Vinci",
+    "context": [
+      "Roberta Vinci (] ; born 18 February 1983) is an Italian tennis player.  Up until 6 April 2015, she held the position of World No. 1 in doubles, while reaching a career-high of World No. 7 in singles in May 2016.  She is the fourth Italian woman to have reached the top 10 in singles, together with Flavia Pennetta, Francesca Schiavone and Sara Errani.  At 33 years and 4 days old, she is also the oldest ever player to make her first appearance in the Top 10."
+    ],
+    "generated_answer": "There is no information provided about Jorge Lozano's singles ranking.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5696015357971191,
+    "mean_prob": 0.7011514902114868,
+    "min_prob": 0.2816351056098938,
+    "sds": 1.1276451349258423,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer accurately states that there is no information provided about Jorge Lozano's singles ranking, which is consistent with the context. | Judge2: The generated answer accurately states that there is no information provided about Jorge Lozano's singles ranking, which is consistent with the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 48,
+    "question": "In what country did Irvine Gerald Sellar develop the second-tallest free-standing structure?",
+    "gold_answer": "United Kingdom",
+    "context": [
+      "The Orhideea Towers, is a future class A office building complex that will be constructed in the western part of Bucharest in the vicinity of the Politehnica University of Bucharest.  The complex comprises two office buildings, one 17 floors, 85 m tall and the other 13 floors, 64 m with a total gross leasable area of 37,000 m2 .  At completion the 85 m high building complex will be one of the tallest in Bucharest.  The construction of the building started in October 2015 and is expected to be completed in the first quarter of 2017 at a total cost of €75 million."
+    ],
+    "generated_answer": "There is no information in the context provided about Irvine Gerald Sellar or the development of the second-tallest free-standing structure.",
+    "degradation_mode": "k1",
+    "perplexity": 1.368050217628479,
+    "mean_prob": 0.7827185988426208,
+    "min_prob": 0.23164384067058563,
+    "sds": 1.0530343055725098,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about Irvine Gerald Sellar and the development of the second-tallest free-standing structure, which is not mentioned in the context. | Judge2: The generated answer contains an unsupported claim about Irvine Gerald Sellar and the development of the second-tallest free-standing structure, which is not mentioned in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 49,
+    "question": "Nicholas Scibetta's hit man brother-in-law, who confessed to being involved in the murder of 19 people, helped prosecutors convict what Gambino family boss?",
+    "gold_answer": "John Gotti",
+    "context": [
+      "Giovanni \"John\" Gambino (born on August 22, 1940 in Palermo, Sicily), is an American mobster.  He became a made member of the Gambino crime family in 1975 and a capodecina or captain, and head of the crime family's Sicilian faction, appointed by family boss John Gotti in 1986, according to Mafia turncoat Sammy Gravano."
+    ],
+    "generated_answer": "Nicholas Scibetta's hit man brother-in-law helped prosecutors convict John Gotti.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4391623735427856,
+    "mean_prob": 0.8363875150680542,
+    "min_prob": 0.06430434435606003,
+    "sds": 1.0055159330368042,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer matches the gold answer and is supported by the context. | Judge2: The generated answer matches the gold answer and is supported by the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 50,
+    "question": "Which name adopted by African-American activist Allen Donaldson co-found Black Power movement of the 1960s and 1970s",
+    "gold_answer": "Hakim Abdullah Jamal",
+    "context": [
+      "The Black Power movement was a political movement to achieve a form of Black Power and the many philosophies it contains.  The movement saw various forms of activism some violent and some peaceful, all hoping to achieve black empowerment.  The Black Power movement also represented socialist movements, all with the general motivation of improving the standing of black people in society.  Originated during the Civil Rights Movement, some doubted the philosophy of the movement begging for more radical action, taking influences from Malcolm X.  The cornerstone of the movement was the Black Panther Party, a Black Power organization dedicated to socialism and the use of violence to achieve it.  The Black Power movement developed amidst the criticisms of the Civil Rights Movement in the early 1960s, and over time and into the 1970s, the movement grew and became more violent.  After years of violence, many left the movement and the police began arresting violent actors in the movement.  The Black Power movement also spilled out into the Caribbean creating the Black Power Revolution."
+    ],
+    "generated_answer": "There is no information in the given context about an African-American activist named Allen Donaldson co-founding the Black Power movement.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3656240701675415,
+    "mean_prob": 0.8061636090278625,
+    "min_prob": 0.08837153762578964,
+    "sds": 0.9933414459228516,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as there is no information in the given context about an African-American activist named Allen Donaldson co-founding the Black Power movement. | Judge2: The generated answer contains an unsupported claim, as there is no information in the given context about an African-American activist named Allen Donaldson co-founding the Black Power movement.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 51,
+    "question": "What Australian Electoral Division in New South Wales created in 1906 covers suburbs like Alexandria?",
+    "gold_answer": "Division of Cook",
+    "context": [
+      "The Division of North Sydney is an Australian electoral division in the state of New South Wales.  It was proclaimed in 1900 and was one of the original 75 federation divisions contested at the first federal election."
+    ],
+    "generated_answer": "The Australian Electoral Division in New South Wales that covers suburbs like Alexandria is Grayndler.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4258527755737305,
+    "mean_prob": 0.7664216756820679,
+    "min_prob": 0.21369390189647675,
+    "sds": 0.709406852722168,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer mentions Grayndler, which is not supported by the context. The context only mentions the Division of North Sydney, but does not provide information about Grayndler or the Division of Cook, which is the correct answer according to the gold reference. | Judge2: The generated answer mentions Grayndler, which is not supported by the context. The context only mentions the Division of North Sydney, but does not provide information about Grayndler or the Division of Cook, which is the correct answer according to the gold reference.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 52,
+    "question": "Mamie Gummer played the role of Nancy Crozier on the TV series airing on what network?",
+    "gold_answer": "CBS",
+    "context": [
+      "Mary Willa \"Mamie\" Gummer (born August 3, 1983) is an American actress.  She starred in the title role of The CW series \"Emily Owens, M.D.\" (2012–13), and played the recurring role of Nancy Crozier on \"The Good Wife\" (2010–15).  She has also appeared in the films \"Evening\" (2007), \"Side Effects\" (2013), \"Cake\" (2014), and \"Ricki and the Flash\" (2015).  She was nominated for the 2016 Drama Desk Award for Outstanding Actress in a Play for the original production of \"Ugly Lies the Bone\"."
+    ],
+    "generated_answer": "Mamie Gummer played the recurring role of Nancy Crozier on \"The Good Wife\" which aired on The CW's rival network, CBS.",
+    "degradation_mode": "k1",
+    "perplexity": 1.55616295337677,
+    "mean_prob": 0.7772226929664612,
+    "min_prob": 0.006853493861854076,
+    "sds": 0.7787036895751953,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer contains a correct factual claim about the network, and also provides additional context that is consistent with the retrieved context. | Judge2: The generated answer contains a correct factual claim about the network, and also provides additional context that is consistent with the retrieved context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 53,
+    "question": "Who is an Australian philosopher that inspired Living High and Letting Die?",
+    "gold_answer": "Peter Singer",
+    "context": [
+      "Martin Heidegger ( ; ] ; 26 September 188926 May 1976) was a German philosopher and a seminal thinker in the Continental tradition and philosophical hermeneutics.  According to the \"Internet Encyclopedia of Philosophy\", he is \"widely acknowledged to be one of the most original and important philosophers of the 20th century\".  Heidegger is best known for his contributions to phenomenology and existentialism, though as the \"Stanford Encyclopedia of Philosophy\" cautions, \"his thinking should be identified as part of such philosophical movements only with extreme care and qualification\"."
+    ],
+    "generated_answer": "Unfortunately, the context provided does not mention an Australian philosopher who inspired \"Living High and Letting Die.\" However, based on general knowledge, the book \"Living High and Letting Die: Our Illusion of Intentional Action\" is associated with the Australian philosopher Derek Parfit.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5135481357574463,
+    "mean_prob": 0.7427718043327332,
+    "min_prob": 0.13998955488204956,
+    "sds": 1.1009551286697388,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about the context not mentioning an Australian philosopher, which is not true. The context does not provide any information about the book 'Living High and Letting Die' or its inspiration. | Judge2: The generated answer contains an unsupported claim about the context not mentioning an Australian philosopher, which is not true. The context does not provide any information about the book 'Living High and Letting Die' or its inspiration.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 54,
+    "question": "The Toyota FJ Cruiser is built by this Toyota subsidiary which is a leading producer of what type of trucks in Asia?",
+    "gold_answer": "medium and heavy-duty diesel trucks",
+    "context": [
+      "The Toyota FJ Cruiser is a retro style, mid-size SUV with styling and off road performance reminiscent of the original Toyota Land Cruiser (FJ40).  Introduced as a concept car at the January 2003 North American International Auto Show, the FJ Cruiser was approved for production after positive consumer response and debuted at the January 2005 North American International Auto Show in final production form.  The FJ Cruiser is built by Toyota subsidiary Hino Motors in Hamura, Japan since 2006 and shares many structural underpinnings with the Toyota Land Cruiser Prado.  On 5 November 2013, Toyota USA announced the 2014 model year Trail Teams edition would be called the \"Ultimate Edition\" and that the 2014 model year would be the last for the FJ Cruiser in that market.  It continued to be made for sale in other markets such as Australia and the Middle East until its production was discontinued in 2016."
+    ],
+    "generated_answer": "The Toyota FJ Cruiser is built by Hino Motors, a Toyota subsidiary that is a leading producer of trucks in Asia.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2392021417617798,
+    "mean_prob": 0.8595619201660156,
+    "min_prob": 0.16843384504318237,
+    "sds": 0.8108977675437927,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer is fully supported by the context and matches the gold answer. | Judge2: The generated answer is fully supported by the context and matches the gold answer.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 55,
+    "question": "Where was the device that is similar to Princess max released?",
+    "gold_answer": "Bandai",
+    "context": [
+      "Amazing Princess Sarah is an indie platform-adventure video game developed and released by Haruneko for the Xbox 360's Xbox Live Indie Games, the PC Windows (Steam and Desura), and Windows Phone 7/8 platforms in 2014.  On June 17 of 2015, it was announced that the game was selected to become a part of Microsoft's ID@Xbox program."
+    ],
+    "generated_answer": "The device that is similar to Princess Sarah is the Xbox 360.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7253865003585815,
+    "mean_prob": 0.6198720335960388,
+    "min_prob": 0.33341437578201294,
+    "sds": 0.781680703163147,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as there is no mention of a device similar to Princess Sarah being released on any platform. | Judge2: The generated answer contains an unsupported claim, as there is no mention of a device similar to Princess Sarah being released on any platform.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 56,
+    "question": "What is the main flavor of both soft drinks, Solo from Norway, and Sunkist?",
+    "gold_answer": "orange",
+    "context": [
+      "Solo is an orange-flavoured soft drink, owned by the Norwegian companies Ringnes, Oskar Sylte, Aass, and Mack.  The recipe was originally Spanish, and brought to the Tønsberg Bryggeri by Torleif Gulliksrud in 1934.  Solo quickly became Norway's most popular soft drink, and until the 1960s was bigger than Coca-Cola in Norway.  In 1999, Pepsi passed Solo in market share, leaving Solo as third most popular."
+    ],
+    "generated_answer": "The main flavor of both Solo from Norway and Sunkist is orange.",
+    "degradation_mode": "k1",
+    "perplexity": 1.127096176147461,
+    "mean_prob": 0.9059628248214722,
+    "min_prob": 0.4351467490196228,
+    "sds": 0.9235599637031555,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer matches the gold answer and is supported by the context. | Judge2: The generated answer matches the gold answer and is supported by the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 57,
+    "question": "Which of Darren Aronofsky's movies is based on a Russian ballet?",
+    "gold_answer": "Swan Lake",
+    "context": [
+      "Konstantin Derzhavin (, Batumi – 2 November 1956, Leningrad) was a Russian literary and theater critic, translator, and writer.  He wrote the libretto to Aram Khachaturian's ballet \"Gayane\".  His wife was the ballerina Nina Aleksandrovna Anisimova."
+    ],
+    "generated_answer": "I couldn't find any information that suggests Darren Aronofsky's movie is based on a Russian ballet.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5026606321334839,
+    "mean_prob": 0.7283254861831665,
+    "min_prob": 0.19866949319839478,
+    "sds": 0.9309273958206177,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer fails to answer the question as it does not provide any information about Darren Aronofsky's movies. | Judge2: The generated answer fails to answer the question as it does not provide any information about Darren Aronofsky's movies.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 58,
+    "question": "Is the Pakistan fast bowler who joined the Kent County Cricket Club in June, 2011 a left-hand or right-hand batsmans?",
+    "gold_answer": "right-hand",
+    "context": [
+      "Junaid Khan (Pashto/Urdu: ‎ ; born 24 December 1989, Swabi District) is a Pakistani international cricketer who bowls left arm fast.  He is the first player from Swabi to qualify for the Pakistan national cricket team, and his cousin, the leg-spinner Yasir Shah, followed his path later on."
+    ],
+    "generated_answer": "The information provided does not mention the Pakistan fast bowler joining the Kent County Cricket Club in June 2011. However, based on the context, the Pakistan fast bowler in question, Junaid Khan, is a left arm fast bowler.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5091925859451294,
+    "mean_prob": 0.7382902503013611,
+    "min_prob": 0.16016943752765656,
+    "sds": 0.6868836283683777,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about the Pakistan fast bowler joining the Kent County Cricket Club in June 2011, which is not mentioned in the context. | Judge2: The generated answer contains an unsupported claim about the Pakistan fast bowler joining the Kent County Cricket Club in June 2011, which is not mentioned in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 59,
+    "question": "When did the party inspired by Cacareco begin in Canada?",
+    "gold_answer": "1960s",
+    "context": [
+      "The Canadian Party of Labour was a Marxist-Leninist political party in Canada.  The CPL was not an electoral party, as such, but a revolutionary party attempting to assemble a mass movement of workers and affiliated organizations who could lead a Communist revolution.  It was a fraternal party of the Progressive Labor Party in the United States until about 1979 when the two organizations disagreed over the question of self-determination for Québec.  The group was in existence from the late 1960s to the early 1990s and was most active in British Columbia Québec and Ontario where a number of its members achieved office in the United Steel Workers of America and the Canadian Union of Postal Workers."
+    ],
+    "generated_answer": "The Canadian Party of Labour was not inspired by Cacareco, but rather the context does not mention Cacareco at all.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7847957611083984,
+    "mean_prob": 0.6677871942520142,
+    "min_prob": 0.05197800695896149,
+    "sds": 1.0063230991363525,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as it mentions Cacareco, which is not mentioned in the context. | Judge2: The generated answer contains an unsupported claim, as it mentions Cacareco, which is not mentioned in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 60,
+    "question": "Musical artist Diabolic and Vinnie Paz, who was featured on Diabolic's second studio album Fightin' Words, are both what type of musicians?",
+    "gold_answer": "rapper",
+    "context": [
+      "Paz is known for his raw and gritty lyrical delivery.  His lyrics frequently contain references to religion, war, politics, mythology, conspiracy theories, and the paranormal.  His more recent albums such as \"Servants in Heaven Kings in Hell\" show a more obvious approach to politics and world issues.  This gritty style of Paz became apparent with the release of \"Violent by Design\", and has become progressively more defined since its release.  Vinnie Paz has a number of aliases, such as: Ikon the Verbal Hologram, Louie Doggs, Boxcutter Pazzy, Pack Pistol Pazzy, Hologram, Paz, Vinnie P, The Pazmanian Devil, Odrama Vin Laden, Ikon The Python, and Pazienza.  Raised Catholic, Vinnie Paz is now a Muslim, which plays a major role in much of his lyrics, often controversially, as on Heavenly Divine, where he rapped \"I'm with Allah 'cause he chose me, I broke into the Vatican, strangled The Pope with his rosary.\"  Vinnie is also a heavy metal fan, and occasionally uses song titles and band names in JMT tracks and lyrics."
+    ],
+    "generated_answer": "Vinnie Paz and Diabolic are rappers.",
+    "degradation_mode": "k1",
+    "perplexity": 1.317121148109436,
+    "mean_prob": 0.8353711366653442,
+    "min_prob": 0.27618512511253357,
+    "sds": 0.8934983611106873,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer directly matches the gold answer and is supported by the context, specifically mentioning Vinnie Paz's involvement in the music industry as a rapper. | Judge2: The generated answer directly matches the gold answer and is supported by the context, specifically mentioning Vinnie Paz's involvement in the music industry as a rapper.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 61,
+    "question": "Which rugby league team which Rory Kostjasyn played for is based in Melbourne, Victoria?",
+    "gold_answer": "Melbourne Storm",
+    "context": [
+      "Marika Koroibete (born 26 July 1992) is a Fijian-Australian rugby footballer and a dual-code international.  He has been capped for Australia's national rugby union team, and currently plays as a winger for the Melbourne Rebels in Super Rugby.  Koroibete previously played rugby league for the Melbourne Storm and Wests Tigers of the National Rugby League, and was a member of the Fijian national rugby league team."
+    ],
+    "generated_answer": "The rugby league team mentioned in the context is the Melbourne Storm.",
+    "degradation_mode": "k1",
+    "perplexity": 1.8558473587036133,
+    "mean_prob": 0.6297855377197266,
+    "min_prob": 0.1453409343957901,
+    "sds": 1.0578604936599731,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as it mentions Rory Kostjasyn, who is not mentioned in the context. | Judge2: The generated answer contains an unsupported claim, as it mentions Rory Kostjasyn, who is not mentioned in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 62,
+    "question": "What multinational professional services firm, headquartered in London, England, is one of the \"Big Four\" accounting firms and is also a tenant in InfoPark, Kochi?",
+    "gold_answer": "Ernst & Young",
+    "context": [
+      "The Big Four law firms (四大法律事務所 , \"yondai hōritsu jimusho\" ) or the Big Four (四大 , \"yondai\" ) is a term informally used in Japan to refer to those firms which, collectively, are perceived to be the largest firms headquartered in Japan and distinguished in comparison to their other competitors.  The Big Four firms are:"
+    ],
+    "generated_answer": "Deloitte is a multinational professional services firm headquartered in London, England, and is one of the \"Big Four\" accounting firms.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2245631217956543,
+    "mean_prob": 0.8593056797981262,
+    "min_prob": 0.2738688290119171,
+    "sds": 1.0630370378494263,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer does not mention Ernst & Young, which is the correct answer according to the context. | Judge2: The generated answer does not mention Ernst & Young, which is the correct answer according to the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 63,
+    "question": "At what frequency an academic journal publishes which covers numerical and computational techniques to reduce any substantial losses or gains suffered by an individual or an organization?",
+    "gold_answer": "quarterly",
+    "context": [
+      "The Journal of Modern Applied Statistical Methods is a biannual peer-reviewed open access journal.  It was established in 2002 by Shlomo Sawilowsky, and is currently published by the Wayne State University Library System in Detroit, MI.  The \"Current Index to Statistics\" classifies it as one of over 160 core statistics journals.  The journal originally appeared as a print and electronic journal through volume 8(1) in 2009, and subsequently as an electronic journal only.  It publishes peer-reviewed work pertaining to new statistical tests and the comparison of existing statistical tests; bootstrap, Jackknife, and resampling methods; nonparametric, robust, permutation, exact, and approximate randomization methods; and statistical algorithms, pseudorandom number generators, and simulation techniques.  The journal is indexed in the Elsevier Bibliographic Database, EMBASE, Compendex, Geobase, PsycINFO, ScienceDirect, and Scopus.  It is also listed in the \"Encyclopedia of Measurement and Statistics\" and Cabells."
+    ],
+    "generated_answer": "The Journal of Modern Applied Statistical Methods is a biannual peer-reviewed open access journal.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1502598524093628,
+    "mean_prob": 0.894286572933197,
+    "min_prob": 0.32896068692207336,
+    "sds": 0.6603899002075195,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer does not cover numerical and computational techniques to reduce losses or gains, and it does not mention the frequency of publication of such a journal. | Judge2: The generated answer does not cover numerical and computational techniques to reduce losses or gains, and it does not mention the frequency of publication of such a journal.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 64,
+    "question": "which actress was a notable practitioner at the white bear theatre and is also known for playing the role of melanie owen in the BBC one soap opera \"eatenders\"?",
+    "gold_answer": "Tamzin Outhwaite",
+    "context": [
+      "Tamzin Maria Outhwaite ( ; born 5 November 1970) is a British actress from London.  Since coming to national notice playing Melanie Owen in the BBC One soap opera \"EastEnders\" from 1998 until 2002, she has since starred in both theatre and television productions, including army series \"Red Cap\" and crime drama \"New Tricks\"."
+    ],
+    "generated_answer": "Tamzin Outhwaite is a notable practitioner at the White Bear Theatre and is known for playing the role of Melanie Owen in the BBC One soap opera \"EastEnders\".",
+    "degradation_mode": "k1",
+    "perplexity": 1.210615634918213,
+    "mean_prob": 0.9007852077484131,
+    "min_prob": 0.04253802075982094,
+    "sds": 0.620449423789978,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer matches the gold answer and is fully supported by the context. | Judge2: The generated answer matches the gold answer and is fully supported by the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 65,
+    "question": "Which documentary film was released first Tar Creek or Volcanic Sprint?",
+    "gold_answer": "Volcanic Sprint",
+    "context": [
+      "Tar Creek is a 2009 feature-length environmental documentary about the Tar Creek Superfund Site, which at one time was considered the worst environmental disaster in the United States.  It was directed Matt Myers, who also wrote the film's script and served as its narrator."
+    ],
+    "generated_answer": "There is not enough information to determine the release order between Tar Creek and Volcanic Sprint, as Volcanic Sprint is not mentioned in the provided context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5330746173858643,
+    "mean_prob": 0.7418217658996582,
+    "min_prob": 0.09866528958082199,
+    "sds": 1.1539545059204102,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, 'as Volcanic Sprint is not mentioned in the provided context', which is true, but it fails to answer the question about the release order of the two documentaries. | Judge2: The generated answer contains an unsupported claim, 'as Volcanic Sprint is not mentioned in the provided context', which is true, but it fails to answer the question about the release order of the two documentaries.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 66,
+    "question": "The pavilion that the Biergarten Restaurant is a part of is in between which other pavilions at Epcot's World Showcase?",
+    "gold_answer": "Chinese and Italian pavilions",
+    "context": [
+      "Biergarten Restaurant is one of two restaurants in the Germany Pavilion at Epcot's World Showcase at Walt Disney World Resort in Florida.  The restaurant is styled as a typical Bavarian village, replete with the flags of every German state, numerous facades, and a running watermill.  The table features long communal benches for seating, as well as a band playing German folk music.  The restaurant is buffet-style, offering such dishes as schnitzel, bratwurst, kielbasa, rouladen, spatzle, sauerkraut, sauerbraten, cucumber salad, and strudel."
+    ],
+    "generated_answer": "The Biergarten Restaurant is located in the Germany Pavilion, which is situated between the Italy Pavilion and the United States Pavilion at Epcot's World Showcase.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3131154775619507,
+    "mean_prob": 0.830595850944519,
+    "min_prob": 0.1327654868364334,
+    "sds": 0.5952756404876709,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer incorrectly states that the Germany Pavilion is situated between the Italy Pavilion and the United States Pavilion, whereas the gold answer states it is between the Chinese and Italian pavilions. | Judge2: The generated answer incorrectly states that the Germany Pavilion is situated between the Italy Pavilion and the United States Pavilion, whereas the gold answer states it is between the Chinese and Italian pavilions.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 67,
+    "question": "Who was the football manager that played in the Football League Cup in 1985 and managed to lead the Birmingham City Football Club's 103rd season to finish in the 18th position?",
+    "gold_answer": "Stephen Roger \"Steve\" Bruce",
+    "context": [
+      "This chronological list of managers of Birmingham City Football Club comprises all those who have held the position of manager of the first team of Birmingham City and its predecessors \"Small Heath\" and \"Birmingham\" since the club was first admitted to the Football League in 1892.  Each manager's entry includes his dates of tenure and the club's overall competitive record (in terms of matches won, drawn and lost), honours won and significant achievements while under his care.  Caretaker managers are included, where known, as well as those who have been in permanent charge."
+    ],
+    "generated_answer": "The answer is Jim Smith.",
+    "degradation_mode": "k1",
+    "perplexity": 2.943126916885376,
+    "mean_prob": 0.49343928694725037,
+    "min_prob": 0.07030701637268066,
+    "sds": 1.3825726509094238,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as the context does not provide information about Jim Smith managing Birmingham City Football Club in 1985 or leading the team to finish in the 18th position. | Judge2: The generated answer contains an unsupported claim, as the context does not provide information about Jim Smith managing Birmingham City Football Club in 1985 or leading the team to finish in the 18th position.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 68,
+    "question": "How many episodes were in the original run of the HBO show that Kristin Davis played the character Charlotte York Goldenblatt?",
+    "gold_answer": "94",
+    "context": [
+      "The first season of the American television comedy series The Golden Girls originally aired on NBC in the United States between September 14, 1985 and May 10, 1986.  Created by television writer Susan Harris, the series was produced by Witt/Thomas/Harris Productions and Touchstone Television.  It stars Bea Arthur, Rue McClanahan, Betty White, and Estelle Getty as the main characters Dorothy Zbornak, Blanche Devereaux, Rose Nylund, and Sophia Petrillo.  The series revolves around the lives of four elderly women living together in a house in Miami."
+    ],
+    "generated_answer": "There is no information in the given context about an HBO show featuring Kristin Davis as Charlotte York Goldenblatt. However, Kristin Davis played the character Charlotte York Goldenblatt in the HBO series Sex and the City, which is a different show.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4788079261779785,
+    "mean_prob": 0.7555409073829651,
+    "min_prob": 0.09545107930898666,
+    "sds": 1.0447063446044922,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about the number of episodes, as the context does not provide information about the HBO show featuring Kristin Davis as Charlotte York Goldenblatt. | Judge2: The generated answer contains an unsupported claim about the number of episodes, as the context does not provide information about the HBO show featuring Kristin Davis as Charlotte York Goldenblatt.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 69,
+    "question": "The Sophia Amalia was named after the wife of a king that ruled which two countries in 1648?",
+    "gold_answer": "Denmark and Norway",
+    "context": [
+      "Maria Amalia of Austria (26 February 1746 – 18 June 1804) was the Duchess of Parma, Piacenza and Guastalla by marriage.  Maria Amalia was a daughter of Empress Maria Theresa and Emperor Francis I.  She was thus younger sister to Joseph II, Holy Roman Emperor and older sister to Leopold II, Holy Roman Emperor, Maria Carolina, Queen of Naples and Marie Antoinette, Queen of France."
+    ],
+    "generated_answer": "The Sophia Amalia was named after Sophia Amalia of Nassau, the wife of Frederick William I of Prussia, who ruled Prussia and Brandenburg in 1648.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3939130306243896,
+    "mean_prob": 0.7749480605125427,
+    "min_prob": 0.08989469707012177,
+    "sds": 0.8402257561683655,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as Sophia Amalia of Nassau was the wife of Frederick William I of Prussia, but the question asks for the king who ruled Denmark and Norway in 1648. | Judge2: The generated answer contains an unsupported claim, as Sophia Amalia of Nassau was the wife of Frederick William I of Prussia, but the question asks for the king who ruled Denmark and Norway in 1648.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 70,
+    "question": "What was the nickname of the 76er who was drafted 3rd in the 2014 draft? ",
+    "gold_answer": "The Process",
+    "context": [
+      "The 1963 NBA draft was the 17th annual draft of the National Basketball Association (NBA).  The draft was held on April 30 and May 7, 1963, before the 1963–64 season.  In this draft, nine NBA teams took turns selecting amateur U.S. college basketball players.  A player who had finished his four-year college eligibility was eligible for selection.  If a player left college early, he would not be eligible for selection until his college class graduated.  In each round, the teams select in reverse order of their win–loss record in the previous season.  Before the draft, a team could forfeit its first-round draft pick and then select any player from within a 50-mile radius of its home arena as their territorial pick.  The Chicago Zephyrs relocated to Baltimore and became the Baltimore Bullets prior to the draft.  The Syracuse Nationals participated in the draft, but relocated to Philadelphia and became the Philadelphia 76ers prior to the start of the season.  The draft consisted of 15 rounds comprising 84 players selected.  <br> This draft holds the record for the least number of non-territorial picks who later debuted in the NBA, with 17 (18 if the territorial pick Tom Thacker is included)."
+    ],
+    "generated_answer": "I can't answer that question. The text does not mention the 2014 draft or any player drafted in that year.",
+    "degradation_mode": "k1",
+    "perplexity": 1.8781794309616089,
+    "mean_prob": 0.5880868434906006,
+    "min_prob": 0.20027992129325867,
+    "sds": 0.9990987181663513,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim and invented detail, as it mentions the 2014 draft and a player drafted in that year, which is not mentioned in the context. | Judge2: The generated answer contains an unsupported claim and invented detail, as it mentions the 2014 draft and a player drafted in that year, which is not mentioned in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 71,
+    "question": "Which team did Lars Lunde play for when defeated for the 1987 European Cup Final?",
+    "gold_answer": "Bayern Munich of West Germany",
+    "context": [
+      "Lars Lunde (born 21 March 1964) is a Danish former professional football player, who played in the striker position.  Lunde got his breakthrough with Brøndby IF in 1983, and he made his debut for the Denmark national football team in October 1983.  He was sold to Young Boys Bern in Switzerland, before moving to German club Bayern Munich in 1986.  He was a part of the Bayern team which won the German Bundesliga championship in 1987, and he came on as a late substitute when Bayern lost the 1987 European Cup Final to FC Porto.  He played the last of his three matches for the Danish national team in April 1987, before leaving Bayern during the 1987–88 season.  He went on to play for a number of smaller clubs, ending his career with FC Baden in Switzerland."
+    ],
+    "generated_answer": "Lars Lunde played for Bayern Munich when they lost the 1987 European Cup Final to FC Porto.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1455707550048828,
+    "mean_prob": 0.9151462316513062,
+    "min_prob": 0.1651165932416916,
+    "sds": 0.5695498585700989,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer accurately reflects the information in the context, including the team Lars Lunde played for and the outcome of the 1987 European Cup Final. | Judge2: The generated answer accurately reflects the information in the context, including the team Lars Lunde played for and the outcome of the 1987 European Cup Final.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 72,
+    "question": "Which was founded first, Dain Rauscher Wessels or Berenberg Bank?",
+    "gold_answer": "Dain Rauscher Wessels",
+    "context": [
+      "Dain Rauscher Wessels was a brokerage and investment banking firm based in Minneapolis, Minnesota.  The firm traced its origins to a number of smaller regional securities firms founded in the 1920s and 1930s."
+    ],
+    "generated_answer": "Unfortunately, the context does not provide information about the founding of Berenberg Bank.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7125544548034668,
+    "mean_prob": 0.6619117259979248,
+    "min_prob": 0.1374817043542862,
+    "sds": 1.2507383823394775,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about the context not providing information about the founding of Berenberg Bank, but it does not address the question of which was founded first, Dain Rauscher Wessels or Berenberg Bank. | Judge2: The generated answer contains an unsupported claim about the context not providing information about the founding of Berenberg Bank, but it does not address the question of which was founded first, Dain Rauscher Wessels or Berenberg Bank.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 73,
+    "question": "In addition to his role in The Fattest Man in Britain, Bobby Ball is best known for his half of the doublt act Cannon and Ball with which other comedian?",
+    "gold_answer": "Tommy Cannon",
+    "context": [
+      "Robert Harper, known professionally as Bobby Ball (born 28 January 1944), is an English comedian, actor and singer.  He is best known as one half of the double act Cannon and Ball, with Tommy Cannon.  They hosted their own ITV show \"The Cannon and Ball Show\" for nine years between 1979 and 1988.  Ball has since gone on to star in various sitcoms and dramas including \"Last of the Summer Wine\", \"Heartbeat\" and \"Not Going Out\"."
+    ],
+    "generated_answer": "Bobby Ball is best known for his half of the double act Cannon and Ball with Tommy Cannon.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1551241874694824,
+    "mean_prob": 0.9100934863090515,
+    "min_prob": 0.1647336184978485,
+    "sds": 0.6160483360290527,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer matches the gold answer and is supported by the context. | Judge2: The generated answer matches the gold answer and is supported by the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 74,
+    "question": "Is Chicago Rockford International Airport or McClellan–Palomar Airport closer to their nearest cities?",
+    "gold_answer": "McClellan–Palomar Airport",
+    "context": [
+      "Chicago Rockford International Airport (IATA: RFD, ICAO: KRFD, FAA LID: RFD) , is an international airport located in Winnebago County, Illinois.  It is located four miles (6 km) south of the city center of Rockford and 85 miles northwest of Chicago.  Established in 1946, Chicago-Rockford International Airport is the busiest airport in Northern Illinois (with the exception of Chicago O'Hare and Chicago Midway).  In 2016, the airport served nearly 102,000 passengers."
+    ],
+    "generated_answer": "I'm not able to answer your question as it doesn't mention McClellan–Palomar Airport.",
+    "degradation_mode": "k1",
+    "perplexity": 1.9629113674163818,
+    "mean_prob": 0.6532790064811707,
+    "min_prob": 0.12299211323261261,
+    "sds": 1.134745717048645,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as it implies that the question is incomplete or missing information about McClellan–Palomar Airport. | Judge2: The generated answer contains an unsupported claim, as it implies that the question is incomplete or missing information about McClellan–Palomar Airport.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 75,
+    "question": "Arnold Richards was the former chair of what organization that is a member of the Center for Jewish History?",
+    "gold_answer": "YIVO",
+    "context": [
+      "Maurice Davis (December 15, 1921 – December 14, 1993) was a rabbi, and activist.  He served on the President's Commission on Equal Opportunity, in the Lyndon B. Johnson Administration and was a director of the American Family Foundation, now known as the International Cultic Studies Association.  Davis was the rabbi of the Jewish Community Center of White Plains, New York and a regular contributor to \"The Jewish Post and Opinion\"."
+    ],
+    "generated_answer": "Unfortunately, the provided context does not mention Arnold Richards or his affiliation with any organization that is a member of the Center for Jewish History.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4380767345428467,
+    "mean_prob": 0.7566635012626648,
+    "min_prob": 0.31188252568244934,
+    "sds": 0.8993493914604187,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as Arnold Richards and his affiliation with an organization that is a member of the Center for Jewish History are not mentioned in the context. | Judge2: The generated answer contains an unsupported claim, as Arnold Richards and his affiliation with an organization that is a member of the Center for Jewish History are not mentioned in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 76,
+    "question": "The series in which Sharon Gless played Debbie Novotny was developed and written by who?",
+    "gold_answer": "Ron Cowen and Daniel Lipman",
+    "context": [
+      "Rebecca Ryan (born 27 April 1991) is an English actress.  She attended St Monica's High School in Manchester.  Ryan is best known for playing the role of Debbie Gallagher in the Channel 4 comedy drama series \"Shameless\" from 2004 to 2009 and as Vicki MacDonald in the BBC school-based drama series, \"Waterloo Road\" from 2009 to 2011.  She has appeared in the UK tour of \"Beryl\", written by her former \"Shameless\" co-star, Maxine Peake, who played Veronica Ball."
+    ],
+    "generated_answer": "There is not enough information in the provided context to answer the question about the series in which Sharon Gless played Debbie Novotny.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4691108465194702,
+    "mean_prob": 0.7506645917892456,
+    "min_prob": 0.15745452046394348,
+    "sds": 1.0013439655303955,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as it mentions Sharon Gless and Debbie Novotny, which are not mentioned in the provided context. | Judge2: The generated answer contains an unsupported claim, as it mentions Sharon Gless and Debbie Novotny, which are not mentioned in the provided context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 77,
+    "question": "What golf course, located in Fulton County, Georgia, saw Keegan Bradley win a championship?",
+    "gold_answer": "Highlands Course",
+    "context": [
+      "The 1945 PGA Championship was the 27th PGA Championship, held July 9–15 at Moraine Country Club in Kettering, Ohio, a suburb south of Dayton.  Then a match play championship, Byron Nelson won 4 & 3 in the final over Sam Byrd, a former major league baseball player."
+    ],
+    "generated_answer": "The question does not provide information about a golf course in Fulton County, Georgia, where Keegan Bradley won a championship. However, the 2011 PGA Championship was held at Atlanta Athletic Club in Johns Creek, Georgia, a suburb of Atlanta, which is in Fulton County.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3996273279190063,
+    "mean_prob": 0.7701156735420227,
+    "min_prob": 0.12971752882003784,
+    "sds": 0.9489495754241943,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about the golf course in Fulton County, Georgia, where Keegan Bradley won a championship, and it also mentions the 2011 PGA Championship, which is not relevant to the question. | Judge2: The generated answer contains an unsupported claim about the golf course in Fulton County, Georgia, where Keegan Bradley won a championship, and it also mentions the 2011 PGA Championship, which is not relevant to the question.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 78,
+    "question": "When was the designer of the Disneyland attraction with variants in California, France, Hong Kong, Tokyo, and the Tomorrowland Speedway born?",
+    "gold_answer": "born October 25, 1931",
+    "context": [
+      "Autopia is a Disneyland attraction, in which patrons steer specially designed cars through an enclosed track.  Versions of Autopia exist at Anaheim, California and Disneyland Paris in Marne-la-Vallée, France.  There was also an Autopia at Hong Kong Disneyland on Lantau Island, Hong Kong before it closed on June 11, 2016.  Other versions of the attraction can be found at the Magic Kingdom as the Tomorrowland Speedway and formerly at Tokyo Disneyland as the Grand Circuit Raceway."
+    ],
+    "generated_answer": "Unfortunately, the context does not provide information about the designer of the Disneyland attraction Autopia.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5655912160873413,
+    "mean_prob": 0.6858150959014893,
+    "min_prob": 0.2113904058933258,
+    "sds": 0.8992274403572083,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about the designer's birthdate, as the context does not provide any information about the designer. | Judge2: The generated answer contains an unsupported claim about the designer's birthdate, as the context does not provide any information about the designer.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 79,
+    "question": "Who is the son of John Button under contract with as a driver?",
+    "gold_answer": "McLaren-Honda",
+    "context": [
+      "John Button (27 July 1943 – 12 January 2014) was an English rallycross driver and the father of 2009 Formula One World Champion Jenson Button.  His best overall results were both in 1976, as the runner-up in the Embassy/RAC-MSA British Rallycross and TEAC/Lydden Rallycross championships."
+    ],
+    "generated_answer": "There is no information in the given context about John Button's son being under contract with any team as a driver.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5284391641616821,
+    "mean_prob": 0.7232808470726013,
+    "min_prob": 0.08374893665313721,
+    "sds": 0.9803677797317505,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about the team under contract with John Button's son as a driver, which is not mentioned in the given context. | Judge2: The generated answer contains an unsupported claim about the team under contract with John Button's son as a driver, which is not mentioned in the given context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 80,
+    "question": "Which American musician and songwriter was born earlier, Adam Duritz or Cherie Currie?",
+    "gold_answer": "Cherie Ann Currie",
+    "context": [
+      "Adam Steffey (born November 24, 1965) is an American mandolin player, best known for playing in the bluegrass and old-time styles.  He spent time as a member of bands such as Alison Krauss & Union Station, Mountain Heart, Lonesome River Band, The Dan Tyminski Band, and the Isaacs.  He is currently a member of The Boxcars.  Adam has also performed with such artists as Kenny Chesney, Clint Black, Vince Gill, Dolly Parton, The Dixie Chicks, James Taylor, Rhonda Vincent, Ronnie Bowman, Jim Mills, and others."
+    ],
+    "generated_answer": "There is no information provided about Adam Duritz's birthdate.",
+    "degradation_mode": "k1",
+    "perplexity": 1.8557292222976685,
+    "mean_prob": 0.6609784364700317,
+    "min_prob": 0.059340398758649826,
+    "sds": 1.2222758531570435,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as it does not address the question about which musician was born earlier, Adam Duritz or Cherie Currie, and instead provides a reason for not knowing Adam Duritz's birthdate. | Judge2: The generated answer contains an unsupported claim, as it does not address the question about which musician was born earlier, Adam Duritz or Cherie Currie, and instead provides a reason for not knowing Adam Duritz's birthdate.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 81,
+    "question": "What are the names of the members of the Detroit-based hip hop duo who has worked with Jason Gilbert?",
+    "gold_answer": "Royce da 5'9\" (Bad) and Eminem (Evil)",
+    "context": [
+      "Jason Gilbert, known by his nickname JG, is a Caymanian record producer and songwriter.  JG has produced for artists including Eminem, Bad Meets Evil, Akon, Christina Aguilera and Taio Cruz."
+    ],
+    "generated_answer": "The Detroit-based hip hop duo that has worked with Jason Gilbert is Bad Meets Evil.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2451852560043335,
+    "mean_prob": 0.8353106379508972,
+    "min_prob": 0.4133235514163971,
+    "sds": 0.8540648221969604,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer is a group name, not the names of the members of the duo. | Judge2: The generated answer is a group name, not the names of the members of the duo.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 82,
+    "question": "The Azad Hind Dal was created by an Indian nationalist whose defiant patriotism made him a hero in India, but whose attempt to rid India of British rule during what war left a troubled legacy?",
+    "gold_answer": "World War II",
+    "context": [
+      "The Azad Hind Dal was a branch of the Indian Independence League that was formed during World War II to take administrative control of the Indian territories to fall to the Indian National Army starting with the latter's Imphal campaign.  The branch was created by Subhas Chandra Bose to replace the Indian Civil Service in areas of British India, and is also thought to have been the nascent concept of a one-party political, bureaucractic and civil administrative system similar to that of the Soviet Union or the Fascist states of the time.  During the brief period that Azad Hind was in possession of small Indian territories around Imphal and Kohima during the U Go offensive between April and May 1944, parties of the Azad Hind Dal were sent along with the INA contingents to take administrative charge and rehabilitation of these areas."
+    ],
+    "generated_answer": "The Azad Hind Dal was created by Subhas Chandra Bose, an Indian nationalist who attempted to rid India of British rule during World War II. His efforts left a complex and troubled legacy in Indian history.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4679208993911743,
+    "mean_prob": 0.8192217946052551,
+    "min_prob": 0.012381728738546371,
+    "sds": 0.6542791724205017,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer accurately reflects the information provided in the context and answers the question. | Judge2: The generated answer accurately reflects the information provided in the context and answers the question.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 83,
+    "question": "Which star of Zork was also the voice of Pac-Man?",
+    "gold_answer": "Martin Ingerman",
+    "context": [
+      "Erica Mendez (born February 13, 1988) is an American voice actress from Chicago, Illinois.  Her first major voice role was the title character Pac-Man in the \"Pac-Man and the Ghostly Adventures\" video game.  She then later voiced the starring character Aladdin in the \"\" series and Ryuko Matoi in the English dub of \"Kill la Kill\", the latter of which was broadcast on the Toonami block on Adult Swim.  Some of her other major roles include Haruka Teno/Sailor Uranus in the Viz Media English dub of \"Sailor Moon\" and Gon Freecss in the Viz Media English dub of the 2011 anime adaptation of \"Hunter x Hunter\".  She studied graphic design in college for three years prior to becoming a voice actress."
+    ],
+    "generated_answer": "There is no information provided in the context about a star of Zork being the voice of Pac-Man.",
+    "degradation_mode": "k1",
+    "perplexity": 1.48497474193573,
+    "mean_prob": 0.7268999814987183,
+    "min_prob": 0.2713123559951782,
+    "sds": 1.0167871713638306,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about a star of Zork being the voice of Pac-Man, which is not mentioned in the context. | Judge2: The generated answer contains an unsupported claim about a star of Zork being the voice of Pac-Man, which is not mentioned in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 84,
+    "question": "The 2011 La Manga Cup was won by Viking, who beat which Norwegian football club from the town of Kristiansand, currently playing in Tippeligaen having been promoted from Adeccoligaen in 2012?",
+    "gold_answer": "IK Start",
+    "context": [
+      "The 2013 season was Tromsø's 11th consecutive year in Tippeligaen, and their 27th season in the top flight of Norwegian football, a run that came to an end as they were relegated to the Adeccoligaen after finishing 15th.  They also participated in the 2013 Norwegian Football Cup, reaching the Fourth Round before defeat to Rosenborg.  They also played in the 2013–14 UEFA Europa League, reaching the Group Stage before finishing bottom behind Tottenham Hotspur, Anzhi Makhachkala and Sheriff Tiraspol.  It was their first season under the management of Agnar Christensen, but he was replaced by Steinar Nilsen on 1 October 2013."
+    ],
+    "generated_answer": "The answer is Odd.",
+    "degradation_mode": "k1",
+    "perplexity": 2.205359697341919,
+    "mean_prob": 0.4919481873512268,
+    "min_prob": 0.3072715997695923,
+    "sds": 1.3586498498916626,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as the 2011 La Manga Cup is not mentioned in the context, and the answer is about a different event. | Judge2: The generated answer contains an unsupported claim, as the 2011 La Manga Cup is not mentioned in the context, and the answer is about a different event.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 85,
+    "question": "What third film in a franchise did Camile Delamarre edit?",
+    "gold_answer": "Transporter 3",
+    "context": [
+      "The Return of Don Camillo (Italian: Il ritorno di Don Camillo) is a 1953 French-Italian comedy film directed by Julien Duvivier and starring Fernandel, Gino Cervi and Édouard Delmont.  The film's sets were designed by Virgilio Marchi.  It was the second of five films featuring Fernandel as the Italian priest Don Camillo and his struggles with Giuseppe 'Peppone' Bottazzi the Communist Mayor of their rural town."
+    ],
+    "generated_answer": "I cannot verify the third film in the Don Camillo franchise that Camile Delamarre edited.",
+    "degradation_mode": "k1",
+    "perplexity": 1.573974370956421,
+    "mean_prob": 0.6904876828193665,
+    "min_prob": 0.2805286645889282,
+    "sds": 0.8475889563560486,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer does not mention the film edited by Camile Delamarre, and the context does not provide information about Camile Delamarre editing any film in the Don Camillo franchise. | Judge2: The generated answer does not mention the film edited by Camile Delamarre, and the context does not provide information about Camile Delamarre editing any film in the Don Camillo franchise.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 86,
+    "question": "Carlos Alberto Hurtado played on loan from a mexican team which plays where?",
+    "gold_answer": "Estadio Victoria",
+    "context": [
+      "Alfredo Rafael Hernández García (born 18 June 1935) is a Mexican football midfielder who played for Mexico in the 1958 and 1962 FIFA World Cups.  He also played for Club León and C.F. Monterrey."
+    ],
+    "generated_answer": "The answer cannot be determined from the given context as there is no information about Carlos Alberto Hurtado.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6587765216827393,
+    "mean_prob": 0.6712878346443176,
+    "min_prob": 0.19330832362174988,
+    "sds": 0.894092857837677,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim as there is no information about Carlos Alberto Hurtado in the given context. | Judge2: The generated answer contains an unsupported claim, as there is no information about Carlos Alberto Hurtado in the given context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 87,
+    "question": "Which TV series directed and written by the same person as \"Buffy the Vampire Slayer\" starred Tahmoh Penikett?",
+    "gold_answer": "Dollhouse",
+    "context": [
+      "Buffy the Vampire Slayer is an American franchise which spans several media and genres.  It began in 1992 with the film \"Buffy the Vampire Slayer\", written by Joss Whedon and directed by Fran Rubel Kuzui, and was resurrected as the television series, \"Buffy the Vampire Slayer\" in 1997.  The show's popularity caused it to spawn a multitude of Expanded Universe tie-in material such as comic books, novels, and video games, as well as a spin-off program entitled \"Angel\".  In 2007, four years after the television series' seventh and final season, \"Buffy the Vampire Slayer\" was officially continued in the comic book \"Season Eight\".  The following is a list of minor recurring characters who appear in the franchise."
+    ],
+    "generated_answer": "I couldn't find any information that links a TV series directed and written by Joss Whedon to Tahmoh Penikett.",
+    "degradation_mode": "k1",
+    "perplexity": 1.490187644958496,
+    "mean_prob": 0.7526293992996216,
+    "min_prob": 0.19214709103107452,
+    "sds": 1.1993743181228638,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer does not contain any unsupported claims and accurately reflects the lack of information linking a TV series directed and written by Joss Whedon to Tahmoh Penikett. | Judge2: The generated answer does not contain any unsupported claims and accurately reflects the lack of information linking a TV series directed and written by Joss Whedon to Tahmoh Penikett.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 88,
+    "question": "Where are the 17th Street Canal and the Beaver and Erie Canal located? ",
+    "gold_answer": "Pennsylvania",
+    "context": [
+      "The Beaver and Erie Canal, also known as the Erie Extension Canal, was part of the Pennsylvania Canal system and consisted of three sections: the Beaver Division, the Shenango Division, and the Conneaut Division.  The canal ran 136 mi north–south near the western edge of the state from the Ohio River to Lake Erie through Beaver County, Lawrence County, Mercer County, Crawford County, and Erie County, Pennsylvania."
+    ],
+    "generated_answer": "The 17th Street Canal and the Beaver and Erie Canal are both located in Pennsylvania.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1723978519439697,
+    "mean_prob": 0.8713094592094421,
+    "min_prob": 0.5479303598403931,
+    "sds": 0.7045013308525085,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer matches the gold answer and is supported by the context. | Judge2: The generated answer matches the gold answer and is supported by the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 89,
+    "question": "Which film, The Happiest Millionaire or Mars Needs Moms, was created first?",
+    "gold_answer": "The Happiest Millionaire",
+    "context": [
+      "Mars Needs Moms is a 2011 American computer-animated film based on the Berkeley Breathed book of the same title.  The film is centered on Milo, a nine-year-old boy who finally comes to understand the importance of family, and has to rescue his mother after she is abducted by Martians.  It was co-written and directed by Simon Wells.  It was released to theaters on March 11, 2011 by Walt Disney Pictures.  The film stars both Seth Green (motion capture) and newcomer Seth Dusky (voice) as Milo.  This was the last film by ImageMovers Digital before it was absorbed back into ImageMovers.  The film grossed $39 million worldwide on a $150 million budget."
+    ],
+    "generated_answer": "The Happiest Millionaire was released in 1967, while Mars Needs Moms was released in 2011, making The Happiest Millionaire the film created first.",
+    "degradation_mode": "k1",
+    "perplexity": 1.325804352760315,
+    "mean_prob": 0.8327077627182007,
+    "min_prob": 0.0658174455165863,
+    "sds": 0.8996229767799377,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer accurately states the release years of both films and correctly concludes that The Happiest Millionaire was created first. | Judge2: The generated answer accurately states the release years of both films and correctly concludes that The Happiest Millionaire was created first.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 90,
+    "question": "This sister company  of Líneas Aéreas Privadas Argentinas is most commonly known by its shortened name Austral?",
+    "gold_answer": "Austral Líneas Aéreas",
+    "context": [
+      "Cielos del Sur S.A., operating as Austral Líneas Aéreas, more commonly known by its shortened name Austral, is a domestic airline of Argentina, the sister company of Aerolíneas Argentinas.  It is the second largest domestic scheduled airline in the country, after Aerolíneas Argentinas itself.  As a subsidiary of Aerolíneas Argentinas, the company shares its headquarters with that airline, which is located in the Aeroparque Jorge Newbery of Buenos Aires, the main base of operations of the company."
+    ],
+    "generated_answer": "Austral is the shortened name of Cielos del Sur S.A., which is the sister company of Aerolíneas Argentinas.",
+    "degradation_mode": "k1",
+    "perplexity": 1.328747272491455,
+    "mean_prob": 0.8236469626426697,
+    "min_prob": 0.07246033847332001,
+    "sds": 0.47544020414352417,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, 'Cielos del Sur S.A., which is the sister company of Aerolíneas Argentinas', as the context states that Cielos del Sur S.A. is the sister company of Aerolíneas Argentinas, but the question asks about the sister company of Líneas Aéreas Privadas Argentinas, which is not mentioned in the context. | Judge2: The generated answer contains an unsupported claim, 'Cielos del Sur S.A., which is the sister company of Aerolíneas Argentinas', as the context states that Cielos del Sur S.A. is the sister company of Aerolíneas Argentinas, but the question asks about the sister company of Líneas Aéreas Privadas Argentinas, which is not mentioned in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 91,
+    "question": "what year did the band that sang Gives You Hell form?",
+    "gold_answer": "1999",
+    "context": [
+      "This Is Hell Demo was the very first physical release of songs recorded by hardcore punk band This Is Hell.  The album was untitled and released on both CD and 7\" vinyl formats, also in Europe on Broken Glasses Records (distributed by NO PANIC!  Records now).  All formats are out of print and difficult to find.  The song \"Wreck Your Life\" was later released on a label sampler cd from Trustkill, the label that This Is Hell later signed to and released their debut full length \"Sundowning,\" but not before a stint on State On Mind Recordings who released their self-titled EP.  On that same song, the opening line of the lyric includes the band's name, and was possibly the inspiration for the name.  The lyric reads: \"Brandon put it best when he told me 'this is hell,' wiser words have never been said.\""
+    ],
+    "generated_answer": "The band's name is \"This Is Hell,\" and the year of its formation is not specified in the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 2.0532782077789307,
+    "mean_prob": 0.5885657072067261,
+    "min_prob": 0.059553030878305435,
+    "sds": 0.8073149919509888,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as the year of the band's formation is not specified in the given context, but the gold answer provides a specific year (1999) which is not mentioned in the context. | Judge2: The generated answer contains an unsupported claim, as the year of the band's formation is not specified in the given context, but the gold answer provides a specific year (1999) which is not mentioned in the context.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 92,
+    "question": "What profession was both John Updike and Bret Easton Ellis ?",
+    "gold_answer": "short story writer",
+    "context": [
+      "John Ellis (4 October 1874 – 20 September 1932) was a British executioner for 23 years, from 1901 to 1924.  His other occupations were as a Rochdale hairdresser and newsagent."
+    ],
+    "generated_answer": "Neither John Updike nor Bret Easton Ellis were executioners.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4571962356567383,
+    "mean_prob": 0.7644450068473816,
+    "min_prob": 0.16199834644794464,
+    "sds": 0.9729459881782532,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim about John Updike and Bret Easton Ellis, and fails to answer the question about their profession. | Judge2: The generated answer contains an unsupported claim about John Updike and Bret Easton Ellis, and fails to answer the question about their profession.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 93,
+    "question": "What annual gathering that inlcudes David Starfire takes place at Black Rock City?",
+    "gold_answer": "Burning Man",
+    "context": [
+      "Black Rock City LLC is the company that organizes the annual Burning Man event ending on Labor Day, on the dry lake of the Black Rock Desert in northwestern Nevada.  Although the organization is largely volunteer-driven, it has a for-profit form.  Its mission states that its efforts are, and its primary goal is, to establish community."
+    ],
+    "generated_answer": "The annual gathering that takes place at Black Rock City is Burning Man, a week-long event that includes music, art, and performances by artists such as David Starfire.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6836930513381958,
+    "mean_prob": 0.6910974979400635,
+    "min_prob": 0.07025929540395737,
+    "sds": 0.6711325645446777,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer accurately describes Burning Man and includes David Starfire, which is supported by the context that Burning Man is a week-long event with music, art, and performances by artists. | Judge2: The generated answer accurately describes Burning Man and includes David Starfire, which is supported by the context that Burning Man is a week-long event with music, art, and performances by artists.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 94,
+    "question": "Who was born first, Martin Degville or Richie Furay?",
+    "gold_answer": "\"Richie\" Furay",
+    "context": [
+      "Édouard Du Puy was born in Corcelles-Cormondrèche, Canton of Neuchâtel, Switzerland, around the year 1770, although sources differ on the exact year.  From the age of four, he was raised by his uncle, a city musician in Geneva, whose last name Edouard later took.  Seeing that his nephew had talent, the uncle made sure that Edouard became a musician of education."
+    ],
+    "generated_answer": "There is no information provided about Martin Degville or Richie Furay in the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.325430154800415,
+    "mean_prob": 0.8029860854148865,
+    "min_prob": 0.20523039996623993,
+    "sds": 1.1066827774047852,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as it does not provide any information about Martin Degville or Richie Furay, and the context is about Édouard Du Puy. | Judge2: The generated answer contains an unsupported claim, as it does not provide any information about Martin Degville or Richie Furay, and the context is about Édouard Du Puy.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 95,
+    "question": "In the USA, gun powder is used in conjunction with this to start the Boomershot.",
+    "gold_answer": "Anvil firing",
+    "context": [
+      "The Boomershoot is a long range precision rifle event held near Orofino, Idaho, each year in late spring.  The targets are filled with explosives at ranges from 375 to .  Shooters are allowed to engage as many targets as they are able during the all-day event.  Nearly every year the amount of explosives has increased; in 2004, the amount of explosives put out for people to shoot was greater than all of the other years combined.  In 2005, new targets were introduced with smaller amounts of explosives to reduce window breakage in the surrounding countryside.  In recent years, the event has also featured an explosive fireball and an Anvil firing to start the event and entertain the participants."
+    ],
+    "generated_answer": "There is no information provided in the context that gunpowder is used to start the Boomershoot event.",
+    "degradation_mode": "k1",
+    "perplexity": 1.439553141593933,
+    "mean_prob": 0.7517147064208984,
+    "min_prob": 0.24138131737709045,
+    "sds": 0.9558317065238953,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as the context does not mention gunpowder being used to start the Boomershoot event. | Judge2: The generated answer contains an unsupported claim, as the context does not mention gunpowder being used to start the Boomershoot event.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 96,
+    "question": "Which of the music composed for Operation Amsterdam originated in the middle of the 19th century in Bohemia, now part of the Czech Republic?",
+    "gold_answer": "Polka",
+    "context": [
+      "The Czech Suite in D major (Czech: \"Česká suita D dur\" ), Op. 39 was composed by Antonín Dvořák in 1879 and published later in his life.  Adolf Čech conducted the premiere."
+    ],
+    "generated_answer": "The Czech Suite in D major, composed by Antonín Dvořák, originated in the middle of the 19th century in Bohemia, now part of the Czech Republic.",
+    "degradation_mode": "k1",
+    "perplexity": 1.128191351890564,
+    "mean_prob": 0.907028079032898,
+    "min_prob": 0.3357813358306885,
+    "sds": 0.6493655443191528,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer accurately describes the origin of The Czech Suite in D major, composed by Antonín Dvořák, in the middle of the 19th century in Bohemia, now part of the Czech Republic. | Judge2: The generated answer accurately describes the origin of The Czech Suite in D major, composed by Antonín Dvořák, in the middle of the 19th century in Bohemia, now part of the Czech Republic.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 97,
+    "question": "Spring Waltz starred the American actor who is known for what 2007 film?",
+    "gold_answer": "My Father",
+    "context": [
+      "Spring Waltz () is a 2006 South Korean television series starring Seo Do-young, Han Hyo-joo, Daniel Henney, and Lee So-yeon.  It aired on KBS2 from March 6 to May 16, 2006 on Mondays and Tuesdays at 21:55 for 20 episodes."
+    ],
+    "generated_answer": "Daniel Henney is the American actor in question. He is known for his role in the 2007 film \"X-Men Origins: Wolverine\".",
+    "degradation_mode": "k1",
+    "perplexity": 1.301902174949646,
+    "mean_prob": 0.8165352940559387,
+    "min_prob": 0.2987998425960541,
+    "sds": 1.4055455923080444,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer claims Daniel Henney is an American actor, but the context states he is part of a South Korean television series, indicating he is likely a South Korean actor. Additionally, the generated answer mentions the 2007 film 'X-Men Origins: Wolverine', which is correct, but it does not answer the question about the 2007 film Daniel Henney is known for. | Judge2: The generated answer claims Daniel Henney is an American actor, but the context states he is part of a South Korean television series, indicating he is likely a South Korean actor. Additionally, the generated answer mentions the 2007 film 'X-Men Origins: Wolverine', which is correct, but it does not answer the question about the 2007 film Daniel Henney is known for.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  },
+  {
+    "id": 98,
+    "question": "Sachem Central School District encompasses the CDPs that include the hamlet in which New York county?",
+    "gold_answer": "Suffolk",
+    "context": [
+      "Sachem Central School District is one of the largest school districts by population on Long Island and among all suburban school districts in New York, United States.  Founded in 1955, the district now encompasses residents of the Census-Designated Places of Holbrook, Holtsville and Farmingville, as well as some parts of Lake Grove, Lake Ronkonkoma, Ronkonkoma, Nesconset, and Bohemia.  As of 2011, its district office is located in Lake Ronkonkoma at Samoset Middle School."
+    ],
+    "generated_answer": "The Sachem Central School District encompasses the Census-Designated Places (CDPs) of Holbrook, Holtsville, and Farmingville. These CDPs are located in Suffolk County, New York.",
+    "degradation_mode": "k1",
+    "perplexity": 1.296690583229065,
+    "mean_prob": 0.8765282034873962,
+    "min_prob": 0.04329000785946846,
+    "sds": 0.8261184692382812,
+    "hallucinated": 0,
+    "llm_judge_label": 0,
+    "llm_judge_reason": "Judge1: The generated answer is fully supported by the context and answers the question. | Judge2: The generated answer is fully supported by the context and answers the question.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 0,
+    "llm_judge2_label": 0
+  },
+  {
+    "id": 99,
+    "question": "Minor league baseball games that were played between the rivalling teams of the Sooners and the Cowboys were played at the stadium formerly known as what?",
+    "gold_answer": "Drillers Stadium",
+    "context": [
+      "The 1924 Oklahoma A&M Cowboys football team represented Oklahoma A&M College in the 1924 college football season.  This was the 24th year of football at A&M and the fourth under John Maulbetsch.  The Cowboys played their home games at Lewis Field in Stillwater, Oklahoma.  They finished the season 6–1–2, 1–1–1 in the Southwest Conference.  This season became the first year OAMC's teams were nicknamed the Cowboys and their final season in the Southwest Conference."
+    ],
+    "generated_answer": "The stadium formerly known as the location of the minor league baseball games between the rival teams of the Sooners and the Cowboys was Lewis Field.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5950469970703125,
+    "mean_prob": 0.6997718214988708,
+    "min_prob": 0.19447143375873566,
+    "sds": 0.905091404914856,
+    "hallucinated": 1,
+    "llm_judge_label": 1,
+    "llm_judge_reason": "Judge1: The generated answer contains an unsupported claim, as there is no information about minor league baseball games between the Sooners and the Cowboys being played at Lewis Field. | Judge2: The generated answer contains an unsupported claim, as there is no information about minor league baseball games between the Sooners and the Cowboys being played at Lewis Field.",
+    "llm_judge_model": "llama-3.1-8b-instant",
+    "llm_judge1_label": 1,
+    "llm_judge2_label": 1
+  }
+]

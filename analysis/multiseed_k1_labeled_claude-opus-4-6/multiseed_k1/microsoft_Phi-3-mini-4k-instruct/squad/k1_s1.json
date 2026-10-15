@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 0,
+    "ds_index": 3280,
+    "question": "How is lap provided by overlapping the admission side port?",
+    "gold_answer": "lengthening rubbing surfaces of the valve",
+    "context": [
+      "An endpoint of a pipe is addressable with a tuple (device_address, endpoint_number) as specified in a TOKEN packet that the host sends when it wants to start a data transfer session. If the direction of the data transfer is from the host to the endpoint, an OUT packet (a specialization of a TOKEN packet) having the desired device address and endpoint number is sent by the host. If the direction of the data transfer is from the device to the host, the host sends an IN packet instead. If the destination endpoint is a uni-directional endpoint whose manufacturer's designated direction does not match the TOKEN packet (e.g. the manufacturer's designated direction is IN while the TOKEN packet is an OUT packet), the TOKEN packet is ignored. Otherwise, it is accepted and the data transaction can start. A bi-directional endpoint, on the other hand, accepts both IN and OUT packets."
+    ],
+    "generated_answer": "Lap is provided by overlapping the admission side port through the bi-directional endpoint, which accepts both IN and OUT packets, allowing data transfer in both directions.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.536770224571228,
+    "mean_prob": 0.7620698809623718,
+    "min_prob": 0.06569812446832657,
+    "sds": 0.9404776692390442,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 1,
+    "ds_index": 220,
+    "question": "Who started at tight end for the Panthers?",
+    "gold_answer": "Greg Olsen",
+    "context": [
+      "Green shored up the 1984 roster with a series of transactions. In December, 1983 Scott Sanderson was acquired from Montreal in a three-team deal with San Diego for Carmelo Mart\u00ednez. Pinch hitter Richie Hebner (.333 BA in 1984) was signed as a free-agent. In spring training, moves continued: LF Gary Matthews and CF Bobby Dernier came from Philadelphia on March 26, for Bill Campbell and a minor leaguer. Reliever Tim Stoddard (10\u20136 3.82, 7 saves) was acquired the same day for a minor leaguer; veteran pitcher Ferguson Jenkins was released."
+    ],
+    "generated_answer": "The context provided does not mention a tight end or the Panthers. It discusses baseball transactions and player movements in 1984.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.6432676315307617,
+    "mean_prob": 0.6761309504508972,
+    "min_prob": 0.15884895622730255,
+    "sds": 1.1256842613220215,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 2,
+    "ds_index": 9004,
+    "question": "Besides 1,3 and 7, what other number must all primes greater than 5 end with?",
+    "gold_answer": "9",
+    "context": [
+      "For any prime number p, there is also the multiplicative group of integers modulo p. Its elements are the integers 1 to p \u2212 1. The group operation is multiplication modulo p. That is, the usual product is divided by p and the remainder of this division is the result of modular multiplication. For example, if p = 5, there are four group elements 1, 2, 3, 4. In this group, 4 \u00b7 4 = 1, because the usual product 16 is equivalent to 1, which divided by 5 yields a remainder of 1. for 5 divides 16 \u2212 1 = 15, denoted"
+    ],
+    "generated_answer": "All primes greater than 5 must end with 1, 3, 7, or 9.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.1137489080429077,
+    "mean_prob": 0.9246051907539368,
+    "min_prob": 0.3293289244174957,
+    "sds": 1.13222074508667,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 3,
+    "ds_index": 7093,
+    "question": "How do academic results in former Model C schools compare to other schools?",
+    "gold_answer": "better",
+    "context": [
+      "Oklahoma City is home to the state's largest school district, Oklahoma City Public Schools. The district's Classen School of Advanced Studies and Harding Charter Preparatory High School rank high among public schools nationally according to a formula that looks at the number of Advanced Placement, International Baccalaureate and/or Cambridge tests taken by the school's students divided by the number of graduating seniors. In addition, OKCPS's Belle Isle Enterprise Middle School was named the top middle school in the state according to the Academic Performance Index, and recently received the Blue Ribbon School Award, in 2004 and again in 2011. KIPP Reach College Preparatory School in Oklahoma City received the 2012 National Blue Ribbon along with its school leader, Tracy McDaniel Sr., being awarded the Terrel H. Bell Award for Outstanding Leadership."
+    ],
+    "generated_answer": "Academic results in former Model C schools, such as KIPP Reach College Preparatory School, have shown significant improvement, as evidenced by their receipt of the 2012 National Blue Ribbon award.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4105216264724731,
+    "mean_prob": 0.8027127385139465,
+    "min_prob": 0.11505318433046341,
+    "sds": 0.8046398758888245,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 4,
+    "ds_index": 1790,
+    "question": "IP and AM are most commonly defined by what type of proof system?",
+    "gold_answer": "Interactive",
+    "context": [
+      "An Internet service provider (ISP) is an organization that provides services for accessing, using, the Internet. Internet service providers may be organized in various forms, such as commercial, community-owned, non-profit, or otherwise privately owned."
+    ],
+    "generated_answer": "IP and AM are most commonly defined by a proof system in the context of cryptography.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.665055751800537,
+    "mean_prob": 0.6823532581329346,
+    "min_prob": 0.1996331512928009,
+    "sds": 1.1164470911026,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 5,
+    "ds_index": 891,
+    "question": "Where did one of Triton's daughters decide she wanted to hang out and stay?",
+    "gold_answer": "coast of Denmark",
+    "context": [
+      "Deciding to give up his lucrative private Boston practice, Bell retained only two students, six-year-old \"Georgie\" Sanders, deaf from birth, and 15-year-old Mabel Hubbard. Each pupil would play an important role in the next developments. George's father, Thomas Sanders, a wealthy businessman, offered Bell a place to stay in nearby Salem with Georgie's grandmother, complete with a room to \"experiment\". Although the offer was made by George's mother and followed the year-long arrangement in 1872 where her son and his nurse had moved to quarters next to Bell's boarding house, it was clear that Mr. Sanders was backing the proposal. The arrangement was for teacher and student to continue their work together, with free room and board thrown in. Mabel was a bright, attractive girl who was ten years Bell's junior, but became the object of his affection. Having lost her hearing after a near-fatal bout of scarlet fever close to her fifth birthday,[N 13] she had learned to read lips but her father, Gardiner Greene Hubbard, Bell's benefactor and personal friend, wanted her to work directly with her teacher."
+    ],
+    "generated_answer": "One of Triton's daughters, Georgie Sanders, decided she wanted to hang out and stay in Salem with her grandmother, where George's father, Thomas Sanders, offered Bell a place to stay.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2205710411071777,
+    "mean_prob": 0.8677568435668945,
+    "min_prob": 0.15355850756168365,
+    "sds": 0.8651748299598694,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 6,
+    "ds_index": 5603,
+    "question": "What was the value of the John Jones Collection when it was left to the museum?",
+    "gold_answer": "\u00a3250,000",
+    "context": [
+      "The exhibits include a collection of royal and other funeral effigies (funeral saddle, helm and shield of Henry V), together with other treasures, including some panels of mediaeval glass, 12th-century sculpture fragments, Mary II's coronation chair and replicas of the coronation regalia, and historic effigies of Edward III, Henry VII and his queen, Elizabeth of York, Charles II, William III, Mary II and Queen Anne."
+    ],
+    "generated_answer": "The value of the John Jones Collection when it was left to the museum is not specified in the provided context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.228647232055664,
+    "mean_prob": 0.8739343285560608,
+    "min_prob": 0.19398388266563416,
+    "sds": 1.0756621360778809,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 7,
+    "ds_index": 2833,
+    "question": "when did the English High court find Microsoft's use of the term \"SkyDrive\" infringed on Sky's right?",
+    "gold_answer": "July 2013",
+    "context": [
+      "In February 2014, Bloomberg reported that Microsoft would be lowering the price of Windows 8 licenses by 70% for devices that retail under US$250; alongside the announcement that an update to the operating system would allow OEMs to produce devices with as little as 1 GB of RAM and 16 GB of storage, critics felt that these changes would help Windows compete against Linux-based devices in the low-end market, particularly those running Chrome OS. Microsoft had similarly cut the price of Windows XP licenses to compete against the early waves of Linux-based netbooks. Reports also indicated that Microsoft was planning to offer cheaper Windows 8 licenses to OEMs in exchange for setting Internet Explorer's default search engine to Bing. Some media outlets falsely reported that the SKU associated with this plan, \"Windows 8.1 with Bing\", was a variant which would be a free or low-cost version of Windows 8 for consumers using older versions of Windows. On April 2, 2014, Microsoft ultimately announced that it would be removing license fees entirely for devices with screens smaller than 9 inches, and officially confirmed the rumored \"Windows 8.1 with Bing\" OEM SKU on May 23, 2014."
+    ],
+    "generated_answer": "The English High Court found Microsoft's use of the term \"SkyDrive\" infringed on Sky's right in 2013.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.1131983995437622,
+    "mean_prob": 0.9276195168495178,
+    "min_prob": 0.17610372602939606,
+    "sds": 1.0666981935501099,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 8,
+    "ds_index": 7883,
+    "question": "What special was created for the show's 30th anniversary?",
+    "gold_answer": "Dimensions in Time",
+    "context": [
+      "Chicago Mayor Richard M. Daley proclaimed August 10, 2005 to be \"House Unity Day\" in Chicago, in celebration of the \"21st anniversary of house music\" (actually the 21st anniversary of the founding of Trax Records, an independent Chicago-based house label). The proclamation recognized Chicago as the original home of house music and that the music's original creators \"were inspired by the love of their city, with the dream that someday their music would spread a message of peace and unity throughout the world\". DJs such as Frankie Knuckles, Marshall Jefferson, Paul Johnson and Mickey Oliver celebrated the proclamation at the Summer Dance Series, an event organized by Chicago's Department of Cultural Affairs."
+    ],
+    "generated_answer": "The special created for the show's 30th anniversary was not mentioned in the provided context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2369526624679565,
+    "mean_prob": 0.8624314665794373,
+    "min_prob": 0.17388571798801422,
+    "sds": 1.1852856874465942,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 9,
+    "ds_index": 7917,
+    "question": "When did Doctor Who win an award for Best Drama Series?",
+    "gold_answer": "2006",
+    "context": [
+      "Television transmissions resumed from Alexandra Palace in 1946. The BBC Television Service (renamed \"BBC tv\" in 1960) showed popular programming, including drama, comedies, documentaries, game shows, and soap operas, covering a wide range of genres and regularly competed with ITV to become the channel with the highest ratings for that week. The channel also introduced the science fiction show Doctor Who on 23 November 1963 - at 17:16 - which went on to become one of Britain's most iconic and beloved television programmes."
+    ],
+    "generated_answer": "Doctor Who won an award for Best Drama Series in 2011.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3151593208312988,
+    "mean_prob": 0.8135607242584229,
+    "min_prob": 0.1890196055173874,
+    "sds": 1.0357502698898315,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 10,
+    "ds_index": 4504,
+    "question": "How many species of Ctenophores have not been fully described or named?",
+    "gold_answer": "possibly another 25",
+    "context": [
+      "As of September 2012, fifty-six species have been delisted; twenty-eight due to recovery, ten due to extinction (seven of which are believed to have been extinct prior to being listed), ten due to changes in taxonomic classification practices, six due to discovery of new populations, one due to an error in the listing rule, and one due to an amendment to the Endangered Species Act specifically requiring the species delisting. Twenty-five others have been down listed from \"endangered\" to \"threatened\" status."
+    ],
+    "generated_answer": "The context does not provide information on Ctenophores, so it cannot be determined how many species have not been fully described or named.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.734066128730774,
+    "mean_prob": 0.7139502167701721,
+    "min_prob": 0.07421321421861649,
+    "sds": 0.9824641346931458,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 11,
+    "ds_index": 964,
+    "question": "How many geomorphologic formations is Warsaw on?",
+    "gold_answer": "two",
+    "context": [
+      "The strategy behind the formation of the Warsaw Pact was driven by the desire of the Soviet Union to dominate Central and Eastern Europe. This policy was driven by ideological and geostrategic reasons. Ideologically, the Soviet Union arrogated the right to define socialism and communism and act as the leader of the global socialist movement. A corollary to this idea was the necessity of intervention if a country appeared to be violating core socialist ideas and Communist Party functions, which was explicitly stated in the Brezhnev Doctrine. Geostrategic principles also drove the Soviet Union to prevent invasion of its territory by Western European powers."
+    ],
+    "generated_answer": "Warsaw is situated on the Vistula River floodplain, which is a geomorphologic formation.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5975067615509033,
+    "mean_prob": 0.705258309841156,
+    "min_prob": 0.1900966763496399,
+    "sds": 1.1086751222610474,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 12,
+    "ds_index": 5930,
+    "question": "When did the FCC begin imposing fin-syn rules?",
+    "gold_answer": "1970",
+    "context": [
+      "On 12 March 2015, the FCC released the specific details of the net neutrality rules. On 13 April 2015, the FCC published the final rule on its new \"Net Neutrality\" regulations."
+    ],
+    "generated_answer": "The FCC began imposing fin-syn rules on 12 March 2015.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3286457061767578,
+    "mean_prob": 0.8260971307754517,
+    "min_prob": 0.0919221043586731,
+    "sds": 0.940030574798584,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 13,
+    "ds_index": 2344,
+    "question": "What kind of death did Luther say the revolting peasants deserve?",
+    "gold_answer": "in body and soul",
+    "context": [
+      "On 31 October 1517, Martin Luther supposedly nailed his 95 theses against the selling of indulgences at the door of the All Saints', the Castle Church in Wittenberg. The theses debated and criticised the Church and the papacy, but concentrated upon the selling of indulgences and doctrinal policies about purgatory, particular judgment, and the authority of the pope. He would later write works on the Catholic devotion to Virgin Mary, the intercession of and devotion to the saints, the sacraments, mandatory clerical celibacy, monasticism, further on the authority of the pope, the ecclesiastical law, censure and excommunication, the role of secular rulers in religious matters, the relationship between Christianity and the law, good works, and the sacraments."
+    ],
+    "generated_answer": "Luther believed that the revolting peasants deserved death.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.448700189590454,
+    "mean_prob": 0.7948931455612183,
+    "min_prob": 0.0781412422657013,
+    "sds": 0.9753459692001343,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 14,
+    "ds_index": 10162,
+    "question": "How many years must a local pastor attend a course of study at United Methodist approved seminary?",
+    "gold_answer": "five",
+    "context": [
+      "The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854\u20131855 academic year. The program expanded to include Master of Laws (LL.M.) and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a thesis not required to receive the degrees. This changed in 1924 with formal requirements developed for graduate degrees, including offering Doctorate (PhD) degrees. Today each of the five colleges offer graduate education. Most of the departments from the College of Arts and Letters offer PhD programs, while a professional Master of Divinity (M.Div.) program also exists. All of the departments in the College of Science offer PhD programs, except for the Department of Pre-Professional Studies. The School of Architecture offers a Master of Architecture, while each of the departments of the College of Engineering offer PhD programs. The College of Business offers multiple professional programs including MBA and Master of Science in Accountancy programs. It also operates facilities in Chicago and Cincinnati for its executive MBA program. Additionally, the Alliance for Catholic Education program offers a Master of Education program where students study at the university during the summer and teach in Catholic elementary schools, middle schools, and high schools across the Southern United States for two school years."
+    ],
+    "generated_answer": "The context does not provide specific information about the duration of the course of study for a local pastor at a United Methodist approved seminary.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4317314624786377,
+    "mean_prob": 0.7618749737739563,
+    "min_prob": 0.26160040497779846,
+    "sds": 1.0524574518203735,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 15,
+    "ds_index": 10466,
+    "question": "What prohibits atoms from passing through each other?",
+    "gold_answer": "Pauli exclusion principle",
+    "context": [
+      "All the objects from everyday life that we can bump into, touch or squeeze are composed of atoms. This atomic matter is in turn made up of interacting subatomic particles\u2014usually a nucleus of protons and neutrons, and a cloud of orbiting electrons. Typically, science considers these composite particles matter because they have both rest mass and volume. By contrast, massless particles, such as photons, are not considered matter, because they have neither rest mass nor volume. However, not all particles with rest mass have a classical volume, since fundamental particles such as quarks and leptons (sometimes equated with matter) are considered \"point particles\" with no effective size or volume. Nevertheless, quarks and leptons together make up \"ordinary matter\", and their interactions contribute to the effective volume of the composite particles that make up ordinary matter."
+    ],
+    "generated_answer": "Atoms cannot pass through each other due to the electromagnetic force between their positively charged nuclei, which creates a repulsive force that prevents them from overlapping.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5061947107315063,
+    "mean_prob": 0.7469195127487183,
+    "min_prob": 0.059436216950416565,
+    "sds": 1.1325712203979492,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 16,
+    "ds_index": 6785,
+    "question": "Brownlee argues disobedience can be justified toward what institutions?",
+    "gold_answer": "trade unions, banks, and private universities",
+    "context": [
+      "While the decision (with four dissents) ultimately upheld the state law allowing the funding of transportation of students to religious schools, the majority opinion (by Justice Hugo Black) and the dissenting opinions (by Justice Wiley Blount Rutledge and Justice Robert H. Jackson) each explicitly stated that the Constitution has erected a \"wall between church and state\" or a \"separation of Church from State\": their disagreement was limited to whether this case of state funding of transportation to religious schools breached that wall. Rutledge, on behalf of the four dissenting justices, took the position that the majority had indeed permitted a violation of the wall of separation in this case: \"Neither so high nor so impregnable today as yesterday is the wall raised between church and state by Virginia's great statute of religious freedom and the First Amendment, now made applicable to all the states by the Fourteenth.\" Writing separately, Justice Jackson argued that \"[T]here are no good grounds upon which to support the present legislation. In fact, the undertones of the opinion, advocating complete and uncompromising separation of Church from State, seem utterly discordant with its conclusion yielding support to their commingling in educational matters.\""
+    ],
+    "generated_answer": "Brownlee argues disobedience can be justified toward religious institutions.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.1879359483718872,
+    "mean_prob": 0.9030947685241699,
+    "min_prob": 0.13297805190086365,
+    "sds": 0.9852299094200134,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 17,
+    "ds_index": 5594,
+    "question": "When did the V&A acquired the Costiff collection?",
+    "gold_answer": "2002",
+    "context": [
+      "Since 2004, through the V&A + RIBA Architecture Partnership, the RIBA and V&A have worked together to promote the understanding and enjoyment of architecture."
+    ],
+    "generated_answer": "The V&A acquired the Costiff collection in 2016.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5147075653076172,
+    "mean_prob": 0.7914643287658691,
+    "min_prob": 0.09949488192796707,
+    "sds": 1.0919438600540161,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 18,
+    "ds_index": 2407,
+    "question": "What did he work on refining until the end of his life?",
+    "gold_answer": "the translation",
+    "context": [
+      "The modern petroleum industry started in 1846 with the discovery of the process of refining kerosene from coal by Nova Scotian Abraham Pineo Gesner. Ignacy \u0141ukasiewicz improved Gesner's method to develop a means of refining kerosene from the more readily available \"rock oil\" (\"petr-oleum\") seeps in 1852 and the first rock oil mine was built in B\u00f3brka, near Krosno in Galicia in the following year. In 1854, Benjamin Silliman, a science professor at Yale University in New Haven, was the first to fractionate petroleum by distillation. These discoveries rapidly spread around the world."
+    ],
+    "generated_answer": "Abraham Pineo Gesner worked on refining kerosene from coal until the end of his life.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.0907377004623413,
+    "mean_prob": 0.9376840591430664,
+    "min_prob": 0.41087764501571655,
+    "sds": 0.9200169444084167,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 19,
+    "ds_index": 10201,
+    "question": "Why did British operation fail in 1755, 56, 57?",
+    "gold_answer": "combination of poor management, internal divisions, and effective Canadian scouts, French regular forces, and Indian warrior allies",
+    "context": [
+      "News of this arrived in Europe, where Britain and France unsuccessfully attempted to negotiate a solution. The two nations eventually dispatched regular troops to North America to enforce their claims. The first British action was the assault on Acadia on 16 June 1755 in the Battle of Fort Beaus\u00e9jour, which was immediately followed by their expulsion of the Acadians. In July British Major General Edward Braddock led about 2,000 army troops and provincial militia on an expedition to retake Fort Duquesne, but the expedition ended in disastrous defeat. In further action, Admiral Edward Boscawen fired on the French ship Alcide on 8 June 1755, capturing it and two troop ships. In September 1755, French and British troops met in the inconclusive Battle of Lake George."
+    ],
+    "generated_answer": "The British operation failed in 1755 due to the disastrous defeat of Major General Edward Braddock's expedition to retake Fort Duquesne and the inconclusive Battle of Lake George in 1756.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2649821043014526,
+    "mean_prob": 0.8535879254341125,
+    "min_prob": 0.13539032638072968,
+    "sds": 0.7544366717338562,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 20,
+    "ds_index": 1851,
+    "question": "Intractable problems lacking polynomial time solutions necessarily negate the practical efficacy of what type of algorithm?",
+    "gold_answer": "exponential-time algorithms",
+    "context": [
+      "A computer will solve problems in exactly the way it is programmed to, without regard to efficiency, alternative solutions, possible shortcuts, or possible errors in the code. Computer programs that learn and adapt are part of the emerging field of artificial intelligence and machine learning."
+    ],
+    "generated_answer": "Intractable problems lacking polynomial time solutions necessarily negate the practical efficacy of deterministic algorithms.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.156561017036438,
+    "mean_prob": 0.9007310271263123,
+    "min_prob": 0.2517107129096985,
+    "sds": 1.0528168678283691,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 21,
+    "ds_index": 3227,
+    "question": "What is the name of the third, permanent Huguenot church in New Rochelle?",
+    "gold_answer": "Trinity-St. Paul's Episcopal Church",
+    "context": [
+      "Seminary Row is named for the Union Theological Seminary and the Jewish Theological Seminary which it touches. Seminary Row also runs by the Manhattan School of Music, Riverside Church, Sakura Park, Grant's Tomb, and Morningside Park."
+    ],
+    "generated_answer": "The answer to the question is not provided in the given context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.6827722787857056,
+    "mean_prob": 0.6991749405860901,
+    "min_prob": 0.0738997757434845,
+    "sds": 1.4427040815353394,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 22,
+    "ds_index": 2367,
+    "question": "How many children did Luther and his wife have?",
+    "gold_answer": "six children",
+    "context": [
+      "On 31 October 1517, Martin Luther supposedly nailed his 95 theses against the selling of indulgences at the door of the All Saints', the Castle Church in Wittenberg. The theses debated and criticised the Church and the papacy, but concentrated upon the selling of indulgences and doctrinal policies about purgatory, particular judgment, and the authority of the pope. He would later write works on the Catholic devotion to Virgin Mary, the intercession of and devotion to the saints, the sacraments, mandatory clerical celibacy, monasticism, further on the authority of the pope, the ecclesiastical law, censure and excommunication, the role of secular rulers in religious matters, the relationship between Christianity and the law, good works, and the sacraments."
+    ],
+    "generated_answer": "Luther and his wife, Katherine von Bora, had six children.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3449342250823975,
+    "mean_prob": 0.8160423040390015,
+    "min_prob": 0.1476653814315796,
+    "sds": 1.0945483446121216,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 23,
+    "ds_index": 995,
+    "question": "What was the name of the infamous German Gestapo prison?",
+    "gold_answer": "Pawiak",
+    "context": [
+      "In 1938 the Nazis altered about one-third of the toponyms of the area, eliminating, Germanizing, or simplifying a number of Old Prussian names, as well as those Polish or Lithuanian names originating from colonists and refugees to Prussia during and after the Protestant Reformation. More than 1,500 places were ordered to be renamed by 16 July 1938 following a decree issued by Gauleiter and Oberpr\u00e4sident Erich Koch and initiated by Adolf Hitler. Many who would not cooperate with the rulers of Nazi Germany were sent to concentration camps and held prisoner there until their death or liberation."
+    ],
+    "generated_answer": "The infamous German Gestapo prison was known as Dachau.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.226833701133728,
+    "mean_prob": 0.8592827320098877,
+    "min_prob": 0.31935814023017883,
+    "sds": 1.1262470483779907,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 24,
+    "ds_index": 8724,
+    "question": "What is the benefit of red algae being red?",
+    "gold_answer": "catch more sunlight in deep water",
+    "context": [
+      "Plants and various other groups of photosynthetic eukaryotes collectively known as \"algae\" have unique organelles known as chloroplasts. Chloroplasts are thought to be descended from cyanobacteria that formed endosymbiotic relationships with ancient plant and algal ancestors. Chloroplasts and cyanobacteria contain the blue-green pigment chlorophyll a. Chlorophyll a (as well as its plant and green algal-specific cousin chlorophyll b)[a] absorbs light in the blue-violet and orange/red parts of the spectrum while reflecting and transmitting the green light that we see as the characteristic colour of these organisms. The energy in the red and blue light that these pigments absorb is used by chloroplasts to make energy-rich carbon compounds from carbon dioxide and water by oxygenic photosynthesis, a process that generates molecular oxygen (O2) as a by-product."
+    ],
+    "generated_answer": "The benefit of red algae being red is that their red pigment, phycoerythrin, absorbs blue-green light, allowing them to photosynthesize efficiently in deeper water where red light penetrates less.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4668933153152466,
+    "mean_prob": 0.7544069290161133,
+    "min_prob": 0.1951320469379425,
+    "sds": 0.8500455617904663,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 25,
+    "ds_index": 8022,
+    "question": "What guide states the Univeristy of Chicago is known for their heavy workload and academic difficulty?",
+    "gold_answer": "Uni in the USA",
+    "context": [
+      "In April 2016, Northwestern announced that it signed on to the Chicago Star Partnership, a City Colleges initiative. Through this partnership, Northwestern is one of 15 Illinois public and private universities that will \"provide scholarships to students who graduate from Chicago Public Schools, get their associate degree from one of the city's community colleges, and then get admitted to a bachelor's degree program.\" The partnership was influenced by Mayor Rahm Emanuel, who encouraged local universities to increase opportunities for students in the public school district. The University of Chicago, Northeastern Illinois University, the School of the Art Institute, DePaul University and Loyola University are also part of the Star Scholars partnership."
+    ],
+    "generated_answer": "The University of Chicago is known for their heavy workload and academic difficulty as indicated by the Chicago Guide.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.868659257888794,
+    "mean_prob": 0.7019238471984863,
+    "min_prob": 0.0377357117831707,
+    "sds": 1.1267753839492798,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 26,
+    "ds_index": 574,
+    "question": "What cellular carrier had the only contract for the Super Bowl to be shown on smartphones?",
+    "gold_answer": "Verizon",
+    "context": [
+      "The year 2000 brought heightened interest in the AFL. Then-St. Louis Rams quarterback Kurt Warner, who was MVP of Super Bowl XXXIV, was first noticed because he played quarterback for the AFL's Iowa Barnstormers. While many sports commentators and fans continued to ridicule the league, Warner's story gave the league positive exposure, and it brought the league a new television deal with TNN, which, unlike ESPN, televised regular season games live. While it was not financially lucrative, it helped set the stage for what the league would become in the new millennium. Also, the year also brought a spin-off league, the AF2, intended to be a developmental league, comparable to the National Football League's NFL Europe. There was a lot of expansion in the 2000s. Expansion teams included the Austin Wranglers, Carolina Cobras, Los Angeles Avengers, Chicago Rush, Detroit Fury, Dallas Desperados, Colorado Crush, New Orleans VooDoo, Philadelphia Soul, Nashville Kats, Kansas City Brigade, New York Dragons and Utah Blaze. Some of these teams, including the Crush, Desperados, Kats, and VooDoo, were owned by the same group which owned the NFL teams in their host cities. The NFL purchased, but never exercised, an option to buy a major interest the AFL. Of all of these teams, only the Soul still compete in the AFL as of now."
+    ],
+    "generated_answer": "The context provided does not mention any cellular carrier with a contract for showing the Super Bowl on smartphones. The information given focuses on the AFL's history, expansion, and television deals.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.543113112449646,
+    "mean_prob": 0.7450551390647888,
+    "min_prob": 0.10137241333723068,
+    "sds": 1.0296257734298706,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 27,
+    "ds_index": 4292,
+    "question": "In which case did the Court of Justice hold that requiring Italian lawyers to comply with maximum tariffs unless there was an agreement with a client was not a restriction?",
+    "gold_answer": "Commission v Italy",
+    "context": [
+      "United States v. LaMacchia 871 F.Supp. 535 (1994) was a case decided by the United States District Court for the District of Massachusetts which ruled that, under the copyright and cybercrime laws effective at the time, committing copyright infringement for non-commercial motives could not be prosecuted under criminal copyright law. The ruling gave rise to what became known as the \"LaMacchia Loophole,\" wherein criminal charges of fraud or copyright infringement would be dismissed under current legal standards, so long as there was no profit motive involved."
+    ],
+    "generated_answer": "The Court of Justice did not hold a case involving Italian lawyers and maximum tariffs in the given context. The case mentioned, United States v. LaMacchia, pertains to copyright and cybercrime laws in the United States.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4286117553710938,
+    "mean_prob": 0.7924776673316956,
+    "min_prob": 0.11229302734136581,
+    "sds": 0.7788353562355042,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 28,
+    "ds_index": 6483,
+    "question": "What are two of its subsystems?",
+    "gold_answer": "innate immune system versus the adaptive immune system",
+    "context": [
+      "The control unit (often called a control system or central controller) manages the computer's various components; it reads and interprets (decodes) the program instructions, transforming them into control signals that activate other parts of the computer. Control systems in advanced computers may change the order of execution of some instructions to improve performance."
+    ],
+    "generated_answer": "The two subsystems of the control unit are the instruction decoder and the control signal generator.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3564602136611938,
+    "mean_prob": 0.7858039140701294,
+    "min_prob": 0.2475222647190094,
+    "sds": 0.8134982585906982,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 29,
+    "ds_index": 1410,
+    "question": "What sort of power transmission did Tesla show off at his labs?",
+    "gold_answer": "wireless",
+    "context": [
+      "In the latter part of the second revolution, Thomas Alva Edison developed many devices that greatly influenced life around the world and is often credited with the creation of the first industrial research laboratory. In 1882, Edison switched on the world's first large-scale electrical supply network that provided 110 volts direct current to fifty-nine customers in lower Manhattan. Also toward the end of the second industrial revolution, Nikola Tesla made many contributions in the field of electricity and magnetism in the late 19th and early 20th centuries."
+    ],
+    "generated_answer": "Nikola Tesla showcased alternating current (AC) power transmission at his labs.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.077188491821289,
+    "mean_prob": 0.9357563853263855,
+    "min_prob": 0.6576102375984192,
+    "sds": 0.8686642646789551,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 30,
+    "ds_index": 2666,
+    "question": "Other than for its resort feel, what is Palm Springs popular for?",
+    "gold_answer": "open spaces",
+    "context": [
+      "In addition to Mesa, the club has held spring training in Hot Springs, Arkansas (1886, 1896\u20131900), (1909\u20131910) New Orleans (1870, 1907, 1911\u20131912); Champaign, Illinois (1901\u201302, 1906); Los Angeles (1903\u201304, 1948\u20131949), Santa Monica, California (1905); French Lick, Indiana (1908, 1943\u20131945); Tampa, Florida (1913\u20131916); Pasadena, California (1917\u20131921); Santa Catalina Island, California (1922\u20131942, 1946\u20131947, 1950\u20131951); Rendezvous Park in Mesa (1952\u20131965); Blair Field in Long Beach, California (1966); and Scottsdale, Arizona (1967\u20131978)."
+    ],
+    "generated_answer": "Palm Springs is popular for its spring training location for Major League Baseball teams.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4155150651931763,
+    "mean_prob": 0.7576728463172913,
+    "min_prob": 0.24856336414813995,
+    "sds": 0.931350588798523,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 31,
+    "ds_index": 4882,
+    "question": "What was Tymnet",
+    "gold_answer": "an international data communications network headquartered in San Jose, CA",
+    "context": [
+      "In a 2009 case, Netbula, LLC v. Chordiant Software Inc., defendant Chordiant filed a motion to compel Netbula to disable the robots.txt file on its web site that was causing the Wayback Machine to retroactively remove access to previous versions of pages it had archived from Nebula's site, pages that Chordiant believed would support its case."
+    ],
+    "generated_answer": "Tymnet is not mentioned in the provided context. The context discusses a case involving Netbula, LLC and Chordiant Software Inc., focusing on the use of robots.txt files and the Wayback Machine.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.353761911392212,
+    "mean_prob": 0.7919802665710449,
+    "min_prob": 0.22021576762199402,
+    "sds": 0.806289553642273,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 32,
+    "ds_index": 5397,
+    "question": "What is Michael Carrick and Alan Shearer's profession?",
+    "gold_answer": "international footballers",
+    "context": [
+      "Antarctic explorers Robert Falcon Scott and Frank Bickerton both lived in the city. Artists include Beryl Cook whose paintings depict the culture of Plymouth and Robert Lenkiewicz, whose paintings investigated themes of vagrancy, sexual behaviour and suicide, lived in the city from the 1960s until his death in 2002. Illustrator and creator of children's series Mr Benn and King Rollo, David McKee, was born and brought up in South Devon and trained at Plymouth College of Art. Jazz musician John Surman, born in nearby Tavistock, has close connections to the area, evidenced by his 2012 album Saltash Bells. The avant garde prepared guitarist Keith Rowe was born in the city before establishing the jazz free improvisation band AMM in London in 1965 and MIMEO in 1997. The musician and film director Cosmo Jarvis has lived in several towns in South Devon and has filmed videos in and around Plymouth. In addition, actors Sir Donald Sinden and Judi Trott. George Passmore of Turner Prize winning duo Gilbert and George was born in the city, as was Labour politician Michael Foot whose family reside at nearby Trematon Castle."
+    ],
+    "generated_answer": "Michael Carrick is a professional football player, and Alan Shearer is also a professional football player.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2133115530014038,
+    "mean_prob": 0.8654146790504456,
+    "min_prob": 0.21743476390838623,
+    "sds": 1.2105278968811035,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 33,
+    "ds_index": 4247,
+    "question": "What year was the ECSC agreement established?",
+    "gold_answer": "1951",
+    "context": [
+      "The government has established an Integration Office under the Department of Foreign Affairs and the Department of Economic Affairs. To minimise the negative consequences of Switzerland's isolation from the rest of Europe, Bern and Brussels signed seven bilateral agreements to further liberalise trade ties. These agreements were signed in 1999 and took effect in 2001. This first series of bilateral agreements included the free movement of persons. A second series covering nine areas was signed in 2004 and has since been ratified, which includes the Schengen Treaty and the Dublin Convention besides others. They continue to discuss further areas for cooperation."
+    ],
+    "generated_answer": "The ECSC (European Coal and Steel Community) agreement was established in 1951, which is not mentioned in the given context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2815515995025635,
+    "mean_prob": 0.8413122296333313,
+    "min_prob": 0.14670872688293457,
+    "sds": 1.1296876668930054,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 34,
+    "ds_index": 8217,
+    "question": "When did Tugh Temur die?",
+    "gold_answer": "1332",
+    "context": [
+      "One rescue team reported only 2,300 survivors from the town of Yingxiu in Wenchuan County, out of a total population of about 9,000. 3,000 to 5,000 people were killed in Beichuan County, Sichuan alone; in the same location, 10,000 people were injured and 80% of the buildings were destroyed. The old county seat of Beichuan was abandoned and preserved as part of the Beichuan Earthquake Museum. Eight schools were toppled in Dujiangyan. A 56-year-old was killed in Dujiangyan during a rescue attempt on the Lingyanshan Ropeway, where due to the earthquake 11 tourists from Taiwan had been trapped inside cable cars since May 13. A 4-year-old boy named Zhu Shaowei (traditional Chinese: \u6731\u7d39\u7dad; simplified Chinese: \u6731\u7ecd\u7ef4; pinyin: Zh\u016b Sh\u00e0ow\u00e9i) was also killed in Mianzhu City when a house collapsed on him and another was reported missing."
+    ],
+    "generated_answer": "There is no information provided about Tugh Temur in the given context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4389278888702393,
+    "mean_prob": 0.8051131367683411,
+    "min_prob": 0.0758218765258789,
+    "sds": 1.1959794759750366,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 35,
+    "ds_index": 8985,
+    "question": "Why must one be excluded in order to preserve the uniqueness of the fundamental theorem?",
+    "gold_answer": "because one can include arbitrarily many instances of 1 in any factorization",
+    "context": [
+      "Arguing against the absolutist position, Leibniz offers a number of thought experiments with the purpose of showing that there is contradiction in assuming the existence of facts such as absolute location and velocity. These arguments trade heavily on two principles central to his philosophy: the principle of sufficient reason and the identity of indiscernibles. The principle of sufficient reason holds that for every fact, there is a reason that is sufficient to explain what and why it is the way it is and not otherwise. The identity of indiscernibles states that if there is no way of telling two entities apart, then they are one and the same thing."
+    ],
+    "generated_answer": "One must be excluded to preserve the uniqueness of the fundamental theorem because the principle of sufficient reason ensures that for every fact, there is a distinct reason that explains its existence and nature.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5141938924789429,
+    "mean_prob": 0.7592499852180481,
+    "min_prob": 0.0924786701798439,
+    "sds": 1.0118565559387207,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 36,
+    "ds_index": 5431,
+    "question": "Which musical group did the V&A present in July 1973 as part of its youth outreach programme?",
+    "gold_answer": "Gryphon",
+    "context": [
+      "Utrecht city has an active cultural life, and in the Netherlands is second only to Amsterdam. There are several theatres and theatre companies. The 1941 main city theatre was built by Dudok. Besides theatres there is a large number of cinemas including three arthouse cinemas. Utrecht is host to the international Early Music Festival (Festival Oude Muziek, for music before 1800) and the Netherlands Film Festival. The city has an important classical music hall Vredenburg (1979 by Herman Hertzberger). Its acoustics are considered among the best of the 20th-century original music halls.[citation needed] The original Vredenburg music hall has been redeveloped as part of the larger station area redevelopment plan and in 2014 has gained additional halls that allowed its merger with the rock club Tivoli and the SJU jazzpodium. There are several other venues for music throughout the city. Young musicians are educated in the conservatory, a department of the Utrecht School of the Arts. There is a specialised museum of automatically playing musical instruments."
+    ],
+    "generated_answer": "The V&A did not present a musical group in July 1973 as part of its youth outreach programme. The context provided discusses the cultural life and music scene in Utrecht, but does not mention the V&A or any musical group presentation in that specific year.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.431461215019226,
+    "mean_prob": 0.7641506791114807,
+    "min_prob": 0.20488478243350983,
+    "sds": 1.0321253538131714,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 37,
+    "ds_index": 1569,
+    "question": "According to Tesla what had been gone over by the thieves, or spies who entered his room?",
+    "gold_answer": "his papers",
+    "context": [
+      "Due to the top secret nature of the work, Los Alamos was isolated. In Feynman's own words, \"There wasn't anything to do there.\" Bored, he indulged his curiosity by learning to pick the combination locks on cabinets and desks used to secure papers. Feynman played many jokes on colleagues. In one case he found the combination to a locked filing cabinet by trying the numbers he thought a physicist would use (it proved to be 27\u201318\u201328 after the base of natural logarithms, e = 2.71828...), and found that the three filing cabinets where a colleague kept a set of atomic bomb research notes all had the same combination. He left a series of notes in the cabinets as a prank, which initially spooked his colleague, Frederic de Hoffmann, into thinking a spy or saboteur had gained access to atomic bomb secrets. On several occasions, Feynman drove to Albuquerque to see his ailing wife in a car borrowed from Klaus Fuchs, who was later discovered to be a real spy for the Soviets, transporting nuclear secrets in his car to Santa Fe."
+    ],
+    "generated_answer": "The text does not provide information about Tesla's room being targeted by thieves or spies. The context provided is about Feynman's activities at Los Alamos during the development of the atomic bomb.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5112868547439575,
+    "mean_prob": 0.7400079965591431,
+    "min_prob": 0.12138497829437256,
+    "sds": 0.970868706703186,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 38,
+    "ds_index": 4315,
+    "question": "How many species of trees can be found in the Amazon rainforest?",
+    "gold_answer": "16,000",
+    "context": [
+      "Brazil's Atlantic Forest is considered one such hotspot, containing roughly 20,000 plant species, 1,350 vertebrates, and millions of insects, about half of which occur nowhere else.[citation needed] The island of Madagascar and India are also particularly notable. Colombia is characterized by high biodiversity, with the highest rate of species by area unit worldwide and it has the largest number of endemics (species that are not found naturally anywhere else) of any country. About 10% of the species of the Earth can be found in Colombia, including over 1,900 species of bird, more than in Europe and North America combined, Colombia has 10% of the world\u2019s mammals species, 14% of the amphibian species, and 18% of the bird species of the world. Madagascar dry deciduous forests and lowland rainforests possess a high ratio of endemism.[citation needed] Since the island separated from mainland Africa 66 million years ago, many species and ecosystems have evolved independently.[citation needed] Indonesia's 17,000 islands cover 735,355 square miles (1,904,560 km2) and contain 10% of the world's flowering plants, 12% of mammals, and 17% of reptiles, amphibians and birds\u2014along with nearly 240 million people. Many regions of high biodiversity and/or endemism arise from specialized habitats which require unusual adaptations, for example, alpine environments in high mountains, or Northern European peat bogs.[citation needed]"
+    ],
+    "generated_answer": "The context does not provide specific information on the number of tree species in the Amazon rainforest.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2472734451293945,
+    "mean_prob": 0.8423088192939758,
+    "min_prob": 0.2585555911064148,
+    "sds": 1.01100492477417,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 39,
+    "ds_index": 9910,
+    "question": "What served as a justification for imposing imperialistic policies on certain peoples or regions?",
+    "gold_answer": "environmental determinism",
+    "context": [
+      "Between 1815 and 1914, a period referred to as Britain's \"imperial century\" by some historians, around 10,000,000 square miles (26,000,000 km2) of territory and roughly 400 million people were added to the British Empire. Victory over Napoleon left Britain without any serious international rival, other than Russia in central Asia. Unchallenged at sea, Britain adopted the role of global policeman, a state of affairs later known as the Pax Britannica, and a foreign policy of \"splendid isolation\". Alongside the formal control it exerted over its own colonies, Britain's dominant position in world trade meant that it effectively controlled the economies of many countries, such as China, Argentina and Siam, which has been characterised by some historians as \"Informal Empire\"."
+    ],
+    "generated_answer": "The victory over Napoleon and Britain's dominant position in world trade served as justifications for imposing imperialistic policies on certain peoples or regions.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2036620378494263,
+    "mean_prob": 0.872660756111145,
+    "min_prob": 0.26287001371383667,
+    "sds": 0.8151598572731018,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 40,
+    "ds_index": 8035,
+    "question": "What is the name of the museum and research center for Near Eastern studies, that is owned by the university?",
+    "gold_answer": "the Oriental Institute",
+    "context": [
+      "The Oklahoma History Center is the history museum of the state of Oklahoma. Located across the street from the governor's mansion at 800 Nazih Zuhdi Drive in northeast Oklahoma City, the museum opened in 2005 and is operated by the Oklahoma Historical Society. It preserves the history of Oklahoma from the prehistoric to the present day."
+    ],
+    "generated_answer": "The museum and research center for Near Eastern studies owned by the university is not mentioned in the provided context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2950443029403687,
+    "mean_prob": 0.8325735926628113,
+    "min_prob": 0.11639116704463959,
+    "sds": 1.0518840551376343,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 41,
+    "ds_index": 6974,
+    "question": "What is a complex net of contracts and other legal obligations?",
+    "gold_answer": "A construction project",
+    "context": [
+      "Contract law covers obligations established by agreement (express or implied) between private parties. Generally, contract law in transactions involving the sale of goods has become highly standardized nationwide as a result of the widespread adoption of the Uniform Commercial Code. However, there is still significant diversity in the interpretation of other kinds of contracts, depending upon the extent to which a given state has codified its common law of contracts or adopted portions of the Restatement (Second) of Contracts."
+    ],
+    "generated_answer": "A complex net of contracts and other legal obligations refers to the intricate system of agreements and responsibilities established by private parties, which can vary in interpretation depending on the state's adoption of the Uniform Commercial Code or the Restatement (Second) of Contracts.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4747726917266846,
+    "mean_prob": 0.7751147150993347,
+    "min_prob": 0.1314152479171753,
+    "sds": 0.8589900732040405,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 42,
+    "ds_index": 2397,
+    "question": "Besides the Bondage of the Will, what other work did Luther view as a book of his?",
+    "gold_answer": "the Catechism",
+    "context": [
+      "On 31 October 1517, Martin Luther supposedly nailed his 95 theses against the selling of indulgences at the door of the All Saints', the Castle Church in Wittenberg. The theses debated and criticised the Church and the papacy, but concentrated upon the selling of indulgences and doctrinal policies about purgatory, particular judgment, and the authority of the pope. He would later write works on the Catholic devotion to Virgin Mary, the intercession of and devotion to the saints, the sacraments, mandatory clerical celibacy, monasticism, further on the authority of the pope, the ecclesiastical law, censure and excommunication, the role of secular rulers in religious matters, the relationship between Christianity and the law, good works, and the sacraments."
+    ],
+    "generated_answer": "Luther viewed the Bondage of the Will as one of his major works, but he also considered his commentaries on the Psalms and the Epistle to the Romans as significant contributions to his theological legacy.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.834474802017212,
+    "mean_prob": 0.6687949895858765,
+    "min_prob": 0.047853242605924606,
+    "sds": 1.0176559686660767,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 43,
+    "ds_index": 3830,
+    "question": "In what year did the Apollo 1 cabin fire occur?",
+    "gold_answer": "1967",
+    "context": [
+      "On January 27, 1967, the same day the US and USSR signed the Outer Space Treaty, the crew of the first manned Apollo mission, Command Pilot Virgil \"Gus\" Grissom, Senior Pilot Edward H. White, and Pilot Roger Chaffee, were killed in a fire that swept through their spacecraft cabin during a ground test, less than a month before the planned February 21 launch. An investigative board determined the fire was probably caused by an electrical spark, and quickly grew out of control, fed by the spacecraft's pure oxygen atmosphere. Crew escape was made impossible by inability to open the plug door hatch cover against the greater-than-atmospheric internal pressure. The board also found design and construction flaws in the spacecraft, and procedural failings, including failure to appreciate the hazard of the pure-oxygen atmosphere, as well as inadequate safety procedures. All these flaws had to be corrected over the next twenty-two months until the first piloted flight could be made. Mercury and Gemini veteran Grissom had been a favored choice of Deke Slayton, NASA's Director of Flight Crew Operations, to make the first piloted landing."
+    ],
+    "generated_answer": "The Apollo 1 cabin fire occurred in 1967.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.0429211854934692,
+    "mean_prob": 0.9636682271957397,
+    "min_prob": 0.6763924360275269,
+    "sds": 0.9089385867118835,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 44,
+    "ds_index": 10280,
+    "question": "Why was Tanaghrisson supporting British efforts?",
+    "gold_answer": "regain authority over his own people. They had been inclined to support the French, with whom they had long trading relationships",
+    "context": [
+      "This view of 'diplomatic drift' as the cause of the war was first popularised by A. W, Kinglake, who portrayed the British as victims of newspaper sensationalism and duplicitous French and Ottoman diplomacy. More recently, the historians Andrew Lambert and Winfried Baumgart have argued that, first, Britain was following a geopolitical strategy in aiming to destroy a fledgling Russian Navy which might challenge the Royal Navy for control of the seas, and second that the war was a joint European response to a century of Russian expansion not just southwards but also into western Europe."
+    ],
+    "generated_answer": "Tanaghrisson supported British efforts due to his alignment with the geopolitical strategy of destroying the Russian Navy to maintain Royal Navy dominance at sea.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.9361708164215088,
+    "mean_prob": 0.6566045880317688,
+    "min_prob": 0.06892150640487671,
+    "sds": 0.8670612573623657,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 45,
+    "ds_index": 956,
+    "question": "How long had John Paul II been the pope in 1979?",
+    "gold_answer": "less than a year",
+    "context": [
+      "The next three popes, including Pope Emeritus Benedict XVI, were created cardinals by him. His immediate successor, Albino Luciani, who took the name John Paul I, was created a cardinal in the consistory of 5 March 1973. Karol Wojty\u0142a was created a cardinal in the consistory of 26 June 1967. Joseph Ratzinger was created a cardinal in the small four-appointment consistory of 27 June 1977, which also included Bernardin Gantin from Benin, Africa. This became the last of Paul VI's consistories before his death in August 1978. Pope Paul was asked towards the end of his papacy whether he would retire at age 80, he replied \"Kings can abdicate, Popes cannot.\"[citation needed]"
+    ],
+    "generated_answer": "John Paul II had been the pope for 1 year in 1979.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.1845941543579102,
+    "mean_prob": 0.870776355266571,
+    "min_prob": 0.34161004424095154,
+    "sds": 0.8820580244064331,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 46,
+    "ds_index": 994,
+    "question": "What commemorates Warsaw's heroic history?",
+    "gold_answer": "many places",
+    "context": [
+      "A reconciliation of these views is suggested by William Atwood: \"Undoubtedly [Chopin's] use of traditional musical forms like the polonaise and mazurka roused nationalistic sentiments and a sense of cohesiveness amongst those Poles scattered across Europe and the New World ... While some sought solace in [them], others found them a source of strength in their continuing struggle for freedom. Although Chopin's music undoubtedly came to him intuitively rather than through any conscious patriotic design, it served all the same to symbolize the will of the Polish people ...\""
+    ],
+    "generated_answer": "The music of Fr\u00e9d\u00e9ric Chopin, particularly his use of traditional Polish forms like the polonaise and mazurka, commemorates Warsaw's heroic history.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.210585594177246,
+    "mean_prob": 0.876447319984436,
+    "min_prob": 0.09336017817258835,
+    "sds": 0.6925901174545288,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 47,
+    "ds_index": 8244,
+    "question": "What was the Italian title of Polo's book?",
+    "gold_answer": "Il milione",
+    "context": [
+      "In central and northern Italy and in Flanders, the rise of towns that were to a degree self-governing stimulated economic growth and created an environment for new types of trade associations. Commercial cities on the shores of the Baltic entered into agreements known as the Hanseatic League, and the Italian Maritime republics such as Venice, Genoa, and Pisa expanded their trade throughout the Mediterranean.[V] Great trading fairs were established and flourished in northern France during the period, allowing Italian and German merchants to trade with each other as well as local merchants. In the late 13th century new land and sea routes to the Far East were pioneered, famously described in The Travels of Marco Polo written by one of the traders, Marco Polo (d. 1324). Besides new trading opportunities, agricultural and technological improvements enabled an increase in crop yields, which in turn allowed the trade networks to expand. Rising trade brought new methods of dealing with money, and gold coinage was again minted in Europe, first in Italy and later in France and other countries. New forms of commercial contracts emerged, allowing risk to be shared among merchants. Accounting methods improved, partly through the use of double-entry bookkeeping; letters of credit also appeared, allowing easy transmission of money."
+    ],
+    "generated_answer": "The Italian title of Marco Polo's book is \"Il Milione.\"",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.196306824684143,
+    "mean_prob": 0.889369010925293,
+    "min_prob": 0.17577560245990753,
+    "sds": 1.011767029762268,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 48,
+    "ds_index": 7685,
+    "question": "What was the name of the 1991 Doctor Who exhibition?",
+    "gold_answer": "Behind the Sofa",
+    "context": [
+      "Television transmissions resumed from Alexandra Palace in 1946. The BBC Television Service (renamed \"BBC tv\" in 1960) showed popular programming, including drama, comedies, documentaries, game shows, and soap operas, covering a wide range of genres and regularly competed with ITV to become the channel with the highest ratings for that week. The channel also introduced the science fiction show Doctor Who on 23 November 1963 - at 17:16 - which went on to become one of Britain's most iconic and beloved television programmes."
+    ],
+    "generated_answer": "The name of the 1991 Doctor Who exhibition was \"The Doctor Who Exhibition\" at the Museum of the Moving Image in London.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4518462419509888,
+    "mean_prob": 0.7910207509994507,
+    "min_prob": 0.0965217873454094,
+    "sds": 1.1290855407714844,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 49,
+    "ds_index": 6249,
+    "question": "Which's of Genghis Khan's successors could not be successor because of his age?",
+    "gold_answer": "Tolui",
+    "context": [
+      "In 1207, the Mongol ruler Genghis Khan (r. 1206\u20131227) conquered and subjugated the ethnic Tangut state of the Western Xia (1038\u20131227). In the same year, he established diplomatic relations with Tibet by sending envoys there. The conquest of the Western Xia alarmed Tibetan rulers, who decided to pay tribute to the Mongols. However, when they ceased to pay tribute after Genghis Khan's death, his successor \u00d6gedei Khan (r. 1229\u20131241) launched an invasion into Tibet."
+    ],
+    "generated_answer": "Genghis Khan's successor \u00d6gedei Khan could not be a successor because of his age, as he was the third son of Genghis Khan and ruled after him.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.6584837436676025,
+    "mean_prob": 0.7096652388572693,
+    "min_prob": 0.11279631406068802,
+    "sds": 1.0178576707839966,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 50,
+    "ds_index": 10151,
+    "question": "How many years do Elders serve as provisional Elders prior to their ordination?",
+    "gold_answer": "2\u20133 years",
+    "context": [
+      "Each congregation has a body of appointed unpaid male elders and ministerial servants. Elders maintain general responsibility for congregational governance, setting meeting times, selecting speakers and conducting meetings, directing the public preaching work, and creating \"judicial committees\" to investigate and decide disciplinary action for cases involving sexual misconduct or doctrinal breaches. New elders are appointed by a traveling overseer after recommendation by the existing body of elders. Ministerial servants\u2014appointed in a similar manner to elders\u2014fulfill clerical and attendant duties, but may also teach and conduct meetings. Witnesses do not use elder as a title to signify a formal clergy-laity division, though elders may employ ecclesiastical privilege such as confession of sins."
+    ],
+    "generated_answer": "Elders serve as provisional Elders for one year prior to their ordination.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.1548144817352295,
+    "mean_prob": 0.9008710980415344,
+    "min_prob": 0.2551451623439789,
+    "sds": 0.9580782055854797,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 51,
+    "ds_index": 6549,
+    "question": "What compounds are released by injured or infected cells, triggering inflammation?",
+    "gold_answer": "eicosanoids and cytokines",
+    "context": [
+      "In many people, the infection waxes and wanes. Tissue destruction and necrosis are often balanced by healing and fibrosis. Affected tissue is replaced by scarring and cavities filled with caseous necrotic material. During active disease, some of these cavities are joined to the air passages bronchi and this material can be coughed up. It contains living bacteria, so can spread the infection. Treatment with appropriate antibiotics kills bacteria and allows healing to take place. Upon cure, affected areas are eventually replaced by scar tissue."
+    ],
+    "generated_answer": "Inflammatory mediators such as cytokines and chemokines are released by injured or infected cells, triggering inflammation.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3028569221496582,
+    "mean_prob": 0.8601388335227966,
+    "min_prob": 0.09947752207517624,
+    "sds": 1.0983213186264038,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 52,
+    "ds_index": 8165,
+    "question": "How many societal class divisions were in the plan Kublai rejected?",
+    "gold_answer": "three, later four",
+    "context": [
+      "The 1775 treatise \"The Natural Varieties of Mankind\", by Johann Friedrich Blumenbach proposed five major divisions: the Caucasoid race, Mongoloid race, Ethiopian race (later termed Negroid, and not to be confused with the narrower Ethiopid race), American Indian race, and Malayan race, but he did not propose any hierarchy among the races. Blumenbach also noted the graded transition in appearances from one group to adjacent groups and suggested that \"one variety of mankind does so sensibly pass into the other, that you cannot mark out the limits between them\"."
+    ],
+    "generated_answer": "The context provided does not mention a plan by Kublai Khan; it discusses Johann Friedrich Blumenbach's racial classifications.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.6214649677276611,
+    "mean_prob": 0.7415119409561157,
+    "min_prob": 0.016025636345148087,
+    "sds": 0.9497151970863342,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 53,
+    "ds_index": 3260,
+    "question": "About what year was the atmospheric engine invented?",
+    "gold_answer": "1712",
+    "context": [
+      "Science came to play a leading role in Enlightenment discourse and thought. Many Enlightenment writers and thinkers had backgrounds in the sciences and associated scientific advancement with the overthrow of religion and traditional authority in favour of the development of free speech and thought. Scientific progress during the Enlightenment included the discovery of carbon dioxide (fixed air) by the chemist Joseph Black, the argument for deep time by the geologist James Hutton, and the invention of the steam engine by James Watt. The experiments of Lavoisier were used to create the first modern chemical plants in Paris, and the experiments of the Montgolfier Brothers enabled them to launch the first manned flight in a hot-air balloon on 21 November 1783, from the Ch\u00e2teau de la Muette, near the Bois de Boulogne."
+    ],
+    "generated_answer": "The atmospheric engine was invented by James Watt in the late 18th century, around 1769.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4070333242416382,
+    "mean_prob": 0.7788777947425842,
+    "min_prob": 0.09162972122430801,
+    "sds": 0.8888006210327148,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 54,
+    "ds_index": 2159,
+    "question": "What did Martin Luther's marriage allow?",
+    "gold_answer": "Protestant clergy to marry.",
+    "context": [
+      "On 31 October 1517, Martin Luther supposedly nailed his 95 theses against the selling of indulgences at the door of the All Saints', the Castle Church in Wittenberg. The theses debated and criticised the Church and the papacy, but concentrated upon the selling of indulgences and doctrinal policies about purgatory, particular judgment, and the authority of the pope. He would later write works on the Catholic devotion to Virgin Mary, the intercession of and devotion to the saints, the sacraments, mandatory clerical celibacy, monasticism, further on the authority of the pope, the ecclesiastical law, censure and excommunication, the role of secular rulers in religious matters, the relationship between Christianity and the law, good works, and the sacraments."
+    ],
+    "generated_answer": "Martin Luther's marriage allowed him to have a family and continue his work as a theologian and reformer.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.7410247325897217,
+    "mean_prob": 0.6918778419494629,
+    "min_prob": 0.029911871999502182,
+    "sds": 1.0002473592758179,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 55,
+    "ds_index": 1185,
+    "question": "What other invention of Tesla's did Westinghouse license?",
+    "gold_answer": "transformer",
+    "context": [
+      "The first commutator DC electric motor capable of turning machinery was invented by the British scientist William Sturgeon in 1832. Following Sturgeon's work, a commutator-type direct-current electric motor made with the intention of commercial use was built by the American inventor Thomas Davenport, which he patented in 1837. The motors ran at up to 600 revolutions per minute, and powered machine tools and a printing press. Due to the high cost of primary battery power, the motors were commercially unsuccessful and Davenport went bankrupt. Several inventors followed Sturgeon in the development of DC motors but all encountered the same battery power cost issues. No electricity distribution had been developed at the time. Like Sturgeon's motor, there was no practical commercial market for these motors."
+    ],
+    "generated_answer": "Westinghouse licensed Nikola Tesla's alternating current (AC) induction motor and transformer designs.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3384945392608643,
+    "mean_prob": 0.8386420607566833,
+    "min_prob": 0.0597023144364357,
+    "sds": 1.0878373384475708,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 56,
+    "ds_index": 1989,
+    "question": "What type of authority do Sudbury schools prefer?",
+    "gold_answer": "popularly based authority",
+    "context": [
+      "The majority of primary and secondary schools and further-education colleges in London are controlled by the London boroughs or otherwise state-funded; leading examples include City and Islington College, Ealing, Hammersmith and West London College, Leyton Sixth Form College, Tower Hamlets College and Bethnal Green Academy. There are also a number of private schools and colleges in London, some old and famous, such as City of London School, Harrow, St Paul's School, Haberdashers' Aske's Boys' School, University College School, The John Lyon School, Highgate School and Westminster School."
+    ],
+    "generated_answer": "Sudbury schools prefer a democratic, self-directed authority where students and staff have equal say in decision-making.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5513612031936646,
+    "mean_prob": 0.7138445973396301,
+    "min_prob": 0.15818506479263306,
+    "sds": 1.1062947511672974,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 57,
+    "ds_index": 3481,
+    "question": "Compared to other elements, how abundant does oxygen rank?",
+    "gold_answer": "third",
+    "context": [
+      "Hydrogen, as atomic H, is the most abundant chemical element in the universe, making up 75% of normal matter by mass and over 90% by number of atoms (most of the mass of the universe, however, is not in the form of chemical-element type matter, but rather is postulated to occur as yet-undetected forms of mass such as dark matter and dark energy). This element is found in great abundance in stars and gas giant planets. Molecular clouds of H2 are associated with star formation. Hydrogen plays a vital role in powering stars through the proton-proton reaction and the CNO cycle nuclear fusion."
+    ],
+    "generated_answer": "Oxygen is the third most abundant element in the universe by mass, after hydrogen and helium.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.1897448301315308,
+    "mean_prob": 0.8684964776039124,
+    "min_prob": 0.2755361497402191,
+    "sds": 0.7816310524940491,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 58,
+    "ds_index": 763,
+    "question": "What yard line was the Broncos on when Manning lost the ball in the fourth quarter?",
+    "gold_answer": "50-yard line.",
+    "context": [
+      "On September 23, 1908, the Cubs and New York Giants were involved in a tight pennant race. The two clubs were tied in the bottom of the ninth inning at the Polo Grounds, and N.Y. had runners on first and third and two outs when Al Bridwell singled, scoring Moose McCormick from third with the Giants' apparent winning run, but the runner on first base, rookie Fred Merkle, left the field without touching second base. As fans swarmed the field, Cub infielder Johnny Evers retrieved the ball and touched second. Since there were two outs, a forceout was called at second base, ending the inning and the game. Because of the tie the Giants and Cubs ended up tied for first place. The Giants lost the ensuing one-game playoff and the Cubs went on to the World Series."
+    ],
+    "generated_answer": "The context provided does not contain information about the Broncos or Manning, therefore it is impossible to answer the question based on the given context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4673197269439697,
+    "mean_prob": 0.7526857852935791,
+    "min_prob": 0.14572271704673767,
+    "sds": 1.1648212671279907,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 59,
+    "ds_index": 4017,
+    "question": "How many more landing sites for the Apollo missions did NASA have planned?",
+    "gold_answer": "eight",
+    "context": [
+      "The first landing was followed by another, precision landing on Apollo 12 in November 1969. NASA had achieved its first landing goal with enough Apollo spacecraft and Saturn V launchers left for eight follow-on lunar landings through Apollo 20, conducting extended-endurance missions and transporting the landing crews in Lunar Roving Vehicles on the last five. They also planned an Apollo Applications Program to develop a longer-duration Earth orbital workshop (later named Skylab) to be constructed in orbit from a spent S-IVB upper stage, using several launches of the smaller Saturn IB launch vehicle. But planners soon decided this could be done more efficiently by using the two live stages of a Saturn V to launch the workshop pre-fabricated from an S-IVB (which was also the Saturn V third stage), which immediately removed Apollo 20. Belt-tightening budget cuts soon led NASA to cut Apollo 18 and 19 as well, but keep three extended/Lunar Rover missions. Apollo 13 encountered an in-flight spacecraft failure and had to abort its lunar landing in April 1970, returning its crew safely but temporarily grounding the program again. It resumed with four successful landings on Apollo 14 (February 1971), Apollo 15 (July 1971), Apollo 16 (April 1972), and Apollo 17 (December 1972)."
+    ],
+    "generated_answer": "NASA initially planned for eight follow-on lunar landings through Apollo 20, but due to budget cuts, they reduced the number to three extended/Lunar Rover missions.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3487356901168823,
+    "mean_prob": 0.8159169554710388,
+    "min_prob": 0.03576087951660156,
+    "sds": 0.8488774299621582,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 60,
+    "ds_index": 4670,
+    "question": "Who did a morphologically analysis in 1985 that concluded cydippids are not monophyletic?",
+    "gold_answer": "Richard Harbison",
+    "context": [
+      "Recent studies, as by the APG, show that the monocots form a monophyletic group (clade) but that the dicots do not (they are paraphyletic). Nevertheless, the majority of dicot species do form a monophyletic group, called the eudicots or tricolpates. Of the remaining dicot species, most belong to a third major clade known as the magnoliids, containing about 9,000 species. The rest include a paraphyletic grouping of primitive species known collectively as the basal angiosperms, plus the families Ceratophyllaceae and Chloranthaceae."
+    ],
+    "generated_answer": "The morphological analysis in 1985 that concluded cydippids are not monophyletic was conducted by the Angiosperm Phylogeny Group (APG).",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2715882062911987,
+    "mean_prob": 0.8741344809532166,
+    "min_prob": 0.07080918550491333,
+    "sds": 0.8527690768241882,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 61,
+    "ds_index": 5211,
+    "question": "What year was Newcastle ninth in retail expenditures?",
+    "gold_answer": "2010",
+    "context": [
+      "St. John's, and the province as a whole, was gravely affected in the 1990s by the collapse of the Northern cod fishery, which had been the driving force of the provincial economy for hundreds of years. After a decade of high unemployment rates and depopulation, the city's proximity to the Hibernia, Terra Nova and White Rose oil fields has led to an economic boom that has spurred population growth and commercial development. As a result, the St. John's area now accounts for about half of the province's economic output."
+    ],
+    "generated_answer": "The provided context does not contain information about Newcastle or its retail expenditures.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4094173908233643,
+    "mean_prob": 0.7694416046142578,
+    "min_prob": 0.18203483521938324,
+    "sds": 1.244766116142273,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 62,
+    "ds_index": 1159,
+    "question": "What kind of needlework was used in the creation of the Bayeux Tapestry?",
+    "gold_answer": "embroidery",
+    "context": [
+      "Only scant remains prove that mosaics were still used in the Early Middle Ages. The Abbey of Saint-Martial in Limoges, originally an important place of pilgrimage, was totally demolished during the French Revolution except its crypt which was rediscovered in the 1960s. A mosaic panel was unearthed which was dated to the 9th century. It somewhat incongruously uses cubes of gilded glass and deep green marble, probably taken from antique pavements. This could also be the case with the early 9th century mosaic found under the Basilica of Saint-Quentin in Picardy, where antique motifs are copied but using only simple colors. The mosaics in the Cathedral of Saint-Jean at Lyon have been dated to the 11th century because they employ the same non-antique simple colors. More fragments were found on the site of Saint-Croix at Poitiers which might be from the 6th or 9th century."
+    ],
+    "generated_answer": "The Bayeux Tapestry was created using embroidery.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2419347763061523,
+    "mean_prob": 0.8470777273178101,
+    "min_prob": 0.3391856551170349,
+    "sds": 1.0582443475723267,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 63,
+    "ds_index": 5576,
+    "question": "Where did the earliest item in the V&A glass collection come from?",
+    "gold_answer": "Ancient Egypt",
+    "context": [
+      "Naturally occurring glass, especially the volcanic glass obsidian, has been used by many Stone Age societies across the globe for the production of sharp cutting tools and, due to its limited source areas, was extensively traded. But in general, archaeological evidence suggests that the first true glass was made in coastal north Syria, Mesopotamia or ancient Egypt. The earliest known glass objects, of the mid third millennium BCE, were beads, perhaps initially created as accidental by-products of metal-working (slags) or during the production of faience, a pre-glass vitreous material made by a process similar to glazing."
+    ],
+    "generated_answer": "The earliest item in the V&A glass collection likely originated from coastal north Syria, Mesopotamia, or ancient Egypt, as these regions were the first to produce true glass.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.352688193321228,
+    "mean_prob": 0.8021256327629089,
+    "min_prob": 0.10808901488780975,
+    "sds": 0.6691120862960815,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 64,
+    "ds_index": 806,
+    "question": "How many first downs did the Broncos have in Super Bowl 50?",
+    "gold_answer": "11",
+    "context": [
+      "On September 23, 1908, the Cubs and New York Giants were involved in a tight pennant race. The two clubs were tied in the bottom of the ninth inning at the Polo Grounds, and N.Y. had runners on first and third and two outs when Al Bridwell singled, scoring Moose McCormick from third with the Giants' apparent winning run, but the runner on first base, rookie Fred Merkle, left the field without touching second base. As fans swarmed the field, Cub infielder Johnny Evers retrieved the ball and touched second. Since there were two outs, a forceout was called at second base, ending the inning and the game. Because of the tie the Giants and Cubs ended up tied for first place. The Giants lost the ensuing one-game playoff and the Cubs went on to the World Series."
+    ],
+    "generated_answer": "The context provided does not contain information about the Broncos or Super Bowl 50, so it is not possible to answer the question based on the given context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3132414817810059,
+    "mean_prob": 0.8059862852096558,
+    "min_prob": 0.2341153621673584,
+    "sds": 1.166455864906311,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 65,
+    "ds_index": 4792,
+    "question": "What is KMJ now referred to?",
+    "gold_answer": "NBC affiliate KSEE",
+    "context": [
+      "The university houses the following public broadcasting stations: KJHK, a student-run campus radio station, KUJH-LP, an independent station that primarily broadcasts public affairs programs, and KANU, the NPR-affiliated radio station. Kansas Public Radio station KANU was one of the first public radio stations in the nation. KJHK, the campus radio has roots back to 1952 and is completely run by students."
+    ],
+    "generated_answer": "KMJ is not mentioned in the provided context, so it cannot be referred to based on the given information.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3911406993865967,
+    "mean_prob": 0.781410276889801,
+    "min_prob": 0.15446770191192627,
+    "sds": 1.0889228582382202,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 66,
+    "ds_index": 2414,
+    "question": "To promote accessibility of the works, what did Luther remove?",
+    "gold_answer": "impediments and difficulties",
+    "context": [
+      "On 31 October 1517, Martin Luther supposedly nailed his 95 theses against the selling of indulgences at the door of the All Saints', the Castle Church in Wittenberg. The theses debated and criticised the Church and the papacy, but concentrated upon the selling of indulgences and doctrinal policies about purgatory, particular judgment, and the authority of the pope. He would later write works on the Catholic devotion to Virgin Mary, the intercession of and devotion to the saints, the sacraments, mandatory clerical celibacy, monasticism, further on the authority of the pope, the ecclesiastical law, censure and excommunication, the role of secular rulers in religious matters, the relationship between Christianity and the law, good works, and the sacraments."
+    ],
+    "generated_answer": "Luther removed the works on Catholic devotion to Virgin Mary, the intercession of and devotion to the saints, the sacraments, mandatory clerical celibacy, monasticism, authority of the pope, ecclesiastical law, censure and excommunication, the role of secular rulers in religious matters, the relationship between Christianity and the law, good works, and the sacraments.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.1208571195602417,
+    "mean_prob": 0.9288275241851807,
+    "min_prob": 0.1451331377029419,
+    "sds": 0.7258148193359375,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 67,
+    "ds_index": 7929,
+    "question": "What spot does Doctor Who hold in the 100 Greatest British TV Programs of the 20th Century?",
+    "gold_answer": "third",
+    "context": [
+      "Television transmissions resumed from Alexandra Palace in 1946. The BBC Television Service (renamed \"BBC tv\" in 1960) showed popular programming, including drama, comedies, documentaries, game shows, and soap operas, covering a wide range of genres and regularly competed with ITV to become the channel with the highest ratings for that week. The channel also introduced the science fiction show Doctor Who on 23 November 1963 - at 17:16 - which went on to become one of Britain's most iconic and beloved television programmes."
+    ],
+    "generated_answer": "Doctor Who is ranked 4th on the list of the 100 Greatest British TV Programs of the 20th Century.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3458876609802246,
+    "mean_prob": 0.8322250843048096,
+    "min_prob": 0.10428724437952042,
+    "sds": 0.8937486410140991,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 68,
+    "ds_index": 2562,
+    "question": "How do some scholars view the Nazi use of Luther's work?",
+    "gold_answer": "opportunistic",
+    "context": [
+      "In his work \"On the Jews and Their Lies\" (1543), German Reformation leader Martin Luther claims that Jewish history was \"assailed by much heresy\", and that Christ the logos swept away the Jewish heresy and goes on to do so, \"as it still does daily before our eyes.\" He stigmatizes Jewish Prayer as being \"blasphemous\" (sic) and a lie, and vilifies Jews in general as being spiritually \"blind\" and \"surely possessed by all devils.\" Luther calls the members of the Orthodox Catholic Church \"papists\" and heretics, and has a special spiritual problem with Jewish circumcision."
+    ],
+    "generated_answer": "Some scholars view the Nazi use of Martin Luther's work as a manipulation of his anti-Semitic rhetoric to justify their own racial ideology and persecution of Jews.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4823381900787354,
+    "mean_prob": 0.76338791847229,
+    "min_prob": 0.13472028076648712,
+    "sds": 0.8480498790740967,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 69,
+    "ds_index": 7292,
+    "question": "How many city officials were indicted due to corruption?",
+    "gold_answer": "11",
+    "context": [
+      "Measuring corruption statistically is difficult if not impossible due to the illicit nature of the transaction and imprecise definitions of corruption. While \"corruption\" indices first appeared in 1995 with the Corruption Perceptions Index CPI, all of these metrics address different proxies for corruption, such as public perceptions of the extent of the problem."
+    ],
+    "generated_answer": "The context provided does not include specific information on the number of city officials indicted due to corruption.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3772430419921875,
+    "mean_prob": 0.8126548528671265,
+    "min_prob": 0.15404728055000305,
+    "sds": 1.0724763870239258,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 70,
+    "ds_index": 1986,
+    "question": "Who may teachers focus on, in order to prioritize attention?",
+    "gold_answer": "motivated students",
+    "context": [
+      "Instruction is the facilitation of another's learning. Instructors in primary and secondary institutions are often called teachers, and they direct the education of students and might draw on many subjects like reading, writing, mathematics, science and history. Instructors in post-secondary institutions might be called teachers, instructors, or professors, depending on the type of institution; and they primarily teach only their specific discipline. Studies from the United States suggest that the quality of teachers is the single most important factor affecting student performance, and that countries which score highly on international tests have multiple policies in place to ensure that the teachers they employ are as effective as possible. With the passing of NCLB in the United States (No Child Left Behind), teachers must be highly qualified. A popular way to gauge teaching performance is to use student evaluations of teachers (SETS), but these evaluations have been criticized for being counterproductive to learning and inaccurate due to student bias."
+    ],
+    "generated_answer": "Teachers may focus on prioritizing attention on students, as the quality of teachers is the most important factor affecting student performance.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3847256898880005,
+    "mean_prob": 0.7848498225212097,
+    "min_prob": 0.14793960750102997,
+    "sds": 0.8656373620033264,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 71,
+    "ds_index": 10362,
+    "question": "What natives were displaced by British takeover in Florida?",
+    "gold_answer": "Choctaw and the Creek",
+    "context": [
+      "Americans of English descent and Americans of Scots-Irish descent began moving into northern Florida from the backwoods of Georgia and South Carolina. Though technically not allowed by the Spanish authorities, the Spanish were never able to effectively police the border region and the backwoods settlers from the United States would continue to migrate into Florida unchecked. These migrants, mixing with the already present British settlers who had remained in Florida since the British period, would be the progenitors of the population known as Florida Crackers."
+    ],
+    "generated_answer": "The context does not provide specific information about which natives were displaced by the British takeover in Florida.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.294978141784668,
+    "mean_prob": 0.8227742314338684,
+    "min_prob": 0.32227158546447754,
+    "sds": 0.9943661689758301,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 72,
+    "ds_index": 5229,
+    "question": "Harrogate market is in the local what?",
+    "gold_answer": "authorities",
+    "context": [
+      "A staple for consumers in the city is the omnipresent \"mercado\". Every major neighborhood in the city has its own borough-regulated market, often more than one. These are large well-established facilities offering most basic products, such as fresh produce and meat/poultry, dry goods, tortiller\u00edas, and many other services such as locksmiths, herbal medicine, hardware goods, sewing implements; and a multitude of stands offering freshly made, home-style cooking and drinks in the tradition of aguas frescas and atole."
+    ],
+    "generated_answer": "The Harrogate market is in the local city.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5481092929840088,
+    "mean_prob": 0.7400524616241455,
+    "min_prob": 0.17814169824123383,
+    "sds": 1.0620458126068115,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 73,
+    "ds_index": 625,
+    "question": "Who announced the game play-by-play for Super Bowl 50?",
+    "gold_answer": "Kevin Harlan",
+    "context": [
+      "The first game in Arena Football League history was played on June 19, 1987, between the Gladiators and Commandos at Pittsburgh Civic Arena in front of 12,117 fans. The game was deliberately not televised so that it could be analyzed and any follies and failures would not be subject to national public scrutiny. Following the inaugural game, tweaks and adjustments were made, and the first season continued. The Dynamite and Bruisers played in the first-ever televised AFL game the next night, on June 20, 1987, at the Rosemont Horizon in suburban Chicago on ESPN with Bob Rathbun and Lee Corso calling the play. The broadcast showed a short clip of the Commandos-Gladiators game. Each team played six games, two against each other team. The top two teams, Denver and Pittsburgh, then competed in the first-ever AFL championship game, ArenaBowl I."
+    ],
+    "generated_answer": "Bob Rathbun and Lee Corso announced the game play-by-play for Super Bowl 50.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.1116656064987183,
+    "mean_prob": 0.9362813830375671,
+    "min_prob": 0.17942868173122406,
+    "sds": 1.101389765739441,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 74,
+    "ds_index": 4732,
+    "question": "Does the residential architecture of the Tower District compare or contrast with other part of Fresno?",
+    "gold_answer": "contrasts",
+    "context": [
+      "Centered on Post Oak Boulevard and Westheimer Road, the Uptown District boomed during the 1970s and early 1980s when a collection of mid-rise office buildings, hotels, and retail developments appeared along Interstate 610 west. Uptown became one of the most prominent instances of an edge city. The tallest building in Uptown is the 64-floor, 901-foot (275 m)-tall, Philip Johnson and John Burgee designed landmark Williams Tower (known as the Transco Tower until 1999). At the time of construction, it was believed to be the world's tallest skyscraper outside of a central business district. The new 20-story Skanska building and BBVA Compass Plaza are the newest office buildings built in Uptown after 30 years. The Uptown District is also home to buildings designed by noted architects I. M. Pei, C\u00e9sar Pelli, and Philip Johnson. In the late 1990s and early 2000s decade, there was a mini-boom of mid-rise and high-rise residential tower construction, with several over 30 stories tall. Since 2000 more than 30 high-rise buildings have gone up in Houston; all told, 72 high-rises tower over the city, which adds up to about 8,300 units. In 2002, Uptown had more than 23 million square feet (2,100,000 m\u00b2) of office space with 16 million square feet (1,500,000 m\u00b2) of Class A office space."
+    ],
+    "generated_answer": "The context provided does not mention the Tower District or Fresno, so it's not possible to compare or contrast their residential architecture based on the given information.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4842231273651123,
+    "mean_prob": 0.7422730326652527,
+    "min_prob": 0.14142321050167084,
+    "sds": 1.0272244215011597,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 75,
+    "ds_index": 10409,
+    "question": "What is the magnitude of force divided by when external force is added?",
+    "gold_answer": "mass of the system",
+    "context": [
+      "The Faraday constant F is the charge of one mole of electrons, equal to the Avogadro constant NA multiplied by the elementary charge e. It can be determined by careful electrolysis experiments, measuring the amount of silver dissolved from an electrode in a given time and for a given electric current. In practice, it is measured in conventional electrical units, and so given the symbol F90. Substituting the definitions of NA and e, and converting from conventional electrical units to SI units, gives the relation to the Planck constant."
+    ],
+    "generated_answer": "The magnitude of force divided by when an external force is added is the Faraday constant F.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3175791501998901,
+    "mean_prob": 0.8023797869682312,
+    "min_prob": 0.3497210741043091,
+    "sds": 0.8407397866249084,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 76,
+    "ds_index": 3989,
+    "question": "What type of missions were approved by Mueller after the incident?",
+    "gold_answer": "sequence",
+    "context": [
+      "During the September 11, 2001 attacks on the World Trade Center, FBI agent Leonard W. Hatton Jr. was killed during the rescue effort while helping the rescue personnel evacuate the occupants of the South Tower and stayed when it collapsed. Within months after the attacks, FBI Director Robert Mueller, who had been sworn in a week before the attacks, called for a re-engineering of FBI structure and operations. He made countering every federal crime a top priority, including the prevention of terrorism, countering foreign intelligence operations, addressing cyber security threats, other high-tech crimes, protecting civil rights, combating public corruption, organized crime, white-collar crime, and major acts of violent crime."
+    ],
+    "generated_answer": "Mueller approved missions focused on preventing terrorism, countering foreign intelligence, addressing cyber security threats, combating public corruption, organized crime, white-collar crime, and major acts of violent crime.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2533917427062988,
+    "mean_prob": 0.8902930617332458,
+    "min_prob": 0.017955251038074493,
+    "sds": 0.9654589891433716,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 77,
+    "ds_index": 391,
+    "question": "What position did Justin Tucker play?",
+    "gold_answer": "kicker",
+    "context": [
+      "In the following two decades after Sianis' ill will, the Cubs played mostly forgettable baseball, finishing among the worst teams in the National League on an almost annual basis. Longtime infielder/manager Phil Cavarretta, who had been a key player during the '45 season, was fired during spring training in 1954 after admitting the team was unlikely to finish above fifth place. Although shortstop Ernie Banks would become one of the star players in the league during the next decade, finding help for him proved a difficult task, as quality players such as Hank Sauer were few and far between. This, combined with poor ownership decisions such as the College of Coaches, and the ill-fated trade of future Hall of Famer Lou Brock to the Cardinals for pitcher Ernie Broglio (who won only 7 games over the next three seasons), hampered on-field performance."
+    ],
+    "generated_answer": "Justin Tucker did not play for the Chicago Cubs; he is a placekicker for the Baltimore Ravens in the NFL.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3180713653564453,
+    "mean_prob": 0.818935751914978,
+    "min_prob": 0.16664627194404602,
+    "sds": 0.9931084513664246,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 78,
+    "ds_index": 8636,
+    "question": "What report had the correct date?",
+    "gold_answer": "\"Variations of Snow and Ice in the past and at present on a Global and Regional Scale\"",
+    "context": [
+      "Extending the Gregorian calendar backwards to dates preceding its official introduction produces a proleptic calendar, which should be used with some caution. For ordinary purposes, the dates of events occurring prior to 15 October 1582 are generally shown as they appeared in the Julian calendar, with the year starting on 1 January, and no conversion to their Gregorian equivalents. For example, the Battle of Agincourt is universally considered to have been fought on 25 October 1415 which is Saint Crispin's Day."
+    ],
+    "generated_answer": "The report that had the correct date was the one stating the Battle of Agincourt occurred on 25 October 1415.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2843595743179321,
+    "mean_prob": 0.8426023125648499,
+    "min_prob": 0.17300280928611755,
+    "sds": 0.7987464666366577,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 79,
+    "ds_index": 7733,
+    "question": "How many times can a Time Lord regenerate?",
+    "gold_answer": "12",
+    "context": [
+      "The Vedas, the earliest texts on Indian philosophy and Hindu philosophy dating back to the late 2nd millennium BC, describe ancient Hindu cosmology, in which the universe goes through repeated cycles of creation, destruction and rebirth, with each cycle lasting 4,320 million years. Ancient Greek philosophers, including Parmenides and Heraclitus, wrote essays on the nature of time. Plato, in the Timaeus, identified time with the period of motion of the heavenly bodies. Aristotle, in Book IV of his Physica defined time as 'number of movement in respect of the before and after'."
+    ],
+    "generated_answer": "The context provided does not mention Time Lords or their regeneration abilities.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5278667211532593,
+    "mean_prob": 0.7060343623161316,
+    "min_prob": 0.27546772360801697,
+    "sds": 1.1865692138671875,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 80,
+    "ds_index": 1122,
+    "question": "What culture's arrival in Scotland is know as the \"Davidian Revolution\"?",
+    "gold_answer": "Norman",
+    "context": [
+      "Anglo-Saxons arrived as Roman power waned in the 5th century AD. Initially, their arrival seems to have been at the invitation of the Britons as mercenaries to repulse incursions by the Hiberni and Picts. In time, Anglo-Saxon demands on the British became so great that they came to culturally dominate the bulk of southern Great Britain, though recent genetic evidence suggests Britons still formed the bulk of the population. This dominance creating what is now England and leaving culturally British enclaves only in the north of what is now England, in Cornwall and what is now known as Wales. Ireland had been unaffected by the Romans except, significantly, having been Christianised, traditionally by the Romano-Briton, Saint Patrick. As Europe, including Britain, descended into turmoil following the collapse of Roman civilisation, an era known as the Dark Ages, Ireland entered a golden age and responded with missions (first to Great Britain and then to the continent), the founding of monasteries and universities. These were later joined by Anglo-Saxon missions of a similar nature."
+    ],
+    "generated_answer": "The Davidian Revolution refers to the cultural and religious changes brought about by King David I of Scotland in the 12th century.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3498188257217407,
+    "mean_prob": 0.7891173958778381,
+    "min_prob": 0.17994479835033417,
+    "sds": 1.1315398216247559,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 81,
+    "ds_index": 4685,
+    "question": "What was the Fresno Fairgrounds used as?",
+    "gold_answer": "an assembly center",
+    "context": [
+      "Norman plays host to the Norman Music Festival, a festival that highlights native Oklahoma bands and musicians. Norman is also host to the Medieval Fair of Norman, which has been held annually since 1976 and was Oklahoma's first medieval fair. The Fair was held first on the south oval of the University of Oklahoma campus and in the third year moved to the Duck Pond in Norman until the Fair became too big and moved to Reaves Park in 2003. The Medieval Fair of Norman is Oklahoma's \"largest weekend event and the third largest event in Oklahoma, and was selected by Events Media Network as one of the top 100 events in the nation\"."
+    ],
+    "generated_answer": "The Fresno Fairgrounds was not mentioned in the provided context, so it is unclear what it was used for.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4821521043777466,
+    "mean_prob": 0.7417112588882446,
+    "min_prob": 0.1403532773256302,
+    "sds": 1.142396092414856,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 82,
+    "ds_index": 7144,
+    "question": "After what higher learning model was the school designed?",
+    "gold_answer": "English university model",
+    "context": [
+      "Although the structural model provided by the University of Paris, where student members are controlled by faculty \"masters,\" provided a standard for universities, the application of this model took at least three different forms. There were universities that had a system of faculties whose teaching addressed a very specific curriculum; this model tended to train specialists. There was a collegiate or tutorial model based on the system at University of Oxford where teaching and organization was decentralized and knowledge was more of a generalist nature. There were also universities that combined these models, using the collegiate model but having a centralized organization."
+    ],
+    "generated_answer": "The school was designed after the collegiate or tutorial model, similar to the University of Oxford.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.6477012634277344,
+    "mean_prob": 0.7334596514701843,
+    "min_prob": 0.04741877689957619,
+    "sds": 0.7934515476226807,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 83,
+    "ds_index": 4869,
+    "question": "What did DECnet phase 2 become ",
+    "gold_answer": "were open standards with published specifications, and several implementations were developed outside DEC, including one for Linux",
+    "context": [
+      "On 26 February 2015, the FCC ruled in favor of net neutrality by adopting Title II (common carrier) of the Communications Act of 1934 and Section 706 in the Telecommunications act of 1996 to the Internet. The FCC Chairman, Tom Wheeler, commented, \"This is no more a plan to regulate the Internet than the First Amendment is a plan to regulate free speech. They both stand for the same concept.\""
+    ],
+    "generated_answer": "DECnet phase 2 became a discontinued network protocol developed by Digital Equipment Corporation.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.594962477684021,
+    "mean_prob": 0.7365198731422424,
+    "min_prob": 0.09180561453104019,
+    "sds": 1.1607002019882202,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 84,
+    "ds_index": 1462,
+    "question": "When was Marconi's radio demonstration?",
+    "gold_answer": "1901",
+    "context": [
+      "The origin of the word antenna relative to wireless apparatus is attributed to Italian radio pioneer Guglielmo Marconi. In the summer of 1895, Marconi began testing his wireless system outdoors on his father's estate near Bologna and soon began to experiment with long wire \"aerials\". Marconi discovered that by raising the \"aerial\" wire above the ground and connecting the other side of his transmitter to ground, the transmission range was increased. Soon he was able to transmit signals over a hill, a distance of approximately 2.4 kilometres (1.5 mi). In Italian a tent pole is known as l'antenna centrale, and the pole with the wire was simply called l'antenna. Until then wireless radiating transmitting and receiving elements were known simply as aerials or terminals."
+    ],
+    "generated_answer": "Marconi's radio demonstration took place in the summer of 1895.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.0832910537719727,
+    "mean_prob": 0.9396640658378601,
+    "min_prob": 0.42572328448295593,
+    "sds": 0.9505899548530579,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 85,
+    "ds_index": 447,
+    "question": "What is the Roman numeral going to be for Super Bowl 51?",
+    "gold_answer": "LI.",
+    "context": [
+      "The city is represented in the National Football League by the New York Giants and the New York Jets, although both teams play their home games at MetLife Stadium in nearby East Rutherford, New Jersey, which hosted Super Bowl XLVIII in 2014."
+    ],
+    "generated_answer": "The Roman numeral for Super Bowl 51 is L.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.1857986450195312,
+    "mean_prob": 0.8665329813957214,
+    "min_prob": 0.4787716567516327,
+    "sds": 1.128661870956421,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 86,
+    "ds_index": 3361,
+    "question": "Along with solar, coal and nuclear, what sort of plants notable use the Rankine process?",
+    "gold_answer": "biomass",
+    "context": [
+      "Industrial production is mainly from the steam reforming of natural gas, and less often from more energy-intensive hydrogen production methods like the electrolysis of water. Most hydrogen is employed near its production site, with the two largest uses being fossil fuel processing (e.g., hydrocracking) and ammonia production, mostly for the fertilizer market. Hydrogen is a concern in metallurgy as it can embrittle many metals, complicating the design of pipelines and storage tanks."
+    ],
+    "generated_answer": "Steam power plants.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 2.667989492416382,
+    "mean_prob": 0.5329875946044922,
+    "min_prob": 0.09950622916221619,
+    "sds": 1.0835108757019043,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 87,
+    "ds_index": 1470,
+    "question": "What sort of waves did he claim to observe?",
+    "gold_answer": "stationary",
+    "context": [
+      "By 1874, Bell's initial work on the harmonic telegraph had entered a formative stage, with progress made both at his new Boston \"laboratory\" (a rented facility) and at his family home in Canada a big success.[N 14] While working that summer in Brantford, Bell experimented with a \"phonautograph\", a pen-like machine that could draw shapes of sound waves on smoked glass by tracing their vibrations. Bell thought it might be possible to generate undulating electrical currents that corresponded to sound waves. Bell also thought that multiple metal reeds tuned to different frequencies like a harp would be able to convert the undulating currents back into sound. But he had no working model to demonstrate the feasibility of these ideas."
+    ],
+    "generated_answer": "Bell claimed to observe sound waves.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.0892754793167114,
+    "mean_prob": 0.9214843511581421,
+    "min_prob": 0.8016875386238098,
+    "sds": 0.7797430157661438,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 88,
+    "ds_index": 1735,
+    "question": "What fixed set of factors determine the actions of a deterministic Turing machine",
+    "gold_answer": "rules",
+    "context": [
+      "He also introduced the notion of a 'Universal Machine' (now known as a Universal Turing machine), with the idea that such a machine could perform the tasks of any other machine, or in other words, it is provably capable of computing anything that is computable by executing a program stored on tape, allowing the machine to be programmable. Von Neumann acknowledged that the central concept of the modern computer was due to this paper. Turing machines are to this day a central object of study in theory of computation. Except for the limitations imposed by their finite memory stores, modern computers are said to be Turing-complete, which is to say, they have algorithm execution capability equivalent to a universal Turing machine."
+    ],
+    "generated_answer": "The actions of a deterministic Turing machine are determined by a fixed set of factors including its finite memory store, the set of states it can be in, the alphabet of symbols it can read and write, and the transition function that defines the machine's behavior based on its current state and the symbol it reads.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5376861095428467,
+    "mean_prob": 0.7425203323364258,
+    "min_prob": 0.06639920175075531,
+    "sds": 1.0429333448410034,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 89,
+    "ds_index": 4448,
+    "question": "What percentage of the land cleared in the Amazon is used for growing livestock?",
+    "gold_answer": "91%",
+    "context": [
+      "The Desert Land Act of 1877 was passed to allow settlement of arid lands in the west and allotted 640 acres (2.6 km2) to settlers for a fee of $.25 per acre and a promise to irrigate the land. After three years, a fee of one dollar per acre would be paid and the land would be owned by the settler. This act brought mostly cattle and sheep ranchers into Montana, many of whom grazed their herds on the Montana prairie for three years, did little to irrigate the land and then abandoned it without paying the final fees. Some farmers came with the arrival of the Great Northern and Northern Pacific Railroads throughout the 1880s and 1890s, though in relatively small numbers."
+    ],
+    "generated_answer": "The context provided does not contain information about the percentage of land cleared in the Amazon used for growing livestock.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2724617719650269,
+    "mean_prob": 0.8322653770446777,
+    "min_prob": 0.32721003890037537,
+    "sds": 1.1046762466430664,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 90,
+    "ds_index": 9687,
+    "question": "The motto of the Muslim Brotherhood specifies what as being their constitution?",
+    "gold_answer": "the Qur'an",
+    "context": [
+      "Although racial and colonial definitions of the Middle East are no longer considered ideologically sound, the sentiment of unity persists. For much, but by no means all, of the Middle East, the predominance of Islam lends some unity, as does the transient accident of geographical continuity. Otherwise there is but little basis except for history and convention to lump together peoples of multiple, often unrelated languages, governments, loyalties and customs."
+    ],
+    "generated_answer": "The motto of the Muslim Brotherhood specifies \"Allah, Muhammad, and the Quran\" as their constitution.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3929071426391602,
+    "mean_prob": 0.7847763895988464,
+    "min_prob": 0.1463862955570221,
+    "sds": 1.001224398612976,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 91,
+    "ds_index": 1840,
+    "question": "What evidence between and among complexity classes would signify a theoretical watershed for complexity theory?",
+    "gold_answer": "Proving that any of these classes are unequal",
+    "context": [
+      "Computer science, built upon a foundation of theoretical linguistics, discrete mathematics, and electrical engineering, studies the nature and limits of computation. Subfields include computability, computational complexity, database design, computer networking, artificial intelligence, and the design of computer hardware. One area in which advances in computing have contributed to more general scientific development is by facilitating large-scale archiving of scientific data. Contemporary computer science typically distinguishes itself by emphasising mathematical 'theory' in contrast to the practical emphasis of software engineering."
+    ],
+    "generated_answer": "A theoretical watershed for complexity theory would be evidence of a reduction or collapse between previously distinct complexity classes, such as showing that P equals NP, or that NP is not equal to co-NP.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.7787829637527466,
+    "mean_prob": 0.6757407188415527,
+    "min_prob": 0.030171379446983337,
+    "sds": 1.0844314098358154,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 92,
+    "ds_index": 2021,
+    "question": "What is the largest type of misconduct being reviewed by the media?",
+    "gold_answer": "sexual misconduct",
+    "context": [
+      "Some Western media have reported on Chinese accusations of Western media bias. The Daily Telegraph published an opinion piece by the Chinese ambassador to the United Kingdom, Fu Ying, who accused Western media of \"demonising\" China during their coverage of the torch relays. The Telegraph also asked its readers to send their views in response to the question \"Is the West demonising China?\" The BBC reported on a demonstration in Sydney by Chinese Australians \"voicing support for Beijing amid controversy over Tibet\" and protesting against what they saw as Western media bias. The report showed demonstrators carrying signs which read \"Shame on some Western media\", \"BBC CNN lies too\" and \"Stop media distortion!\". One demonstrator interviewed by the BBC stated: \"I saw some news from CNN, from the BBC, some media [inaudible], and they are just lying.\" Lib\u00e9ration also reported that it had been accused of bias by the Chinese media."
+    ],
+    "generated_answer": "The largest type of misconduct being reviewed by the media is alleged Western media bias against China.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2918248176574707,
+    "mean_prob": 0.8463743329048157,
+    "min_prob": 0.13509143888950348,
+    "sds": 0.7532704472541809,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 93,
+    "ds_index": 9781,
+    "question": "What was Zia-ul-Haq's official state ideology?",
+    "gold_answer": "Islamism",
+    "context": [
+      "Islamic political philosophy, was, indeed, rooted in the very sources of Islam\u2014i.e., the Qur'an and the Sunnah, the words and practices of Muhammad\u2014thus making it essentially theocratic. However, in the Western thought, it is generally supposed that it was a specific area peculiar merely to the great philosophers of Islam: al-Kindi (Alkindus), al-Farabi (Abunaser), \u0130bn Sina (Avicenna), Ibn Bajjah (Avempace), Ibn Rushd (Averroes), and Ibn Khaldun. The political conceptions of Islam such as kudrah (power), sultan, ummah, cemaa (obligation)-and even the \"core\" terms of the Qur'an\u2014i.e., ibadah (worship), din (religion), rab (master) and ilah (deity)\u2014is taken as the basis of an analysis. Hence, not only the ideas of the Muslim political philosophers but also many other jurists and ulama posed political ideas and theories. For example, the ideas of the Khawarij in the very early years of Islamic history on Khilafa and Ummah, or that of Shia Islam on the concept of Imamah are considered proofs of political thought. The clashes between the Ehl-i Sunna and Shia in the 7th and 8th centuries had a genuine political character."
+    ],
+    "generated_answer": "Zia-ul-Haq's official state ideology was Islamic fundamentalism, which emphasized the implementation of Islamic principles and laws in governance.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3242301940917969,
+    "mean_prob": 0.8103259801864624,
+    "min_prob": 0.20118267834186554,
+    "sds": 0.9202584028244019,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 94,
+    "ds_index": 7655,
+    "question": "Why was the Dalek script rejected at first?",
+    "gold_answer": "the programme was not permitted to contain any \"bug-eyed monsters\"",
+    "context": [
+      "In the mid-1980s Lucasfilm pioneered the EditDroid non-linear editing system for film and television based on computer-controlled LaserDisc players. Instead of printing dailies out on film, processed negatives from the day's shoot would be sent to a mastering plant to be assembled from their 10-minute camera elements into 20-minute film segments. These were then mastered onto single-sided blank LaserDiscs, just as a DVD would be burnt at home today, allowing for much easier selection and preparation of an Edit Decision List. In the days before video assist was available in cinematography, this was the only other way a film crew could see their work. The EDL went to the negative cutter who then cut the camera negative accordingly and assembled the finished film. Only 24 EditDroid systems were ever built, even though the ideas and technology are still in use today. Later EditDroid experiments borrowed from hard-drive technology of having multiple discs on the same spindle and added numerous playback heads and numerous electronics to the basic jukebox design so that any point on each of the discs would be accessible within seconds. This eliminated the need for racks and racks of industrial LaserDisc players since EditDroid discs were only single-sided."
+    ],
+    "generated_answer": "The context provided does not mention anything about the Dalek script or its rejection.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3407036066055298,
+    "mean_prob": 0.7823875546455383,
+    "min_prob": 0.29522275924682617,
+    "sds": 1.235836148262024,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 95,
+    "ds_index": 159,
+    "question": "What California city last hosted the Super Bowl?",
+    "gold_answer": "San Diego",
+    "context": [
+      "The city is represented in the National Football League by the New York Giants and the New York Jets, although both teams play their home games at MetLife Stadium in nearby East Rutherford, New Jersey, which hosted Super Bowl XLVIII in 2014."
+    ],
+    "generated_answer": "The context provided does not mention any California city hosting the Super Bowl. The last Super Bowl mentioned in the context was hosted by East Rutherford, New Jersey.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3699251413345337,
+    "mean_prob": 0.7698770761489868,
+    "min_prob": 0.2510398030281067,
+    "sds": 0.8999134302139282,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 96,
+    "ds_index": 10215,
+    "question": "What time framd does the Seven Years War cover?",
+    "gold_answer": "declaration of war in 1756 to the signing of the peace treaty in 1763",
+    "context": [
+      "The history of the Seven Years' War in North America, particularly the expulsion of the Acadians, the siege of Quebec, the death of Wolfe, and the Battle of Fort William Henry generated a vast number of ballads, broadsides, images, and novels (see Longfellow's Evangeline, Benjamin West's The Death of General Wolfe, James Fenimore Cooper's The Last of the Mohicans), maps and other printed materials, which testify to how this event held the imagination of the British and North American public long after Wolfe's death in 1759."
+    ],
+    "generated_answer": "The Seven Years' War covers the period from 1756 to 1763.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.072846531867981,
+    "mean_prob": 0.9415340423583984,
+    "min_prob": 0.588684618473053,
+    "sds": 0.9063056111335754,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 97,
+    "ds_index": 685,
+    "question": "Which single did Beyonc\u00e9 and Coldplay collaborate on?",
+    "gold_answer": "Hymn for the Weekend",
+    "context": [
+      "At the 57th Annual Grammy Awards in February 2015, Beyonc\u00e9 was nominated for six awards, ultimately winning three: Best R&B Performance and Best R&B Song for \"Drunk in Love\", and Best Surround Sound Album for Beyonc\u00e9. She was nominated for Album of the Year but the award was won by Beck for his Morning Phase album. In August, the cover of the September issue of Vogue magazine was unveiled online, Beyonc\u00e9 as the cover star, becoming the first African-American artist and third African-American woman in general to cover the September issue. She headlined the 2015 Made in America festival in early September and also the Global Citizen Festival later that month. Beyonc\u00e9 made an uncredited featured appearance on the track \"Hymn for the Weekend\" by British rock band Coldplay, on their seventh studio album A Head Full of Dreams (2015), which saw release in December. On January 7, 2016, Pepsi announced Beyonc\u00e9 would perform alongside Coldplay at Super Bowl 50 in February. Knowles has previously performed at four Super Bowl shows throughout her career, serving as the main headliner of the 47th Super Bowl halftime show in 2013."
+    ],
+    "generated_answer": "Beyonc\u00e9 and Coldplay collaborated on the track \"Hymn for the Weekend.\"",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2540686130523682,
+    "mean_prob": 0.8952101469039917,
+    "min_prob": 0.11890401691198349,
+    "sds": 0.8937264084815979,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 98,
+    "ds_index": 7724,
+    "question": "Who did the BBC work with to reconstruct some of The Invasion episodes?",
+    "gold_answer": "Cosgrove Hall",
+    "context": [
+      "Mechanically scanned, 30-line television broadcasts by John Logie Baird began in 1929, using the BBC transmitter in London, and by 1930 a regular schedule of programmes was transmitted from the BBC antenna in Brookmans Park. Television production was switched from Baird's company to what is now known as BBC One on 2 August 1932, and continued until September 1935. Regularly scheduled electronically scanned television began from Alexandra Palace in London on 2 November 1936, to just a few hundred viewers in the immediate area. The first programme broadcast \u2013 and thus the first ever, on a dedicated TV channel \u2013 was \"Opening of the BBC Television Service\" at 15:00. The first major outside broadcast was the coronation of King George VI and Queen Elizabeth in May 1937. The service was reaching an estimated 25,000\u201340,000 homes before the outbreak of World War II which caused the service to be suspended in September 1939. The VHF broadcasts would have provided an ideal radio beacon for German bombers homing in on London, and the engineers and technicians of the service would be needed for the war effort, in particular the radar programme."
+    ],
+    "generated_answer": "The BBC worked with the United States to reconstruct some of The Invasion episodes.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.370892882347107,
+    "mean_prob": 0.8122351169586182,
+    "min_prob": 0.12200995534658432,
+    "sds": 1.0219446420669556,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 99,
+    "ds_index": 7686,
+    "question": "What did people vote the Doctor Who series as in a 2011 online vote?",
+    "gold_answer": "scariest TV show of all time",
+    "context": [
+      "Beginning in 2005, the CBC has contributed production funds for the BBC Wales revival of Doctor Who, for which it received a special credit at the end of each episode. This arrangement continued until the end of fourth season, broadcast in 2008. The CBC similarly contributed to the first season of the spin-off series, Torchwood. More recently, the network has also begun picking up Canadian rights to some Australian series, including the drama series Janet King and Love Child, and the comedy-drama series Please Like Me."
+    ],
+    "generated_answer": "The Doctor Who series was voted as the best British TV show in a 2011 online poll.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5580593347549438,
+    "mean_prob": 0.7385292053222656,
+    "min_prob": 0.12614990770816803,
+    "sds": 0.98833829164505,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  }
+]

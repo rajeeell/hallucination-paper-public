@@ -1,0 +1,50 @@
+{
+  "model": "microsoft/Phi-3-mini-4k-instruct",
+  "dataset": "/content/drive/MyDrive/rehab/phi/hotpot/hotpot_qwen25_rag_length_controlled_1000_binmatched.json",
+  "sample_sizes": {
+    "group_a": 200,
+    "group_b": 200,
+    "group_c": 200
+  },
+  "perplexity": {
+    "group_a": {
+      "mean": 1.3955615234375,
+      "std": 0.27484137030390504
+    },
+    "group_b": {
+      "mean": 1.897470703125,
+      "std": 0.5771613011303083
+    },
+    "group_c": {
+      "mean": 1.3272802734375,
+      "std": 0.26691206944861945
+    }
+  },
+  "mean_prob": {
+    "group_a": {
+      "mean": 0.86395263671875,
+      "std": 0.06906816273771767
+    },
+    "group_b": {
+      "mean": 0.77707763671875,
+      "std": 0.08613103813713895
+    },
+    "group_c": {
+      "mean": 0.87734619140625,
+      "std": 0.06213095806994542
+    }
+  },
+  "statistical_tests": {
+    "b_vs_c": {
+      "mann_whitney_p": 2.7088524282435505e-34,
+      "ttest_p": 4.638782979971303e-31,
+      "effect_size": 1.2680965478748398,
+      "significant": true
+    },
+    "a_vs_c": {
+      "mann_whitney_p": 0.009251004081829444,
+      "ttest_p": 0.012324894791343499
+    }
+  },
+  "conclusion": "Perplexity detects hallucination content"
+}

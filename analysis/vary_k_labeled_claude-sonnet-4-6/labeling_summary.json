@@ -1,0 +1,70 @@
+{
+  "judge_model": "claude-sonnet-4-6",
+  "voting": "conservative_double",
+  "max_concurrency": 20,
+  "cells": [
+    {
+      "in_path": "analysis/vary_k_results/vary_k/Qwen_Qwen2.5-14B-Instruct/squad/vary_k_n100_k2.json",
+      "out_path": "analysis/vary_k_labeled/vary_k/Qwen_Qwen2.5-14B-Instruct/squad/vary_k_n100_k2.json",
+      "n": 100,
+      "n_hallucinated": 44,
+      "hall_rate": 0.44
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/Qwen_Qwen2.5-14B-Instruct/squad/vary_k_n100_k3.json",
+      "out_path": "analysis/vary_k_labeled/vary_k/Qwen_Qwen2.5-14B-Instruct/squad/vary_k_n100_k3.json",
+      "n": 100,
+      "n_hallucinated": 42,
+      "hall_rate": 0.42
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/Qwen_Qwen2.5-14B-Instruct/squad/vary_k_n100_k4.json",
+      "out_path": "analysis/vary_k_labeled/vary_k/Qwen_Qwen2.5-14B-Instruct/squad/vary_k_n100_k4.json",
+      "n": 100,
+      "n_hallucinated": 47,
+      "hall_rate": 0.47
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/google_gemma-3-4b-it/hotpot/vary_k_n100_k2.json",
+      "out_path": "analysis/vary_k_labeled/vary_k/google_gemma-3-4b-it/hotpot/vary_k_n100_k2.json",
+      "n": 100,
+      "n_hallucinated": 35,
+      "hall_rate": 0.35
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/google_gemma-3-4b-it/hotpot/vary_k_n100_k3.json",
+      "out_path": "analysis/vary_k_labeled/vary_k/google_gemma-3-4b-it/hotpot/vary_k_n100_k3.json",
+      "n": 100,
+      "n_hallucinated": 31,
+      "hall_rate": 0.31
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/google_gemma-3-4b-it/hotpot/vary_k_n100_k4.json",
+      "out_path": "analysis/vary_k_labeled/vary_k/google_gemma-3-4b-it/hotpot/vary_k_n100_k4.json",
+      "n": 100,
+      "n_hallucinated": 32,
+      "hall_rate": 0.32
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/meta-llama_Llama-3.1-8B-Instruct/hotpot/vary_k_n100_k2.json",
+      "out_path": "analysis/vary_k_labeled/vary_k/meta-llama_Llama-3.1-8B-Instruct/hotpot/vary_k_n100_k2.json",
+      "n": 100,
+      "n_hallucinated": 43,
+      "hall_rate": 0.43
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/meta-llama_Llama-3.1-8B-Instruct/hotpot/vary_k_n100_k3.json",
+      "out_path": "analysis/vary_k_labeled/vary_k/meta-llama_Llama-3.1-8B-Instruct/hotpot/vary_k_n100_k3.json",
+      "n": 100,
+      "n_hallucinated": 36,
+      "hall_rate": 0.36
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/meta-llama_Llama-3.1-8B-Instruct/hotpot/vary_k_n100_k4.json",
+      "out_path": "analysis/vary_k_labeled/vary_k/meta-llama_Llama-3.1-8B-Instruct/hotpot/vary_k_n100_k4.json",
+      "n": 100,
+      "n_hallucinated": 38,
+      "hall_rate": 0.38
+    }
+  ]
+}

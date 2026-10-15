@@ -1,0 +1,104 @@
+{
+  "results": [
+    {
+      "cell": "Phi-3-mini-4k-instruct / hotpot",
+      "model": "Phi-3-mini-4k-instruct",
+      "dataset": "hotpot",
+      "mem_ppl_median": 14.031026074512418,
+      "log10_mem_ppl_med": 1.1469894467907868,
+      "k1_ppl_auroc": 0.6294997662459093,
+      "pos_rate": 0.69,
+      "n": 100,
+      "reversed": false,
+      "source": "natural-hall"
+    },
+    {
+      "cell": "Phi-3-mini-4k-instruct / squad",
+      "model": "Phi-3-mini-4k-instruct",
+      "dataset": "squad",
+      "mem_ppl_median": 26.745175380136985,
+      "log10_mem_ppl_med": 1.4270147402346902,
+      "k1_ppl_auroc": 0.5407925407925408,
+      "pos_rate": 0.78,
+      "n": 100,
+      "reversed": false,
+      "source": "vary-k k=1"
+    },
+    {
+      "cell": "Llama-3.1-8B-Instruct / hotpot",
+      "model": "Llama-3.1-8B-Instruct",
+      "dataset": "hotpot",
+      "mem_ppl_median": 84.97371868118614,
+      "log10_mem_ppl_med": 1.9292705540014992,
+      "k1_ppl_auroc": 0.7440257352941176,
+      "pos_rate": 0.68,
+      "n": 100,
+      "reversed": false,
+      "source": "natural-hall"
+    },
+    {
+      "cell": "Llama-3.1-8B-Instruct / squad",
+      "model": "Llama-3.1-8B-Instruct",
+      "dataset": "squad",
+      "mem_ppl_median": 95.17388883772716,
+      "log10_mem_ppl_med": 1.9785175732949063,
+      "k1_ppl_auroc": 0.5725094577553594,
+      "pos_rate": 0.39,
+      "n": 100,
+      "reversed": false,
+      "source": "vary-k k=1"
+    },
+    {
+      "cell": "gemma-3-4b-it / hotpot",
+      "model": "gemma-3-4b-it",
+      "dataset": "hotpot",
+      "mem_ppl_median": 3479.165906043283,
+      "log10_mem_ppl_med": 3.541469887574464,
+      "k1_ppl_auroc": 0.28460417678484706,
+      "pos_rate": 0.71,
+      "n": 100,
+      "reversed": true,
+      "source": "natural-hall"
+    },
+    {
+      "cell": "Qwen2.5-14B-Instruct / hotpot",
+      "model": "Qwen2.5-14B-Instruct",
+      "dataset": "hotpot",
+      "mem_ppl_median": 13634.06855284767,
+      "log10_mem_ppl_med": 4.134622001137906,
+      "k1_ppl_auroc": 0.6735306735306735,
+      "pos_rate": 0.63,
+      "n": 100,
+      "reversed": false,
+      "source": "natural-hall"
+    },
+    {
+      "cell": "Qwen2.5-14B-Instruct / squad",
+      "model": "Qwen2.5-14B-Instruct",
+      "dataset": "squad",
+      "mem_ppl_median": 33235.53655018633,
+      "log10_mem_ppl_med": 4.521492767812461,
+      "k1_ppl_auroc": 0.19969278033794163,
+      "pos_rate": 0.93,
+      "n": 100,
+      "reversed": true,
+      "source": "natural-hall"
+    },
+    {
+      "cell": "gemma-3-4b-it / squad",
+      "model": "gemma-3-4b-it",
+      "dataset": "squad",
+      "mem_ppl_median": 1418064.5185256493,
+      "log10_mem_ppl_med": 6.150314517083558,
+      "k1_ppl_auroc": 0.910218253968254,
+      "pos_rate": 0.28,
+      "n": 100,
+      "reversed": false,
+      "source": "vary-k k=1"
+    }
+  ],
+  "spearman": 0.07142857142857144,
+  "spearman_p": 0.8665262706759087,
+  "pearson": 0.07593385494369675,
+  "pearson_p": 0.8581703638336415
+}

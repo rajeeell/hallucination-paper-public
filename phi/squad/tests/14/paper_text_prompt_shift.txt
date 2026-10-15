@@ -1,0 +1,27 @@
+
+### Prompt Distribution Shift Analysis
+
+A potential concern with using model uncertainty (perplexity) for hallucination 
+detection is that the signal might capture prompt distribution shift rather than 
+actual hallucination content. To address this, we conducted a control experiment 
+with three groups:
+
+- **Group A** (n=200): Standard prompts with correct answers
+- **Group B** (n=199): Modified prompts with hallucinated answers  
+- **Group C** (n=200): Modified prompts with correct answers
+
+Group C serves as the critical control—if perplexity merely detects prompt 
+modification, Groups B and C should show similar perplexity values. However, 
+our results show a significant difference:
+
+| Group | Perplexity (mean ± std) |
+|-------|------------------------|
+| A (Standard, Correct) | 1.50 ± 0.32 |
+| B (Modified, Hallucinated) | 2.50 ± 1.03 |
+| C (Modified, Correct) | 1.39 ± 0.28 |
+
+The key comparison (B vs C) reveals that hallucinated answers have significantly 
+higher perplexity than correct answers generated with similar modified prompts 
+(Mann-Whitney U, p = 0.0000, Cohen's d = 1.48). This confirms 
+that model uncertainty reflects answer quality rather than prompt modification, 
+validating perplexity as a genuine hallucination signal.

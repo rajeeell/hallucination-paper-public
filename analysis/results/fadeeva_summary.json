@@ -1,0 +1,146 @@
+{
+  "n_cells": 8,
+  "per_cell": [
+    {
+      "cell": "Phi-3-mini/SQuAD",
+      "ppl_AUROC": 0.8745890651521601,
+      "ppl_CI": [
+        0.8590367833979498,
+        0.8898172292799054
+      ],
+      "best_fadeeva_variant": "MaxK-10",
+      "best_fadeeva_AUROC": 0.8743406126161939,
+      "best_fadeeva_CI": [
+        0.858901489698819,
+        0.8895753833227366
+      ],
+      "delta_best_minus_ppl": -0.00024845253596617045,
+      "best_meaningfully_better": false,
+      "best_meaningfully_worse": false
+    },
+    {
+      "cell": "Phi-3-mini/HotpotQA",
+      "ppl_AUROC": 0.7934138541010292,
+      "ppl_CI": [
+        0.7749602277948434,
+        0.8118265390346041
+      ],
+      "best_fadeeva_variant": "CCP-sent-max",
+      "best_fadeeva_AUROC": 0.7926372807708465,
+      "best_fadeeva_CI": [
+        0.7738574567449066,
+        0.8108831644809389
+      ],
+      "delta_best_minus_ppl": -0.0007765733301826616,
+      "best_meaningfully_better": false,
+      "best_meaningfully_worse": false
+    },
+    {
+      "cell": "Gemma-3-4B/SQuAD",
+      "ppl_AUROC": 0.8154509462079909,
+      "ppl_CI": [
+        0.7923265937817263,
+        0.8377580834166316
+      ],
+      "best_fadeeva_variant": "MaxK-10",
+      "best_fadeeva_AUROC": 0.8285289995589321,
+      "best_fadeeva_CI": [
+        0.8058648322767713,
+        0.8505565545553958
+      ],
+      "delta_best_minus_ppl": 0.013078053350941254,
+      "best_meaningfully_better": false,
+      "best_meaningfully_worse": false
+    },
+    {
+      "cell": "Gemma-3-4B/HotpotQA",
+      "ppl_AUROC": 0.8709210181474807,
+      "ppl_CI": [
+        0.8522907918191295,
+        0.8887932155510965
+      ],
+      "best_fadeeva_variant": "MaxK-10",
+      "best_fadeeva_AUROC": 0.8875740473623034,
+      "best_fadeeva_CI": [
+        0.8699487245148034,
+        0.9040596760221588
+      ],
+      "delta_best_minus_ppl": 0.0166530292148227,
+      "best_meaningfully_better": false,
+      "best_meaningfully_worse": false
+    },
+    {
+      "cell": "Llama-3.1-8B/SQuAD",
+      "ppl_AUROC": 0.9290586434172603,
+      "ppl_CI": [
+        0.910830955444228,
+        0.9458491759446268
+      ],
+      "best_fadeeva_variant": "MaxK-10",
+      "best_fadeeva_AUROC": 0.9466682000158126,
+      "best_fadeeva_CI": [
+        0.9309847335925652,
+        0.9613524139467688
+      ],
+      "delta_best_minus_ppl": 0.017609556598552345,
+      "best_meaningfully_better": false,
+      "best_meaningfully_worse": false
+    },
+    {
+      "cell": "Llama-3.1-8B/HotpotQA",
+      "ppl_AUROC": 0.9224539123583653,
+      "ppl_CI": [
+        0.9033778685842865,
+        0.9400945789849701
+      ],
+      "best_fadeeva_variant": "MaxK-10",
+      "best_fadeeva_AUROC": 0.9379244035815155,
+      "best_fadeeva_CI": [
+        0.9206843539050137,
+        0.953668983568028
+      ],
+      "delta_best_minus_ppl": 0.015470491223150251,
+      "best_meaningfully_better": false,
+      "best_meaningfully_worse": false
+    },
+    {
+      "cell": "Qwen-2.5-14B/SQuAD",
+      "ppl_AUROC": 0.8690849568462261,
+      "ppl_CI": [
+        0.8450697957922209,
+        0.8921108433872851
+      ],
+      "best_fadeeva_variant": "MaxK-10",
+      "best_fadeeva_AUROC": 0.8652503376754195,
+      "best_fadeeva_CI": [
+        0.8409829216364095,
+        0.888904930061125
+      ],
+      "delta_best_minus_ppl": -0.00383461917080663,
+      "best_meaningfully_better": false,
+      "best_meaningfully_worse": false
+    },
+    {
+      "cell": "Qwen-2.5-14B/HotpotQA",
+      "ppl_AUROC": 0.793711840154355,
+      "ppl_CI": [
+        0.7626067504483681,
+        0.8240197411443259
+      ],
+      "best_fadeeva_variant": "CCP-sent-mean",
+      "best_fadeeva_AUROC": 0.7858257418306367,
+      "best_fadeeva_CI": [
+        0.7544496888940686,
+        0.816930022207978
+      ],
+      "delta_best_minus_ppl": -0.007886098323718338,
+      "best_meaningfully_better": false,
+      "best_meaningfully_worse": false
+    }
+  ],
+  "n_cells_fadeeva_meaningfully_better": 0,
+  "n_cells_fadeeva_meaningfully_worse": 0,
+  "mean_delta_best_minus_ppl": 0.006258173378349094,
+  "max_delta_best_minus_ppl": 0.017609556598552345,
+  "min_delta_best_minus_ppl": -0.007886098323718338
+}

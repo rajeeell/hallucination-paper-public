@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 0,
+    "question": "Which of the writers of \"The Telltale Head\"  was born on February 15, 1954?",
+    "gold_answer": "Matt Groening",
+    "context": [
+      "In the Middle Ages, Virgil's reputation was such that it inspired legends associating him with magic and prophecy. From at least the 3rd century, Christian thinkers interpreted Eclogues 4, which describes the birth of a boy ushering in a golden age, as a prediction of Jesus' birth. As such, Virgil came to be seen on a similar level as the Hebrew prophets of the Bible as one who had heralded Christianity."
+    ],
+    "generated_answer": "The context provided does not contain any information about the writer of \"The Telltale Head\" born on February 15, 1954. The text is about Virgil's reputation during the Middle Ages. Please provide the correct context or check if there might be a mismatch between the context and the question.",
+    "degradation_mode": "k1",
+    "perplexity": 1.545339584350586,
+    "mean_prob": 0.7612636089324951,
+    "min_prob": 0.014373673126101494,
+    "sds": 0.9949375987052917,
+    "hallucinated": null
+  },
+  {
+    "id": 1,
+    "question": "Who founded O Magazine that contained Elissa Schappell's second book of fiction?",
+    "gold_answer": "Oprah Winfrey and Hearst Communications",
+    "context": [
+      "Despite her editors' warnings that the book might not sell well, it quickly became a sensation, bringing acclaim to Lee in literary circles, in her hometown of Monroeville, and throughout Alabama. The book went through numerous subsequent printings and became widely available through its inclusion in the Book of the Month Club and editions released by Reader's Digest Condensed Books."
+    ],
+    "generated_answer": "The context provided does not contain any information about O Magazine or Elissa Schappell's second book of fiction. It discusses Harper Lee's success with a book, likely \"To Kill a Mockingbird,\" but does not address the question asked. Therefore, no answer can be derived from the given context regarding the founder of O Magazine.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4878289699554443,
+    "mean_prob": 0.7987400889396667,
+    "min_prob": 0.008999183773994446,
+    "sds": 0.9796079993247986,
+    "hallucinated": null
+  },
+  {
+    "id": 2,
+    "question": "How long did the state exist whose army ransacked and looted the city, Halebidu, twice in the 14th century ?",
+    "gold_answer": "320 years",
+    "context": [
+      "By 1353, the three original cantons had joined with the cantons of Glarus and Zug and the Lucerne, Z\u00fcrich and Bern city states to form the \"Old Confederacy\" of eight states that existed until the end of the 15th century. The expansion led to increased power and wealth for the federation. By 1460, the confederates controlled most of the territory south and west of the Rhine to the Alps and the Jura mountains, particularly after victories against the Habsburgs (Battle of Sempach, Battle of N\u00e4fels), over Charles the Bold of Burgundy during the 1470s, and the success of the Swiss mercenaries. The Swiss victory in the Swabian War against the Swabian League of Emperor Maximilian I in 1499 amounted to de facto independence within the Holy Roman Empire."
+    ],
+    "generated_answer": "The context provided does not contain any information about the looting of Halebidu or any events from the 14th century outside of Switzerland's history, so it cannot be used to answer the question about Halebidu. The text is focused on the historical development of the Swiss Confederacy.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5221889019012451,
+    "mean_prob": 0.7594457864761353,
+    "min_prob": 0.04828789085149765,
+    "sds": 1.0530736446380615,
+    "hallucinated": null
+  },
+  {
+    "id": 3,
+    "question": "What friend of a performance artist and professional wrestler has performed in the role of Tony Clifton?",
+    "gold_answer": "Bob Zmuda",
+    "context": [
+      "Antarctic explorers Robert Falcon Scott and Frank Bickerton both lived in the city. Artists include Beryl Cook whose paintings depict the culture of Plymouth and Robert Lenkiewicz, whose paintings investigated themes of vagrancy, sexual behaviour and suicide, lived in the city from the 1960s until his death in 2002. Illustrator and creator of children's series Mr Benn and King Rollo, David McKee, was born and brought up in South Devon and trained at Plymouth College of Art. Jazz musician John Surman, born in nearby Tavistock, has close connections to the area, evidenced by his 2012 album Saltash Bells. The avant garde prepared guitarist Keith Rowe was born in the city before establishing the jazz free improvisation band AMM in London in 1965 and MIMEO in 1997. The musician and film director Cosmo Jarvis has lived in several towns in South Devon and has filmed videos in and around Plymouth. In addition, actors Sir Donald Sinden and Judi Trott. George Passmore of Turner Prize winning duo Gilbert and George was born in the city, as was Labour politician Michael Foot whose family reside at nearby Trematon Castle."
+    ],
+    "generated_answer": "The question does not pertain to the given context about Plymouth and its notable residents. However, based on general knowledge, Tony Clifton is a character famously performed by Divine, who was a drag performer, singer, and actor, and also by Iggy Pop, who is known for playing the role of Tony Clifton in performances alongside or instead of his character as Divine's friend in certain contexts related to performance art. Given the specific phrasing of the question, the answer would be Iggy Pop",
+    "degradation_mode": "k1",
+    "perplexity": 1.933694839477539,
+    "mean_prob": 0.6685894131660461,
+    "min_prob": 0.018293417990207672,
+    "sds": 1.0661687850952148,
+    "hallucinated": null
+  },
+  {
+    "id": 4,
+    "question": "WWE Super Tuesday took place at an arena that currently goes by what name?",
+    "gold_answer": "TD Garden",
+    "context": [
+      "Although professional wrestling started out as petty acts in sideshows, traveling circuses and carnivals, today it is a billion-dollar industry. Revenue is drawn from live event ticket sales, network television broadcasts, pay-per-view broadcasts, personal appearances by performers, branded merchandise and home video. Particularly since the 1950s, pro wrestling events have frequently been responsible for sellout crowds at large arenas, including Madison Square Garden, as well as football stadiums, by promotions including the WWE, the NWA territory system, WCW, and AWA. Pro wrestling was also instrumental in making pay-per-view a viable method of content delivery. Annual shows such as WrestleMania, SummerSlam, Royal Rumble, and formerly Bash at the Beach, Halloween Havoc and Starrcade are among the highest-selling pay-per-view programming each year. In modern day, internet programming has been utilized by a number of companies to air web shows, internet pay-per-views (iPPVs) or on-demand content, helping to generate internet-related revenue earnings from the evolving World Wide Web."
+    ],
+    "generated_answer": "The question does not provide enough information to determine the current name of the specific arena where WWE Super Tuesday took place. The context given does not mention WWE Super Tuesday or any particular arena associated with it.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3176815509796143,
+    "mean_prob": 0.8069130182266235,
+    "min_prob": 0.18238668143749237,
+    "sds": 1.1084107160568237,
+    "hallucinated": null
+  },
+  {
+    "id": 5,
+    "question": "Ben Folds and Nic Offer are both considered to be which type of artists?",
+    "gold_answer": "musician",
+    "context": [
+      "Artists contributing to this format include mainly soft rock/pop singers such as, Andy Williams, Johnny Mathis, Nana Mouskouri, Celine Dion, Julio Iglesias, Frank Sinatra, Barry Manilow, Engelbert Humperdinck, and Marc Anthony."
+    ],
+    "generated_answer": "Based on the given context, Ben Folds and Nic Offer are not considered to be the same type of artists as those listed, which are mainly soft rock/pop singers. The context does not provide information about Ben Folds and Nic Offer, but they are generally known for different genres and styles of music outside of soft rock and pop.",
+    "degradation_mode": "k1",
+    "perplexity": 1.327778697013855,
+    "mean_prob": 0.8137584328651428,
+    "min_prob": 0.13559603691101074,
+    "sds": 1.04354727268219,
+    "hallucinated": null
+  },
+  {
+    "id": 6,
+    "question": "When was Poison's album \"Shut Up, Make Love\" released?",
+    "gold_answer": "2000",
+    "context": [
+      "Also in late 1965, the Date subsidiary label was revived. This label released the first string of hits for Peaches & Herb and scored a few minor hits from various other artists. Date's biggest success was \"Time of the Season\" by the Zombies, peaking at #2 in 1969. The label was discontinued in 1970."
+    ],
+    "generated_answer": "The provided context does not contain any information about Poison's album \"Shut Up, Make Love,\" and it primarily discusses the activities of the Date label in the late 1960s. Therefore, I cannot answer the question based on the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3165444135665894,
+    "mean_prob": 0.8362187743186951,
+    "min_prob": 0.08506897836923599,
+    "sds": 1.0896496772766113,
+    "hallucinated": null
+  },
+  {
+    "id": 7,
+    "question": "When was the University established where Laura Landweber is a professor ?",
+    "gold_answer": "1754",
+    "context": [
+      "John Evans, for whom Evanston is named, bought 379 acres (153 ha) of land along Lake Michigan in 1853, and Philo Judson developed plans for what would become the city of Evanston, Illinois. The first building, Old College, opened on November 5, 1855. To raise funds for its construction, Northwestern sold $100 \"perpetual scholarships\" entitling the purchaser and his heirs to free tuition. Another building, University Hall, was built in 1869 of the same Joliet limestone as the Chicago Water Tower, also built in 1869, one of the few buildings in the heart of Chicago to survive the Great Chicago Fire of 1871. In 1873 the Evanston College for Ladies merged with Northwestern, and Frances Willard, who later gained fame as a suffragette and as one of the founders of the Woman's Christian Temperance Union (WCTU), became the school's first dean of women. Willard Residential College (1938) is named in her honor. Northwestern admitted its first women students in 1869, and the first woman was graduated in 1874."
+    ],
+    "generated_answer": "The context provided does not mention Laura Landweber or specify the establishment year of the university where she is a professor. However, it gives information about Northwestern University's founding, which began in 1855. If you're asking about Northwestern University, it was established around that time with the opening of its first building in 1855. For specific information about Laura Landweber's institution, additional context is needed.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5603505373001099,
+    "mean_prob": 0.7630835175514221,
+    "min_prob": 0.029509486630558968,
+    "sds": 0.911683976650238,
+    "hallucinated": null
+  },
+  {
+    "id": 8,
+    "question": "Command and Control was a book that discusses the 1980 incident in what state?",
+    "gold_answer": "Arkansas",
+    "context": [
+      "Command and control is \"the exercise of authority and direction by a properly designated commander over assigned and attached forces in the accomplishment of the mission. Command and control functions are performed through an arrangement of personnel, equipment, communications, facilities, and procedures employed by a commander in planning, directing, coordinating, and controlling forces and operations in the accomplishment of the mission\" (JP 1-02). This core function includes all of the C2-related capabilities and activities associated with air, space, cyberspace, nuclear, and agile combat support operations to achieve strategic, operational, and tactical objectives."
+    ],
+    "generated_answer": "The provided context does not mention any book about a 1980 incident in a specific U.S. state. Therefore, based solely on the given information, it's not possible to answer the question as asked.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3344920873641968,
+    "mean_prob": 0.8147523999214172,
+    "min_prob": 0.09543730318546295,
+    "sds": 1.4598268270492554,
+    "hallucinated": null
+  },
+  {
+    "id": 9,
+    "question": "What profession does 2007 Formula 3 Euro Series and Romain Grosjeanhave in common?",
+    "gold_answer": "driver",
+    "context": [
+      "Once a year between 2008\u20132012 the European Formula One Grand Prix took place in the Valencia Street Circuit. Valencia is among with Barcelona, Porto and Monte Carlo the only European cities ever to host Formula One World Championship Grands Prix on public roads in the middle of cities. The final race in 2012 European Grand Prix saw an extremely popular winner, since home driver Fernando Alonso won for Ferrari in spite of starting halfway down the field. The Valencian Community motorcycle Grand Prix (Gran Premi de la Comunitat Valenciana de motociclisme) is part of the Grand Prix motorcycle racing season at the Circuit Ricardo Tormo (also known as Circuit de Valencia). Periodically the Spanish round of the Deutsche Tourenwagen Masters touring car racing Championship (DTM) is held in Valencia."
+    ],
+    "generated_answer": "Romain Grosjean is a professional racing driver who competed in the 2007 Formula 3 Euro Series, so the profession they have in common is that of a racing driver.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7838586568832397,
+    "mean_prob": 0.8477722406387329,
+    "min_prob": 1.732420605549123e-05,
+    "sds": 1.1255356073379517,
+    "hallucinated": null
+  },
+  {
+    "id": 10,
+    "question": "Which  American chain of bakery-caf\u00e9 fast casual restaurants sponsored Bill Steers Men's 4-Miler",
+    "gold_answer": "Panera Bread Company",
+    "context": [
+      "Krispy Kreme, an international chain of doughnut stores, was started in North Carolina; the company's headquarters are in Winston-Salem. Pepsi-Cola was first produced in 1898 in New Bern. A regional soft drink, Cheerwine, was created and is still based in the city of Salisbury. Despite its name, the hot sauce Texas Pete was created in North Carolina; its headquarters are also in Winston-Salem. The Hardee's fast-food chain was started in Rocky Mount. Another fast-food chain, Bojangles', was started in Charlotte, and has its corporate headquarters there. A popular North Carolina restaurant chain is Golden Corral. Started in 1973, the chain was founded in Fayetteville, with headquarters located in Raleigh. Popular pickle brand Mount Olive Pickle Company was founded in Mount Olive in 1926. Fast casual burger chain Hwy 55 Burgers, Shakes & Fries also makes its home in Mount Olive. Cook Out, a popular fast-food chain featuring burgers, hot dogs, and milkshakes in a wide variety of flavors, was founded in Greensboro in 1989 and has begun expanding outside of North Carolina. In 2013, Southern Living named Durham - Chapel Hill the South's \"Tastiest City.\""
+    ],
+    "generated_answer": "The context provided does not contain information about which American chain of bakery-caf\u00e9 fast casual restaurants sponsored the Bill Steers Men's 4-Miler. Therefore, I cannot answer this question based solely on the given information.",
+    "degradation_mode": "k1",
+    "perplexity": 1.292084813117981,
+    "mean_prob": 0.844368040561676,
+    "min_prob": 0.10747187584638596,
+    "sds": 1.1017272472381592,
+    "hallucinated": null
+  },
+  {
+    "id": 11,
+    "question": "In what field does the firm at which Claudio Fern\u00e1ndez-Ar\u00e1oz was a currently a senior adviser offers services?",
+    "gold_answer": "Executive Search, Board Consulting",
+    "context": [
+      "Executive Directors and Under-Secretaries General of the UN\n2011\u2013present Dr Babatunde Osotimehin (Nigeria)\n2000\u20132010 Ms Thoraya Ahmed Obaid (Saudi Arabia)\n1987\u20132000 Dr Nafis Sadik (Pakistan)\n1969\u201387 Mr Rafael M. Salas (Philippines)"
+    ],
+    "generated_answer": "The context provided does not contain any information about Claudio Fern\u00e1ndez-Ar\u00e1oz or the services offered by the firm for which he is a senior adviser. Therefore, an answer cannot be derived from the given text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4283912181854248,
+    "mean_prob": 0.8334001302719116,
+    "min_prob": 0.008597912266850471,
+    "sds": 1.1125776767730713,
+    "hallucinated": null
+  },
+  {
+    "id": 12,
+    "question": "Are Catasetum and Origanum in the same family?",
+    "gold_answer": "no",
+    "context": [
+      "In 2007 Torsten Struck and colleagues compared 3 genes in 81 taxa, of which 9 were outgroups, in other words not considered closely related to annelids but included to give an indication of where the organisms under study are placed on the larger tree of life. For a cross-check the study used an analysis of 11 genes (including the original 3) in 10 taxa. This analysis agreed that clitellates, pogonophorans and echiurans were on various branches of the polychaete family tree. It also concluded that the classification of polychaetes into Scolecida, Canalipalpata and Aciculata was useless, as the members of these alleged groups were scattered all over the family tree derived from comparing the 81 taxa. In addition, it also placed sipunculans, generally regarded at the time as a separate phylum, on another branch of the polychaete tree, and concluded that leeches were a sub-group of oligochaetes rather than their sister-group among the clitellates. Rouse accepted the analyses based on molecular phylogenetics, and their main conclusions are now the scientific consensus, although the details of the annelid family tree remain uncertain."
+    ],
+    "generated_answer": "The given context does not provide any information about Catasetum or Origanum, so I cannot answer whether they are in the same family based on this text alone.",
+    "degradation_mode": "k1",
+    "perplexity": 1.755854845046997,
+    "mean_prob": 0.7509868741035461,
+    "min_prob": 0.02209104411303997,
+    "sds": 1.0537220239639282,
+    "hallucinated": null
+  },
+  {
+    "id": 13,
+    "question": "What contest did Drew Barry's younger brother win in 1996?",
+    "gold_answer": "the 1996 NBA Slam Dunk Contest",
+    "context": [
+      "Ruben Studdard emerged as the winner, beating Clay Aiken by a small margin. Out of a total of 24 million votes, Studdard finished just 134,000 votes ahead of Aiken. This slim margin of victory was controversial due to the large number of calls that failed to get through. In an interview prior to season five, executive producer Nigel Lythgoe indicated that Aiken had led the fan voting from the wildcard week onward until the finale."
+    ],
+    "generated_answer": "The given context does not provide any information about a contest won by Drew Barry's younger brother in 1996. The context is about Ruben Studdard winning American Idol over Clay Aiken. Therefore, the question cannot be answered based on the provided information.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2504562139511108,
+    "mean_prob": 0.8619483709335327,
+    "min_prob": 0.03189028799533844,
+    "sds": 0.9113665819168091,
+    "hallucinated": null
+  },
+  {
+    "id": 14,
+    "question": "Which plant genus is part of a family with a longer name, Morning glory or Rothmannia?",
+    "gold_answer": "Morning glory",
+    "context": [
+      "The exact relationship between these eight groups is not yet clear, although there is agreement that the first three groups to diverge from the ancestral angiosperm were Amborellales, Nymphaeales, and Austrobaileyales. The term basal angiosperms refers to these three groups. Among the rest, the relationship between the three broadest of these groups (magnoliids, monocots, and eudicots) remains unclear. Some analyses make the magnoliids the first to diverge, others the monocots. Ceratophyllum seems to group with the eudicots rather than with the monocots."
+    ],
+    "generated_answer": "Rothmannia is part of a family with a longer name; it belongs to the family Bignoniaceae, while Morning glory belongs to the family Convolvulaceae. However, Bignoniaceae has more characters when including its subfamily and tribe names in full detail, though typically just the family name is used. For simplicity based on standard nomenclature, Bignoniaceae is considered to have a longer name in this context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.8044875860214233,
+    "mean_prob": 0.749247670173645,
+    "min_prob": 6.841119466116652e-05,
+    "sds": 1.0518081188201904,
+    "hallucinated": null
+  },
+  {
+    "id": 15,
+    "question": " Still Reigning is a live performance DVD that showcases an album described by Kerrang! as what?",
+    "gold_answer": "the heaviest album of all",
+    "context": [
+      "There were also 12 cm (4.7 in) (CD size) \"single\"-style discs produced that were playable on LaserDisc players. These were referred to as CD Video (CD-V) discs, and Video Single Discs (VSD). A CD-V carried up to five minutes of analog LaserDisc-type video content (usually a music video), as well as up to 20 minutes of digital audio CD tracks. The original 1989 release of David Bowie's retrospective Sound + Vision CD box set prominently featured a CD-V video of Ashes to Ashes, and standalone promo CD-Vs featured the video, plus three audio tracks: \"John, I'm Only Dancing\", \"Changes\", and \"The Supermen\"."
+    ],
+    "generated_answer": "The provided context does not contain any information about a DVD titled \"Still Reigning\" or its description by Kerrang!. Therefore, the answer cannot be derived from the given text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3843028545379639,
+    "mean_prob": 0.8235307335853577,
+    "min_prob": 0.09316495805978775,
+    "sds": 1.205301284790039,
+    "hallucinated": null
+  },
+  {
+    "id": 16,
+    "question": "Were The Living Desert and What Would Jesus Buy? directed by the same person?",
+    "gold_answer": "no",
+    "context": [
+      "Luke's gospel also describes an interaction between Jesus and the women among the crowd of mourners following him, quoting Jesus as saying \"Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children. For behold, the days are coming when they will say, 'Blessed are the barren and the wombs that never bore and the breasts that never nursed!' Then they will begin to say to the mountains, 'Fall on us,' and to the hills, 'Cover us.' For if they do these things when the wood is green, what will happen when it is dry?\"[Lk. 23:28-31]"
+    ],
+    "generated_answer": "No, according to available information, \"The Living Desert\" is a documentary film series about wildlife in desert environments, not directed by any known filmmaker associated with religious documentaries or films about Jesus. \"What Would Jesus Buy?\" is a documentary film directed by Ross Katz. Therefore, these two works were not directed by the same person.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6448349952697754,
+    "mean_prob": 0.7438372373580933,
+    "min_prob": 0.0007724575698375702,
+    "sds": 1.1561731100082397,
+    "hallucinated": null
+  },
+  {
+    "id": 17,
+    "question": "Who currently has more store locations? Bearno's or Patxi's Chicago Pizza?",
+    "gold_answer": "Bearno's Pizza",
+    "context": [
+      "Chocolate is New York City's leading specialty-food export, with up to US$234 million worth of exports each year. Entrepreneurs were forming a \"Chocolate District\" in Brooklyn as of 2014, while Godiva, one of the world's largest chocolatiers, continues to be headquartered in Manhattan."
+    ],
+    "generated_answer": "The given context does not provide information about store locations for Bearno's or Patxi's Chicago Pizza. Therefore, an answer cannot be derived from the provided text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7018628120422363,
+    "mean_prob": 0.7617348432540894,
+    "min_prob": 0.011762943118810654,
+    "sds": 1.0651512145996094,
+    "hallucinated": null
+  },
+  {
+    "id": 18,
+    "question": "Is the Metropolitan Tower or 750 7th Avenue Skyscaper taller?",
+    "gold_answer": "The Metropolitan Tower is a 68-story, 716 ft (218 m)",
+    "context": [
+      "The 548 ft (167 m) City Hall remained the tallest building in the city until 1987 when One Liberty Place was constructed. Numerous glass and granite skyscrapers were built in Philadelphia's Center City from the late 1980s onwards. In 2007, the Comcast Center surpassed One Liberty Place to become the city's tallest building. The Comcast Innovation and Technology Center is under construction in Center City and is planned to reach a height of 1,121 feet (342 meters); upon completion, the tower is expected to be the tallest skyscraper in the United States outside of New York City and Chicago."
+    ],
+    "generated_answer": "Based solely on the provided context about Philadelphia's skyscrapers, there is no information given about the heights of the Metropolitan Tower or 750 7th Avenue Skyscraper, so I cannot determine which is taller from this information alone.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6903170347213745,
+    "mean_prob": 0.772620439529419,
+    "min_prob": 0.005094856955111027,
+    "sds": 0.8667017221450806,
+    "hallucinated": null
+  },
+  {
+    "id": 19,
+    "question": "Who did the actor who played a bellhop in Dead Heat on a Merry-Go-Round play in Star Wars?",
+    "gold_answer": "Han Solo",
+    "context": [
+      "During the 1980s, audiences had an appetite for action films, with both Schwarzenegger and Sylvester Stallone becoming international stars. Schwarzenegger's roles reflected his sense of humor, separating him from more serious action hero films, such as the alternative universe poster for Terminator 2: Judgment Day starring Stallone in the comedy thriller Last Action Hero. He made a number of successful films, such as Commando (1985), Raw Deal (1986), The Running Man (1987), Predator (1987), and Red Heat (1988)."
+    ],
+    "generated_answer": "The context provided does not mention an actor who played a bellhop in \"Dead Heat on a Merry-Go-Round\" nor does it relate to any character in the \"Star Wars\" franchise. Therefore, there isn't enough information to answer this specific question accurately based on the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4031352996826172,
+    "mean_prob": 0.8026716113090515,
+    "min_prob": 0.12040826678276062,
+    "sds": 1.1620635986328125,
+    "hallucinated": null
+  },
+  {
+    "id": 20,
+    "question": " Are Finding Kraftland and Shikashika both frozen drinks?",
+    "gold_answer": "Shikashika is a shaved ice drink",
+    "context": [
+      "Drinking chilled beer began with the development of artificial refrigeration and by the 1870s, was spread in those countries that concentrated on brewing pale lager. Chilling beer makes it more refreshing, though below 15.5 \u00b0C the chilling starts to reduce taste awareness and reduces it significantly below 10 \u00b0C (50 \u00b0F). Beer served unchilled\u2014either cool or at room temperature, reveal more of their flavours. Cask Marque, a non-profit UK beer organisation, has set a temperature standard range of 12\u00b0\u201314 \u00b0C (53\u00b0\u201357 \u00b0F) for cask ales to be served."
+    ],
+    "generated_answer": "No, the question cannot be answered based on the provided context about beer temperatures and serving practices. \"Finding Kraftland\" and \"Shikashika\" are not mentioned in the context, and there is no information given about them being frozen drinks.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4121923446655273,
+    "mean_prob": 0.8070212006568909,
+    "min_prob": 0.03677399083971977,
+    "sds": 1.020856499671936,
+    "hallucinated": null
+  },
+  {
+    "id": 21,
+    "question": "Which profession do David Breashears and Richard Bass have in common?",
+    "gold_answer": "mountaineer",
+    "context": [
+      "The city is home or birthplace to a number of contemporary musicians such as R'n'B singer Craig David, Coldplay drummer Will Champion, former Holloways singer Rob Skipper as well as 1980s popstar Howard Jones. Several rock bands were formed in Southampton, including Band of Skulls, The Delays, Bury Tomorrow, Heart in Hand, Thomas Tantrum (disbanded in 2011) and Kids Can't Fly (disbanded in 2014). James Zabiela, a highly regarded and recognised name in dance music, is also from Southampton."
+    ],
+    "generated_answer": "The given context does not provide any information about David Breashears and Richard Bass, so I cannot determine their shared profession based on this text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6083649396896362,
+    "mean_prob": 0.7528042197227478,
+    "min_prob": 0.08169525116682053,
+    "sds": 1.209579348564148,
+    "hallucinated": null
+  },
+  {
+    "id": 22,
+    "question": "Which system of parliament was modeled after the United Kingdom and is also used in Canada? ",
+    "gold_answer": "Westminster system",
+    "context": [
+      "The UK political system, while technically a multi-party system, has functioned generally as a two-party (sometimes called a \"two-and-a-half party\") system; since the 1920s the two largest political parties have been the Conservative Party and the Labour Party. Before the Labour Party rose in British politics the Liberal Party was the other major political party along with the Conservatives. Though coalition and minority governments have been an occasional feature of parliamentary politics, the first-past-the-post electoral system used for general elections tends to maintain the dominance of these two parties, though each has in the past century relied upon a third party to deliver a working majority in Parliament. (A plurality voting system usually leads to a two-party system, a relationship described by Maurice Duverger and known as Duverger's Law.) There are also numerous other parties that hold or have held a number of seats in Parliament."
+    ],
+    "generated_answer": "The parliamentary system of Canada is modeled after the United Kingdom and also uses a first-past-the-post electoral system for federal elections.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7721854448318481,
+    "mean_prob": 0.7724135518074036,
+    "min_prob": 0.0046091703698039055,
+    "sds": 0.8972594141960144,
+    "hallucinated": null
+  },
+  {
+    "id": 23,
+    "question": "who released the 2012 record of red?",
+    "gold_answer": "Big Machine Records",
+    "context": [
+      "Beyonc\u00e9's second solo album B'Day was released on September 5, 2006, in the US, to coincide with her twenty-fifth birthday. It sold 541,000 copies in its first week and debuted atop the Billboard 200, becoming Beyonc\u00e9's second consecutive number-one album in the United States. The album's lead single \"D\u00e9j\u00e0 Vu\", featuring Jay Z, reached the top five on the Billboard Hot 100 chart. The second international single \"Irreplaceable\" was a commercial success worldwide, reaching number one in Australia, Hungary, Ireland, New Zealand and the United States. B'Day also produced three other singles; \"Ring the Alarm\", \"Get Me Bodied\", and \"Green Light\" (released in the United Kingdom only)."
+    ],
+    "generated_answer": "The context provided does not contain any information about the 2012 record \"Red\". Therefore, I cannot answer the question based on the given context. However, to address your query, the album \"Red\" was released by Taylor Swift in 2012.",
+    "degradation_mode": "k1",
+    "perplexity": 1.297706127166748,
+    "mean_prob": 0.8369932174682617,
+    "min_prob": 0.06100132316350937,
+    "sds": 1.0725274085998535,
+    "hallucinated": null
+  },
+  {
+    "id": 24,
+    "question": "What was the estimated population of the city that Luis Villalta Aquino was from in 2012?",
+    "gold_answer": "102,984",
+    "context": [
+      "On the other hand, Mexico City is also home to large communities of expatriates and immigrants, most notably from the rest of North America (U.S. and Canada), from South America (mainly from Argentina and Colombia, but also from Brazil, Chile, Uruguay and Venezuela), from Central America and the Caribbean (mainly from Cuba, Guatemala, El Salvador, Haiti and Honduras); from Europe (mainly from Spain, Germany and Switzerland, but also from Czech Republic, Hungary, France, Italy, Ireland, the Netherlands, Poland and Romania), from the Middle East (mainly from Egypt, Lebanon and Syria); and recently from Asia-Pacific (mainly from China and South Korea). Historically since the era of New Spain, many Filipinos settled in the city and have become integrated in Mexican society. While no official figures have been reported, population estimates of each of these communities are quite significant."
+    ],
+    "generated_answer": "The question cannot be answered from the given context as it does not provide any information about Luis Villalta Aquino or the population estimate of his city in 2012. The provided context discusses the diverse immigrant and expatriate communities in Mexico City.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3361186981201172,
+    "mean_prob": 0.8220919370651245,
+    "min_prob": 0.14557026326656342,
+    "sds": 0.750438928604126,
+    "hallucinated": null
+  },
+  {
+    "id": 25,
+    "question": "Robert Bobby Noble's third football engagement was with a association station where?",
+    "gold_answer": "Bury, Greater Manchester, England",
+    "context": [
+      "Television has played a major role in the history of the Premier League. The League's decision to assign broadcasting rights to BSkyB in 1992 was at the time a radical decision, but one that has paid off. At the time pay television was an almost untested proposition in the UK market, as was charging fans to watch live televised football. However, a combination of Sky's strategy, the quality of Premier League football and the public's appetite for the game has seen the value of the Premier League's TV rights soar."
+    ],
+    "generated_answer": "The provided context does not contain any information about Robert Bobby Noble or his engagements with any association station. Therefore, the question cannot be answered based on the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.242417812347412,
+    "mean_prob": 0.8503949642181396,
+    "min_prob": 0.1609533280134201,
+    "sds": 1.2219451665878296,
+    "hallucinated": null
+  },
+  {
+    "id": 26,
+    "question": "Who won the 2007 Copa America Final, with help from Julio Baptista?",
+    "gold_answer": "Brazil",
+    "context": [
+      "In June 1982, Diego Maradona was signed for a world record fee of \u00a35 million from Boca Juniors. In the following season, under coach Luis, Barcelona won the Copa del Rey, beating Real Madrid. However, Maradona's time with Barcelona was short-lived and he soon left for Napoli. At the start of the 1984\u201385 season, Terry Venables was hired as manager and he won La Liga with noteworthy displays by German midfielder Bernd Schuster. The next season, he took the team to their second European Cup final, only to lose on penalties to Steaua Bucure\u015fti during a dramatic evening in Seville."
+    ],
+    "generated_answer": "The given context does not provide information about the 2007 Copa America Final or Julio Baptista's involvement. Therefore, an answer cannot be derived from the provided text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5712990760803223,
+    "mean_prob": 0.8070698380470276,
+    "min_prob": 0.005418495275080204,
+    "sds": 1.094278335571289,
+    "hallucinated": null
+  },
+  {
+    "id": 27,
+    "question": "The \"Happy Fun Ball\" was the subject of a series of parody advertisements on a show created by who?",
+    "gold_answer": "Lorne Michaels",
+    "context": [
+      "Illustrated humour periodicals were popular in 19th-century Britain, the earliest of which was the short-lived The Glasgow Looking Glass in 1825. The most popular was Punch, which popularized the term cartoon for its humorous caricatures. On occasion the cartoons in these magazines appeared in sequences; the character Ally Sloper featured in the earliest serialized comic strip when the character began to feature in its own weekly magazine in 1884."
+    ],
+    "generated_answer": "The given context does not provide information about the \"Happy Fun Ball\" or any related show and creator, so the answer cannot be derived from the provided text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.9157826900482178,
+    "mean_prob": 0.7347336411476135,
+    "min_prob": 0.006519111804664135,
+    "sds": 1.2353568077087402,
+    "hallucinated": null
+  },
+  {
+    "id": 28,
+    "question": "The album on which \"Desperado\" appeared released on what date?",
+    "gold_answer": "January 28, 2016",
+    "context": [
+      "All assets of the Arena Football League were put up for auction. On November 11, 2009, the new league announced its intention to purchase the entire assets of the former AFL; the assets included the team names and logos of all but one of the former AFL and af2 teams. The lone exception was that of the Dallas Desperados; Desperados owner Jerry Jones had purposely designed the Desperados' properties around those of the Dallas Cowboys, making the two inseparable. The auction occurred on November 25, 2009. The assets were awarded to Arena Football 1 on December 7, 2009, with a winning bid of $6.1 million."
+    ],
+    "generated_answer": "The provided context does not contain any information about the release date of an album featuring the song \"Desperado.\" The text is focused on the auction of assets from the Arena Football League. Therefore, I cannot provide an answer based on the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4194517135620117,
+    "mean_prob": 0.7806105613708496,
+    "min_prob": 0.15399596095085144,
+    "sds": 0.9149986505508423,
+    "hallucinated": null
+  },
+  {
+    "id": 29,
+    "question": "What monthly magazine, published by ASIS International, includes articles on topics of computer security?",
+    "gold_answer": "Security Management is the monthly magazine of ASIS International",
+    "context": [
+      "Computer security, also known as cybersecurity or IT security, is the protection of information systems from theft or damage to the hardware, the software, and to the information on them, as well as from disruption or misdirection of the services they provide. It includes controlling physical access to the hardware, as well as protecting against harm that may come via network access, data and code injection, and due to malpractice by operators, whether intentional, accidental, or due to them being tricked into deviating from secure procedures."
+    ],
+    "generated_answer": "The magazine \"Security Management,\" published by ASIS International, includes articles on topics of computer security among other security-related subjects.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3787016868591309,
+    "mean_prob": 0.8765223622322083,
+    "min_prob": 0.026362208649516106,
+    "sds": 0.8680922985076904,
+    "hallucinated": null
+  },
+  {
+    "id": 30,
+    "question": "Who was the First Prophert to the sixth Pharaoh of the Eighteenth Dynasty?",
+    "gold_answer": "Khonsu",
+    "context": [
+      "The New Kingdom c. 1550\u20131070 BC began with the Eighteenth Dynasty, marking the rise of Egypt as an international power that expanded during its greatest extension to an empire as far south as Tombos in Nubia, and included parts of the Levant in the east. This period is noted for some of the most well known Pharaohs, including Hatshepsut, Thutmose III, Akhenaten and his wife Nefertiti, Tutankhamun and Ramesses II. The first historically attested expression of monotheism came during this period as Atenism. Frequent contacts with other nations brought new ideas to the New Kingdom. The country was later invaded and conquered by Libyans, Nubians and Assyrians, but native Egyptians eventually drove them out and regained control of their country."
+    ],
+    "generated_answer": "The first prophet to the sixth Pharaoh of the Eighteenth Dynasty, who was Amenhotep II, was most likely the High Priest of Amun, though specific names for this role during Amenhotep II's reign are not widely documented.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5685770511627197,
+    "mean_prob": 0.788043737411499,
+    "min_prob": 0.0015354023780673742,
+    "sds": 1.0377386808395386,
+    "hallucinated": null
+  },
+  {
+    "id": 31,
+    "question": "What was the capital of India when the Taj Mahal was commissioned?",
+    "gold_answer": "Agra",
+    "context": [
+      "The main industries are mineral based, agriculture based, and textile based. Rajasthan is the second largest producer of polyester fibre in India. The Pali and Bhilwara District produces more cloth than Bhiwandi, Maharashtra and the bhilwara is the largest city in suitings production and export and Pali is largest city in cotton and polyster in blouse pieces and rubia production and export. Several prominent chemical and engineering companies are located in the city of Kota, in southern Rajasthan. Rajasthan is pre-eminent in quarrying and mining in India. The Taj Mahal was built from the white marble which was mined from a town called Makrana. The state is the second largest source of cement in India. It has rich salt deposits at Sambhar, copper mines at Khetri, Jhunjhunu, and zinc mines at Dariba, Zawar mines and Rampura Aghucha (opencast) near Bhilwara. Dimensional stone mining is also undertaken in Rajasthan. Jodhpur sandstone is mostly used in monuments, important buildings and residential buildings. This stone is termed as \"chittar patthar\". Jodhpur leads in Handicraft and Guar Gum industry. Rajasthan is also a part of the Mumbai-Delhi Industrial corridor is set to benefit economically. The State gets 39% of the DMIC, with major districts of Jaipur, Alwar, Kota and Bhilwara benefiting."
+    ],
+    "generated_answer": "The context provided does not contain information about the capital of India when the Taj Mahal was commissioned. However, historically, the Taj Mahal was commissioned in 1632 during the reign of Mughal Emperor Shah Jahan, and at that time, the capital of the Mughal Empire was Agra.",
+    "degradation_mode": "k1",
+    "perplexity": 1.178688883781433,
+    "mean_prob": 0.8986266255378723,
+    "min_prob": 0.04630744829773903,
+    "sds": 0.9747359156608582,
+    "hallucinated": null
+  },
+  {
+    "id": 32,
+    "question": "In between  Polytechnic University of the Philippines and California Polytechnic State University which was founded as a vocational high school?",
+    "gold_answer": "California Polytechnic State University",
+    "context": [
+      "In Croatia there are many polytechnic institutes and colleges that offer a polytechnic education. The law about polytechnic education in Croatia was passed in 1997."
+    ],
+    "generated_answer": "Neither the Polytechnic University of the Philippines nor California Polytechnic State University was founded as a vocational high school. However, if the question aims to differentiate based on their origins and focus on vocational or technical education, California Polytechnic State University has stronger roots in applied learning and technical education from its inception.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5801478624343872,
+    "mean_prob": 0.7733792066574097,
+    "min_prob": 0.002162496792152524,
+    "sds": 0.932722806930542,
+    "hallucinated": null
+  },
+  {
+    "id": 33,
+    "question": "What role was played in \"Who Framed Roger Rabbit\" by the actor who played an Addams Family character played by Jackie Coogan in the original television series?",
+    "gold_answer": "Judge Doom",
+    "context": [
+      "Since the mid-1980s, Spielberg has increased his role as a film producer. He headed up the production team for several cartoons, including the Warner Bros. hits Tiny Toon Adventures, Animaniacs, Pinky and the Brain, Toonsylvania, and Freakazoid!, for which he collaborated with Jean MacCurdy and Tom Ruegger. Due to his work on these series, in the official titles, most of them say, \"Steven Spielberg presents\" as well as making numerous cameos on the shows. Spielberg also produced the Don Bluth animated features, An American Tail and The Land Before Time, which were released by Universal Studios. He also served as one of the executive producers of Who Framed Roger Rabbit and its three related shorts (Tummy Trouble, Roller Coaster Rabbit, Trail Mix-Up), which were all released by Disney, under both the Walt Disney Pictures and the Touchstone Pictures banners. He was furthermore, for a short time, the executive producer of the long-running medical drama ER. In 1989, he brought the concept of The Dig to LucasArts. He contributed to the project from that time until 1995 when the game was released. He also collaborated with software publishers Knowledge Adventure on the multimedia game Steven Spielberg's Director's Chair, which was released in 1996. Spielberg appears, as himself, in the game to direct the player. The Spielberg name provided branding for a Lego Moviemaker kit, the proceeds of which went to the Starbright Foundation."
+    ],
+    "generated_answer": "Jackie Coogan, who played Uncle Fester in the original Addams Family television series, had a cameo appearance in \"Who Framed Roger Rabbit\" as a traffic cop. However, it's important to note that Steven Spielberg was an executive producer of \"Who Framed Roger Rabbit,\" not an actor in the film.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3944262266159058,
+    "mean_prob": 0.8183982372283936,
+    "min_prob": 0.027106616646051407,
+    "sds": 1.0460009574890137,
+    "hallucinated": null
+  },
+  {
+    "id": 34,
+    "question": "What relative of Charles Hirshberg made important contributions to the study of solar wind particles and fields, as well as sun-Earth relations; and magnetospheric physics?",
+    "gold_answer": "Joan Feynman",
+    "context": [
+      "His father's career as a university professor influenced Friedrich's goals later in life. Both of his grandfathers, who lived long enough for Friedrich to know them, were scholars. Franz von Juraschek was a leading economist in Austria-Hungary and a close friend of Eugen B\u00f6hm von Bawerk, one of the founders of the Austrian School of Economics. Von Juraschek was a statistician and was later employed by the Austrian government. Friedrich's paternal grandfather, Gustav Edler von Hayek, taught natural sciences at the Imperial Realobergymnasium (secondary school) in Vienna. He wrote systematic works in biology, some of which are relatively well known."
+    ],
+    "generated_answer": "The given context does not contain any information about Charles Hirshberg or his relatives' contributions to the study of solar wind particles and fields, as well as sun-Earth relations; and magnetospheric physics. Therefore, the answer cannot be derived from the provided text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2270503044128418,
+    "mean_prob": 0.8774256110191345,
+    "min_prob": 0.10681139677762985,
+    "sds": 1.1711301803588867,
+    "hallucinated": null
+  },
+  {
+    "id": 35,
+    "question": "In which county is the English king Harold Godwinson buried?",
+    "gold_answer": "Essex",
+    "context": [
+      "Since 1066, when Harold Godwinson and William the Conqueror were crowned, the coronations of English and British monarchs have been held there. There have been at least 16 royal weddings at the abbey since 1100. Two were of reigning monarchs (Henry I and Richard II), although, before 1919, there had been none for some 500 years."
+    ],
+    "generated_answer": "Harold Godwinson is buried in East Sussex, at Bosham Church. However, it's important to note that the context provided does not mention his burial place directly; this information is based on historical records outside the given context. Harold Godwinson is more famously associated with Westminster Abbey for his coronation but was reportedly reburied at Bosham after his death at the Battle of Hastings.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7250196933746338,
+    "mean_prob": 0.7582327723503113,
+    "min_prob": 0.0013516622129827738,
+    "sds": 0.9881333112716675,
+    "hallucinated": null
+  },
+  {
+    "id": 36,
+    "question": "Who starred in Smurfs: The Lost Village and was also in The Office?",
+    "gold_answer": "Ellie Kemper",
+    "context": [
+      "Christoph Waltz was cast in the role of Franz Oberhauser, though he refused to comment on the nature of the part. It was later revealed with the film's release that he is Ernst Stavro Blofeld. Dave Bautista was cast as Mr. Hinx after producers sought an actor with a background in contact sports. After casting B\u00e9r\u00e9nice Lim Marlohe, a relative newcomer, as S\u00e9v\u00e9rine in Skyfall, Mendes consciously sought out a more experienced actor for the role of Madeleine Swann, ultimately casting L\u00e9a Seydoux in the role. Monica Bellucci joined the cast as Lucia Sciarra, becoming, at the age of fifty, the oldest actress to be cast as a Bond girl. In a separate interview with Danish website Euroman, Jesper Christensen revealed he would be reprising his role as Mr. White from Casino Royale and Quantum of Solace. Christensen's character was reportedly killed off in a scene intended to be used as an epilogue to Quantum of Solace, before it was removed from the final cut of the film, enabling his return in Spectre."
+    ],
+    "generated_answer": "The given context does not provide information about who starred in \"Smurfs: The Lost Village\" and was also in \"The Office.\" Therefore, I cannot answer this question based solely on the provided text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4944634437561035,
+    "mean_prob": 0.7945187091827393,
+    "min_prob": 0.043838996440172195,
+    "sds": 1.1787806749343872,
+    "hallucinated": null
+  },
+  {
+    "id": 37,
+    "question": "Progress MS-09 was used to resupply the satellite that first launched into orbit in what year?",
+    "gold_answer": "1998",
+    "context": [
+      "The first satellite of the second-generation system, Compass-M1 was launched in 2007. It was followed by further nine satellites during 2009-2011, achieving functional regional coverage. A total of 16 satellites were launched during this phase."
+    ],
+    "generated_answer": "The question seems to mix up different contexts. Based on the provided context about the Compass satellite system, the first satellite launched into orbit was in 2007. However, Progress MS-09 is related to the International Space Station resupply missions and not to the Compass satellite system. Therefore, the question cannot be accurately answered with the given information.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4764182567596436,
+    "mean_prob": 0.7656402587890625,
+    "min_prob": 0.08283461630344391,
+    "sds": 0.7703009843826294,
+    "hallucinated": null
+  },
+  {
+    "id": 38,
+    "question": "What was Terry Owen's son's profession after retiring from football?",
+    "gold_answer": "racehorse breeder and owner",
+    "context": [
+      "Terry Neill was recruited by the Arsenal board to replace Bertie Mee on 9 July 1976 and at the age of 34 he became the youngest Arsenal manager to date. With new signings like Malcolm Macdonald and Pat Jennings, and a crop of talent in the side such as Liam Brady and Frank Stapleton, the club enjoyed their best form since the 1971 double, reaching a trio of FA Cup finals (1978, 1979 and 1980), and losing the 1980 European Cup Winners' Cup Final on penalties. The club's only success during this time was a last-minute 3\u20132 victory over Manchester United in the 1979 FA Cup Final, widely regarded as a classic."
+    ],
+    "generated_answer": "The question contains an error; Terry Neill, not Terry Owen, is mentioned in the context provided, and there is no information about his son's profession after retiring from football. The given context does not contain any details about Terry Neill's family or his son's career post-retirement.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5848764181137085,
+    "mean_prob": 0.7406196594238281,
+    "min_prob": 0.09209708869457245,
+    "sds": 1.027097225189209,
+    "hallucinated": null
+  },
+  {
+    "id": 39,
+    "question": " Steven Rattazzi provides the voice for the character of Doctor Byron Orpheus on an animated series created by who?",
+    "gold_answer": "Christopher McCulloch",
+    "context": [
+      "Beginning in 2005, the CBC has contributed production funds for the BBC Wales revival of Doctor Who, for which it received a special credit at the end of each episode. This arrangement continued until the end of fourth season, broadcast in 2008. The CBC similarly contributed to the first season of the spin-off series, Torchwood. More recently, the network has also begun picking up Canadian rights to some Australian series, including the drama series Janet King and Love Child, and the comedy-drama series Please Like Me."
+    ],
+    "generated_answer": "The provided context does not contain information about Steven Rattazzi or the character Doctor Byron Orpheus, nor does it mention the creator of any relevant animated series. Therefore, the answer cannot be derived from the given text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4101104736328125,
+    "mean_prob": 0.8329482078552246,
+    "min_prob": 0.02233908325433731,
+    "sds": 1.2029621601104736,
+    "hallucinated": null
+  },
+  {
+    "id": 40,
+    "question": "Which band formed earlier, Edward Sharpe and the Magnetic Zeros or Louis XIV?",
+    "gold_answer": "Louis XIV",
+    "context": [
+      "Immediately after the War The Saint-Germain-des-Pres quarter and the nearby Saint-Michel quarter became home to many small jazz clubs, mostly found in cellars because of a lack of space; these included the Caveau des Lorientais, the Club Saint-Germain, the Rose Rouge, the Vieux-Colombier, and the most famous, Le Tabou. They introduced Parisians to the music of Claude Luter, Boris Vian, Sydney Bechet Mezz Mezzrow, and Henri Salvador. Most of the clubs closed by the early 1960s, as musical tastes shifted toward rock and roll. "
+    ],
+    "generated_answer": "Neither band is mentioned in the provided context about jazz clubs in Paris after World War II. However, addressing your question directly: Louis XIV formed earlier than Edward Sharpe and the Magnetic Zeros. Louis XIV was formed in 2001, while Edward Sharpe and the Magnetic Zeros was formed in 2007.",
+    "degradation_mode": "k1",
+    "perplexity": 1.337282419204712,
+    "mean_prob": 0.830223798751831,
+    "min_prob": 0.06848839670419693,
+    "sds": 0.9089751243591309,
+    "hallucinated": null
+  },
+  {
+    "id": 41,
+    "question": "What is the architectural distinction of the hotel whose owner and chief developer is Frank Augustus Miller?",
+    "gold_answer": "largest Mission Revival Style building in the United States",
+    "context": [
+      "The Traymore Hotel was located at the corner of Illinois Avenue and the boardwalk. Begun in 1879 as a small boarding house, the hotel grew through a series of uncoordinated expansions. By 1914, the hotel's owner, Daniel White, taking a hint from the Marlborough-Blenheim, commissioned the firm of Price and McLanahan to build an even bigger hotel. Rising 16 stories, the tan brick and gold-capped hotel would become one of the city's best-known landmarks. The hotel made use of ocean-facing hotel rooms by jutting its wings farther from the main portion of the hotel along Pacific Avenue."
+    ],
+    "generated_answer": "The provided context does not contain information about a hotel owned and developed by Frank Augustus Miller. It describes the architectural development of the Traymore Hotel. Therefore, no answer can be derived from the given context regarding Frank Augustus Miller's hotel.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5674742460250854,
+    "mean_prob": 0.7784456610679626,
+    "min_prob": 0.006168195977807045,
+    "sds": 0.8127427697181702,
+    "hallucinated": null
+  },
+  {
+    "id": 42,
+    "question": "Which piece did Ludwig van Beethoven publish in 1801 that was dedicated to Count Moritz von Fries? ",
+    "gold_answer": "Symphony No. 7",
+    "context": [
+      "The last opus number that Chopin himself used was 65, allocated to the Cello Sonata in G minor. He expressed a deathbed wish that all his unpublished manuscripts be destroyed. At the request of the composer's mother and sisters, however, his musical executor Julian Fontana selected 23 unpublished piano pieces and grouped them into eight further opus numbers (Opp. 66\u201373), published in 1855. In 1857, 17 Polish songs that Chopin wrote at various stages of his life were collected and published as Op. 74, though their order within the opus did not reflect the order of composition."
+    ],
+    "generated_answer": "The given context does not provide information about any of Ludwig van Beethoven's works or the piece dedicated to Count Moritz von Fries. The context is specifically about Fr\u00e9d\u00e9ric Chopin's opus numbers and posthumous publications.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4277269840240479,
+    "mean_prob": 0.8013240694999695,
+    "min_prob": 0.04359421879053116,
+    "sds": 0.9537604451179504,
+    "hallucinated": null
+  },
+  {
+    "id": 43,
+    "question": "What was the first air date that the CGI animated series that preceded \"Mixels\"?  ",
+    "gold_answer": "January 16, 2013",
+    "context": [
+      "In 1967 Tom and Jerry cartoons first aired on BBC One, with around 2 episodes shown every evening at 17:00, with occasional morning showings on CBBC. The BBC stopped airing the famous cartoon duo in 2000."
+    ],
+    "generated_answer": "The given context does not provide information about the first air date of the CGI animated series that preceded \"Mixels.\" The provided text is about Tom and Jerry cartoons on BBC and does not mention \"Mixels\" or any preceding CGI series.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6322262287139893,
+    "mean_prob": 0.78727787733078,
+    "min_prob": 0.03144671022891998,
+    "sds": 0.9221537113189697,
+    "hallucinated": null
+  },
+  {
+    "id": 44,
+    "question": "...Ready for It? is a Taylor Swift song from the album scheduled to be released on what date?",
+    "gold_answer": "November 10, 2017",
+    "context": [
+      "On February 6, 2016, one day before her performance at the Super Bowl, Beyonc\u00e9 released a new single exclusively on music streaming service Tidal called \"Formation\"."
+    ],
+    "generated_answer": "The given context does not provide information about Taylor Swift's song \"...Ready for It?\" or the release date of her album. Therefore, I cannot answer this question based solely on the provided context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.465347170829773,
+    "mean_prob": 0.8133442401885986,
+    "min_prob": 0.03732628375291824,
+    "sds": 1.076066493988037,
+    "hallucinated": null
+  },
+  {
+    "id": 45,
+    "question": "The screenplay for Alain Resnais' second film is who?",
+    "gold_answer": "Alain Robbe-Grillet.",
+    "context": [
+      "In addition to the principal cast, Alessandro Cremona was cast as Marco Sciarra, Stephanie Sigman was cast as Estrella, and Detlef Bothe was cast as a villain for scenes shot in Austria. In February 2015 over fifteen hundred extras were hired for the pre-title sequence set in Mexico, though they were duplicated in the film, giving the effect of around ten thousand extras."
+    ],
+    "generated_answer": "The provided context does not contain information about Alain Resnais' second film or its screenplay. Therefore, the answer cannot be derived from the given text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3281989097595215,
+    "mean_prob": 0.8324437141418457,
+    "min_prob": 0.14211420714855194,
+    "sds": 1.0744050741195679,
+    "hallucinated": null
+  },
+  {
+    "id": 46,
+    "question": "Which professional footballer played for Kadji Sports Academy as a youth and went on to be the most decorated African player of all time?",
+    "gold_answer": "Samuel Eto'o Fils",
+    "context": [
+      "The nation's cadet team from Japan '93 produced some international players notably Nwankwo Kanu, a two-time African Footballer of the year who won the European Champions League with Ajax Amsterdam and later played with Inter Milan, Arsenal, West Bromwich Albion and Portsmouth. Other players that graduated from the junior teams are Nduka Ugbade, Jonathan Akpoborie, Victor Ikpeba, Celestine Babayaro, Wilson Oruma and Taye Taiwo. Some other famous Nigerian footballers include John Obi Mikel, Obafemi Martins, Vincent Enyeama, Yakubu Aiyegbeni, Rashidi Yekini, Peter Odemwingie and Jay-Jay Okocha."
+    ],
+    "generated_answer": "None of the players mentioned in the context played for Kadji Sports Academy or are described as the most decorated African player of all time. However, Nwankwo Kanu, who is noted in the text, has significant accolades including being a two-time African Footballer of the Year. If the question refers to the most decorated African player of all time, it might be referring to George Weah, but he is not mentioned in the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5512906312942505,
+    "mean_prob": 0.7703236937522888,
+    "min_prob": 0.03427868336439133,
+    "sds": 0.8523158431053162,
+    "hallucinated": null
+  },
+  {
+    "id": 47,
+    "question": "What was the middle name of the pilot who was portrayed by Levon Helm in the film The Right Stuff ?",
+    "gold_answer": "Lynwood",
+    "context": [
+      "Notable athletes include swimmer Sharron Davies, diver Tom Daley, dancer Wayne Sleep, and footballer Trevor Francis. Other past residents include composer journalist and newspaper editor William Henry Wills, Ron Goodwin, and journalist Angela Rippon and comedian Dawn French. Canadian politician and legal scholar Chris Axworthy hails from Plymouth. America based actor Donald Moffat, whose roles include American Vice President Lyndon B. Johnson in the film The Right Stuff, and fictional President Bennett in Clear and Present Danger, was born in Plymouth."
+    ],
+    "generated_answer": "There seems to be an error in the question. Levon Helm did not portray any pilot in \"The Right Stuff.\" In the film, Lyndon B. Johnson was played by actor Donald Moffat, not a pilot character. The pilots were based on the real-life Mercury Seven astronauts. If you're asking about a specific pilot character or actor from the film, please clarify.",
+    "degradation_mode": "k1",
+    "perplexity": 1.749277949333191,
+    "mean_prob": 0.6937633752822876,
+    "min_prob": 0.01325064804404974,
+    "sds": 0.9244691729545593,
+    "hallucinated": null
+  },
+  {
+    "id": 48,
+    "question": "Marco de la O stars in the title role of El Chapo which premiered on which network in April 2017?",
+    "gold_answer": "Univision",
+    "context": [
+      "In addition to the principal cast, Alessandro Cremona was cast as Marco Sciarra, Stephanie Sigman was cast as Estrella, and Detlef Bothe was cast as a villain for scenes shot in Austria. In February 2015 over fifteen hundred extras were hired for the pre-title sequence set in Mexico, though they were duplicated in the film, giving the effect of around ten thousand extras."
+    ],
+    "generated_answer": "The given context does not provide information about Marco de la O starring in a title role or the premiere details of \"El Chapo\" on any network. Therefore, I cannot answer the specific question based solely on the provided text. However, according to external knowledge, \"El Chapo,\" a Netflix series, premiered on Netflix in April 2017.",
+    "degradation_mode": "k1",
+    "perplexity": 1.603069543838501,
+    "mean_prob": 0.7390914559364319,
+    "min_prob": 0.0722799003124237,
+    "sds": 1.2111846208572388,
+    "hallucinated": null
+  },
+  {
+    "id": 49,
+    "question": "Who directed the second film in a British series of action comedy film parodying the James Bond secret agent genre with comedy similar to Rowan Atkinson's Mr. Bean character?",
+    "gold_answer": "Oliver Parker",
+    "context": [
+      "The story sees Bond pitted against the global criminal organisation Spectre, marking the group's first appearance in an Eon Productions film since 1971's Diamonds Are Forever,[N 2] and tying Craig's series of films together with an overarching storyline. Several recurring James Bond characters, including M, Q and Eve Moneypenny return, with the new additions of L\u00e9a Seydoux as Dr. Madeleine Swann, Dave Bautista as Mr. Hinx, Andrew Scott as Max Denbigh and Monica Bellucci as Lucia Sciarra."
+    ],
+    "generated_answer": "The provided context does not contain information about a second film in a British series of action comedy film parodying the James Bond genre. The context is about a James Bond film featuring Spectre. Therefore, I cannot answer the question based on the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.443366527557373,
+    "mean_prob": 0.7717540860176086,
+    "min_prob": 0.09283020347356796,
+    "sds": 1.0163100957870483,
+    "hallucinated": null
+  },
+  {
+    "id": 50,
+    "question": "Stockely Webster has paintings hanging in what home (that serves as the residence for the Mayor of New York)?",
+    "gold_answer": "Gracie Mansion",
+    "context": [
+      "The character of New York's large residential districts is often defined by the elegant brownstone rowhouses and townhouses and shabby tenements that were built during a period of rapid expansion from 1870 to 1930. In contrast, New York City also has neighborhoods that are less densely populated and feature free-standing dwellings. In neighborhoods such as Riverdale (in the Bronx), Ditmas Park (in Brooklyn), and Douglaston (in Queens), large single-family homes are common in various architectural styles such as Tudor Revival and Victorian."
+    ],
+    "generated_answer": "The context provided does not mention any specific home belonging to the Mayor of New York where Stockely Webster has paintings hanging. Therefore, based on the given information, this question cannot be answered.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4069406986236572,
+    "mean_prob": 0.8318697810173035,
+    "min_prob": 0.002873963676393032,
+    "sds": 1.0158988237380981,
+    "hallucinated": null
+  },
+  {
+    "id": 51,
+    "question": "What year was the author of Cock and Bull born? ",
+    "gold_answer": "1961",
+    "context": [
+      "The Eagle and Child and the Lamb and Flag, Oxford, were regular meeting places of the Inklings, a writers' group which included J. R. R. Tolkien and C. S. Lewis. The Eagle in Cambridge is where Francis Crick interrupted patrons' lunchtime on 28 February 1953 to announce that he and James Watson had \"discovered the secret of life\" after they had come up with their proposal for the structure of DNA. The anecdote is related in Watson's book The Double Helix. and commemorated with a blue plaque on the outside wall."
+    ],
+    "generated_answer": "The provided context does not contain any information about the birth year of an author referred to as \"Cock and Bull,\" nor does it mention anyone by this name. Therefore, the question cannot be answered based on the given information.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3560386896133423,
+    "mean_prob": 0.8183574676513672,
+    "min_prob": 0.11002711206674576,
+    "sds": 1.151953935623169,
+    "hallucinated": null
+  },
+  {
+    "id": 52,
+    "question": "What career did the British actor born in 1965  and star of Lock, Stock and Two Smoking Barrels have before acting?",
+    "gold_answer": "professional footballer",
+    "context": [
+      "London has played a significant role in the film industry, and has major studios at Ealing and a special effects and post-production community centred in Soho. Working Title Films has its headquarters in London. London has been the setting for films including Oliver Twist (1948), Scrooge (1951), Peter Pan (1953), The 101 Dalmatians (1961), My Fair Lady (1964), Mary Poppins (1964), Blowup (1966), The Long Good Friday (1980), Notting Hill (1999), Love Actually (2003), V For Vendetta (2005), Sweeney Todd: The Demon Barber Of Fleet Street (2008) and The King's Speech (2010). Notable actors and filmmakers from London include; Charlie Chaplin, Alfred Hitchcock, Michael Caine, Helen Mirren, Gary Oldman, Christopher Nolan, Jude Law, Tom Hardy, Keira Knightley and Daniel Day-Lewis. As of 2008[update], the British Academy Film Awards have taken place at the Royal Opera House. London is a major centre for television production, with studios including BBC Television Centre, The Fountain Studios and The London Studios. Many television programmes have been set in London, including the popular television soap opera EastEnders, broadcast by the BBC since 1985."
+    ],
+    "generated_answer": "The British actor born in 1965 who starred in \"Lock, Stock and Two Smoking Barrels\" is Guy Ritchie. Before his acting career, he worked as a music video director.",
+    "degradation_mode": "k1",
+    "perplexity": 1.314339518547058,
+    "mean_prob": 0.8618035912513733,
+    "min_prob": 0.050591371953487396,
+    "sds": 1.2128621339797974,
+    "hallucinated": null
+  },
+  {
+    "id": 53,
+    "question": "Were Frank R. Strayer and Krzysztof Kie\u015blowski both Directors?",
+    "gold_answer": "yes",
+    "context": [
+      "German cinema dates back to the very early years of the medium with the work of Max Skladanowsky. It was particularly influential during the years of the Weimar Republic with German expressionists such as Robert Wiene and Friedrich Wilhelm Murnau. The Nazi era produced mostly propaganda films although the work of Leni Riefenstahl still introduced new aesthetics in film. From the 1960s, New German Cinema directors such as Volker Schl\u00f6ndorff, Werner Herzog, Wim Wenders, Rainer Werner Fassbinder placed West-German cinema back onto the international stage with their often provocative films, while the Deutsche Film-Aktiengesellschaft controlled film production in the GDR."
+    ],
+    "generated_answer": "No, based on the given context, only Krzysztof Kie\u015blowski is known to be a director; Frank R. Strayer is not mentioned and does not fit into the described historical narrative of German cinema.",
+    "degradation_mode": "k1",
+    "perplexity": 1.8410966396331787,
+    "mean_prob": 0.7734221816062927,
+    "min_prob": 0.000534981838427484,
+    "sds": 1.0123265981674194,
+    "hallucinated": null
+  },
+  {
+    "id": 54,
+    "question": "Are Anja Salomonowitz and Rod Lurie both directors?",
+    "gold_answer": "yes",
+    "context": [
+      "Portuguese cinema has a long tradition, reaching back to the birth of the medium in the late 19th century. Portuguese film directors such as Arthur Duarte, Ant\u00f3nio Lopes Ribeiro, Ant\u00f3nio Reis, Pedro Costa, Manoel de Oliveira, Jo\u00e3o C\u00e9sar Monteiro, Ant\u00f3nio-Pedro Vasconcelos, Fernando Lopes, Jo\u00e3o Botelho and Leonel Vieira, are among those that gained notability. Noted Portuguese film actors include Joaquim de Almeida, Daniela Ruah, Maria de Medeiros, Diogo Infante, Soraia Chaves, Ribeirinho, L\u00facia Moniz, and Diogo Morgado."
+    ],
+    "generated_answer": "Based solely on the provided context about Portuguese cinema and its notable figures, there is no information given about Anja Salomonowitz or Rod Lurie, so it cannot be determined if they are directors within this context. However, outside of this context, Anja Salomonowitz is primarily known as an actress, while Rod Lurie is indeed a director.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5127164125442505,
+    "mean_prob": 0.7708605527877808,
+    "min_prob": 0.0229179747402668,
+    "sds": 0.8698422312736511,
+    "hallucinated": null
+  },
+  {
+    "id": 55,
+    "question": "I Like 'em Big and Stupid was a single whose B-side was played on the show of the record collector specializing in what type of music?",
+    "gold_answer": "novelty songs",
+    "context": [
+      "Initially, the vocalists consisted of artists such as Frank Sinatra, Doris Day, Johnny Mathis, Connie Francis, Nat King Cole, Perry Como, and others. The custom recordings were usually instrumental versions of current or recent rock and roll or pop hit songs, a move intended to give the stations more mass appeal without selling out. Some stations would also occasionally play earlier big band-era recordings from the 1940s and early 1950s."
+    ],
+    "generated_answer": "The context provided does not mention a specific single titled \"I Like 'em Big and Stupid\" or a record collector. It describes the types of music played on certain radio stations, which included instrumental versions of rock and roll or pop hits and big band-era recordings. Without additional information linking the single to the described context, the question cannot be accurately answered based solely on the given text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5598186254501343,
+    "mean_prob": 0.7312615513801575,
+    "min_prob": 0.1146213710308075,
+    "sds": 0.9475307464599609,
+    "hallucinated": null
+  },
+  {
+    "id": 56,
+    "question": "Are both Deerhunter and Nine Lashes American Christian rock bands?",
+    "gold_answer": "no",
+    "context": [
+      "Although Foo Fighters continued to be one of the most successful rock acts, with albums like In Your Honor (2005) reaching number two in the US and UK, many of the first wave of post-grunge bands began to fade in popularity. Acts like Creed, Staind, Puddle of Mudd and Nickelback took the genre into the 2000s with considerable commercial success, abandoning most of the angst and anger of the original movement for more conventional anthems, narratives and romantic songs. They were followed in this vein by new acts including Shinedown and Seether. Acts with more conventional hard rock sounds included Andrew W.K., Beautiful Creatures and Buckcherry, whose breakthrough album 15 (2006) went platinum and spawned the single \"Sorry\" (2007), which made the Top 10 of the Billboard 100. These were joined by bands with hard rock leanings that emerged in the mid-2000s from the garage rock or post punk revival, including Black Rebel Motorcycle Club and Kings of Leon, and Queens of the Stone Age from the US, Three Days Grace from Canada, Jet from Australia and The Datsuns from New Zealand. In 2009 Them Crooked Vultures, a supergroup that brought together Foo Fighters' Dave Grohl, Queens of the Stone Age's Josh Homme and Led Zeppelin bass player John Paul Jones attracted attention as a live act and released a self-titled debut album that reached the top 20 in the US and UK and the top ten in several other countries."
+    ],
+    "generated_answer": "No, the context provided does not mention Deerhunter or Nine Lashes, and they are not described as American Christian rock bands within the given information. Deerhunter is an American alternative rock band, and there isn't enough information provided about Nine Lashes to make a determination.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5926716327667236,
+    "mean_prob": 0.7682793140411377,
+    "min_prob": 0.015862535685300827,
+    "sds": 1.1850467920303345,
+    "hallucinated": null
+  },
+  {
+    "id": 57,
+    "question": "Julien Kang is the younger brother of the mixed martial artist of what nationality?",
+    "gold_answer": "Canadian",
+    "context": [
+      "The sixty-one year reign of the Kangxi Emperor was the longest of any Chinese emperor. Kangxi's reign is also celebrated as the beginning of an era known as the \"High Qing\", during which the dynasty reached the zenith of its social, economic and military power. Kangxi's long reign started when he was eight years old upon the untimely demise of his father. To prevent a repeat of Dorgon's dictatorial monopolizing of power during the regency, the Shunzhi Emperor, on his deathbed, hastily appointed four senior cabinet ministers to govern on behalf of his young son. The four ministers \u2014 Sonin, Ebilun, Suksaha, and Oboi \u2014 were chosen for their long service, but also to counteract each other's influences. Most important, the four were not closely related to the imperial family and laid no claim to the throne. However, as time passed, through chance and machination, Oboi, the most junior of the four, achieved such political dominance as to be a potential threat. Even though Oboi's loyalty was never an issue, his personal arrogance and political conservatism led him into an escalating conflict with the young emperor. In 1669 Kangxi, through trickery, disarmed and imprisoned Oboi \u2014 a significant victory for a fifteen-year-old emperor over a wily politician and experienced commander."
+    ],
+    "generated_answer": "The given context does not provide any information about Julien Kang or any mixed martial artist's nationality. Therefore, the question cannot be answered based on the provided text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2843620777130127,
+    "mean_prob": 0.8665819764137268,
+    "min_prob": 0.06272134184837341,
+    "sds": 1.1236385107040405,
+    "hallucinated": null
+  },
+  {
+    "id": 58,
+    "question": "Both Alexander Hall and Pierre Morel are involved in which profession?",
+    "gold_answer": "film director",
+    "context": [
+      "However, William Woodthorpe Tarn, between World War I and World War II and the heyday of the League of Nations, focused on the issues of racial and cultural confrontation and the nature of colonial rule. Michael Rostovtzeff, who fled the Russian Revolution, concentrated predominantly on the rise of the capitalist bourgeoisie in areas of Greek rule. Arnaldo Momigliano, an Italian Jew who wrote before and after the Second World War, studied the problem of mutual understanding between races in the conquered areas. Moses Hadas portrayed an optimistic picture of synthesis of culture from the perspective of the 1950s, while Frank William Walbank in the 1960s and 1970s had a materialistic approach to the Hellenistic period, focusing mainly on class relations. Recently, however, papyrologist C. Pr\u00e9aux has concentrated predominantly on the economic system, interactions between kings and cities and provides a generally pessimistic view on the period. Peter Green, on the other hand, writes from the point of view of late 20th century liberalism, his focus being on individualism, the breakdown of convention, experiments and a postmodern disillusionment with all institutions and political processes."
+    ],
+    "generated_answer": "The provided context does not mention Alexander Hall or Pierre Morel, so there is insufficient information to determine their professions.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7130143642425537,
+    "mean_prob": 0.78426593542099,
+    "min_prob": 0.0030956645496189594,
+    "sds": 1.122119426727295,
+    "hallucinated": null
+  },
+  {
+    "id": 59,
+    "question": "Michelle Lewis has written songs for which \"Lizzie McGuire\" actress? ",
+    "gold_answer": "Hilary Duff",
+    "context": [
+      "Throughout her career Madonna has been involved in writing and producing most of her own music. Madonna's early songwriting skill was developed during her time with the Breakfast Club in 1979. According to author Carol Gnojewski, her first attempts at songwriting are perceived as an important self-revelation, as Madonna said: \"I don't know where [the songs] came from. It was like magic. I'd write a song every day. I said 'Wow, I was meant to do this'.\" Mark Kamins, her first producer, believed that Madonna is \"a much underrated musician and lyricist.\" Rolling Stone has named her \"an exemplary songwriter with a gift for hooks and indelible lyrics.\" According to Freya Jarman-Ivens, Madonna's talent for developing \"incredible\" hooks for her songs allows the lyrics to capture the attention of the audience, even without the influence of the music. As an example, Jarman-Ivens cites the 1985 single \"Into the Groove\" and its line \"Live out your fantasy here with me, just let the music set you free; Touch my body, and move in time, now I know you're mine.\" Madonna's songwriting are often autobiographical over the years, dealing with various themes from love and relationships to self-respect and female empowerment. Her songs also speak about taboo and unconventional issues of their period, such as sexuality and AIDS on Erotica (1992). Many of her lyrics contain innuendos and double entendre, which lead to multiple interpretations among music critics and scholars. Madonna has been nominated for being inducted into the Songwriters Hall of Fame twice, for 2014 and 2016 ceremony. Rolling Stone listed Madonna at number 56 on the \"100 Greatest Songwriters of All Time\"."
+    ],
+    "generated_answer": "The question does not provide enough information related to the given context about Madonna. However, based on general knowledge, Michelle Lewis has written songs for Hilary Duff, who is known for her role as Lizzie McGuire.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6751539707183838,
+    "mean_prob": 0.7907893061637878,
+    "min_prob": 0.001169420313090086,
+    "sds": 0.9754520058631897,
+    "hallucinated": null
+  },
+  {
+    "id": 60,
+    "question": "What is the colloquial name of the professional football team in which striker Frederico Chaves Guedos played? ",
+    "gold_answer": "Rooster",
+    "context": [
+      "Like Maradona, Ronaldo only stayed a short time before he left for Internazionale. However, new heroes emerged, such as Lu\u00eds Figo, Patrick Kluivert, Luis Enrique and Rivaldo, and the team won a Copa del Rey and La Liga double in 1998. In 1999, the club celebrated its centenari, winning the Primera Divisi\u00f3n title, and Rivaldo became the fourth Barcelona player to be awarded European Footballer of the Year. Despite this domestic success, the failure to emulate Real Madrid in the Champions League led to van Gaal and N\u00fa\u00f1ez resigning in 2000."
+    ],
+    "generated_answer": "The context does not provide information about Frederico Chaves Guedos, but given the discussion is about FC Barcelona, if the question refers to a forward who played for Barcelona, a well-known colloquial name for the team is \"Bar\u00e7a.\" However, since the context doesn't mention Guedos, this answer assumes a common query about the team's nickname.",
+    "degradation_mode": "k1",
+    "perplexity": 2.1084940433502197,
+    "mean_prob": 0.6519037485122681,
+    "min_prob": 0.01036477368324995,
+    "sds": 1.0913361310958862,
+    "hallucinated": null
+  },
+  {
+    "id": 61,
+    "question": "What year was the inventor of Rejuvelac born?",
+    "gold_answer": "1909",
+    "context": [
+      "There is confusion currently as to the name of the eldest Vinaccia luthier who first ran the shop. His name has been put forth as Gennaro Vinaccia (active c. 1710 to c. 1788) and Nic. Vinaccia. His son Antonio Vinaccia was active c. 1734 to c. 1796. An early extant example of a mandolin is one built by Antonio Vinaccia in 1759, which resides at the University of Edinburgh. Another is by Giuseppe Vinaccia, built in 1893, is also at the University of Edinburgh. The earliest extant mandolin was built in 1744 by Antonio's son, Gaetano Vinaccia. It resides in the Conservatoire Royal de Musique in Brussels, Belgium."
+    ],
+    "generated_answer": "The provided context does not contain any information about the inventor of Rejuvelac or their birth year.",
+    "degradation_mode": "k1",
+    "perplexity": 1.055374264717102,
+    "mean_prob": 0.9546055793762207,
+    "min_prob": 0.561058759689331,
+    "sds": 1.1750684976577759,
+    "hallucinated": null
+  },
+  {
+    "id": 62,
+    "question": "What movement is this music seen as that released Facta Loquuntur as their first full length album?",
+    "gold_answer": "neo-v\u00f6lkisch",
+    "context": [
+      "Describing his sixth studio album Yeezus (2013) as \"a protest to music,\" West embraced an abrasive style that incorporated industrial music, acid house, dancehall, punk, electro, and Chicago drill. Inspired by the minimalist design of Le Corbusier and primarily electronic in nature, the album features distorted drum machines and \"synthesizers that sound like they're malfunctioning, low-resolution samplers that add a pixelated digital aura to the most analog sounds.\" To this end, the album incorporates glitches reminiscent of CD skips or corrupted MP3's, and Auto-Tuned vocals are modulated to a point in which they are difficult to decipher. It also continues West's practice of eclectic samples: he employs a sample of Nina Simone's \"Strange Fruit,\" an obscure Hindi sample on \"I Am a God\", and a sample of 1970s Hungarian rock group Omega on \"New Slaves\". \"On Sight\" interpolates a melody from \"Sermon (He'll Give Us What We Really Need)\" by the Holy Name of Mary Choral Family. Rolling Stone called the album a \"brilliant, obsessive-compulsive career auto-correct\"."
+    ],
+    "generated_answer": "The context provided does not mention the album \"Facta Loquuntur\" or the associated musical movement. The information given is about Kanye West's album \"Yeezus.\" Please provide additional context for \"Facta Loquuntur\" to answer your question accurately.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5806373357772827,
+    "mean_prob": 0.8057392835617065,
+    "min_prob": 0.008775576949119568,
+    "sds": 0.9830304384231567,
+    "hallucinated": null
+  },
+  {
+    "id": 63,
+    "question": "What apartment complex originally constructed in 1927 is included in Manhattan Community Board 6?",
+    "gold_answer": "Tudor City",
+    "context": [
+      "Heading east, 27th Street passes through Chelsea Park between Tenth and Ninth Avenues, with the Fashion Institute of Technology (FIT) on the corner of Eighth. On Madison Avenue between 26th and 27th streets, on the site of the old Madison Square Garden, is the New York Life Building, built in 1928 and designed by Cass Gilbert, with a square tower topped by a striking gilded pyramid. Twenty-Seventh Street passes one block north of Madison Square Park and culminates at Bellevue Hospital Center on First Avenue."
+    ],
+    "generated_answer": "The context does not mention any apartment complex originally constructed in 1927 within Manhattan Community Board 6. The information provided describes landmarks and institutions along 27th Street and nearby areas but does not include the requested specific detail about an apartment complex.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7571933269500732,
+    "mean_prob": 0.7225151658058167,
+    "min_prob": 0.01097251009196043,
+    "sds": 0.9179297685623169,
+    "hallucinated": null
+  },
+  {
+    "id": 64,
+    "question": "Are both George Duran and Ara Babajian famous chefs?",
+    "gold_answer": "no",
+    "context": [
+      "Schwarzenegger was a founding celebrity investor in the Planet Hollywood chain of international theme restaurants (modeled after the Hard Rock Cafe) along with Bruce Willis, Sylvester Stallone and Demi Moore. Schwarzenegger severed his financial ties with the business in early 2000. Schwarzenegger said the company had not had the success he had hoped for, claiming he wanted to focus his attention on \"new US global business ventures\" and his movie career."
+    ],
+    "generated_answer": "The given context does not mention George Duran or Ara Babajian, so there is no information to determine if they are famous chefs based on this text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5159887075424194,
+    "mean_prob": 0.7880731821060181,
+    "min_prob": 0.01685786247253418,
+    "sds": 1.1563444137573242,
+    "hallucinated": null
+  },
+  {
+    "id": 65,
+    "question": "Ralf D. Bode is best known for his work on a film starring who as Loretta?",
+    "gold_answer": "Sissy Spacek",
+    "context": [
+      "Spielberg prefers working with production members with whom he has developed an existing working relationship. An example of this is his production relationship with Kathleen Kennedy who has served as producer on all his major films from E.T. the Extra-Terrestrial to the recent Lincoln. For cinematography, Allen Daviau, a childhood friend and cinematographer, shot the early Spielberg film Amblin and most of his films up to Empire of the Sun; Janusz Kami\u0144ski who has shot every Spielberg film since Schindler's List (see List of film director and cinematographer collaborations); and the film editor Michael Kahn who has edited every film directed by Spielberg from Close Encounters to Munich (except E.T. the Extra-Terrestrial). Most of the DVDs of Spielberg's films have documentaries by Laurent Bouzereau."
+    ],
+    "generated_answer": "The provided context does not contain any information about Ralf D. Bode or a film featuring a character named Loretta. Therefore, I cannot answer the question based on the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1979941129684448,
+    "mean_prob": 0.8765960335731506,
+    "min_prob": 0.1657751053571701,
+    "sds": 1.2201968431472778,
+    "hallucinated": null
+  },
+  {
+    "id": 66,
+    "question": "Who was born first, Bobby Keys or Joe Cocker?",
+    "gold_answer": "\"Bobby\" Keys",
+    "context": [
+      "Antarctic explorers Robert Falcon Scott and Frank Bickerton both lived in the city. Artists include Beryl Cook whose paintings depict the culture of Plymouth and Robert Lenkiewicz, whose paintings investigated themes of vagrancy, sexual behaviour and suicide, lived in the city from the 1960s until his death in 2002. Illustrator and creator of children's series Mr Benn and King Rollo, David McKee, was born and brought up in South Devon and trained at Plymouth College of Art. Jazz musician John Surman, born in nearby Tavistock, has close connections to the area, evidenced by his 2012 album Saltash Bells. The avant garde prepared guitarist Keith Rowe was born in the city before establishing the jazz free improvisation band AMM in London in 1965 and MIMEO in 1997. The musician and film director Cosmo Jarvis has lived in several towns in South Devon and has filmed videos in and around Plymouth. In addition, actors Sir Donald Sinden and Judi Trott. George Passmore of Turner Prize winning duo Gilbert and George was born in the city, as was Labour politician Michael Foot whose family reside at nearby Trematon Castle."
+    ],
+    "generated_answer": "The provided context does not contain any information about Bobby Keys or Joe Cocker, so I cannot determine who was born first based on this text alone.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3700990676879883,
+    "mean_prob": 0.8182714581489563,
+    "min_prob": 0.07501959055662155,
+    "sds": 1.1466295719146729,
+    "hallucinated": null
+  },
+  {
+    "id": 67,
+    "question": "Taylor McNamara played college football at USC a football program that is currently a member of what Conference",
+    "gold_answer": "Big 12 Conference",
+    "context": [
+      "The Notre Dame football team has a long history, first beginning when the Michigan Wolverines football team brought football to Notre Dame in 1887 and played against a group of students. In the long history since then, 13 Fighting Irish teams have won consensus national championships (although the university only claims 11), along with another nine teams being named national champion by at least one source. Additionally, the program has the most members in the College Football Hall of Fame, is tied with Ohio State University with the most Heisman Trophies won, and have the highest winning percentage in NCAA history. With the long history, Notre Dame has accumulated many rivals, and its annual game against USC for the Jeweled Shillelagh has been named by some as one of the most important in college football and is often called the greatest intersectional rivalry in college football in the country."
+    ],
+    "generated_answer": "USC's football program is currently a member of the Pac-12 Conference.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1873722076416016,
+    "mean_prob": 0.9206972122192383,
+    "min_prob": 0.08696206659078598,
+    "sds": 1.0698860883712769,
+    "hallucinated": null
+  },
+  {
+    "id": 68,
+    "question": "Which lake is located further south, Dal Lake or Waterton Lake?",
+    "gold_answer": "Dal Lake",
+    "context": [
+      "Walking trails line Lake Hefner and Lake Overholser in the northwest part of the city and downtown at the canal and the Oklahoma River. The majority of the east shore area is taken up by parks and trails, including a new leashless dog park and the postwar-era Stars and Stripes Park. Lake Stanley Draper is the city's largest and most remote lake."
+    ],
+    "generated_answer": "The given context does not provide information about the locations of Dal Lake or Waterton Lake to determine which is further south. Additional geographic information is needed to answer this question accurately.",
+    "degradation_mode": "k1",
+    "perplexity": 2.2140896320343018,
+    "mean_prob": 0.7583575248718262,
+    "min_prob": 6.707645661663264e-05,
+    "sds": 1.0447648763656616,
+    "hallucinated": null
+  },
+  {
+    "id": 69,
+    "question": "When did the UVF Mid-Ulster Brigade conducted the attack The Miami Showband killings?",
+    "gold_answer": "31 July 1975",
+    "context": [
+      "On March 13, 1969, on the B\u00e1i H\u00e1p River, Kerry was in charge of one of five Swift boats that were returning to their base after performing an Operation Sealords mission to transport South Vietnamese troops from the garrison at C\u00e1i N\u01b0\u1edbc and MIKE Force advisors for a raid on a Vietcong camp located on the Rach Dong Cung canal. Earlier in the day, Kerry received a slight shrapnel wound in the buttocks from blowing up a rice bunker. Debarking some but not all of the passengers at a small village, the boats approached a fishing weir; one group of boats went around to the left of the weir, hugging the shore, and a group with Kerry's PCF-94 boat went around to the right, along the shoreline. A mine was detonated directly beneath the lead boat, PCF-3, as it crossed the weir to the left, lifting PCF-3 \"about 2-3 ft out of water\"."
+    ],
+    "generated_answer": "The context provided does not contain any information about the Miami Showband killings or the UVF Mid-Ulster Brigade. The text is about John Kerry's experience during the Vietnam War. Therefore, I cannot answer your question based on the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3320646286010742,
+    "mean_prob": 0.8386704325675964,
+    "min_prob": 0.014040728099644184,
+    "sds": 0.9575881958007812,
+    "hallucinated": null
+  },
+  {
+    "id": 70,
+    "question": "What is the ratio of flow velocity past a boundary to the local speed of sound for a Saab JAS 39 Gripen?",
+    "gold_answer": "2",
+    "context": [
+      "Aspiration varies with place of articulation. The Spanish voiceless stops /p t k/ have voice-onset times (VOTs) of about 5, 10, and 30 milliseconds, whereas English aspirated /p t k/ have VOTs of about 60, 70, and 80 ms. Voice-onset time in Korean has been measured at 20, 25, and 50 ms for /p t k/ and 90, 95, and 125 for /p\u02b0 t\u02b0 k\u02b0/."
+    ],
+    "generated_answer": "The provided context does not contain any information regarding the aerodynamic properties or specifications of the Saab JAS 39 Gripen, such as the ratio of flow velocity past a boundary to the local speed of sound. Therefore, this question cannot be answered based solely on the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4484927654266357,
+    "mean_prob": 0.8057670593261719,
+    "min_prob": 0.02883291244506836,
+    "sds": 1.2462445497512817,
+    "hallucinated": null
+  },
+  {
+    "id": 71,
+    "question": "Milo Parker starred in which 2014 movie alongside Gillian Anderson?",
+    "gold_answer": "Robot Overlords",
+    "context": [
+      "His next directorial feature was the Raiders prequel Indiana Jones and the Temple of Doom. Teaming up once again with Lucas and Ford, the film was plagued with uncertainty for the material and script. This film and the Spielberg-produced Gremlins led to the creation of the PG-13 rating due to the high level of violence in films targeted at younger audiences. In spite of this, Temple of Doom is rated PG by the MPAA, even though it is the darkest and, possibly, most violent Indy film. Nonetheless, the film was still a huge blockbuster hit in 1984. It was on this project that Spielberg also met his future wife, actress Kate Capshaw."
+    ],
+    "generated_answer": "The given context does not provide information about Milo Parker or any 2014 movie he starred in alongside Gillian Anderson. Therefore, I cannot answer the question based on the provided context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2541980743408203,
+    "mean_prob": 0.8621365427970886,
+    "min_prob": 0.09529639780521393,
+    "sds": 1.1200388669967651,
+    "hallucinated": null
+  },
+  {
+    "id": 72,
+    "question": "This 2016 biographical sports comedy-drama film stars Taron Egerton as a skier who finished last in what events?",
+    "gold_answer": "70 m and 90 m",
+    "context": [
+      "Skiing, snowboarding and mountaineering are among the most popular sports in Switzerland, the nature of the country being particularly suited for such activities. Winter sports are practiced by the natives and tourists since the second half of the 19th century with the invention of bobsleigh in St. Moritz. The first world ski championships were held in M\u00fcrren (1931) and St. Moritz (1934). The latter town hosted the second Winter Olympic Games in 1928 and the fifth edition in 1948. Among the most successful skiers and world champions are Pirmin Zurbriggen and Didier Cuche."
+    ],
+    "generated_answer": "The question cannot be answered from the given context, as it does not mention any 2016 biographical sports comedy-drama film or Taron Egerton's role in such a film. The provided information is about the history of winter sports in Switzerland.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6105983257293701,
+    "mean_prob": 0.7775861024856567,
+    "min_prob": 0.009049568325281143,
+    "sds": 1.0070456266403198,
+    "hallucinated": null
+  },
+  {
+    "id": 73,
+    "question": "What multinational networking and telecommunications equipment and services company used to occupy the space in Umea, Sweden that is now occupied by Minerva Gymnasium?",
+    "gold_answer": "Ericsson (\"Telefonaktiebolaget L. M. Ericsson\")",
+    "context": [
+      "High tech companies have located in the area since the 1930s, when International Radio Corporation introduced the first mass-produced AC/DC radio (the Kadette, in 1931) as well as the first pocket radio (the Kadette Jr., in 1933). The Argus camera company, originally a subsidiary of International Radio, manufactured cameras in Ann Arbor from 1936 to the 1960s. Current firms include Arbor Networks (provider of Internet traffic engineering and security systems), Arbortext (provider of XML-based publishing software), JSTOR (the digital scholarly journal archive), MediaSpan (provider of software and online services for the media industries), Truven Health Analytics, and ProQuest, which includes UMI. Ann Arbor Terminals manufactured a video-display terminal called the Ann Arbor Ambassador during the 1980s. Barracuda Networks, which provides networking, security, and storage products based on network appliances and cloud services, opened an engineering office in Ann Arbor in 2008 on Depot St. and recently announced it will move downtown to occupy the building previously used as the Borders headquarters."
+    ],
+    "generated_answer": "The provided context does not contain any information about a multinational networking and telecommunications equipment and services company occupying a space in Umea, Sweden, nor does it mention anything about Minerva Gymnasium. Therefore, I cannot answer the question based on the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2541859149932861,
+    "mean_prob": 0.8565580248832703,
+    "min_prob": 0.14723774790763855,
+    "sds": 1.1541252136230469,
+    "hallucinated": null
+  },
+  {
+    "id": 74,
+    "question": "Which teams did Jimmy Butler play and what role did he play on these teams?",
+    "gold_answer": "swingman",
+    "context": [
+      "In the following two decades after Sianis' ill will, the Cubs played mostly forgettable baseball, finishing among the worst teams in the National League on an almost annual basis. Longtime infielder/manager Phil Cavarretta, who had been a key player during the '45 season, was fired during spring training in 1954 after admitting the team was unlikely to finish above fifth place. Although shortstop Ernie Banks would become one of the star players in the league during the next decade, finding help for him proved a difficult task, as quality players such as Hank Sauer were few and far between. This, combined with poor ownership decisions such as the College of Coaches, and the ill-fated trade of future Hall of Famer Lou Brock to the Cardinals for pitcher Ernie Broglio (who won only 7 games over the next three seasons), hampered on-field performance."
+    ],
+    "generated_answer": "The provided context does not mention Jimmy Butler or any professional basketball. It discusses the Chicago Cubs baseball team's struggles in the 1950s and 1960s. Therefore, there is no information to answer the question about Jimmy Butler.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4617432355880737,
+    "mean_prob": 0.7722033858299255,
+    "min_prob": 0.1144370436668396,
+    "sds": 1.0902173519134521,
+    "hallucinated": null
+  },
+  {
+    "id": 75,
+    "question": "Which American comedian starred in the original cast of Saturday Night Live and played Stan Winters in the sitcom Martin?",
+    "gold_answer": "Garrett Morris",
+    "context": [
+      "Most feature movies shown during the prime time and early overnight hours (8:00 p.m. to 2:30 a.m. Eastern Time) are presented by film historian Robert Osborne (who has been with the network since its 1994 launch, except for a five-month medical leave from July to December 2011, when guest hosts presented each night's films) on Sunday through Wednesday evenings \u2013 with Osborne only presenting primetime films on weekends \u2013 and Ben Mankiewicz presenting only late evening films on Thursdays, and the \"Silent Sunday Nights\" and \"TCM Imports\" blocks on Sundays."
+    ],
+    "generated_answer": "The question does not relate to the provided context about TCM movie presentations. However, based on general knowledge, the American comedian who starred in the original cast of Saturday Night Live and played Stan Winters in the sitcom Martin is Dave Chappelle. But it's important to note that Dave Chappelle was not part of the original cast of Saturday Night Live; he was a cast member later. The correct answer for the original cast of SNL and the role in \"Martin\" would be Carl",
+    "degradation_mode": "k1",
+    "perplexity": 1.4439438581466675,
+    "mean_prob": 0.794516384601593,
+    "min_prob": 0.011907178908586502,
+    "sds": 1.1312599182128906,
+    "hallucinated": null
+  },
+  {
+    "id": 76,
+    "question": "Holland Park is located next to the shopping center owned by which corporation?",
+    "gold_answer": "Blackwood Partners Management Corporation",
+    "context": [
+      "Parkson enters by acquiring local brand Centro Department Store in 2011. Centro still operates for middle market while the 'Parkson' brand itself, positioned for middle-up segment, enters in 2014 by opening its first store in Medan, followed by its second store in Jakarta. Lotte, meanwhile, enters the market by inking partnership with Ciputra Group, creating what its called 'Lotte Shopping Avenue' inside the Ciputra World Jakarta complex, as well as acquiring Makro and rebranding it into Lotte Mart."
+    ],
+    "generated_answer": "The given context does not provide information about Holland Park or its location relative to any specific shopping center owned by a particular corporation. Therefore, the question cannot be answered based on the provided context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3164265155792236,
+    "mean_prob": 0.8212846517562866,
+    "min_prob": 0.1472795158624649,
+    "sds": 1.0254743099212646,
+    "hallucinated": null
+  },
+  {
+    "id": 77,
+    "question": "Gerd Neggo trained under the founder of which type of dance analysis?",
+    "gold_answer": "Laban Movement Analysis",
+    "context": [
+      "In the late eighteenth- and early nineteenth-century Germany, three pioneer physical educators \u2013 Johann Friedrich GutsMuths (1759\u20131839) and Friedrich Ludwig Jahn (1778\u20131852) \u2013 created exercises for boys and young men on apparatus they had designed that ultimately led to what is considered modern gymnastics. Don Francisco Amor\u00f3s y Ondeano, was born on February 19, 1770 in Valence and died on August 8, 1848 in Paris. He was a Spanish colonel, and the first person to introduce educative gymnastic in France. Jahn promoted the use of parallel bars, rings and high bar in international competition."
+    ],
+    "generated_answer": "The provided context does not contain any information about Gerd Neggo or any specific dance analysis training. Therefore, the question cannot be answered based on the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3563674688339233,
+    "mean_prob": 0.8063223958015442,
+    "min_prob": 0.19133521616458893,
+    "sds": 1.190755844116211,
+    "hallucinated": null
+  },
+  {
+    "id": 78,
+    "question": "What movement was the the person referred to as Mumia part of?",
+    "gold_answer": "black nationalism",
+    "context": [
+      "Increasing urbanisation of India in 7th and 6th centuries BCE led to the rise of new ascetic or shramana movements which challenged the orthodoxy of rituals. Mahavira (c. 549\u2013477 BC), proponent of Jainism, and Buddha (c. 563-483), founder of Buddhism were the most prominent icons of this movement. Shramana gave rise to the concept of the cycle of birth and death, the concept of samsara, and the concept of liberation. Buddha found a Middle Way that ameliorated the extreme asceticism found in the Sramana religions."
+    ],
+    "generated_answer": "The context does not mention anyone referred to as \"Mumia.\" Please provide additional information or correct the name for a proper answer.",
+    "degradation_mode": "k1",
+    "perplexity": 1.9823514223098755,
+    "mean_prob": 0.7327964901924133,
+    "min_prob": 0.0037375465035438538,
+    "sds": 1.198763370513916,
+    "hallucinated": null
+  },
+  {
+    "id": 79,
+    "question": "Rock Springs is a collection of short stories by an author born in what year?",
+    "gold_answer": "1944",
+    "context": [
+      "Despite her editors' warnings that the book might not sell well, it quickly became a sensation, bringing acclaim to Lee in literary circles, in her hometown of Monroeville, and throughout Alabama. The book went through numerous subsequent printings and became widely available through its inclusion in the Book of the Month Club and editions released by Reader's Digest Condensed Books."
+    ],
+    "generated_answer": "The context provided does not contain information about an author named Rock Springs or their birth year. It discusses Harper Lee's success with her book, likely \"To Kill a Mockingbird.\" Please provide additional context for the question asked.",
+    "degradation_mode": "k1",
+    "perplexity": 1.8858891725540161,
+    "mean_prob": 0.7096363306045532,
+    "min_prob": 0.018911704421043396,
+    "sds": 0.9184843897819519,
+    "hallucinated": null
+  },
+  {
+    "id": 80,
+    "question": "What are a Uruguayan professional footballer and Luz Pfannenstiel are best known as?",
+    "gold_answer": "the best known globetrotters",
+    "context": [
+      "Football is the most popular sport in Portugal. There are several football competitions ranging from local amateur to world-class professional level. The legendary Eus\u00e9bio is still a major symbol of Portuguese football history. FIFA World Player of the Year winners Lu\u00eds Figo and Cristiano Ronaldo who won the FIFA Ballon d'Or for 2013 and 2014, are among the numerous examples of other world-class football players born in Portugal and noted worldwide. Portuguese football managers are also noteworthy, with Jos\u00e9 Mourinho, Andr\u00e9 Villas-Boas, Fernando Santos, Carlos Queiroz and Manuel Jos\u00e9 among the most renowned."
+    ],
+    "generated_answer": "The provided context does not contain any information about a Uruguayan professional footballer or Luz Pfannenstiel. Therefore, an answer cannot be derived from the given text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4204227924346924,
+    "mean_prob": 0.8349910378456116,
+    "min_prob": 0.004311787895858288,
+    "sds": 1.0331063270568848,
+    "hallucinated": null
+  },
+  {
+    "id": 81,
+    "question": "Leonard Whiting played the tragic hero of Romeo and Juliet in the film version by which director?",
+    "gold_answer": "Zeffirelli",
+    "context": [
+      "Christoph Waltz was cast in the role of Franz Oberhauser, though he refused to comment on the nature of the part. It was later revealed with the film's release that he is Ernst Stavro Blofeld. Dave Bautista was cast as Mr. Hinx after producers sought an actor with a background in contact sports. After casting B\u00e9r\u00e9nice Lim Marlohe, a relative newcomer, as S\u00e9v\u00e9rine in Skyfall, Mendes consciously sought out a more experienced actor for the role of Madeleine Swann, ultimately casting L\u00e9a Seydoux in the role. Monica Bellucci joined the cast as Lucia Sciarra, becoming, at the age of fifty, the oldest actress to be cast as a Bond girl. In a separate interview with Danish website Euroman, Jesper Christensen revealed he would be reprising his role as Mr. White from Casino Royale and Quantum of Solace. Christensen's character was reportedly killed off in a scene intended to be used as an epilogue to Quantum of Solace, before it was removed from the final cut of the film, enabling his return in Spectre."
+    ],
+    "generated_answer": "The provided context does not contain information about Leonard Whiting or the director who filmed the version of Romeo and Juliet in which he played the lead role. Therefore, based solely on the given context, the answer cannot be determined. However, it is known outside of this context that Leonard Whiting starred in Franco Zeffirelli's 1968 film adaptation of \"Romeo and Juliet.\"",
+    "degradation_mode": "k1",
+    "perplexity": 1.4621771574020386,
+    "mean_prob": 0.7967069745063782,
+    "min_prob": 0.016784735023975372,
+    "sds": 1.093441128730774,
+    "hallucinated": null
+  },
+  {
+    "id": 82,
+    "question": "What is the population of the city at which the transmitter of WLLZ-LP was placed? ",
+    "gold_answer": "143,372",
+    "context": [
+      "In markets where a digital transmitter was installed, existing coverage areas were not necessarily maintained. For instance, the CBC implemented a digital transmitter covering Fredericton, New Brunswick in the place of the existing transmitter covering Saint John, New Brunswick and Fredericton, and decided to maintain analogue service to Saint John. According to CBC's application for this transmitter to the CRTC, the population served by the digital transmitter would be 113,930 people versus 303,465 served by the existing analogue transmitter. In Victoria, the replacement of the Vancouver analogue transmitters with digital ones only allowed only some northeastern parts of the metropolitan area (total population 330,000) to receive either CBC or Radio-Canada."
+    ],
+    "generated_answer": "The context does not provide information about the transmitter of WLLZ-LP or its population data. Therefore, the question cannot be answered based on the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5032432079315186,
+    "mean_prob": 0.8041293025016785,
+    "min_prob": 0.03725963830947876,
+    "sds": 1.130693793296814,
+    "hallucinated": null
+  },
+  {
+    "id": 83,
+    "question": "Are T\u00edmea Babos and Jack Sock tennis players?",
+    "gold_answer": "yes",
+    "context": [
+      "International-level sportspeople from Hyderabad include: cricketers Ghulam Ahmed, M. L. Jaisimha, Mohammed Azharuddin, V. V. S. Laxman, Venkatapathy Raju, Shivlal Yadav, Arshad Ayub, Syed Abid Ali and Noel David; football players Syed Abdul Rahim, Syed Nayeemuddin and Shabbir Ali; tennis player Sania Mirza; badminton players S. M. Arif, Pullela Gopichand, Saina Nehwal, P. V. Sindhu, Jwala Gutta and Chetan Anand; hockey players Syed Mohammad Hadi and Mukesh Kumar; rifle shooters Gagan Narang and Asher Noria and bodybuilder Mir Mohtesham Ali Khan."
+    ],
+    "generated_answer": "No, based on the given context, T\u00edmea Babos and Jack Sock are not mentioned as tennis players from Hyderabad; however, the context lists Sania Mirza as the only tennis player from Hyderabad.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4614838361740112,
+    "mean_prob": 0.8677205443382263,
+    "min_prob": 0.00700887106359005,
+    "sds": 0.9614216089248657,
+    "hallucinated": null
+  },
+  {
+    "id": 84,
+    "question": "Maryland Jockey Club operates a race track in the largest municipality in which Maryland county?",
+    "gold_answer": "Prince George's County",
+    "context": [
+      "Auto racing is also popular in the area. The Richmond International Raceway (RIR) has hosted NASCAR Sprint Cup races since 1953, as well as the Capital City 400 from 1962 \u2212 1980. RIR also hosted IndyCar's Suntrust Indy Challenge from 2001 \u2212 2009. Another track, Southside Speedway, has operated since 1959 and sits just southwest of Richmond in Chesterfield County. This .333-mile (0.536 km) oval short-track has become known as the \"Toughest Track in the South\" and \"The Action Track\", and features weekly stock car racing on Friday nights. Southside Speedway has acted as the breeding grounds for many past NASCAR legends including Richard Petty, Bobby Allison and Darrell Waltrip, and claims to be the home track of NASCAR superstar Denny Hamlin."
+    ],
+    "generated_answer": "The given context does not provide information about any race tracks operated by the Maryland Jockey Club or any details about municipalities in Maryland counties. Therefore, the question cannot be answered based on the provided context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3410605192184448,
+    "mean_prob": 0.8156862258911133,
+    "min_prob": 0.1432483047246933,
+    "sds": 1.05744469165802,
+    "hallucinated": null
+  },
+  {
+    "id": 85,
+    "question": "Which country borders the Central African Republic and is south of Libya and east of Niger?",
+    "gold_answer": "Republic of Chad",
+    "context": [
+      "The Republic of the Congo (French: R\u00e9publique du Congo), also known as Congo, Congo Republic, West Congo[citation needed], or Congo-Brazzaville, is a country located in Central Africa. It is bordered by five countries: Gabon to the west; Cameroon to the northwest; the Central African Republic to the northeast; the Democratic Republic of the Congo to the east and south; and the Angolan exclave of Cabinda to the southwest."
+    ],
+    "generated_answer": "The given context does not provide information about Libya, Niger, or which country borders both the Central African Republic and is south of Libya and east of Niger. Therefore, based solely on the provided context, this question cannot be answered accurately.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3868982791900635,
+    "mean_prob": 0.8066107034683228,
+    "min_prob": 0.06442813575267792,
+    "sds": 0.9256561398506165,
+    "hallucinated": null
+  },
+  {
+    "id": 86,
+    "question": "Wexner Graduate Fellowships are given to students who show an ability of an individual to \"lead\" or guide who?",
+    "gold_answer": "other individuals, teams, or entire organizations",
+    "context": [
+      "In April 2016, Northwestern announced that it signed on to the Chicago Star Partnership, a City Colleges initiative. Through this partnership, Northwestern is one of 15 Illinois public and private universities that will \"provide scholarships to students who graduate from Chicago Public Schools, get their associate degree from one of the city's community colleges, and then get admitted to a bachelor's degree program.\" The partnership was influenced by Mayor Rahm Emanuel, who encouraged local universities to increase opportunities for students in the public school district. The University of Chicago, Northeastern Illinois University, the School of the Art Institute, DePaul University and Loyola University are also part of the Star Scholars partnership."
+    ],
+    "generated_answer": "The provided context does not mention Wexner Graduate Fellowships or any fellowships related to leading abilities. It discusses the Chicago Star Partnership initiated by Northwestern University and other institutions to provide scholarships under specific educational progression criteria. Therefore, I cannot answer the question about Wexner Graduate Fellowships based on the given information.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6971282958984375,
+    "mean_prob": 0.7231103777885437,
+    "min_prob": 0.044747915118932724,
+    "sds": 0.9544545412063599,
+    "hallucinated": null
+  },
+  {
+    "id": 87,
+    "question": "Who is a guest in the final two episodes of season eighteen of South Park?",
+    "gold_answer": "PewDiePie",
+    "context": [
+      "Guest judges may occasionally be introduced. In season two, guest judges such as Lionel Richie and Robin Gibb were used, and in season three Donna Summer, Quentin Tarantino and some of the mentors also joined as judges to critique the performances in the final rounds. Guest judges were used in the audition rounds for seasons four, six, nine, and fourteen such as Gene Simmons and LL Cool J in season four, Jewel and Olivia Newton-John in season six, Shania Twain in season eight, Neil Patrick Harris, Avril Lavigne and Katy Perry in season nine, and season eight runner-up, Adam Lambert, in season fourteen."
+    ],
+    "generated_answer": "The provided context does not contain information about guest appearances in the final two episodes of season eighteen of South Park. It only discusses guest judges in various seasons of a different show or competition.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4222567081451416,
+    "mean_prob": 0.7965186834335327,
+    "min_prob": 0.05884551256895065,
+    "sds": 0.9181252121925354,
+    "hallucinated": null
+  },
+  {
+    "id": 88,
+    "question": "In what city did the 1959 William & Mary Indians football team lose against the #13 Naval Academy?",
+    "gold_answer": "Annapolis, Maryland",
+    "context": [
+      "The army's major campaign against the Indians was fought in Florida against Seminoles. It took long wars (1818\u201358) to finally defeat the Seminoles and move them to Oklahoma. The usual strategy in Indian wars was to seize control of the Indians winter food supply, but that was no use in Florida where there was no winter. The second strategy was to form alliances with other Indian tribes, but that too was useless because the Seminoles had destroyed all the other Indians when they entered Florida in the late eighteenth century."
+    ],
+    "generated_answer": "The given context does not provide any information about the 1959 William & Mary Indians football team or their game against the Naval Academy. Therefore, an answer cannot be derived from the provided text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3993892669677734,
+    "mean_prob": 0.8414428234100342,
+    "min_prob": 0.00811550859361887,
+    "sds": 1.090560793876648,
+    "hallucinated": null
+  },
+  {
+    "id": 89,
+    "question": "Wincenty Gostkowski was a lawyer for the watch manufacturer Patek Philippe & Co. in which city in Switzerland?",
+    "gold_answer": "Geneva, Switzerland",
+    "context": [
+      "In 2008, the BBC reported that the company Primark was using child labor in the manufacture of clothing. In particular, a \u00a34 hand-embroidered shirt was the starting point of a documentary produced by BBC's Panorama programme. The programme asks consumers to ask themselves, \"Why am I only paying \u00a34 for a hand embroidered top? This item looks handmade. Who made it for such little cost?\", in addition to exposing the violent side of the child labour industry in countries where child exploitation is prevalent."
+    ],
+    "generated_answer": "The given context does not provide any information about Wincenty Gostkowski or his role as a lawyer for Patek Philippe & Co. in Switzerland. Therefore, an answer cannot be derived from the provided text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4685862064361572,
+    "mean_prob": 0.8478132486343384,
+    "min_prob": 0.001076873973943293,
+    "sds": 1.2255566120147705,
+    "hallucinated": null
+  },
+  {
+    "id": 90,
+    "question": "Which crop first domesticated in Mexico has its price regulated by a Mexican parastatal created in 1962?",
+    "gold_answer": "Maize",
+    "context": [
+      "Over the course of thousands of years, American indigenous peoples domesticated, bred and cultivated a large array of plant species. These species now constitute 50\u201360% of all crops in cultivation worldwide. In certain cases, the indigenous peoples developed entirely new species and strains through artificial selection, as was the case in the domestication and breeding of maize from wild teosinte grasses in the valleys of southern Mexico. Numerous such agricultural products retain their native names in the English and Spanish lexicons."
+    ],
+    "generated_answer": "The crop first domesticated in Mexico that has its price regulated by a Mexican parastatal created in 1962 is maize (corn). CONASAGRO, later known as COFCO and now part of another entity, historically managed corn prices, though the current regulatory body might differ; CONASAGRO was established to stabilize the supply and prices of basic foodstuffs including corn.",
+    "degradation_mode": "k1",
+    "perplexity": 1.9280864000320435,
+    "mean_prob": 0.6991539597511292,
+    "min_prob": 0.005076124798506498,
+    "sds": 0.9691087007522583,
+    "hallucinated": null
+  },
+  {
+    "id": 91,
+    "question": "Japanese destroyer Oite participated in what conflict that ended with the surrender of the American forces to the Empire of Japan?",
+    "gold_answer": "Battle of Wake Island",
+    "context": [
+      "The battle secured the beachheads of the U.S. Sixth Army on Leyte against attack from the sea, broke the back of Japanese naval power and opened the way for an advance to the Ryukyu Islands in 1945. The only significant Japanese naval operation afterwards was the disastrous Operation Ten-Go in April 1945. Kurita's force had begun the battle with five battleships; when he returned to Japan, only Yamato was combat-worthy. Nishimura's sunken Yamashiro was the last battleship in history to engage another in combat."
+    ],
+    "generated_answer": "The context provided does not mention any conflict where American forces surrendered to the Empire of Japan. Instead, it describes events from the perspective of Japanese and Allied actions during World War II, specifically focusing on battles where Japanese forces faced significant defeats. The question seems to refer to an event that is not covered in the given context. If the question aims to identify a specific historical event involving the Japanese destroyer Oite, additional context would be necessary. However, based solely on the provided information, there is no such",
+    "degradation_mode": "k1",
+    "perplexity": 1.8938641548156738,
+    "mean_prob": 0.6646574139595032,
+    "min_prob": 0.02108394354581833,
+    "sds": 0.9477682113647461,
+    "hallucinated": null
+  },
+  {
+    "id": 92,
+    "question": "With whom did Lever Brothers merge to create an Indonesian soap factory?",
+    "gold_answer": "Margarine Unie",
+    "context": [
+      "In 1634, the Mughal emperor extended his hospitality to the English traders to the region of Bengal, and in 1717 completely waived customs duties for the trade. The company's mainstay businesses were by then cotton, silk, indigo dye, saltpetre, and tea. The Dutch were aggressive competitors and had meanwhile expanded their monopoly of the spice trade in the Malaccan straits by ousting the Portuguese in 1640\u201341. With reduced Portuguese and Spanish influence in the region, the EIC and Dutch East India Company (VOC) entered a period of intense competition, resulting in the Anglo-Dutch Wars of the 17th and 18th centuries."
+    ],
+    "generated_answer": "The provided context does not contain any information about Lever Brothers or the creation of an Indonesian soap factory. Therefore, the question cannot be answered based on the given text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2667745351791382,
+    "mean_prob": 0.8632948398590088,
+    "min_prob": 0.15015004575252533,
+    "sds": 1.1184253692626953,
+    "hallucinated": null
+  },
+  {
+    "id": 93,
+    "question": "Who is known for producing the documentary television series based on the book by science historian James Burke?",
+    "gold_answer": "James Burke",
+    "context": [
+      "Burke's religious writing comprises published works and commentary on the subject of religion. Burke's religious thought was grounded in the belief that religion is the foundation of civil society. He sharply criticised deism and atheism, and emphasised Christianity as a vehicle of social progress. Born in Ireland to a Catholic mother and a Protestant father, Burke vigorously defended the Anglican Church, but also demonstrated sensitivity to Catholic concerns. He linked the conservation of a state (established) religion with the preservation of citizens' constitutional liberties and highlighted Christianity's benefit not only to the believer's soul, but also to political arrangements."
+    ],
+    "generated_answer": "The context provided does not pertain to a documentary television series by James Burke the science historian; instead, it discusses the religious views of Edmund Burke, an Irish statesman and philosopher. Therefore, the answer cannot be derived from the given context. James Burke, the science historian, is known for his documentary series \"Connections,\" which explores the history of science and technology.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5695290565490723,
+    "mean_prob": 0.7490319609642029,
+    "min_prob": 0.04466071352362633,
+    "sds": 0.9748088717460632,
+    "hallucinated": null
+  },
+  {
+    "id": 94,
+    "question": "What supernatural horror film did Miles Doleac have a role in?",
+    "gold_answer": "Sleepy Hollow",
+    "context": [
+      "Based on the strength of his work, Universal signed Spielberg to do four TV films. The first was a Richard Matheson adaptation called Duel. The film is about a psychotic Peterbilt 281 tanker truck driver who chases the terrified driver (Dennis Weaver) of a small Plymouth Valiant and tries to run him off the road. Special praise of this film by the influential British critic Dilys Powell was highly significant to Spielberg's career. Another TV film (Something Evil) was made and released to capitalize on the popularity of The Exorcist, then a major best-selling book which had not yet been released as a film. He fulfilled his contract by directing the TV film-length pilot of a show called Savage, starring Martin Landau. Spielberg's debut full-length feature film was The Sugarland Express, about a married couple who are chased by police as the couple tries to regain custody of their baby. Spielberg's cinematography for the police chase was praised by reviewers, and The Hollywood Reporter stated that \"a major new director is on the horizon.\":223 However, the film fared poorly at the box office and received a limited release."
+    ],
+    "generated_answer": "The given context does not mention Miles Doleac or his involvement in any supernatural horror film. Therefore, there is no information provided to answer the question as asked.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5092755556106567,
+    "mean_prob": 0.7690091729164124,
+    "min_prob": 0.0632936954498291,
+    "sds": 1.1024516820907593,
+    "hallucinated": null
+  },
+  {
+    "id": 95,
+    "question": "What ethnicity are french people referring to when they use the term banlieues?",
+    "gold_answer": "African ancestry or Afro-Caribbean",
+    "context": [
+      "Shortly after the French Revolution (1789), the French First Republic prohibited official use of, and enacted discriminating policies against, the nonstandard languages of France (patois), such as Catalan, Alsatian, Breton, Occitan, Flemish, and Basque."
+    ],
+    "generated_answer": "The term \"banlieues\" generally refers to the suburbs surrounding major French cities, and it is often associated with areas that have high populations of ethnic minorities, including immigrants and their descendants from North Africa, sub-Saharan Africa, and other regions. However, the term itself does not specify an ethnicity but is used in contexts where discussions about these communities' social and economic conditions are prevalent.",
+    "degradation_mode": "k1",
+    "perplexity": 1.748136281967163,
+    "mean_prob": 0.6597899794578552,
+    "min_prob": 0.05164464935660362,
+    "sds": 1.1004741191864014,
+    "hallucinated": null
+  },
+  {
+    "id": 96,
+    "question": "What two shows is the director of the first \"Clone Wars\" series known for creating?",
+    "gold_answer": "\"Dexter's Laboratory\", \"Samurai Jack\"",
+    "context": [
+      "There were no anamorphic LaserDisc titles available in the US except for promotional purposes. Upon purchase of a Toshiba 16:9 television viewers had the option of selecting a number of Warner Bros. 16:9 films. Titles include Unforgiven, Grumpy Old Men, The Fugitive, and Free Willy. The Japanese lineup of titles was different. A series of releases under the banner \"SQUEEZE LD\" from Pioneer of mostly Carolco titles included Basic Instinct, Stargate, Terminator 2: Judgment Day, Showgirls, Cutthroat Island, and Cliffhanger. Terminator 2 was released twice in Squeeze LD, the second release being THX certified and a notable improvement over the first."
+    ],
+    "generated_answer": "The context provided does not contain information about the director of the first \"Clone Wars\" series or any of their known works. Therefore, the answer cannot be derived from the given text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3579717874526978,
+    "mean_prob": 0.8082857728004456,
+    "min_prob": 0.07585547864437103,
+    "sds": 1.2002370357513428,
+    "hallucinated": null
+  },
+  {
+    "id": 97,
+    "question": "Johnny Mathis: Wonderful Wonderful aired at what luxury hotel, casino and spa resort located in Atlantic City, New Jersey?",
+    "gold_answer": "Tropicana Casino & Resort",
+    "context": [
+      "By the late 1960s, many of the resort's once great hotels were suffering from embarrassing vacancy rates. Most of them were either shut down, converted to cheap apartments, or converted to nursing home facilities by the end of the decade. Prior to and during the advent of legalized gaming, many of these hotels were demolished. The Breakers, the Chelsea, the Brighton, the Shelburne, the Mayflower, the Traymore, and the Marlborough-Blenheim were demolished in the 1970s and 1980s. Of the many pre-casino resorts that bordered the boardwalk, only the Claridge, the Dennis, the Ritz-Carlton, and the Haddon Hall survive to this day as parts of Bally's Atlantic City, a condo complex, and Resorts Atlantic City. The old Ambassador Hotel was purchased by Ramada in 1978 and was gutted to become the Tropicana Casino and Resort Atlantic City, only reusing the steelwork of the original building. Smaller hotels off the boardwalk, such as the Madison also survived."
+    ],
+    "generated_answer": "The provided context does not mention Johnny Mathis or the show \"Wonderful Wonderful,\" nor does it specify which hotel hosted the event. Therefore, based solely on the given information, it is not possible to determine the specific luxury hotel where Johnny Mathis' show aired in Atlantic City, New Jersey.",
+    "degradation_mode": "k1",
+    "perplexity": 1.42620050907135,
+    "mean_prob": 0.7832137942314148,
+    "min_prob": 0.04651552438735962,
+    "sds": 1.0525411367416382,
+    "hallucinated": null
+  },
+  {
+    "id": 98,
+    "question": "In which city is the parent company of Sterlite Industries headquartered?",
+    "gold_answer": "London",
+    "context": [
+      "Various industrial businesses are located in Hannover. The Volkswagen Commercial Vehicles Transporter (VWN) factory at Hannover-St\u00f6cken is the biggest employer in the region and operates a huge plant at the northern edge of town adjoining the Mittellandkanal and Motorway A2. Jointly with a factory of German tire and automobile parts manufacturer Continental AG, they have a coal-burning power plant. Continental AG, founded in Hanover in 1871, is one of the city's major companies, as is Sennheiser. Since 2008 a take-over is in progress: the Schaeffler Group from Herzogenaurach (Bavaria) holds the majority of the stock but were required due to the financial crisis to deposit the options as securities at banks. TUI AG has its HQ in Hanover. Hanover is home to many insurance companies, many of which operate only in Germany. One major global reinsurance company is Hannover Re, whose headquarters are east of the city centre."
+    ],
+    "generated_answer": "The provided context does not contain any information about Sterlite Industries or its parent company. Therefore, the answer cannot be derived from the given text.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2262743711471558,
+    "mean_prob": 0.8608867526054382,
+    "min_prob": 0.2889758050441742,
+    "sds": 1.1479343175888062,
+    "hallucinated": null
+  },
+  {
+    "id": 99,
+    "question": "Based on a True Story... is an album by which country music star, with the single My Eyes?",
+    "gold_answer": "Blake Shelton",
+    "context": [
+      "Madonna released the song \"Hey You\" for the Live Earth series of concerts. The song was available as a free download during its first week of release. She also performed it at the London Live Earth concert. Madonna announced her departure from Warner Bros. Records, and a new $120 million, ten-year 360 deal with Live Nation. She produced and wrote I Am Because We Are, a documentary on the problems faced by Malawians. The documentary was directed by Nathan Rissman, who worked as Madonna's gardener. She also directed her first film Filth and Wisdom. The plot of the film revolved around three friends and their aspirations. The Times said she had \"done herself proud\" while The Daily Telegraph described the film as \"not an entirely unpromising first effort [but] Madonna would do well to hang on to her day job.\" In December 2007, the Rock and Roll Hall of Fame announced Madonna as one of the five inductees of 2008. At the induction ceremony on March 10, 2008, Madonna did not sing but asked fellow Hall of Fame inductees and Michigan natives The Stooges to perform her songs \"Burning Up\" and \"Ray of Light\". She thanked Christopher Flynn, her dance teacher from 35 years earlier, for his encouragement to follow her dreams."
+    ],
+    "generated_answer": "The provided context does not contain any information about an album titled \"Based on a True Story...\" or a single named \"My Eyes\" by any country music star. The context is primarily about Madonna and her various projects. Therefore, the question cannot be answered based on the given information.",
+    "degradation_mode": "k1",
+    "perplexity": 1.325266718864441,
+    "mean_prob": 0.8284423351287842,
+    "min_prob": 0.06551441550254822,
+    "sds": 0.9854353070259094,
+    "hallucinated": null
+  }
+]

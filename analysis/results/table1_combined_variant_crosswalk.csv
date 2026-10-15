@@ -1,0 +1,9 @@
+cell,published_combined_auc,variant_matching_published_rounding,original_saved_two_feature_auc,original_saved_four_feature_auc,recomputed_matching_variant_auc,source_notebook
+Phi-3-mini/hotpot,0.842,four,0.8412817844917925,0.8415034685835858,0.8415034685835858,phi/hotpot/tests/09/09_uncertainty_drift_kaggledf1c15092b_(3)_(1) (1).ipynb
+Phi-3-mini/squad,0.859,four,0.8615462597694377,0.8587565957925849,0.8587565957925849,phi/squad/tests/09/09_uncertainty_drift_kaggledf1c15092b_(3)_(1)_(1).ipynb
+Gemma-3-4B/hotpot,0.911,four,0.9116991876311944,0.9110605992982187,0.9110605992982187,gemma/hotpot/tests/09/09_uncertainty_drift_kaggledf1c15092b_(3)_(1)_(1).ipynb
+Gemma-3-4B/squad,0.868,four,0.8686812094447687,0.867701750378586,0.867701750378586,gemma/squad/tests/09/09_uncertainty_drift_kaggledf1c15092b_(3)_(1) (1).ipynb
+Llama-3.1-8B/hotpot,0.846,four,0.8172416328260483,0.8462234734962006,0.8462234734962006,llama 8b/hotpot/tests/09/09_uncertainty_drift_kaggledf1c15092b_(3)_(1)_(1).ipynb
+Llama-3.1-8B/squad,0.869,two,0.8688134534534534,0.8551274474474475,0.8688134534534534,llama 8b/squad/tests/09/09_uncertainty_drift_kaggledf1c15092b_(3)_(1)_(1).ipynb
+Qwen2.5-14B/hotpot,0.824,two,0.8239442232712542,0.8169869227071599,0.8239442232712542,qwen 14b/hotpot/tests/09/09_uncertainty_drift_kaggledf1c15092b_(3)_(1)_(1).ipynb
+Qwen2.5-14B/squad,0.878,two,0.8777695817282736,0.8705939403873998,0.8777695817282736,qwen 14b/squad/tests/09/09_uncertainty_drift_kaggledf1c15092b_(3)_(1)_(1).ipynb

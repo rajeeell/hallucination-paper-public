@@ -1,0 +1,146 @@
+{
+  "n_cells": 8,
+  "per_cell": [
+    {
+      "cell": "Phi-3-mini/SQuAD",
+      "n": 200,
+      "ppl_AUROC": 0.8776510604241696,
+      "ppl_CI": [
+        0.8292304421768708,
+        0.9201680672268908
+      ],
+      "se_AUROC": 0.5724789915966386,
+      "se_CI": [
+        0.49184673869547824,
+        0.6494110144057623
+      ],
+      "delta_se_minus_ppl": -0.305172068827531,
+      "se_meaningfully_better": false,
+      "se_meaningfully_worse": true
+    },
+    {
+      "cell": "Phi-3-mini/HotpotQA",
+      "n": 200,
+      "ppl_AUROC": 0.7380809294871795,
+      "ppl_CI": [
+        0.666816907051282,
+        0.8055889423076923
+      ],
+      "se_AUROC": 0.6981670673076923,
+      "se_CI": [
+        0.6219951923076924,
+        0.7708846654647435
+      ],
+      "delta_se_minus_ppl": -0.039913862179487225,
+      "se_meaningfully_better": false,
+      "se_meaningfully_worse": false
+    },
+    {
+      "cell": "Gemma-3-4B/SQuAD",
+      "n": 200,
+      "ppl_AUROC": 0.8159875551987154,
+      "ppl_CI": [
+        0.7544158972300281,
+        0.8717884383781613
+      ],
+      "se_AUROC": 0.5631774387796066,
+      "se_CI": [
+        0.4869530309112806,
+        0.6379992974708951
+      ],
+      "delta_se_minus_ppl": -0.2528101164191088,
+      "se_meaningfully_better": false,
+      "se_meaningfully_worse": true
+    },
+    {
+      "cell": "Gemma-3-4B/HotpotQA",
+      "n": 200,
+      "ppl_AUROC": 0.91832649384446,
+      "ppl_CI": [
+        0.8783905514963467,
+        0.9531578420578521
+      ],
+      "se_AUROC": 0.5924331898708838,
+      "se_CI": [
+        0.5163634771294164,
+        0.6666049444500051
+      ],
+      "delta_se_minus_ppl": -0.3258933039735762,
+      "se_meaningfully_better": false,
+      "se_meaningfully_worse": true
+    },
+    {
+      "cell": "Llama-3.1-8B/SQuAD",
+      "n": 200,
+      "ppl_AUROC": 0.8986288940417381,
+      "ppl_CI": [
+        0.8527573344087106,
+        0.9381011190644218
+      ],
+      "se_AUROC": 0.5764189938501866,
+      "se_CI": [
+        0.4961689686460329,
+        0.6539973787680209
+      ],
+      "delta_se_minus_ppl": -0.3222099001915515,
+      "se_meaningfully_better": false,
+      "se_meaningfully_worse": true
+    },
+    {
+      "cell": "Llama-3.1-8B/HotpotQA",
+      "n": 200,
+      "ppl_AUROC": 0.8678385416666667,
+      "ppl_CI": [
+        0.8135016025641026,
+        0.9160657051282051
+      ],
+      "se_AUROC": 0.6248497596153847,
+      "se_CI": [
+        0.5477764423076923,
+        0.6999712039262821
+      ],
+      "delta_se_minus_ppl": -0.24298878205128205,
+      "se_meaningfully_better": false,
+      "se_meaningfully_worse": true
+    },
+    {
+      "cell": "Qwen-2.5-14B/SQuAD",
+      "n": 200,
+      "ppl_AUROC": 0.9096240601503759,
+      "ppl_CI": [
+        0.8693734335839599,
+        0.9455651629072682
+      ],
+      "se_AUROC": 0.6005513784461154,
+      "se_CI": [
+        0.5356378446115289,
+        0.6646616541353383
+      ],
+      "delta_se_minus_ppl": -0.3090726817042605,
+      "se_meaningfully_better": false,
+      "se_meaningfully_worse": true
+    },
+    {
+      "cell": "Qwen-2.5-14B/HotpotQA",
+      "n": 200,
+      "ppl_AUROC": 0.7980798079807981,
+      "ppl_CI": [
+        0.7335721072107212,
+        0.8575857585758575
+      ],
+      "se_AUROC": 0.668866886688669,
+      "se_CI": [
+        0.598059805980598,
+        0.7373737373737373
+      ],
+      "delta_se_minus_ppl": -0.12921292129212913,
+      "se_meaningfully_better": false,
+      "se_meaningfully_worse": false
+    }
+  ],
+  "n_cells_se_meaningfully_better": 0,
+  "n_cells_se_meaningfully_worse": 6,
+  "mean_delta_se_minus_ppl": -0.2409092045798658,
+  "min_delta_se_minus_ppl": -0.3258933039735762,
+  "max_delta_se_minus_ppl": -0.039913862179487225
+}

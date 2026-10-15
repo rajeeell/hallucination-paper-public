@@ -1,0 +1,46 @@
+# Credentials, local environments and runtime files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+logs/
+.claude/
+.codex/
+.agents/
+# Manuscripts, templates and working documents
+Paper-latex/
+**/paper.tex
+**/main.tex
+*.tex
+*.bib
+*.bst
+*.sty
+*.cls
+*.docx
+*.zip
+STATUS.md
+LEARNING.md
+IMPROVEMENT_PLAN.md
+map-run-analysis.md
+SUBMISSION.md
+# Original datasets, retrieval indexes, model weights and caches
+retrieval_assets/
+*_faiss.index
+*_corpus.json
+*.safetensors
+*.bin
+*.pt
+*.pth
+.cache/
+# Generated analysis reports
+release_verification/

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "question": "VIVA Media AG changed it's name in 2004. What does their new acronym stand for?",
+    "gold_answer": "Gesellschaft mit beschr\u00e4nkter Haftung",
+    "context": [
+      "VIVA Media GmbH (until 2004 \"VIVA Media AG\") is a music television network originating from Germany.  It was founded for broadcast of VIVA Germany as VIVA Media AG in 1993 and has been owned by their original concurrent Viacom, the parent company of MTV, since 2004.  Viva channels exist in some European countries; the first spin-offs were launched in Poland and Switzerland in 2000.",
+      "Viva Cinema is a 24-hour Filipino cable channel owned by Viva Entertainment.  This channel was formerly a joint venture with STAR TV until July 31, 2003.  Re-launch this February 1, 2009, together with the launch of Cignal Digital TV was tie-up of the launch of the said channel.  It combine of previous teleseries via Viva Television, Filipino movies (including Hollywood movies) and Interviews for the upcoming movies both local and international movies."
+    ],
+    "generated_answer": "VIVA Media AG changed its name to VIVA Media GmbH in 2004.",
+    "retrieval_k": 2,
+    "perplexity": 4.045068264007568,
+    "mean_prob": 0.8634891510009766,
+    "min_prob": 5.043474402555148e-07,
+    "sds": 0.7947322130203247,
+    "hallucinated": null
+  }
+]

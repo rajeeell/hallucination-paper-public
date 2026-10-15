@@ -1,0 +1,76 @@
+{
+  "rows": [
+    {
+      "cell": "Phi-3-mini-4k-instruct/hotpot",
+      "k1_auroc": 0.6294997662459093,
+      "param_med": 1.3595362305641174,
+      "param_mean_log": 0.33274479017898545,
+      "param_p10": 1.1526025891304017,
+      "param_p90": 1.7694282054901127,
+      "pos_rate": 0.69
+    },
+    {
+      "cell": "Phi-3-mini-4k-instruct/squad",
+      "k1_auroc": 0.5407925407925408,
+      "param_med": 1.3886762261390686,
+      "param_mean_log": 0.36464724609272503,
+      "param_p10": 1.1684667587280273,
+      "param_p90": 1.9088971376419068,
+      "pos_rate": 0.78
+    },
+    {
+      "cell": "Llama-3.1-8B-Instruct/hotpot",
+      "k1_auroc": 0.7440257352941176,
+      "param_med": 1.4905853867530823,
+      "param_mean_log": 0.40169321458563323,
+      "param_p10": 1.2276671051979064,
+      "param_p90": 1.8762027502059937,
+      "pos_rate": 0.68
+    },
+    {
+      "cell": "Llama-3.1-8B-Instruct/squad",
+      "k1_auroc": 0.5725094577553594,
+      "param_med": 1.5541887283325195,
+      "param_mean_log": 0.4419487749963895,
+      "param_p10": 1.2700730800628661,
+      "param_p90": 1.9299937248229988,
+      "pos_rate": 0.39
+    },
+    {
+      "cell": "Qwen2.5-14B-Instruct/hotpot",
+      "k1_auroc": 0.6735306735306735,
+      "param_med": 1.6711851358413696,
+      "param_mean_log": 0.5205627876217599,
+      "param_p10": 1.1623012661933898,
+      "param_p90": 2.448042750358582,
+      "pos_rate": 0.63
+    },
+    {
+      "cell": "Qwen2.5-14B-Instruct/squad",
+      "k1_auroc": 0.19969278033794163,
+      "param_med": 1.7421196699142456,
+      "param_mean_log": 0.6058467301699423,
+      "param_p10": 1.176957619190216,
+      "param_p90": 2.9426635026931782,
+      "pos_rate": 0.93
+    },
+    {
+      "cell": "gemma-3-4b-it/hotpot",
+      "k1_auroc": 0.28460417678484706,
+      "param_med": 2.9858909845352173,
+      "param_mean_log": 1.2187003376790653,
+      "param_p10": 1.8170971035957337,
+      "param_p90": 7.478045177459718,
+      "pos_rate": 0.71
+    },
+    {
+      "cell": "gemma-3-4b-it/squad",
+      "k1_auroc": 0.910218253968254,
+      "param_med": 3.8491700887680054,
+      "param_mean_log": 1.5519557431511606,
+      "param_p10": 1.9934639573097228,
+      "param_p90": 18.051430511474624,
+      "pos_rate": 0.28
+    }
+  ]
+}

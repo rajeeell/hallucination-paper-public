@@ -1,0 +1,9 @@
+{
+  "n_cells": 4,
+  "mean_auc_ppl": 0.5837106643356643,
+  "mean_auc_sds_unc": 0.6427862762237762,
+  "mean_delta_sdsunc_minus_ppl": 0.059075611888111834,
+  "mean_ece_sds_unc": 0.018397587705254733,
+  "mean_brier_sds_unc": 0.1447079356526283,
+  "median_recall_at_95pct_PPL": 0.140625
+}

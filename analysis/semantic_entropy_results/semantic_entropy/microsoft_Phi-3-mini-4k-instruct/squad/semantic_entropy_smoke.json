@@ -1,0 +1,383 @@
+{
+  "summary": {
+    "model": "microsoft/Phi-3-mini-4k-instruct",
+    "dataset": "squad",
+    "n_samples_requested": 20,
+    "n_kept": 20,
+    "n_skipped": 0,
+    "n_generations": 3,
+    "sampling_temperature": 1.0,
+    "nli_model": "microsoft/deberta-large-mnli",
+    "elapsed_seconds": 51.44
+  },
+  "records": [
+    {
+      "id": 0,
+      "gold_label": 1,
+      "n_generations": 3,
+      "n_clusters": 1,
+      "cluster_sizes": [
+        3
+      ],
+      "semantic_entropy": -1.000088900581841e-12,
+      "mean_gen_perplexity": 1.0502481857935588,
+      "first_gen_perplexity": 1.1206752061843872,
+      "generations": [
+        "The Portuguese economy was bailed out by the European Commission, European Central Bank, and the International Monetary Fund.",
+        "The Portuguese economy was bailed out by the European Commission, European Central Bank, and International Monetary Fund.",
+        "The Portuguese economy was bailed out by the European Commission, European Central Bank, and International Monetary Fund."
+      ]
+    },
+    {
+      "id": 1,
+      "gold_label": 1,
+      "n_generations": 3,
+      "n_clusters": 2,
+      "cluster_sizes": [
+        2,
+        1
+      ],
+      "semantic_entropy": 0.6365141682928128,
+      "mean_gen_perplexity": 1.100581208864848,
+      "first_gen_perplexity": 1.0566364526748657,
+      "generations": [
+        "George Washington took office as the first President of the United States in 1789.",
+        "George Washington took office as the first President of the United States in 1789.",
+        "The first president, George Washington, took office in 1789."
+      ]
+    },
+    {
+      "id": 2,
+      "gold_label": 0,
+      "n_generations": 3,
+      "n_clusters": 3,
+      "cluster_sizes": [
+        1,
+        1,
+        1
+      ],
+      "semantic_entropy": 1.0986122886651097,
+      "mean_gen_perplexity": 1.7231764793395996,
+      "first_gen_perplexity": 2.1629979610443115,
+      "generations": [
+        "Beyonc\u00e9 landed a major movie role on the networks of DreamWorks Pictures, which released Dreamgirls (2006).",
+        "Beyonc\u00e9 landed a major movie role in the network Walt Disney Pictures, starring in the film \"The Pink Panther\" opposite Steve Martin in 2006.",
+        "Beyonc\u00e9 landed a major movie role in DreamWorks, in the film version of the 1981 Broadway musical loosely based on The Supremes."
+      ]
+    },
+    {
+      "id": 3,
+      "gold_label": 0,
+      "n_generations": 3,
+      "n_clusters": 1,
+      "cluster_sizes": [
+        3
+      ],
+      "semantic_entropy": -1.000088900581841e-12,
+      "mean_gen_perplexity": 1.3071702718734741,
+      "first_gen_perplexity": 1.1584876775741577,
+      "generations": [
+        "Apple unsuccessfully tried to patent the \"rotational user inputs\" interface feature used on the iPod.",
+        "Apple unsuccessfully tried to patent a rotational user inputs feature, as used on the iPod interface.",
+        "Apple unsuccessfully tried to patent a \"rotational user inputs\" interface feature, as used on the iPod line."
+      ]
+    },
+    {
+      "id": 4,
+      "gold_label": 0,
+      "n_generations": 3,
+      "n_clusters": 3,
+      "cluster_sizes": [
+        1,
+        1,
+        1
+      ],
+      "semantic_entropy": 1.0986122886651097,
+      "mean_gen_perplexity": 1.5037718216578166,
+      "first_gen_perplexity": 1.318564772605896,
+      "generations": [
+        "The constitutional convention in Puerto Rico in 1951 was held because the U.S. Congress directed local government to organize the convention in order to write the Puerto Rico Constitution.",
+        "This constitutional convention was held because the U.S. Congress directed local government to organize one for Puerto Rico in 1951, aiming to establish the island's own constitution in 1952 and extend the rights and privileges of United States citizens to Puerto Rico.",
+        "This constitutional convention was held at the directive of the U.S. Congress in 1951 to draft the Puerto Rico Constitution for its electorate to accept in 1952."
+      ]
+    },
+    {
+      "id": 5,
+      "gold_label": 0,
+      "n_generations": 3,
+      "n_clusters": 3,
+      "cluster_sizes": [
+        1,
+        1,
+        1
+      ],
+      "semantic_entropy": 1.0986122886651097,
+      "mean_gen_perplexity": 1.1832985083262126,
+      "first_gen_perplexity": 1.0592455863952637,
+      "generations": [
+        "Cornel Wilde received an Academy Award nomination for his portrayal of Chopin in the 1945 biographical film A Song to Remember.",
+        "Cornel Wilde received an Academy Award nomination as Best Actor for his role as Chopin in the 1945 biographical film A Song to Remember.",
+        "Cornel Wilde received an Academy Award nomination for Best Actor for his portrayal of the composer Fr\u00e9d\u00e9ric Chopin."
+      ]
+    },
+    {
+      "id": 6,
+      "gold_label": 0,
+      "n_generations": 3,
+      "n_clusters": 3,
+      "cluster_sizes": [
+        1,
+        1,
+        1
+      ],
+      "semantic_entropy": 1.0986122886651097,
+      "mean_gen_perplexity": 1.6950526634852092,
+      "first_gen_perplexity": 1.6299902200698853,
+      "generations": [
+        "The name of the tour featuring both Beyonc\u00e9 and Jay Z was The Beyonc\u00e9 Experience or The Beyonc\u00e9 and Jay-Z Experience.",
+        "The Beyonc\u00e9 Experience.",
+        "The tour featuring both Beyonc\u00e9 and Jay Z was called \"The Beyonc\u00e9 Experience\" or The Beyonc\u00e9 Experience World Tour, or simply The Beyonc\u00e9 Experience."
+      ]
+    },
+    {
+      "id": 7,
+      "gold_label": 1,
+      "n_generations": 3,
+      "n_clusters": 3,
+      "cluster_sizes": [
+        1,
+        1,
+        1
+      ],
+      "semantic_entropy": 1.0986122886651097,
+      "mean_gen_perplexity": 1.976609190305074,
+      "first_gen_perplexity": 2.4246091842651367,
+      "generations": [
+        "Bellevue Hospital, formerly known as NYC's Woodhull Hospital, was the first public hospital in the United States.",
+        "Bellevue Hospital is the most well-known hospital in the HHC system, and it is the oldest public hospital in the United States.",
+        "Bellevue Hospital was established and is considered the first public hospital in the United States."
+      ]
+    },
+    {
+      "id": 8,
+      "gold_label": 0,
+      "n_generations": 3,
+      "n_clusters": 1,
+      "cluster_sizes": [
+        3
+      ],
+      "semantic_entropy": -1.000088900581841e-12,
+      "mean_gen_perplexity": 1.05501921971639,
+      "first_gen_perplexity": 1.1350857019424438,
+      "generations": [
+        "Sean Astin played the role of Daniel \"Rudy\" Ruettiger in the film Rudy.",
+        "Sean Astin starred as Daniel \"Rudy\" Ruettiger in the film Rudy.",
+        "Sean Astin starred as Daniel \"Rudy\" Ruettiger in the film Rudy."
+      ]
+    },
+    {
+      "id": 9,
+      "gold_label": 1,
+      "n_generations": 3,
+      "n_clusters": 3,
+      "cluster_sizes": [
+        1,
+        1,
+        1
+      ],
+      "semantic_entropy": 1.0986122886651097,
+      "mean_gen_perplexity": 1.3222448031107585,
+      "first_gen_perplexity": 1.3022819757461548,
+      "generations": [
+        "Premier Wen Jiabao ordered the deployment of an additional 90 helicopters, 60 provided by the PLAAF and 30 by the civil aviation industry, for a total of over 150 aircraft in disaster relief operations following the earthquake.",
+        "Premier Wen Jiabao ordered the deployment of an additional 90 helicopters, comprising 60 from the PLAAF and 30 from the civil aviation industry, to aid in the disaster relief operation after the earthquake.",
+        "Premier Wen Jiabao ordered the deployment of an additional 90 helicopters for the earthquake relief operations, bringing the total of aircraft to over 150."
+      ]
+    },
+    {
+      "id": 10,
+      "gold_label": 1,
+      "n_generations": 3,
+      "n_clusters": 2,
+      "cluster_sizes": [
+        1,
+        2
+      ],
+      "semantic_entropy": 0.6365141682928128,
+      "mean_gen_perplexity": 1.233421762784322,
+      "first_gen_perplexity": 1.4003429412841797,
+      "generations": [
+        "Stickball Boulevard was renamed in the late 2000s to memorialize this street version of baseball.",
+        "Stickball Boulevard in the Bronx was renamed in the late 2000s to memorialize the street version of baseball, stickball.",
+        "Stickball Boulevard in the Bronx was renamed in the late 2000s to commemorate the street version of baseball, known as stickball."
+      ]
+    },
+    {
+      "id": 11,
+      "gold_label": 1,
+      "n_generations": 3,
+      "n_clusters": 2,
+      "cluster_sizes": [
+        2,
+        1
+      ],
+      "semantic_entropy": 0.6365141682928128,
+      "mean_gen_perplexity": 1.1561437050501506,
+      "first_gen_perplexity": 1.2221301794052124,
+      "generations": [
+        "Chen Xuezhong, a Chinese geologist, published a Seismic Risk Analysis study in 2002.",
+        "Chinese geologist Chen Xuezhong published a Seismic Risk Analysis Study in 2002.",
+        "Chinese geologist Chen Xuezhong published a Seismic Risk Analysis Study in 2002, stating that attention should be paid to the possibility of an earthquake with a magnitude of over 7.0 occurring in the Sichuan region."
+      ]
+    },
+    {
+      "id": 12,
+      "gold_label": 1,
+      "n_generations": 3,
+      "n_clusters": 3,
+      "cluster_sizes": [
+        1,
+        1,
+        1
+      ],
+      "semantic_entropy": 1.0986122886651097,
+      "mean_gen_perplexity": 1.8176040252049763,
+      "first_gen_perplexity": 2.0443761348724365,
+      "generations": [
+        "Walk and bicycle modes of travel account for 21% of all modes for trips in the city, making non-car travel about one-fifth the mode in New York City.",
+        "Approximately 21% of all modes for trips in New York City are done by bike or on foot, highlighting the city's large-scale urban mobility and low reliance on private automobiles.",
+        "Walk and bicycle modes of travel account for 21% of all modes for trips in New York City."
+      ]
+    },
+    {
+      "id": 13,
+      "gold_label": 1,
+      "n_generations": 3,
+      "n_clusters": 3,
+      "cluster_sizes": [
+        1,
+        1,
+        1
+      ],
+      "semantic_entropy": 1.0986122886651097,
+      "mean_gen_perplexity": 1.7618846893310547,
+      "first_gen_perplexity": 1.3297032117843628,
+      "generations": [
+        "Kanye West premiered his Season line at Paris Fashion Week in October 2011 and at New York Fashion Week in September 2015.",
+        "Kanye West premiered his initial fashion line, DW Kanye West, at Paris Fashion Week in 2011.\n\nKanye's first significant fashion line, YEEZY Season, began with its showcase at Paris Fashion Week in 2013.",
+        "Kanye West premiered his Yeezy Season line at Paris Fashion Week. The debut fashion show occurred on October 1, 2011."
+      ]
+    },
+    {
+      "id": 14,
+      "gold_label": 1,
+      "n_generations": 3,
+      "n_clusters": 2,
+      "cluster_sizes": [
+        2,
+        1
+      ],
+      "semantic_entropy": 0.6365141682928128,
+      "mean_gen_perplexity": 1.1852644284566243,
+      "first_gen_perplexity": 1.0950883626937866,
+      "generations": [
+        "The Wenchuan earthquake occurred in Wenchuan County, Sichuan, China.",
+        "The Wenchuan earthquake occurred in Wenchuan County, Sichuan province, China, with the epicenter west-northwest of Chengdu, the provincial capital.",
+        "The earthquake occurred in Wenchuan County, Sichuan, China."
+      ]
+    },
+    {
+      "id": 15,
+      "gold_label": 1,
+      "n_generations": 3,
+      "n_clusters": 2,
+      "cluster_sizes": [
+        2,
+        1
+      ],
+      "semantic_entropy": 0.6365141682928128,
+      "mean_gen_perplexity": 1.1674342155456543,
+      "first_gen_perplexity": 1.1699646711349487,
+      "generations": [
+        "Istanbul Technical University is one of the tertiary education institutions mentioned in the context.",
+        "One of the tertiary education institutions is the Istanbul Technical University.",
+        "Istanbul Technical University, ETH Zurich, \u0130YTE, Delft University of Technology, or RWTH Aachen are all examples of tertiary education institutions."
+      ]
+    },
+    {
+      "id": 16,
+      "gold_label": 1,
+      "n_generations": 3,
+      "n_clusters": 3,
+      "cluster_sizes": [
+        1,
+        1,
+        1
+      ],
+      "semantic_entropy": 1.0986122886651097,
+      "mean_gen_perplexity": 1.4718616803487141,
+      "first_gen_perplexity": 1.463402271270752,
+      "generations": [
+        "Kanye West's wife, Kim Kardashian, whom he began dating in 2008.",
+        "Kanye West began dating Kim Kardashian in 2008.",
+        "West began dating singer Beyonc\u00e9 in 2008."
+      ]
+    },
+    {
+      "id": 17,
+      "gold_label": 1,
+      "n_generations": 3,
+      "n_clusters": 3,
+      "cluster_sizes": [
+        1,
+        1,
+        1
+      ],
+      "semantic_entropy": 1.0986122886651097,
+      "mean_gen_perplexity": 1.6261674563090007,
+      "first_gen_perplexity": 1.361551284790039,
+      "generations": [
+        "The Bangladeshi immigrant population in the city numbered over 74,000 by 2013.",
+        "In 2013, the Bangladeshi immigrant population in New York City accounted for over 74,000 individuals.",
+        "Over 74,000."
+      ]
+    },
+    {
+      "id": 18,
+      "gold_label": 1,
+      "n_generations": 3,
+      "n_clusters": 2,
+      "cluster_sizes": [
+        2,
+        1
+      ],
+      "semantic_entropy": 0.6365141682928128,
+      "mean_gen_perplexity": 1.203518311182658,
+      "first_gen_perplexity": 1.1937448978424072,
+      "generations": [
+        "The SCRA requires religious communities to register with a charter, a list of 10 or more members, and evidence of local government approval for prayer site location.",
+        "The State Committee on Religious Affairs (SCRA) requires religious communities to register by providing a charter, a list of 10 or more members, and evidence of local government approval for prayer site locations.",
+        "The SCRA requires religious communities to register with them and local authorities, providing a charter, a list of at least 10 members, and evidence of local government approval for a prayer site location."
+      ]
+    },
+    {
+      "id": 19,
+      "gold_label": 0,
+      "n_generations": 3,
+      "n_clusters": 3,
+      "cluster_sizes": [
+        1,
+        1,
+        1
+      ],
+      "semantic_entropy": 1.0986122886651097,
+      "mean_gen_perplexity": 1.8910466035207112,
+      "first_gen_perplexity": 1.4946424961090088,
+      "generations": [
+        "Empirical investigation of the natural world dates back to classical antiquity, with figures like Thales, Aristotle, and others engaging in empirical methods.",
+        "Empirical therapy began in the mid-19th century, as noted with the coining of the term \"scientist\" by William Whewell and the broader exploration of scientific methods during the scientific revolution in 16th- and 17th-century Europe.",
+        "Empirical methods were first noted and utilized by ancient philosophers, including Thales, Aristotle, and others, as early as classical antiquity."
+      ]
+    }
+  ]
+}

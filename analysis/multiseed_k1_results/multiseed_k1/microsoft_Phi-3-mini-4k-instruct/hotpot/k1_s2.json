@@ -1,0 +1,1702 @@
+[
+  {
+    "id": 0,
+    "ds_index": 5293,
+    "question": "How long did The Shire of Flinders, which encompassed the extremity of the Mornington Peninsula located south-east of Melbourne, Australia, exist?",
+    "gold_answer": "1874 until 1994",
+    "context": [
+      "The Shire of McIvor was a local government area about 110 km north of Melbourne, the state capital of Victoria, Australia.  The shire covered an area of 1295 km2 , and existed from 1863 until 1994."
+    ],
+    "generated_answer": "The Shire of Flinders existed from 1871 to 1994.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.4511146545410156,
+    "mean_prob": 0.7656136751174927,
+    "min_prob": 0.16893982887268066,
+    "sds": 0.8825502395629883,
+    "hallucinated": null
+  },
+  {
+    "id": 1,
+    "ds_index": 5610,
+    "question": "What was the former name of the company which operates Hunterston Terminal?",
+    "gold_answer": "Peel Holdings",
+    "context": [
+      "Hunter Boot Ltd. is a rubber wellington boot and footwear brand.  Originally established as North British Rubber Company in 1856, the company is headquartered in Edinburgh, Scotland with offices in London, New York and D\u00fcsseldorf.  Besides rubber boots, the company sells other products such as bags, socks, and other accessories.  Historically, they have also been involved in the manufacture of tyres, conveyor belts, combs, golf balls, hot water bottles and rubber flooring.  Described as a British heritage brand, Hunter holds several Royal Warrants by Appointment as suppliers of waterproof footwear."
+    ],
+    "generated_answer": "The former name of the company which operates Hunterston Terminal is North British Rubber Company.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.0944328308105469,
+    "mean_prob": 0.9236392974853516,
+    "min_prob": 0.5571230053901672,
+    "sds": 0.8390637636184692,
+    "hallucinated": null
+  },
+  {
+    "id": 2,
+    "ds_index": 2066,
+    "question": "Michael Mark Brodsky is known for his translation of what Irish avant-garde novelist, playwright, theatre director, and poet?",
+    "gold_answer": "Samuel Beckett",
+    "context": [
+      "Iosif Aleksandrovich Brodsky ( ; Russian: \u0418\u043e\u0301\u0441\u0438\u0444 \u0410\u043b\u0435\u043a\u0441\u0430\u0301\u043d\u0434\u0440\u043e\u0432\u0438\u0447 \u0411\u0440\u043e\u0301\u0434\u0441\u043a\u0438\u0439 , ] ; 24 May 1940 \u2013 28 January 1996) was a Russian and American poet and essayist."
+    ],
+    "generated_answer": "Michael Mark Brodsky is known for his translation of the works of Irish avant-garde novelist, playwright, theatre director, and poet, Samuel Beckett.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1422330141067505,
+    "mean_prob": 0.9026188254356384,
+    "min_prob": 0.39583274722099304,
+    "sds": 0.85386061668396,
+    "hallucinated": null
+  },
+  {
+    "id": 3,
+    "ds_index": 4359,
+    "question": "Who died and had his dog wait in Japan for him for 9 years after his death?",
+    "gold_answer": "Hidesabur\u014d Ueno",
+    "context": [
+      "Pusuke (\u30d7\u30fc\u30b9\u30b1 \"in katakana or\" \u3077\u3046\u3059\u3051 \"in hiragana\", 1 April 1985 \u2013 5 December 2011) was a Japanese Shiba Inu who, according to the \"Guinness World Records\", was the world's oldest dog from December 2010 until his death in December 2011.  As of 2011, he was the tenth-oldest dog ever recorded."
+    ],
+    "generated_answer": "The person who died and had his dog Pusuke wait in Japan for 9 years after his death was not mentioned in the context provided.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.426301121711731,
+    "mean_prob": 0.7912660837173462,
+    "min_prob": 0.10084284842014313,
+    "sds": 0.8707460761070251,
+    "hallucinated": null
+  },
+  {
+    "id": 4,
+    "ds_index": 2647,
+    "question": "What group of languages is the surname Gref, meaning \"Grave,\" taken from?",
+    "gold_answer": "Germanic",
+    "context": [
+      "Greca is a female given name in Italian, also known in its feminine variant of \"Grecia\" and its male variant of \"Greco\".  All three words derive from the Latin 'Graeca' or 'Graecus', which operated as an ethonym for someone born in Greece.  During the medieval era this was expanded to citizens of the Byzantine Empire.  Semantically it is similar to the given name Elladio.  In the modern era it is most commonly used in Sardinia and more specifically in the Sardinian province of Cagliari due to its cult of saint Greca.  It is also used in Tuscany and Emilia-Romagna."
+    ],
+    "generated_answer": "The surname Gref, meaning \"Grave,\" is taken from the Greek language.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.152665615081787,
+    "mean_prob": 0.8907340168952942,
+    "min_prob": 0.33900701999664307,
+    "sds": 0.9466180801391602,
+    "hallucinated": null
+  },
+  {
+    "id": 5,
+    "ds_index": 2931,
+    "question": "A Big Daddy is a fictional character in a series that has sold more than how many copies? ",
+    "gold_answer": "25 million copies",
+    "context": [
+      "A Big Daddy is a fictional character in the \"BioShock\" series of video games.  Big Daddies are heavily spliced (genetically mutated and altered with ADAM) human beings who have had their bodies directly grafted into heavily armored, steampunk-inspired atmospheric diving suits.  They are armed with a rivet gun, heavy drill, rocket launcher, or ion laser.  Alpha series Big Daddies are equipped with any of several other weapons as well.  Though they make low-pitched groaning noises similar to whales, Big Daddies have no voice actor attributed to them.  Designed by Irrational Games (then under the supervision of 2K Boston/2K Australia), they first appeared in \"BioShock\" and were promoted heavily.  A six-inch Big Daddy action figure was included in the limited edition version of the title.  In its sequel, \"BioShock 2\", the player controls a prototype Big Daddy."
+    ],
+    "generated_answer": "BioShock series.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.9219319820404053,
+    "mean_prob": 0.6362047791481018,
+    "min_prob": 0.24316848814487457,
+    "sds": 1.0298216342926025,
+    "hallucinated": null
+  },
+  {
+    "id": 6,
+    "ds_index": 2621,
+    "question": "Is Driss Lachgar's birthplace the largest or the second largest city in Morocco?",
+    "gold_answer": "second largest",
+    "context": [
+      "Casablanca (Arabic: \u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621\u200e , \"ad-d\u0101r al-bay\u1e0d\u0101\u02be \" \u200e ; Berber: ; local informal name: \"Ka\u1e93a\"), located in the central-western part of Morocco bordering the Atlantic Ocean, is the largest city in Morocco.  It is also the largest city in the Maghreb, as well as one of the largest and most important cities in Africa, both economically and demographically."
+    ],
+    "generated_answer": "Driss Lachgar's birthplace, Casablanca, is the largest city in Morocco.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.0351327657699585,
+    "mean_prob": 0.9702014923095703,
+    "min_prob": 0.6795569062232971,
+    "sds": 0.7951682209968567,
+    "hallucinated": null
+  },
+  {
+    "id": 7,
+    "ds_index": 1527,
+    "question": "From which team did the linebacker for four NFL teams between 1985-1996 get fired by on November 29?",
+    "gold_answer": "The Jacksonville Jaguars",
+    "context": [
+      "Kurt Keola Gouveia (born September 14, 1964) is a former professional American football linebacker who played 13 seasons in the National Football League and one season in the XFL.  During his career, he played for the Washington Redskins (1986\u20131994; 1999), the Philadelphia Eagles (1995), and the San Diego Chargers (1996\u20131998).  In 2001, he also played for the Las Vegas Outlaws in the now-defunct XFL.  Gouveia played college football for Brigham Young University and was a member of their 1984 National Championship team.  He was selected by the Redskins in the eighth round of the 1986 NFL Draft.  Gouveia sustained a knee injury in training camp as a rookie and did not play during the 1986 NFL season."
+    ],
+    "generated_answer": "The linebacker for four NFL teams between 1985-1996, Kurt Keola Gouveia, was fired by the Washington Redskins on November 29.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1156011819839478,
+    "mean_prob": 0.9191065430641174,
+    "min_prob": 0.33721327781677246,
+    "sds": 0.7114014625549316,
+    "hallucinated": null
+  },
+  {
+    "id": 8,
+    "ds_index": 1752,
+    "question": "Which documentary film premiered first, Grizzly Man or Pray the Devil Back to Hell?",
+    "gold_answer": "Grizzly Man",
+    "context": [
+      "Pray the Devil Back to Hell is a documentary film directed by Gini Reticker and produced by Abigail Disney.  The film premiered at the 2008 Tribeca Film Festival, where it won the award for Best Documentary.  The film had its theatrical release in New York City on November 7, 2008."
+    ],
+    "generated_answer": "Grizzly Man premiered first, as it was released in 2005, while Pray the Devil Back to Hell premiered in 2008.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.0978641510009766,
+    "mean_prob": 0.9224832653999329,
+    "min_prob": 0.45666390657424927,
+    "sds": 0.8409980535507202,
+    "hallucinated": null
+  },
+  {
+    "id": 9,
+    "ds_index": 1521,
+    "question": "Are Out Traveler and Reader's Digest both magazines?",
+    "gold_answer": "yes",
+    "context": [
+      "The Reader's Digest Condensed Books were a series of hardcover anthology collections, published by the American general interest monthly family magazine \"Reader's Digest\" and distributed by direct mail.  Most volumes contained five (although a considerable minority consisted of three, four, or six) current best-selling novels and nonfiction books which were abridged (or \"condensed\") specifically for \"Reader's Digest\"."
+    ],
+    "generated_answer": "No, Out Traveler is not a magazine; it is a travel guidebook, while Reader's Digest is an American general interest monthly family magazine.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.307042121887207,
+    "mean_prob": 0.842737078666687,
+    "min_prob": 0.08520393073558807,
+    "sds": 0.9242604970932007,
+    "hallucinated": null
+  },
+  {
+    "id": 10,
+    "ds_index": 5512,
+    "question": "What Metropolitan City was Massimo Giordano born in?",
+    "gold_answer": "Naples",
+    "context": [
+      "Massimo Giordano (born 19 February 1971) is an Italian-born operatic tenor who is known for his bel canto repertoire.  Giordano was born in Pompei, Italy into an Italian working-class family."
+    ],
+    "generated_answer": "Massimo Giordano was born in the Metropolitan City of Naples, Italy.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.0925159454345703,
+    "mean_prob": 0.9313101172447205,
+    "min_prob": 0.46573612093925476,
+    "sds": 0.6227587461471558,
+    "hallucinated": null
+  },
+  {
+    "id": 11,
+    "ds_index": 4372,
+    "question": "King of Norway Magnus Barefoot launched aggressive military campaigns in this region that was at times independent of external control and was known to the Norse as what?",
+    "gold_answer": "Southern Isles",
+    "context": [
+      "Magnus Olafsson (Old Norse: \"Magn\u00fas \u00d3l\u00e1fsson\", Norwegian: \"Magnus Olavsson\"; 1073\u00a0\u2013 24 August 1103), better known as Magnus Barefoot (Old Norse: \"Magn\u00fas berf\u0153ttr\", Norwegian: \"Magnus Berrf\u00f8tt\"), was King of Norway (as Magnus III) from 1093 until his death in 1103.  His reign was marked by aggressive military campaigns and conquest, particularly in the Norse-dominated parts of the British Isles and Ireland, where he extended his rule to the Kingdom of the Isles and Dublin."
+    ],
+    "generated_answer": "Magnus Barefoot launched aggressive military campaigns in the Norse-dominated parts of the British Isles and Ireland, known to the Norse as the Kingdom of the Isles.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2576782703399658,
+    "mean_prob": 0.8917697668075562,
+    "min_prob": 0.05258653685450554,
+    "sds": 0.7765126824378967,
+    "hallucinated": null
+  },
+  {
+    "id": 12,
+    "ds_index": 2689,
+    "question": "Hotel Splendide is a British film from 2000 that features which James Bond actor?",
+    "gold_answer": "Daniel Craig",
+    "context": [
+      "Casino Royale (2006) is the twenty-first spy film in the Eon Productions \"James Bond\" film series and the first to star Daniel Craig as the fictional MI6 agent James Bond.  Directed by Martin Campbell and written by Neal Purvis & Robert Wade and Paul Haggis, the film marks the third screen adaptation of Ian Fleming's 1953 novel of the same name.  \"Casino Royale\" is a reboot of the film series and as such is set at the beginning of Bond's career as Agent 007, just as he is earning his licence to kill.  After preventing a terrorist attack at Miami International Airport, Bond falls in love with Vesper Lynd, the treasury employee assigned to provide the money he needs to bankrupt a terrorist financier, Le Chiffre, by beating him in a high-stakes poker game.  The story arc continues in the following \"Bond\" film \"Quantum of Solace\" (2008), \"Skyfall\" (2012), and \"Spectre\" (2015) also feature explicit references to characters and events in this film."
+    ],
+    "generated_answer": "Daniel Craig",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.0871531963348389,
+    "mean_prob": 0.9230273962020874,
+    "min_prob": 0.8463097810745239,
+    "sds": 1.0389331579208374,
+    "hallucinated": null
+  },
+  {
+    "id": 13,
+    "ds_index": 6061,
+    "question": "Are Ural Federal University and California State Polytechnic University, Pomona both public universities?",
+    "gold_answer": "yes",
+    "context": [
+      "California State Polytechnic University, Pomona (CPP, Cal Poly Pomona, or Cal Poly) is a public polytechnic university located in Pomona, California, United States.  It is one of two polytechnics in the California State University system."
+    ],
+    "generated_answer": "Yes, both Ural Federal University and California State Polytechnic University, Pomona are public universities.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.0659750699996948,
+    "mean_prob": 0.9479251503944397,
+    "min_prob": 0.49886786937713623,
+    "sds": 0.7812617421150208,
+    "hallucinated": null
+  },
+  {
+    "id": 14,
+    "ds_index": 4865,
+    "question": "Which battle took place first out of the Battle of the Ch'ongch'on River and the Battle of Tarawa?",
+    "gold_answer": "The Battle of Tarawa",
+    "context": [
+      "The Battle of Tarawa was a battle in the Pacific Theater of World War II that was fought on 20\u201323 November 1943.  It took place at the Tarawa Atoll in the Gilbert Islands, and was part of Operation Galvanic, the U.S. invasion of the Gilberts.  Nearly 6,400 Japanese, Koreans, and Americans died in the fighting, mostly on and around the small island of Betio, in the extreme southwest of Tarawa Atoll."
+    ],
+    "generated_answer": "The Battle of the Ch'ongch'on River took place first, occurring from November 25 to December 2, 1950, while the Battle of Tarawa happened later, from November 20 to November 23, 1943.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.227120280265808,
+    "mean_prob": 0.8741670846939087,
+    "min_prob": 0.10688886791467667,
+    "sds": 0.8501831889152527,
+    "hallucinated": null
+  },
+  {
+    "id": 15,
+    "ds_index": 1709,
+    "question": "Dark Dungeons is based on what short gospel tracts by a religious cartoonist?",
+    "gold_answer": "Chick tracts",
+    "context": [
+      "Dark Dungeons is a 2014 American short film that was directed by L. Gabriel Gonda, written by JR Ralls, and based on the Chick tract of the same name.  The film had its world premiere at GenCon on August 14, 2014 and was also released through VOD through the film's official website."
+    ],
+    "generated_answer": "Dark Dungeons is based on the Chick tracts by religious cartoonist Chuck Smith.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3137706518173218,
+    "mean_prob": 0.8225714564323425,
+    "min_prob": 0.2192288488149643,
+    "sds": 0.8420782089233398,
+    "hallucinated": null
+  },
+  {
+    "id": 16,
+    "ds_index": 288,
+    "question": "In what 1997 American mystery crime film did Johnny Galecki start in?",
+    "gold_answer": "Suicide Kings",
+    "context": [
+      "Underworld is a 1997 comedy thriller film that was directed by Roger Christian and stars Denis Leary, Joe Mantegna and Annabella Sciorra."
+    ],
+    "generated_answer": "Johnny Galecki started in the 1997 American mystery crime film \"The Sixth Sense.\"",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.352173924446106,
+    "mean_prob": 0.8207870721817017,
+    "min_prob": 0.10597674548625946,
+    "sds": 1.0727503299713135,
+    "hallucinated": null
+  },
+  {
+    "id": 17,
+    "ds_index": 6102,
+    "question": "Are The Man from Snowy River II and Miracle of the White Stallions filmed in different countries?",
+    "gold_answer": "yes",
+    "context": [
+      "Miracle of the White Stallions is a 1963 film released by Walt Disney starring Robert Taylor (playing Alois Podhajsky), Lilli Palmer, and Eddie Albert.  It is the story of the evacuation of the Lipizzaner horses from the Spanish Riding School in Vienna during World War II."
+    ],
+    "generated_answer": "Yes, The Man from Snowy River II and Miracle of the White Stallions are filmed in different countries. The former is set in Australia, while the latter is set in Austria.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3568342924118042,
+    "mean_prob": 0.8548506498336792,
+    "min_prob": 0.003927325829863548,
+    "sds": 1.0124452114105225,
+    "hallucinated": null
+  },
+  {
+    "id": 18,
+    "ds_index": 4459,
+    "question": "Where was the opera, which was the subject of After Aida, first performed?",
+    "gold_answer": "Teatro alla Scala",
+    "context": [
+      "Aida (] ) is an opera in four acts by Giuseppe Verdi to an Italian libretto by Antonio Ghislanzoni.  Set in Egypt, it was commissioned by and first performed at Cairo's Khedivial Opera House on 24 December 1871; Giovanni Bottesini conducted after Verdi himself withdrew.  Today the work holds a central place in the operatic canon, receiving performances every year around the world; at New York's Metropolitan Opera alone, \"Aida\" has been sung more than 1,100 times since 1886.  Ghislanzoni's scheme follows a scenario often attributed to the French Egyptologist Auguste Mariette, but Verdi biographer Mary Jane Phillips-Matz argues that the source is actually Temistocle Solera."
+    ],
+    "generated_answer": "Aida was first performed at Cairo's Khedivial Opera House.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2675374746322632,
+    "mean_prob": 0.9178145527839661,
+    "min_prob": 0.028422176837921143,
+    "sds": 0.7429296374320984,
+    "hallucinated": null
+  },
+  {
+    "id": 19,
+    "ds_index": 1032,
+    "question": "Which canal is located further North, Beaver and Erie Canal or the Dismal Swamp Canal?",
+    "gold_answer": "The Beaver and Erie Canal",
+    "context": [
+      "The Beaver and Erie Canal, also known as the Erie Extension Canal, was part of the Pennsylvania Canal system and consisted of three sections: the Beaver Division, the Shenango Division, and the Conneaut Division.  The canal ran 136 mi north\u2013south near the western edge of the state from the Ohio River to Lake Erie through Beaver County, Lawrence County, Mercer County, Crawford County, and Erie County, Pennsylvania."
+    ],
+    "generated_answer": "The Beaver and Erie Canal is located further North, as it extends from the Ohio River to Lake Erie in Pennsylvania, while the Dismal Swamp Canal is located in Virginia.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.293229341506958,
+    "mean_prob": 0.8368101119995117,
+    "min_prob": 0.10789896547794342,
+    "sds": 0.6626273393630981,
+    "hallucinated": null
+  },
+  {
+    "id": 20,
+    "ds_index": 2046,
+    "question": "Which player won more Grand Slam titles, Kevin Ullyett or Billie Jean King?",
+    "gold_answer": "Billie Jean King",
+    "context": [
+      "Billie Jean King (\"n\u00e9e\" Moffitt; born November 22, 1943) is an American former World No. 1 professional tennis player.  King won 39 Grand Slam titles: 12 in singles, 16 in women's doubles, and 11 in mixed doubles.  King won the singles title at the inaugural WTA Tour Championships.  King often represented the United States in the Federation Cup and the Wightman Cup.  She was a member of the victorious United States team in seven Federation Cups and nine Wightman Cups.  For three years, King was the United States' captain in the Federation Cup."
+    ],
+    "generated_answer": "Billie Jean King won more Grand Slam titles, with a total of 39, compared to Kevin Ullyett's 5.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3791581392288208,
+    "mean_prob": 0.8382867574691772,
+    "min_prob": 0.06404107064008713,
+    "sds": 0.8589556813240051,
+    "hallucinated": null
+  },
+  {
+    "id": 21,
+    "ds_index": 1490,
+    "question": "Li Yitong made her television debut on which network?",
+    "gold_answer": "Dragon TV",
+    "context": [
+      "Xit TV (pronounced as \"Kheet-Tee-Vee\") is a local Kazakh television station that has been in operation since 7 am October 21 2003 as \u0425\u0438\u0442 \u0422\u0412 (HiT TV).  It is a dedicated youth oriented music television network showing all the latest music videos from Kazakhstan and abroad.  Like many other national music video networks, Xit TV also has regular \"show business\" programs featuring music and movie gossip from around the world.  HiT TV is owned by the Shahar Media Group."
+    ],
+    "generated_answer": "Li Yitong made her television debut on Xit TV, which is a Kazakh television station owned by the Shahar Media Group.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3316515684127808,
+    "mean_prob": 0.83645099401474,
+    "min_prob": 0.1229555755853653,
+    "sds": 0.7148047089576721,
+    "hallucinated": null
+  },
+  {
+    "id": 22,
+    "ds_index": 1190,
+    "question": "Which Dutch footballer is featured on the song Wij zijn Ajax by Ajax and Friends?",
+    "gold_answer": "Ryan Guno Babel",
+    "context": [
+      "\"Wij zijn Ajax\" (Dutch, \"We are Ajax\") is a song by Ajax and Friends.  A one off single by Dutch association football club AFC Ajax, which features guest vocal by several of the club's first team and women's team players, as well as prominent vocalists from the Netherlands, such as Victor Reinier, Koos Alberts, Dr\u00e9 Hazes, Karin Bloemen, Robert ten Brink, Peter Beense and Glennis Grace.  The song also features rap parts from Darryl, RB Djan and Ryan Babel.  The single was released online as a digital download on SPEC Entertainment, the label owned by popular Dutch rapper Ali B., while the video clip was frequently aired on television at the time of the release."
+    ],
+    "generated_answer": "Several first team and women's team players from AFC Ajax are featured on the song \"Wij zijn Ajax\" by Ajax and Friends, including Victor Reinier, Koos Alberts, Dr\u00e9 Hazes, Karin Bloemen, Robert ten Brink, Peter Beense, and Glennis Grace.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.176625370979309,
+    "mean_prob": 0.8910675048828125,
+    "min_prob": 0.16351318359375,
+    "sds": 0.584881603717804,
+    "hallucinated": null
+  },
+  {
+    "id": 23,
+    "ds_index": 5157,
+    "question": "What Cuban preisdent overthrew Mary Tarrero-Serrano?",
+    "gold_answer": "Fulgencio Batista y Zald\u00edvar",
+    "context": [
+      "Eutimio Guerra (1920 \u2014 February 1957) was a Cuban peasant army guide executed for treason during the Cuban revolution by Che Guevara.  He is believed to be the first person executed by Guevara."
+    ],
+    "generated_answer": "The Cuban president who overthrew Mary Tarrero-Serrano was Fulgencio Batista.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1911072731018066,
+    "mean_prob": 0.8858614563941956,
+    "min_prob": 0.18608959019184113,
+    "sds": 0.9616162776947021,
+    "hallucinated": null
+  },
+  {
+    "id": 24,
+    "ds_index": 1660,
+    "question": "The 1997 independent slapstick comedy film Snowboard Academy stars this Danish-Italian actress, model, singer and reality television personality who began her career modelling for whom?",
+    "gold_answer": "Greg Gorman and Helmut Newton",
+    "context": [
+      "Milica Bogdanovna Jovovich ( ; born December 17, 1975) is an American actress, model and musician.  She has appeared in numerous science fiction and action films, leading the music channel VH1 to deem her the \"reigning queen of kick-butt\" in 2006.  In 2004, she was the highest-paid model in the world according to \"Forbes\"."
+    ],
+    "generated_answer": "Milica Bogdanovna Jovovich began her career modeling for the music channel VH1.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3203532695770264,
+    "mean_prob": 0.8447322845458984,
+    "min_prob": 0.1376705765724182,
+    "sds": 0.854476273059845,
+    "hallucinated": null
+  },
+  {
+    "id": 25,
+    "ds_index": 5535,
+    "question": "Kiki Preston was the alleged mother of a child born out of wedlock with a prince born in which year ?",
+    "gold_answer": "1902",
+    "context": [
+      "Knud, Hereditary Prince of Denmark (Knud Christian Frederik Michael; 27 July 1900 \u2013 14 June 1976), was the younger son and child of Christian X and Alexandrine of Mecklenburg-Schwerin."
+    ],
+    "generated_answer": "Kiki Preston was the alleged mother of a child born out of wedlock with Prince Knud of Denmark, who was born in 1900.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1232035160064697,
+    "mean_prob": 0.9212228059768677,
+    "min_prob": 0.20062071084976196,
+    "sds": 0.7878394722938538,
+    "hallucinated": null
+  },
+  {
+    "id": 26,
+    "ds_index": 4595,
+    "question": "Alex da Kid worked on an a track with Eminem released in what year?",
+    "gold_answer": "2010",
+    "context": [
+      "Alexander Grant (born 27 August 1982), professionally known as Alex da Kid, is a British music producer from Wood Green, London.  He has gained recognition for producing several hit singles for a plethora of artists in various music genres, such as Dr. Dre (\"I Need a Doctor\"), Nicki Minaj (\"Massive Attack\"), B.o.B (\"Airplanes\" featuring Hayley Williams), Eminem (\"Love the Way You Lie\" featuring Rihanna), Diddy (\"Coming Home\" with Dirty Money featuring Skylar Grey), Imagine Dragons (\"Radioactive\") and Cheryl (\"Under The Sun\")."
+    ],
+    "generated_answer": "Alex da Kid worked on the track \"Love the Way You Lie\" with Eminem, which was released in 2010.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.062085747718811,
+    "mean_prob": 0.9488824009895325,
+    "min_prob": 0.5984539985656738,
+    "sds": 0.8127927780151367,
+    "hallucinated": null
+  },
+  {
+    "id": 27,
+    "ds_index": 2870,
+    "question": "In which county is this site located where Operation Buster\u2013Jangle was conducted?",
+    "gold_answer": "Nye County",
+    "context": [
+      "Operation Buster\u2013Jangle was a series of seven (six atmospheric, one cratering) nuclear weapons tests conducted by the United States in late 1951 at the Nevada Test Site.  \"Buster-Jangle\" was the first joint test program between the DOD (Operation \"Buster\") and Los Alamos National Laboratories (Operation \"Jangle\").  As part of Operation \"Buster\", 6,500 troops were involved in the Operation Desert Rock I, II, and III exercises in conjunction with the tests.  The last two tests, Operation \"Jangle\", evaluated the cratering effects of low-yield nuclear devices.  This series preceded \"Operation Tumbler-Snapper\" and followed \"Operation Greenhouse\"."
+    ],
+    "generated_answer": "The Nevada Test Site, where Operation Buster\u2013Jangle was conducted, is located in Nye County, Nevada.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1446937322616577,
+    "mean_prob": 0.9007680416107178,
+    "min_prob": 0.3905465304851532,
+    "sds": 0.820612907409668,
+    "hallucinated": null
+  },
+  {
+    "id": 28,
+    "ds_index": 6852,
+    "question": "Which of the former British Leyland companies is best know for it's two-seat open sports cars?",
+    "gold_answer": "MG Car Company Limited",
+    "context": [
+      "The automotive industry in the United Kingdom is now best known for premium and sports car marques including Aston Martin, Bentley, Caterham Cars, Daimler, Jaguar, Lagonda, Land Rover, Lister Cars, Lotus, McLaren, MG, Mini, Morgan and Rolls-Royce.  Volume car manufacturers with a major presence in the UK include Honda, Nissan, Toyota and Vauxhall Motors (subsidiary of Adam Opel AG, subsidiary of the French automotive company Groupe PSA).  Commercial vehicle manufacturers active in the UK include Alexander Dennis, Ford, GMM Luton (owned by Adam Opel AG), Leyland Trucks (owned by Paccar) and London Taxis International (owned by Geely)."
+    ],
+    "generated_answer": "Lotus Cars is the former British Leyland company best known for its two-seat open sports cars.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1466658115386963,
+    "mean_prob": 0.9139224886894226,
+    "min_prob": 0.1737523078918457,
+    "sds": 0.9721616506576538,
+    "hallucinated": null
+  },
+  {
+    "id": 29,
+    "ds_index": 88,
+    "question": "How many copies of Roald Dahl's variation on a popular anecdote sold?",
+    "gold_answer": "250 million",
+    "context": [
+      "Roald Dahl ( , ] ; 13 September 1916 \u2013 23 November 1990) was a British novelist, short story writer, poet, screenwriter, and fighter pilot.  His books have sold more than 250 million copies worldwide."
+    ],
+    "generated_answer": "The context provided does not specify the number of copies sold for Roald Dahl's variation on a popular anecdote.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2219268083572388,
+    "mean_prob": 0.8521610498428345,
+    "min_prob": 0.30987653136253357,
+    "sds": 0.8810291290283203,
+    "hallucinated": null
+  },
+  {
+    "id": 30,
+    "ds_index": 2552,
+    "question": "Was Rudolf Schwarzkogler closely associated with the Viennese Actionism group, while Howard Zieff was an American television commercial director?",
+    "gold_answer": "yes",
+    "context": [
+      "Rudolf Schwarzkogler (13 November 1940, Vienna \u2013 20 June 1969, Vienna) was an Austrian performance artist closely associated with the Viennese Actionism group that included artists G\u00fcnter Brus, Otto M\u00fchl, and Hermann Nitsch."
+    ],
+    "generated_answer": "Yes, Rudolf Schwarzkogler was closely associated with the Viennese Actionism group, while Howard Zieff was an American television commercial director.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.0848768949508667,
+    "mean_prob": 0.9507785439491272,
+    "min_prob": 0.17657938599586487,
+    "sds": 0.7737889885902405,
+    "hallucinated": null
+  },
+  {
+    "id": 31,
+    "ds_index": 3831,
+    "question": "In what region of Argentina is the city of Gualeguaychu located? ",
+    "gold_answer": "Mesopotamia",
+    "context": [
+      "The Gualeguay River (Spanish R\u00edo Gualeguay) is one of the major rivers of the Mesopotamic province of Entre R\u00edos, Argentina.  Its source is in the north of the province, in the region between the cities of Federaci\u00f3n and San Jos\u00e9 de Feliciano, and meanders in a general south-southwestward direction across the center of the province for about 350 to , receiving a large number of tributary streams.  It passes by the cities of Villaguay, Rosario del Tala, and Gualeguay, and finally empties into the R\u00edo Paran\u00e1 Ibicuy, a distributary of the Paran\u00e1 River in the Paran\u00e1 Delta."
+    ],
+    "generated_answer": "Gualeguaychu is located in the Mesopotamic province of Entre R\u00edos in central Argentina.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3574810028076172,
+    "mean_prob": 0.8459922671318054,
+    "min_prob": 0.06001071259379387,
+    "sds": 0.6243048906326294,
+    "hallucinated": null
+  },
+  {
+    "id": 32,
+    "ds_index": 3826,
+    "question": "White love was what number of single created by a record label est in 2008 by Kim Shi Dao?",
+    "gold_answer": "the second",
+    "context": [
+      "Love Love Love is the debut studio album by South Korean singer-songwriter Roy Kim, released and distributed on June 25, 2013 through CJ E&M Music.  The album features nine tracks in total, and spawned two hit singles: the million-selling hit \"Bom Bom Bom\" and the lead single under the same title.  Due to the album's success, Kim earned a Mnet Asian Music Award for Best New Male Artist, and a Golden Disk Award for New Rising Star Award in Disk Album.  As of July 2016, \"Love Love Love\" has sold over 19,000 physical copies and 2.94 million individual track downloads in Kim's native country (see Roy Kim discography)."
+    ],
+    "generated_answer": "The provided context does not mention \"White Love\" or Kim Shi Dao. It discusses Roy Kim's debut album \"Love Love Love.\"",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5122071504592896,
+    "mean_prob": 0.7414523363113403,
+    "min_prob": 0.11726706475019455,
+    "sds": 0.8878745436668396,
+    "hallucinated": null
+  },
+  {
+    "id": 33,
+    "ds_index": 1540,
+    "question": "What type of veterinary specialist is the star veterinarian of The Bionic Vet?",
+    "gold_answer": "neuro-orthopaedic",
+    "context": [
+      "Veterinary pathologists are doctors of veterinary medicine who specialize in the diagnosis of diseases through the examination of animal tissue and body fluids.  Like medical pathology, veterinary pathology is divided into two branches, anatomical pathology and clinical pathology.  Other than the diagnosis of disease in food-producing animals, companion animals, zoo animals and wildlife, veterinary pathologists also have an important role in drug discovery and safety as well as scientific research."
+    ],
+    "generated_answer": "The Bionic Vet does not specify the specialty of its star veterinarian, so it's not possible to determine their exact specialty based on the provided context.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.7161673307418823,
+    "mean_prob": 0.6684717535972595,
+    "min_prob": 0.14703771471977234,
+    "sds": 1.0183864831924438,
+    "hallucinated": null
+  },
+  {
+    "id": 34,
+    "ds_index": 1019,
+    "question": "Are both Aloinopsis and Eriogonum ice plants?",
+    "gold_answer": "no",
+    "context": [
+      "Aloinopsis is a genus of ice plants from South Africa."
+    ],
+    "generated_answer": "No, Aloinopsis and Eriogonum are not the same. Aloinopsis is a genus of ice plants from South Africa, while Eriogonum is a different genus of plants, often referred to as buckwheat, found in North America.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.287017822265625,
+    "mean_prob": 0.8378814458847046,
+    "min_prob": 0.06562923640012741,
+    "sds": 0.7967371940612793,
+    "hallucinated": null
+  },
+  {
+    "id": 35,
+    "ds_index": 6648,
+    "question": "Dutch-born American businessman, Harry Koch, fathered a son born in 1900 that founded which oil refinery firm?",
+    "gold_answer": "Koch Industries",
+    "context": [
+      "Fred Chase Koch ( ; September 23, 1900 \u2013 November 17, 1967) was an American chemical engineer and entrepreneur who founded the oil refinery firm that later became Koch Industries, a privately held company which, under the principal ownership and leadership of Koch's sons, Charles and David, is listed by \"Forbes,\" as of 2015, as the second-largest privately held company in the United States."
+    ],
+    "generated_answer": "Fred Chase Koch, born in 1900, founded the oil refinery firm that later became Koch Industries. Harry Koch, who is not Dutch-born, is not the father of Fred Chase Koch.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5118504762649536,
+    "mean_prob": 0.7511796355247498,
+    "min_prob": 0.049619682133197784,
+    "sds": 0.6506671905517578,
+    "hallucinated": null
+  },
+  {
+    "id": 36,
+    "ds_index": 1336,
+    "question": "What third film in a franchise did Camile Delamarre edit?",
+    "gold_answer": "Transporter 3",
+    "context": [
+      "The Return of Don Camillo (Italian: Il ritorno di Don Camillo) is a 1953 French-Italian comedy film directed by Julien Duvivier and starring Fernandel, Gino Cervi and \u00c9douard Delmont.  The film's sets were designed by Virgilio Marchi.  It was the second of five films featuring Fernandel as the Italian priest Don Camillo and his struggles with Giuseppe 'Peppone' Bottazzi the Communist Mayor of their rural town."
+    ],
+    "generated_answer": "Camile Delamarre edited the third film in the Don Camillo franchise, which is \"Don Camillo e i giovani d'oggi\" (1958).",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3442456722259521,
+    "mean_prob": 0.7952320575714111,
+    "min_prob": 0.19585555791854858,
+    "sds": 0.7522129416465759,
+    "hallucinated": null
+  },
+  {
+    "id": 37,
+    "ds_index": 202,
+    "question": "Who designed the hotel that held the IFBB professional bodybuilding competition in September 1991?",
+    "gold_answer": "architect Michael Graves",
+    "context": [
+      "The 1975 Mr. Olympia contest was an IFBB professional bodybuilding competition held November 4\u201311, 1975 in Pretoria, South Africa.  It was the 11th Mr. Olympia competition and the feature event of the 1975 IFBB International Congress."
+    ],
+    "generated_answer": "The hotel that held the IFBB professional bodybuilding competition in September 1991 was not mentioned in the context provided.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.493739128112793,
+    "mean_prob": 0.8204659819602966,
+    "min_prob": 0.05465788394212723,
+    "sds": 0.9492204785346985,
+    "hallucinated": null
+  },
+  {
+    "id": 38,
+    "ds_index": 1031,
+    "question": "What UAE stadium was the venue for the 2016 Pakistan Super League opening ceremony?",
+    "gold_answer": "Dubai International Stadium",
+    "context": [
+      "The 2016 Pakistan Super League Final was a Twenty20 cricket match played on 23 February 2016, at Dubai International Cricket Stadium, Dubai between Quetta Gladiators and Islamabad United to determine the winner of the 2016 season of the Pakistan Super League."
+    ],
+    "generated_answer": "The Dubai International Cricket Stadium in Dubai was the venue for the 2016 Pakistan Super League opening ceremony.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.0930591821670532,
+    "mean_prob": 0.9338587522506714,
+    "min_prob": 0.4104839861392975,
+    "sds": 0.7212024331092834,
+    "hallucinated": null
+  },
+  {
+    "id": 39,
+    "ds_index": 5615,
+    "question": "What rapper on the song \"Wij zijn Ajax\" plays for the Turkish club Be\u015fikta\u015f?",
+    "gold_answer": "Ryan Babel",
+    "context": [
+      "\"Wij zijn Ajax\" (Dutch, \"We are Ajax\") is a song by Ajax and Friends.  A one off single by Dutch association football club AFC Ajax, which features guest vocal by several of the club's first team and women's team players, as well as prominent vocalists from the Netherlands, such as Victor Reinier, Koos Alberts, Dr\u00e9 Hazes, Karin Bloemen, Robert ten Brink, Peter Beense and Glennis Grace.  The song also features rap parts from Darryl, RB Djan and Ryan Babel.  The single was released online as a digital download on SPEC Entertainment, the label owned by popular Dutch rapper Ali B., while the video clip was frequently aired on television at the time of the release."
+    ],
+    "generated_answer": "Darryl plays for the Turkish club Be\u015fikta\u015f.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2167103290557861,
+    "mean_prob": 0.8694998025894165,
+    "min_prob": 0.32927680015563965,
+    "sds": 1.274015188217163,
+    "hallucinated": null
+  },
+  {
+    "id": 40,
+    "ds_index": 6947,
+    "question": "The Pollution Prevention Act of 1990 expanded a publicly available or private database?",
+    "gold_answer": "publicly available",
+    "context": [
+      "The Air Pollution Control Act of 1955 (Pub.L.  84\u2013159 , ch.  360, 69\u00a0Stat. \u00a0322 ) was the first Clean Air Act (United States) enacted by Congress to address the national environmental problem of air pollution on July 14, 1955.  This was \"an act to provide research and technical assistance relating to air pollution control\".  The act \"left states principally in charge of prevention and control of air pollution at the source\".  The act declared that air pollution was a danger to public health and welfare, but preserved the \"primary responsibilities and rights of the states and local government in controlling air pollution\"."
+    ],
+    "generated_answer": "The Pollution Prevention Act of 1990 expanded a publicly available or private database related to pollution prevention practices and information.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.4023054838180542,
+    "mean_prob": 0.8126152753829956,
+    "min_prob": 0.05891820788383484,
+    "sds": 0.9854409694671631,
+    "hallucinated": null
+  },
+  {
+    "id": 41,
+    "ds_index": 6732,
+    "question": "Which aired first, Life After People or Werner Herzog Eats His Shoe?",
+    "gold_answer": "Werner Herzog Eats His Shoe",
+    "context": [
+      "Werner Herzog Eats His Shoe is a short documentary film directed by Les Blank in 1980 which depicts director Werner Herzog living up to his promise that he would eat his shoe if Errol Morris ever completed the film \"Gates of Heaven\".  The film includes clips from both \"Gates of Heaven\" and Herzog's 1970 feature \"Even Dwarfs Started Small\".  Comic song \"Old Whisky Shoes\", played by the Walt Solek Band, is the signature tune over the opening and closing credits."
+    ],
+    "generated_answer": "Werner Herzog Eats His Shoe aired first, in 1980, while Life After People premiered in 2000.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2532788515090942,
+    "mean_prob": 0.8464688658714294,
+    "min_prob": 0.27213653922080994,
+    "sds": 0.8975464105606079,
+    "hallucinated": null
+  },
+  {
+    "id": 42,
+    "ds_index": 3595,
+    "question": "When was the actor in the CW show developed by Greg Berlanti who also appears in \"Gods and Generals\" born?",
+    "gold_answer": "1970",
+    "context": [
+      "Gregg Berhalter ( ; born August 1, 1973) is a retired American soccer player and current head coach of Columbus Crew SC in Major League Soccer."
+    ],
+    "generated_answer": "Gregg Berhalter, the actor in the CW show developed by Greg Berlanti who also appears in \"Gods and Generals,\" was born on August 1, 1973.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.0885034799575806,
+    "mean_prob": 0.9364679455757141,
+    "min_prob": 0.37734565138816833,
+    "sds": 0.7954658269882202,
+    "hallucinated": null
+  },
+  {
+    "id": 43,
+    "ds_index": 5893,
+    "question": "What star in the film Up at the Villa has earned the title of knighthood?",
+    "gold_answer": "Sir Derek George Jacobi",
+    "context": [
+      "A Knight's Tale is a 2001 medieval adventure-comedy film written, produced, and directed by Brian Helgeland.  The film stars Heath Ledger, Shannyn Sossamon, Mark Addy, Alan Tudyk, Rufus Sewell, Paul Bettany as Geoffrey Chaucer, and James Purefoy as Sir Thomas Colville/Edward, the Black Prince."
+    ],
+    "generated_answer": "Answer: In the film \"A Knight's Tale,\" Mark Addy plays Sir Ulrich von Liechtenstein, who earns the title of knighthood.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5490121841430664,
+    "mean_prob": 0.767815113067627,
+    "min_prob": 0.044476062059402466,
+    "sds": 0.8136489987373352,
+    "hallucinated": null
+  },
+  {
+    "id": 44,
+    "ds_index": 1736,
+    "question": "The General Survey Act was passed shortly after the Supreme Court decision that discussed what concept?",
+    "gold_answer": "interstate commerce",
+    "context": [
+      "The General Survey Act was a law passed by the United States Congress in April 1824, which authorized the president to have surveys made of routes for transport roads and canals \"of national importance, in a commercial or military point of view, or necessary for the transportation of public mail.\"  While such infrastructure of national scope had been discussed and shown wanting for years, its passage shortly followed the landmark Supreme Court ruling, Gibbons v. Ogden, which first established federal authority over interstate commerce including navigation by river.  The president assigned responsibility for the surveys to the Corps of Engineers (USACE)."
+    ],
+    "generated_answer": "The General Survey Act was passed shortly after the Supreme Court decision that discussed federal authority over interstate commerce, including navigation by river.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.0901981592178345,
+    "mean_prob": 0.9314244985580444,
+    "min_prob": 0.42421120405197144,
+    "sds": 0.6604231595993042,
+    "hallucinated": null
+  },
+  {
+    "id": 45,
+    "ds_index": 2367,
+    "question": "Where does the region where Jews supported by Kolel Chibas Jerusalem are from get its name?",
+    "gold_answer": "the medieval city of Halych",
+    "context": [
+      "The Bar Kokhba revolt (Hebrew: \u05de\u05e8\u05d3 \u05d1\u05e8 \u05db\u05d5\u05db\u05d1\u05d0\u200e ; \"Mered Bar Kokhba\") was a rebellion of the Jews of the Roman province of Judea, led by Simon bar Kokhba, against the Roman Empire.  Fought circa 132\u2013136 CE, it was the last of three major Jewish\u2013Roman wars, so it is also known as The Third Jewish\u2013Roman War or The Third Jewish Revolt.  Some historians also refer to it as the Second Revolt of Judea, not counting the Kitos War (115\u2013117 CE), which had only marginally been fought in Judea."
+    ],
+    "generated_answer": "The region where Jews supported by Kolel Chibas Jerusalem are from gets its name from the Bar Kokhba revolt, which occurred in the Roman province of Judea.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1517378091812134,
+    "mean_prob": 0.9027330279350281,
+    "min_prob": 0.1379353106021881,
+    "sds": 0.7398686408996582,
+    "hallucinated": null
+  },
+  {
+    "id": 46,
+    "ds_index": 5609,
+    "question": "\"Twenty Two\" is an episode of the series \"The Twilight Zone.\" adapted from an anecdote by a publisher who made appearance in what panel game show?",
+    "gold_answer": "What's My Line",
+    "context": [
+      "\"Third from the Sun\" is episode 14 of the American television anthology series \"The Twilight Zone\".  It is based on a short story of the same name by Richard Matheson which first appeared in the first issue of the magazine \"Galaxy Science Fiction\" in October 1950."
+    ],
+    "generated_answer": "\"Twenty Two\" is an episode of the series \"The Twilight Zone.\" adapted from an anecdote by publisher Bob Guccione, who made an appearance on the panel game show \"Match Game.\"",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2555469274520874,
+    "mean_prob": 0.8738718628883362,
+    "min_prob": 0.030456317588686943,
+    "sds": 0.9746082425117493,
+    "hallucinated": null
+  },
+  {
+    "id": 47,
+    "ds_index": 7140,
+    "question": "What aviator participated to the Transatlantic flight organized by the \"heir apparent\" to Italian dictator Benito Mussolini?",
+    "gold_answer": "Antonio Lippi",
+    "context": [
+      "Tenente-colonnello Alessandro Resch was an Italian World War I flying ace credited with five confirmed aerial victories (though there is historical evidence of a sixth).  After surviving World War I, he would become a pioneering airline captain, flying 500,000 miles between 1928 and 1935.  He would return to the Italian Air Force as a major in 1935, rising to \"tenente-colonnello\" by 1939.  His participation in World War II is unknown."
+    ],
+    "generated_answer": "Tenente-colonnello Alessandro Resch participated in the Transatlantic flight organized by Italo Balbo, the \"heir apparent\" to Italian dictator Benito Mussolini.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.060434103012085,
+    "mean_prob": 0.9557507634162903,
+    "min_prob": 0.32748255133628845,
+    "sds": 0.7814199924468994,
+    "hallucinated": null
+  },
+  {
+    "id": 48,
+    "ds_index": 37,
+    "question": "The Livesey Hal War Memorial commemorates the fallen of which war, that had over 60 million casualties?",
+    "gold_answer": "World War II",
+    "context": [
+      "The Iraq and Afghanistan Memorial is a war memorial in London, England, commemorating British citizens who participated in the Gulf War, the Afghanistan War and the Iraq War in the period from 1990 to 2015, both military and civilian, including 682 who were killed.  A work by the sculptor Paul Day, the memorial is situated in Victoria Embankment Gardens, between the River Thames and the headquarters of the Ministry of Defence, and near to monuments commemorating the Second World War and the Korean War."
+    ],
+    "generated_answer": "The Livesey Hal War Memorial commemorates the fallen of the Second World War, which had over 60 million casualties.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1337590217590332,
+    "mean_prob": 0.9158698916435242,
+    "min_prob": 0.2959546148777008,
+    "sds": 0.9480616450309753,
+    "hallucinated": null
+  },
+  {
+    "id": 49,
+    "ds_index": 4574,
+    "question": "What Cuban American baseball player was suspended in the new steroid policy of the 2005 Major League Baseball season?",
+    "gold_answer": "Rafael Palmeiro Corrales",
+    "context": [
+      "The 2005 Major League Baseball season was notable for the league's new steroid policy in the wake of the BALCO scandal, which enforced harsher penalties ever than before for steroid use in Major League Baseball.  Several players, including veteran Rafael Palmeiro, were suspended under the new policy.  Also, every team in the NL East division had at least 81 wins (at least half of the 162 games played).  It was also notable for being the first season featuring a baseball team in Washington, D.C. for more than 4 decades, with the Washington Nationals having moved from Montreal."
+    ],
+    "generated_answer": "Rafael Palmeiro, a Cuban American baseball player, was suspended under the new steroid policy of the 2005 Major League Baseball season.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.0996358394622803,
+    "mean_prob": 0.934484601020813,
+    "min_prob": 0.22636598348617554,
+    "sds": 0.8032614588737488,
+    "hallucinated": null
+  },
+  {
+    "id": 50,
+    "ds_index": 4431,
+    "question": "Was the documentary labeled \"The River\"have the same reasoning to be made as the documentary labeled \"Crazy English?\"",
+    "gold_answer": "no",
+    "context": [
+      "The River is a 1938 short documentary film which shows the importance of the Mississippi River to the United States, and how farming and timber practices had caused topsoil to be swept down the river and into the Gulf of Mexico, leading to catastrophic floods and impoverishing farmers.  It ends by briefly describing how the Tennessee Valley Authority project was beginning to reverse these problems."
+    ],
+    "generated_answer": "No, \"The River\" focuses on the environmental impact of farming and timber practices on the Mississippi River, while \"Crazy English\" is about the unique English accent and dialects.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.7966781854629517,
+    "mean_prob": 0.7122036814689636,
+    "min_prob": 0.015650087967514992,
+    "sds": 1.0210292339324951,
+    "hallucinated": null
+  },
+  {
+    "id": 51,
+    "ds_index": 3072,
+    "question": "Which Beatles movie did the John's Children's  studio album Orgasm dub audience screams from?",
+    "gold_answer": "A Hard Day's Night",
+    "context": [
+      "In addition to the Beatles' films \"A Hard Day's Night\" (1964), \"Help! \" (1965), \"Magical Mystery Tour\" (1967), \"Yellow Submarine\" (1968) and \"Let It Be\" (1970), Ringo Starr also acted in films such as \"Candy\" (1968), \"The Magic Christian\" (1969, alongside Peter Sellers), \"Blindman\" (1971), \"Son of Dracula\" (1974) and \"Caveman\" (1981)."
+    ],
+    "generated_answer": "The John's Children's studio album \"Orgasm\" did not feature audience screams from any Beatles movie. The provided context does not mention any Beatles films that included audience screams dubbed into a John's Children's album.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5336641073226929,
+    "mean_prob": 0.7469702959060669,
+    "min_prob": 0.09125538170337677,
+    "sds": 1.0519061088562012,
+    "hallucinated": null
+  },
+  {
+    "id": 52,
+    "ds_index": 6860,
+    "question": "What two singers who worked together on the song I Would Like to See You Again also performed as part of a country music group which was active between 1985 and 1995?",
+    "gold_answer": "Johnny Cash, Waylon Jennings",
+    "context": [
+      "See You Again is a power ballad song released by American country music recording artist Carrie Underwood.  It was written by Underwood, Hillary Lindsey, and David Hodges.  It was released as the fourth and final single from Underwood's fourth studio album, \"Blown Away\", on April 15, 2013.  Underwood announced the single on her official Twitter account."
+    ],
+    "generated_answer": "Carrie Underwood and Hillary Lindsey, who worked together on the song \"See You Again,\" also performed as part of the country music group The Chicks, which was active between 1985 and 1995.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.147276759147644,
+    "mean_prob": 0.9095346927642822,
+    "min_prob": 0.12331204116344452,
+    "sds": 0.778382420539856,
+    "hallucinated": null
+  },
+  {
+    "id": 53,
+    "ds_index": 128,
+    "question": "Where is the Bubblegum Alley, that is similar to Gum Wall, located in California?",
+    "gold_answer": "San Luis Obispo, California",
+    "context": [
+      "The Annabelle Candy Company, also known as Annabelle's, is a Hayward, California, United States, based candy manufacturer.  The company was founded in San Francisco, California in 1950 by Russian immigrant Sam Altshuler, who named the company after his daughter.  The company manufactures ten sorts of candy bar, with the most popular being the Rocky Road candy bar, (which features the \"Rocky road\" flavor of marshmallow, chocolate, and cashews) ranked among the top 35-40 best selling chocolate bars on the West Coast of the United States."
+    ],
+    "generated_answer": "Bubblegum Alley, similar to Gum Wall, is located in Santa Barbara, California.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2240917682647705,
+    "mean_prob": 0.8595808744430542,
+    "min_prob": 0.2527031898498535,
+    "sds": 1.0129692554473877,
+    "hallucinated": null
+  },
+  {
+    "id": 54,
+    "ds_index": 1713,
+    "question": "Killing You is a song by a band that consists of lead vocalist Danny Worsnop, guitarists Ben Bruce and Cameron Liddell, drummer James Cassells and what bassist?",
+    "gold_answer": "Sam Bettley",
+    "context": [
+      "The Killers are an American rock band formed in Las Vegas, Nevada, in 2001 by members Brandon Flowers (lead vocals, keyboards, bass) and Dave Keuning (guitar, backing vocals).  Mark Stoermer (bass, guitar, backing vocals) and Ronnie Vannucci, Jr. (drums, percussion) would complete the current line-up of the band in 2002.  The band's name is derived from a logo on the bass drum of a fictitious band, portrayed in the music video for the New Order song \"Crystal\"."
+    ],
+    "generated_answer": "Killing You is a song by the band Asking Alexandria, which consists of lead vocalist Danny Worsnop, guitarists Ben Bruce and Cameron Liddell, drummer James Cassells, and bassist Sam Bettley.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1359102725982666,
+    "mean_prob": 0.9137557744979858,
+    "min_prob": 0.27303168177604675,
+    "sds": 0.9933154582977295,
+    "hallucinated": null
+  },
+  {
+    "id": 55,
+    "ds_index": 1975,
+    "question": "Pippa Hinchleyplayed Elaine Fenwick on a British Soap opera shown on what channel?",
+    "gold_answer": "ITV",
+    "context": [
+      "Amanda Redington (born January 1962) is a British presenter and actress.  She has been a presenter for cable and satellite TV channels such as Music Box and Sky Channel, during the mid and late 1980s, on GMTV in 1993 and on \"The Warehouse\" on Anglia TV.  Redington also had a music group called K-Ram and she took part in The Rap Pack.  She married Dutch singer Frank Boeijen in 1990 and they divorced in 1994.  She has acted on the stage in \"Wife Begins at 40\", playing Linda Harper; in \"Bedside Manners\" as Sally; in \"Snow White\" as the Wicked Queen; and in \"Jack and the Beanstalk\" as the fairy.  Redington played the title role in \"Peter Pan\" at the Lewisham Theatre; she also played Jack in \"Jack and the Beanstalk\"; and she played Sandy in \"Grease\" at the Palace Theatre in Manchester."
+    ],
+    "generated_answer": "The context provided does not mention Pippa Hinchley or Elaine Fenwick; it discusses Amanda Redington's career.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5037163496017456,
+    "mean_prob": 0.7775073051452637,
+    "min_prob": 0.03848463296890259,
+    "sds": 1.0442737340927124,
+    "hallucinated": null
+  },
+  {
+    "id": 56,
+    "ds_index": 2764,
+    "question": "What song included on the 59th edition of Now That's What I Call Music was written and recorded by an Australian recording artist?",
+    "gold_answer": "\"Cheap Thrills\" by Sia",
+    "context": [
+      "Now That's What I Call Music!  58 or Now 58 was released in 2004.  The album is the 58th edition of the Now!  series in the United Kingdom."
+    ],
+    "generated_answer": "The song included on the 59th edition of Now That's What I Call Music that was written and recorded by an Australian recording artist is \"Untouched\" by Kylie Minogue.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3022000789642334,
+    "mean_prob": 0.8622459173202515,
+    "min_prob": 0.0851103663444519,
+    "sds": 0.9258690476417542,
+    "hallucinated": null
+  },
+  {
+    "id": 57,
+    "ds_index": 6854,
+    "question": "What is this group referred to as that this Russian composer, who wrote \"The Songs and Dances of Death,\" is a member of?",
+    "gold_answer": "The Five",
+    "context": [
+      "Songs and Dances of Death (Russian: \u041f\u0435\u0441\u043d\u0438 \u0438 \u043f\u043b\u044f\u0441\u043a\u0438 \u0441\u043c\u0435\u0440\u0442\u0438 , \"Pesni i plyaski smerti\") is a song cycle for voice (usually bass or bass-baritone) and piano by Modest Petrovich Mussorgsky, written in the mid-1870s, to poems by Arseny Golenishchev-Kutuzov, a relative of the composer."
+    ],
+    "generated_answer": "This group is referred to as the Mighty Handful or The Five, a group of Russian composers who aimed to create a distinctly Russian style of classical music.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3930608034133911,
+    "mean_prob": 0.772754430770874,
+    "min_prob": 0.23863773047924042,
+    "sds": 1.132781982421875,
+    "hallucinated": null
+  },
+  {
+    "id": 58,
+    "ds_index": 6330,
+    "question": "Ross Pople worked with this French dominant figure of the post-war classical music world.",
+    "gold_answer": "Pierre Louis Joseph Boulez",
+    "context": [
+      "Ross Pople (born 11 May 1945) is a New Zealand-born British conductor.  He is the principal conductor of the London Festival Orchestra.  He has worked with Yehudi Menuhin, Clifford Curzon, David Oistrakh, Kentner, George Malcolm, Sir Adrian Boult, Rudolf Kempe, Benjamin Britten, Witold Lutos\u0142awski, Krzysztof Penderecki, Michael Tippett, Georg Solti, Leonard Bernstein, George Benjamin, John Casken, Edwin Roxburgh, Luciano Berio, John Taverner, Malcolm Arnold, Pierre Boulez as well as many other major orchestras, choirs and soloists."
+    ],
+    "generated_answer": "Ross Pople worked with Pierre Boulez, a French dominant figure of the post-war classical music world.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.354177713394165,
+    "mean_prob": 0.8910049796104431,
+    "min_prob": 0.008123353123664856,
+    "sds": 0.9235231280326843,
+    "hallucinated": null
+  },
+  {
+    "id": 59,
+    "ds_index": 2150,
+    "question": "What professionn does Stanley Kwan and Ken Hughes have in common?",
+    "gold_answer": "director",
+    "context": [
+      "Stanley Kwan (; born October 9, 1957) is a Hong Kong Second Wave Hong Kong film director and producer."
+    ],
+    "generated_answer": "Stanley Kwan and Ken Hughes are both Hong Kong film directors and producers.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1653504371643066,
+    "mean_prob": 0.8900267481803894,
+    "min_prob": 0.2969539761543274,
+    "sds": 0.6145679950714111,
+    "hallucinated": null
+  },
+  {
+    "id": 60,
+    "ds_index": 6006,
+    "question": "Indian Mound Cottage was owned by the financier that co-founded which company?",
+    "gold_answer": "Standard Oil",
+    "context": [
+      "Mound is a city in Hennepin County, Minnesota, United States.  The population was 9,052 at the 2010 census.  Mound is the birthplace of the Tonka truck, named after Lake Minnetonka.  The Tonka Toys headquarters was originally in Mound, but moved to facilitate material deliveries.  Mound is about twenty miles west of downtown Minneapolis, the county seat."
+    ],
+    "generated_answer": "Indian Mound Cottage was owned by the financier that co-founded the Tonka Toys company.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2768114805221558,
+    "mean_prob": 0.8564789891242981,
+    "min_prob": 0.21481184661388397,
+    "sds": 0.8902235627174377,
+    "hallucinated": null
+  },
+  {
+    "id": 61,
+    "ds_index": 273,
+    "question": "on 16 January 1995 \"First Knight\" was being filmed at a studio located how far from Windsor ?",
+    "gold_answer": "7 miles",
+    "context": [
+      "First Knight is a 1995 medieval film based on Arthurian legend, directed by Jerry Zucker.  It stars Sean Connery as King Arthur, Richard Gere as Lancelot, Julia Ormond as Guinevere and Ben Cross as Malagant."
+    ],
+    "generated_answer": "First Knight was being filmed at a studio located approximately 25 miles (40 kilometers) northwest of Windsor.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.568487286567688,
+    "mean_prob": 0.7842996716499329,
+    "min_prob": 0.006572926416993141,
+    "sds": 0.9775992631912231,
+    "hallucinated": null
+  },
+  {
+    "id": 62,
+    "ds_index": 2866,
+    "question": "What was the first year a scientific journal published by an organization located in the Bronx was published?",
+    "gold_answer": "1909",
+    "context": [
+      "The Sciences was a magazine published from 1961 to 2001 by the New York Academy of Sciences.  Each issue contained articles that discussed science issues with cultural relevance, illustrated with fine art and an occasional cartoon.  The periodical won seven National Magazine Awards over the course of its publication."
+    ],
+    "generated_answer": "The first year a scientific journal published by an organization located in the Bronx was published was 1961.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.067555546760559,
+    "mean_prob": 0.9454311728477478,
+    "min_prob": 0.5513594150543213,
+    "sds": 0.9092122912406921,
+    "hallucinated": null
+  },
+  {
+    "id": 63,
+    "ds_index": 2589,
+    "question": "Which voice actor plays the voice of the cartoon character that is most famous for his semi-intelligible speech and his mischievous and temperamental personality?",
+    "gold_answer": "Clarence Nash",
+    "context": [
+      "Alan Louis Oppenheimer (born April 23, 1930) is an American actor and voice actor.  He has performed numerous roles on live-action television since the 1960s, and has had an active career doing voice work in cartoons since the 1970s."
+    ],
+    "generated_answer": "Alan Oppenheimer is the voice actor for the cartoon character Garfield, known for his semi-intelligible speech and mischievous personality.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.6904544830322266,
+    "mean_prob": 0.7843875885009766,
+    "min_prob": 0.027314167469739914,
+    "sds": 0.7049400806427002,
+    "hallucinated": null
+  },
+  {
+    "id": 64,
+    "ds_index": 3689,
+    "question": "What is the english translation of the name of style of novel of which The Company is an example?",
+    "gold_answer": "novel with a key",
+    "context": [
+      "This is a list of fiction works that have been made into feature films.  The title of the work and the year it was published are both followed by the work's author, the title of the film, and the year of the film.  If a film has an alternate title based on geographical distribution, the title listed will be that of the widest distribution area."
+    ],
+    "generated_answer": "The Company is an example of a \"company novel.\"",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.6778368949890137,
+    "mean_prob": 0.6723021268844604,
+    "min_prob": 0.14699716866016388,
+    "sds": 1.0386089086532593,
+    "hallucinated": null
+  },
+  {
+    "id": 65,
+    "ds_index": 3812,
+    "question": "What career titles do Ed Wood and Fernand Rivers share?",
+    "gold_answer": "actor, writer, producer, and director",
+    "context": [
+      "Fernand Rivers (born Fran\u00e7ois Large, 6 September 1879, Saint-Lager - 12 September 1960) was a French actor, screenwriter, film producer and director.  He was the brother of the actor Rivers Cadet."
+    ],
+    "generated_answer": "Ed Wood and Fernand Rivers share the career titles of actor, screenwriter, film producer, and director.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1117169857025146,
+    "mean_prob": 0.9088600277900696,
+    "min_prob": 0.5615794062614441,
+    "sds": 0.8949552178382874,
+    "hallucinated": null
+  },
+  {
+    "id": 66,
+    "ds_index": 4392,
+    "question": "Which late 1980s and 1990s English super model was featured in the song nasty girl by The Notorious B.I.G.?",
+    "gold_answer": "Naomi Elaine Campbell",
+    "context": [
+      "\"Nasty Girl\" is a song by rapper The Notorious B.I.G.  It was released in 2005 in the US and on January 16, 2006 in the UK.  The single reached #1 in the United Kingdom (this being his first #1 in the country, just under a year after \"rival\" rapper 2Pac had also achieved his first #1 there also with \"Ghetto Gospel\").  The song features guest appearances from Jagged Edge, P. Diddy, Avery Storm, and Nelly and the video also contains guest appearances from Pharrell, Usher, Fat Joe, 8 Ball & MJG, Teairra Mari, Jazze Pha, DJ Green Lantern, Naomi Campbell and Memphis Bleek.  It can be found on the album \"\", a remixed album of Biggie Smalls' work.  The lyrical section rapped by Notorious B.I.G is actually lifted from another of his songs called \"Nasty Boy\", featured on his second album \"Life After Death\".  Despite this, the production to the song \"Nasty Boy\" is completely different from that for \"Nasty Girl\", and apart from the lyrical sample, and the second verse (rapped by P. Diddy) rapped in the style of Biggie's second verse of Nasty Boy, the two songs bear no similarities.  The chorus, sung by Jagged Edge, which has the line \"Grab your titties for B.I.G.\", references \"Player's Anthem\", which he says \"Bitches, rub your titties if you love Big Poppa\"."
+    ],
+    "generated_answer": "Naomi Campbell was the late 1980s and 1990s English super model featured in the song \"Nasty Girl\" by The Notorious B.I.G.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.0850938558578491,
+    "mean_prob": 0.9593329429626465,
+    "min_prob": 0.08819294720888138,
+    "sds": 0.8163239359855652,
+    "hallucinated": null
+  },
+  {
+    "id": 67,
+    "ds_index": 7021,
+    "question": "Erving Goffman was cited as higher than a literary critic on which guide?",
+    "gold_answer": "The Times Higher Education Guide",
+    "context": [
+      "Erving Goffman (11 June 1922\u00a0\u2013 19 November 1982) was a Canadian-American sociologist and writer, considered by some \"the most influential American sociologist of the twentieth century\".  In 2007 he was listed by \"The Times Higher Education Guide\" as the sixth most-cited author in the humanities and social sciences, behind Anthony Giddens, Pierre Bourdieu and Michel Foucault, and ahead of J\u00fcrgen Habermas."
+    ],
+    "generated_answer": "Erving Goffman was cited as higher than a literary critic on \"The Times Higher Education Guide\" guide.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.137438178062439,
+    "mean_prob": 0.9166608452796936,
+    "min_prob": 0.22688473761081696,
+    "sds": 0.6965775489807129,
+    "hallucinated": null
+  },
+  {
+    "id": 68,
+    "ds_index": 7360,
+    "question": "The screenplay for Alain Resnais' second film is who?",
+    "gold_answer": "Alain Robbe-Grillet.",
+    "context": [
+      "Serge de Poligny (1903\u20131983) was a French screenwriter and film director."
+    ],
+    "generated_answer": "The screenplay for Alain Resnais' second film is by Serge de Poligny.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.184561848640442,
+    "mean_prob": 0.9188223481178284,
+    "min_prob": 0.08469238132238388,
+    "sds": 0.7352821826934814,
+    "hallucinated": null
+  },
+  {
+    "id": 69,
+    "ds_index": 6240,
+    "question": "Are Joe Orton and Bernard-Marie Kolt\u00e8s both playwrights ?",
+    "gold_answer": "yes",
+    "context": [
+      "Kenneth Leith Halliwell (23 June 1926 \u2013 9 August 1967) was a British actor, writer and collagist.  He was the mentor, boyfriend and murderer of playwright Joe Orton."
+    ],
+    "generated_answer": "No, Joe Orton was a British playwright, while Bernard-Marie Kolt\u00e8s was a French playwright and film director.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2428187131881714,
+    "mean_prob": 0.8543055057525635,
+    "min_prob": 0.224276602268219,
+    "sds": 0.9225167036056519,
+    "hallucinated": null
+  },
+  {
+    "id": 70,
+    "ds_index": 5507,
+    "question": "What aspect of the board game Diplomacy is not found in the board game Uncle Wiggily?",
+    "gold_answer": "negotiation phases",
+    "context": [
+      "Diplomacy is a strategic board game created by Allan B. Calhamer in 1954 and released commercially in 1959.  Its main distinctions from most board wargames are its negotiation phases (players spend much of their time forming and betraying alliances with other players and forming beneficial strategies) and the absence of dice and other game elements that produce random effects.  Set in Europe before the beginning of World War I, \"Diplomacy\" is played by two to seven players, each controlling the armed forces of a major European power (or, with fewer players, multiple powers).  Each player aims to move his or her few starting units and defeat those of others to win possession of a majority of strategic cities and provinces marked as \"supply centers\" on the map; these supply centers allow players who control them to produce more units."
+    ],
+    "generated_answer": "The board game Diplomacy, created by Allan B. Calhamer, features negotiation phases and the absence of dice and random elements, unlike the board game Uncle Wiggily.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.4911794662475586,
+    "mean_prob": 0.7779685854911804,
+    "min_prob": 0.0641578957438469,
+    "sds": 0.7314393520355225,
+    "hallucinated": null
+  },
+  {
+    "id": 71,
+    "ds_index": 5519,
+    "question": "Deckers Creek is a tributary, and its beginning in the west is named after?",
+    "gold_answer": "Richard Arthur",
+    "context": [
+      "Deckers Creek is a 24.6 mi tributary of the Monongahela River that runs through north-central West Virginia.  It begins west of Arthurdale and flows southeast, then north, then northwest towards Morgantown, where it empties into the Monongahela River.  The stream has been contaminated by various sources, though largely due to extractive resource mining and improper sewage disposal.  Recently, a conservation effort has been launched and conditions are improving, as the area continues to develop for recreational purposes."
+    ],
+    "generated_answer": "Deckers Creek begins west of Arthurdale.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.4180190563201904,
+    "mean_prob": 0.842052161693573,
+    "min_prob": 0.07241428643465042,
+    "sds": 0.8536109328269958,
+    "hallucinated": null
+  },
+  {
+    "id": 72,
+    "ds_index": 291,
+    "question": "What is the population of the town at the intersection of Interstate Highways 77 and  the longest Interstate highway within the borders of Virginia?",
+    "gold_answer": "8,211 at the 2010 census",
+    "context": [
+      "In the U.S. state of Virginia, Interstate 77 is a north\u2013south highway along the U.S. Route 52 corridor, serving Hillsville, Wytheville, and Bland.  Along I-77's 67 mi length in Virginia, it passes through the Big Walker Mountain Tunnel and East River Mountain Tunnel, the latter on the West Virginia state line and one of only two land vehicular tunnels to cross a state line."
+    ],
+    "generated_answer": "The population of the town at the intersection of Interstate Highways 77 and the longest Interstate highway within the borders of Virginia is not provided in the given context.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1835367679595947,
+    "mean_prob": 0.8918611407279968,
+    "min_prob": 0.12054583430290222,
+    "sds": 0.9015281796455383,
+    "hallucinated": null
+  },
+  {
+    "id": 73,
+    "ds_index": 2277,
+    "question": "Cooperative Living Organization is located in a city that is the county seat of what county in Florida?",
+    "gold_answer": "Alachua",
+    "context": [
+      "The Miccosukee Land Cooperative (MLC) is the original surviving cohousing community (a kind of intentional community) on 344 acres (140 hectares) near Tallahassee, in northeastern Leon County, Florida.  It was initiated in May 1973 by James Clement van Pelt (\"Jeff\"), Anna Coble van Pelt, and Chris and Carol Headley under the nonprofit umbrella of the Small Change Foundation.  The first members moved to the land in June 1974.  The community consists of about 120 households and is governed by a \"town council\" consisting of representatives from six \"neighborhoods\" within the community.  Co-op members privately own their own homesteads, which range in size from 1 acre (0.4 hectares) to several acres each.  Over 90 acres (nearly 40 hectares) are maintained as a nature preserve\u2014the Common Land owned collectively and enjoyed by the entire membership.  Both private and shared land is heavily restricted to maintain its natural state."
+    ],
+    "generated_answer": "Cooperative Living Organization is located in the city that is the county seat of Leon County, Florida.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3018183708190918,
+    "mean_prob": 0.8361918926239014,
+    "min_prob": 0.1858791708946228,
+    "sds": 0.8995048403739929,
+    "hallucinated": null
+  },
+  {
+    "id": 74,
+    "ds_index": 6643,
+    "question": "G\u00e9rard Dubois opened the first La Rose Noire in which complex of office towers and hotels in Hong Kong?",
+    "gold_answer": "Pacific Place",
+    "context": [
+      "92 Legendary La Rose Noire is a 1992 Hong Kong comedy film written and directed by Jeffrey Lau and starring Tony Leung, Maggie Shiu, Teresa Mo, Wong Wan-sze and Fung Bo Bo.  The film was nominated for eight awards at the 12th Hong Kong Film Awards, where Leung won his second Hong Kong Film Award for Best Actor and Fung won her first Hong Kong Film Award for Best Supporting Actress.  \"92 Legendary La Rose Noire\" was ranked number 75 of the Best 100 Chinese Motion Pictures at the 24th Hong Kong Film Awards.  The film was followed two sequels, one released in 1993 titled \"Rose Rose I Love You\", where Leung reprises his role but features a new storyline, and another released in 1997 confusingly titled \"Black Rose II\", also featuring a new storyline and different cast."
+    ],
+    "generated_answer": "G\u00e9rard Dubois opened the first La Rose Noire in the Central Plaza complex of office towers and hotels in Hong Kong.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2247848510742188,
+    "mean_prob": 0.8919450640678406,
+    "min_prob": 0.05842908099293709,
+    "sds": 0.9814390540122986,
+    "hallucinated": null
+  },
+  {
+    "id": 75,
+    "ds_index": 4727,
+    "question": "Which breed of dog was first recognized by their country's official kennel club, the American Hairless Terrier or the Saint-Usuge Spaniel? ",
+    "gold_answer": "The American Hairless Terrier",
+    "context": [
+      "The Saint-Usuge Spaniel (or \u00c9pagneul de Saint-Usuge) is a breed of Spaniel originating in the Bresse region of France.  The breed has origins dating back to at least the 16th century, but was nearly extinct by the end of World War II.  Through the efforts of Father Robert Billard, the breed was resurrected during the second half of the 20th century; its national breed club was founded in 1990.  The breed was recognised by the Soci\u00e9t\u00e9 Centrale Canine (French Kennel Club) in 2003."
+    ],
+    "generated_answer": "The Saint-Usuge Spaniel was first recognized by their country's official kennel club, the Soci\u00e9t\u00e9 Centrale Canine (French Kennel Club), in 2003.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.0525012016296387,
+    "mean_prob": 0.9594075083732605,
+    "min_prob": 0.41828659176826477,
+    "sds": 0.5339637398719788,
+    "hallucinated": null
+  },
+  {
+    "id": 76,
+    "ds_index": 1610,
+    "question": "Who was the First Prophert to the sixth Pharaoh of the Eighteenth Dynasty?",
+    "gold_answer": "Khonsu",
+    "context": [
+      "The Eighteenth Dynasty of Egypt (notated Dynasty XVIII, alternatively 18th Dynasty or Dynasty 18) is classified as the first Dynasty of the Ancient Egyptian New Kingdom period, lasting from 1549/1550 BC to 1292 BC.  It boasts several of Egypt's most famous pharaohs, including Tutankhamun, whose tomb was found by Howard Carter in 1922.  This dynasty is also known as the Thutmosid Dynasty for the four pharaohs named Thutmosis."
+    ],
+    "generated_answer": "The First Prophet to the sixth Pharaoh of the Eighteenth Dynasty was Amenhotep III.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1942118406295776,
+    "mean_prob": 0.8696328401565552,
+    "min_prob": 0.293702632188797,
+    "sds": 0.9761441349983215,
+    "hallucinated": null
+  },
+  {
+    "id": 77,
+    "ds_index": 2404,
+    "question": "Mr. & Mrs. Mxyzptlk is an episode of the superhero TV series that originally aired on what network?",
+    "gold_answer": "CBS",
+    "context": [
+      "The Famous Adventures of Mr. Magoo is an American adult animated sitcom, produced by United Productions of America, which aired for one season (1964 \u20131965) on the NBC network (usually on Sundays from 6:30-7:00PM Eastern).  The television series was based on the original cartoon of the same name, with Jim Backus reprising the voice over of the role he did on TV: while doing this show, he continued with the prime time show \"Gilligan's Island\"."
+    ],
+    "generated_answer": "Mr. & Mrs. Mxyzptlk is an episode of the Superman TV series that originally aired on the ABC network.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.165076732635498,
+    "mean_prob": 0.8896235227584839,
+    "min_prob": 0.2544993758201599,
+    "sds": 1.0080687999725342,
+    "hallucinated": null
+  },
+  {
+    "id": 78,
+    "ds_index": 4619,
+    "question": "Robert Earl Holding owned an oil company that was originally founded by who?",
+    "gold_answer": "Harry F. Sinclair",
+    "context": [
+      "Robert Earl Holding (November 29, 1926 \u2013 April 19, 2013) was an American businessman who owned Sinclair Oil Corporation, the Little America Hotels, the Grand America Hotel, the Westgate Hotel in San Diego, California (directed by Georg Hochfilzer), and two ski resorts, Sun Valley in central Idaho since 1977, and Snowbasin near Ogden, Utah, since 1984."
+    ],
+    "generated_answer": "Robert Earl Holding owned Sinclair Oil Corporation, which was originally founded by Harry Sinclair.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.181936502456665,
+    "mean_prob": 0.8826317191123962,
+    "min_prob": 0.250137597322464,
+    "sds": 0.8841619491577148,
+    "hallucinated": null
+  },
+  {
+    "id": 79,
+    "ds_index": 7129,
+    "question": " Minus the Machine is the sixth studio album by a band formed in which city ?",
+    "gold_answer": "Knoxville, Tennessee",
+    "context": [
+      "Minus the Machine is the sixth studio album by American rock band 10 Years.  It was released on August 7, 2012 through their own independent label called Palehorse Records, which is a part of Warner Music Group's Independent Label Group.  Lead singer, Jesse Hasek, spoke about the album saying \u201cWe wanted to create an album that has no boundaries.\u201d  He continues by saying, \u201cWhen you feel like you\u2019re being told to go through motions and jump through hoops, it takes the heart out of it.  It's better to do what comes naturally and then figure out the after-effect.\u201d"
+    ],
+    "generated_answer": "Minus the Machine is the sixth studio album by the American rock band 10 Years, which was formed in Austin, Texas.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1848217248916626,
+    "mean_prob": 0.9017651677131653,
+    "min_prob": 0.12882424890995026,
+    "sds": 0.4755825102329254,
+    "hallucinated": null
+  },
+  {
+    "id": 80,
+    "ds_index": 3104,
+    "question": "The second studio album by The D.O.C was named as a reference to Charles Manson's idea of a Beatles' song which was a product of McCartney's attempt to create what kind of sound?  ",
+    "gold_answer": "as loud and dirty as possible",
+    "context": [
+      "In the months leading up to the Tate/LaBianca murders in August 1969, Charles Manson often spoke to the members of his \"Family\" about Helter Skelter, an apocalyptic war arising from racial tensions between blacks and whites.  This \"chimerical vision\"\u2014as it was termed by the court that heard Manson's appeal from his conviction for the killings\u2014involved reference to music of the Beatles (particularly songs from their 1968 double album \"The Beatles\", also known as \"the White Album\") and to the New Testament's Book of Revelation."
+    ],
+    "generated_answer": "The second studio album by The D.O.C, titled \"No One Can Do It Better,\" was named as a reference to Charles Manson's idea of a Beatles' song, which was a product of McCartney's attempt to create a \"Helter Skelter\" sound.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1729696989059448,
+    "mean_prob": 0.8878378868103027,
+    "min_prob": 0.2454690784215927,
+    "sds": 0.8957237005233765,
+    "hallucinated": null
+  },
+  {
+    "id": 81,
+    "ds_index": 6685,
+    "question": " Chun Woo-hee's notable films include a South Korean horror film about  a policeman who investigates a series of mysterious killings and what?",
+    "gold_answer": "illnesses",
+    "context": [
+      "Korean horror films have been around since the early years of Korean cinema, however, it was not until the late 1990s that the genre began to experience a renewal.  Many of the Korean horror films tend to focus on the suffering and the anguish of characters rather than focus on the explicit \"blood and guts\" aspect of horror.  Korean horror features many of the same motifs, themes, and imagery as Japanese horror."
+    ],
+    "generated_answer": "Chun Woo-hee's notable films include a South Korean horror film about a policeman who investigates a series of mysterious killings and the psychological torment of the characters.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.292335033416748,
+    "mean_prob": 0.8568690419197083,
+    "min_prob": 0.11606425791978836,
+    "sds": 0.8890122175216675,
+    "hallucinated": null
+  },
+  {
+    "id": 82,
+    "ds_index": 3992,
+    "question": " \"JK Wedding Entrance Dance\" is a viral video that uses a song by a rapper whose first album was certified what?",
+    "gold_answer": "double platinum",
+    "context": [
+      "\"JK Wedding Entrance Dance\" is a viral video originally uploaded to YouTube on July 19, 2009, featuring the wedding of Jill Peterson and Kevin Heinz, using \"Forever\" by Chris Brown as the song for their wedding march.  In its first 48 hours, the video was viewed more than 3.5 million times.  The original upload of the video was the 3rd most popular video on YouTube in 2009, and as of September 2016 had been viewed over around 93.4 million times.  \"Time\" magazine ranked the video at number fifteen on its list of the fifty greatest YouTube videos."
+    ],
+    "generated_answer": "\"JK Wedding Entrance Dance\" uses the song \"Forever\" by Chris Brown, whose first album was certified platinum.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2286213636398315,
+    "mean_prob": 0.877934455871582,
+    "min_prob": 0.1737821251153946,
+    "sds": 0.6923129558563232,
+    "hallucinated": null
+  },
+  {
+    "id": 83,
+    "ds_index": 1209,
+    "question": " The Canadian Hot 100 is a music industry record chart in Canada for for a song that is released separately from what?",
+    "gold_answer": "an album",
+    "context": [
+      "The Canadian Hot 100 is a music industry record chart in Canada for singles, published weekly by \"Billboard\" magazine.  The Canadian Hot 100 was launched on the issue dated June 16, 2007, and is currently the standard record chart in Canada; a new chart is compiled and officially released to the public by \"Billboard\" on Tuesdays."
+    ],
+    "generated_answer": "The Canadian Hot 100 is a music industry record chart in Canada for singles that are released separately from albums.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1258708238601685,
+    "mean_prob": 0.9094303250312805,
+    "min_prob": 0.4912714958190918,
+    "sds": 0.32070600986480713,
+    "hallucinated": null
+  },
+  {
+    "id": 84,
+    "ds_index": 1807,
+    "question": "What was the nickname of Anthony Corallo, boss to \"Sal\" Avellino and head of the Lucchese mob family mob in New York?",
+    "gold_answer": "Tony Ducks",
+    "context": [
+      "Ettore \"Eddie\" Coco (July 12, 1908 Palermo, Sicily \u2013 December 1991) was a New York City mobster who served as \"acting boss\" of the Lucchese crime family in 1967."
+    ],
+    "generated_answer": "Anthony Corallo's nickname was \"Sal.\"",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.7275722026824951,
+    "mean_prob": 0.6839732527732849,
+    "min_prob": 0.19025149941444397,
+    "sds": 1.1355615854263306,
+    "hallucinated": null
+  },
+  {
+    "id": 85,
+    "ds_index": 837,
+    "question": "Who created the NBC sitcom that Johnny Pemberton appears in as the character Bo Thompson?",
+    "gold_answer": "Justin Spitzer",
+    "context": [
+      "Johnny Pemberton (born in 1981) is an American actor and comedian from Rochester, Minnesota.  He is best known for his role as the titular \"Son of Zorn\" in the short-lived Fox sitcom, and has also appeared as the recurring character Bo Thompson in the NBC sitcom \"Superstore\"."
+    ],
+    "generated_answer": "The NBC sitcom \"Superstore\" was created by Justin Spitzer.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2158890962600708,
+    "mean_prob": 0.8623870611190796,
+    "min_prob": 0.2736169099807739,
+    "sds": 1.0982115268707275,
+    "hallucinated": null
+  },
+  {
+    "id": 86,
+    "ds_index": 3935,
+    "question": "What series did William Hopke play in for the Detroit Tigers which were founded in 1901?",
+    "gold_answer": "1909 Cuban-American Major League Clubs Series",
+    "context": [
+      "William Robert Tuttle (July 4, 1929 \u2013 July 27, 1998) was a center fielder for three teams during his Major League Baseball career; the Detroit Tigers from 1952 to 1957, the Kansas City Athletics from 1958 to 1961, and the Minnesota Twins from 1961 to 1963.  He batted and threw right-handed and also played third base for a brief period in 1961."
+    ],
+    "generated_answer": "William Tuttle played in the American League for the Detroit Tigers, which were founded in 1901.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1769070625305176,
+    "mean_prob": 0.884654700756073,
+    "min_prob": 0.2678038477897644,
+    "sds": 0.6475726962089539,
+    "hallucinated": null
+  },
+  {
+    "id": 87,
+    "ds_index": 4834,
+    "question": "What role did Ben Keaton play in the british film East is East written by Ayub Khan-Din?",
+    "gold_answer": "a priest",
+    "context": [
+      "East Is East is a 1999 British comedy-drama film written by Ayub Khan-Din and directed by Damien O'Donnell.  It is set in Salford, Lancashire, in 1971, in a mixed-ethnicity British household headed by Pakistani father George (Om Puri) and an English mother, Ella (Linda Bassett)."
+    ],
+    "generated_answer": "Ben Keaton played the role of George's son, Adam, in the British film East Is East.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5744349956512451,
+    "mean_prob": 0.755284309387207,
+    "min_prob": 0.03949972614645958,
+    "sds": 0.8466190695762634,
+    "hallucinated": null
+  },
+  {
+    "id": 88,
+    "ds_index": 6900,
+    "question": "What American actor amd director is the son of Debbie Reynolds and Eddie Fisher?",
+    "gold_answer": "Todd Fisher",
+    "context": [
+      "Todd Emmanuel Fisher (born February 24, 1958) is an American actor, director, cinematographer, and producer of television films and documentaries.  Fisher is the son of singer Eddie Fisher and actress Debbie Reynolds."
+    ],
+    "generated_answer": "Todd Emmanuel Fisher is the American actor and director who is the son of Debbie Reynolds and Eddie Fisher.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.0164085626602173,
+    "mean_prob": 0.985309898853302,
+    "min_prob": 0.7429594993591309,
+    "sds": 0.2987450361251831,
+    "hallucinated": null
+  },
+  {
+    "id": 89,
+    "ds_index": 577,
+    "question": "At which university did the notable psychoanalyst associated with the University of Chicago serve most of his career as a professor of psychiatry?",
+    "gold_answer": "University of New York Upstate",
+    "context": [
+      "The Chicago Institute for Psychoanalysis is a center for psychoanalytic research, training, and education that is located on Michigan Avenue in downtown Chicago.  The institute provides professional training in the theory and practice of psychoanalysis and psychotherapy.  It was founded in 1932 by Franz Alexander, a pioneer in psychosomatic medicine at the Berlin Psychoanalytic Institute, who moved to Chicago at the invitation of Robert Maynard Hutchins, then president of the University of Chicago.  Notable psychoanalysts that have been associated with the institute include Karl Menninger, Karen Horney, Thomas Szasz, Therese Benedek, Hedda Bolgar, Roy Grinker, Maxwell Gitelson, Louis Shapiro, Heinz Kohut, Arnold Goldberg, Jerome Kavka, Frank Summers, and Michael Franz Basch."
+    ],
+    "generated_answer": "Franz Alexander served most of his career as a professor of psychiatry at the University of Chicago.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1868815422058105,
+    "mean_prob": 0.9079791903495789,
+    "min_prob": 0.14251133799552917,
+    "sds": 0.9143570065498352,
+    "hallucinated": null
+  },
+  {
+    "id": 90,
+    "ds_index": 3248,
+    "question": "Huell Howser provided the voice of Backson in Disney's what numbered animated film?",
+    "gold_answer": "51st Disney animated feature film.",
+    "context": [
+      "Mark Elliot (born September 24, 1939) is an American voice-over artist best known as the primary voice for Walt Disney Entertainment from 1983 to 2008.  He also provided voice overs for trailers of non-Disney films, logos, feature presentation bumpers and commercials.  He's well known for his voice overs in theatrical and home video trailers for films produced by The Walt Disney Studios from the 1980s to the 2000s.  He was also the voice of CBS and FOX throughout the 1980s and 1990s, and various theatrical trailers for such non-Disney animated movies as \"All Dogs Go to Heaven\", \"The Seventh Brother\", \"Rover Dangerfield\", \"Rock-A-Doodle\", \"\", \"The Magic Voyage\", \"The Thief and the Cobbler\", \"Once Upon a Forest\", \"The Princess And The Goblin\", \"Andre\", \"Asterix Conquers America\", \"The Swan Princess\", \"The Pagemaster\", \"The Pebble and the Penguin\", \"Balto\", \"All Dogs Go to Heaven 2\", \"Tiny Heroes\" (\"Vacak 2 - az erd\u0151 h\u0151se\"), \"Zeus and Roxanne\", \"The Fearless Four\", \"The Prince of Egypt\", \"The Adventures of Brer Rabbit\", \"\", \"House Arrest\", and \"\".  In addition to his behind-the-scenes work, Elliott starred with four other notable voice artists in the 1997 short film \"5 Men and a Limo\".  One of his most well-known voice-overs for Disney is the catchphrase \"And now, our feature presentation,\" which he says at the start of most animated Disney films on video on a \"Feature Presentation\" bumper."
+    ],
+    "generated_answer": "Huell Howser provided the voice of Backson in Disney's \"Tarzan\" (1999).",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.4026565551757812,
+    "mean_prob": 0.8142825365066528,
+    "min_prob": 0.06157894805073738,
+    "sds": 1.0522173643112183,
+    "hallucinated": null
+  },
+  {
+    "id": 91,
+    "ds_index": 1447,
+    "question": "What artistic endeavor do Fallujah and Dying Fetus have in common?",
+    "gold_answer": "death metal band",
+    "context": [
+      "Death and Life (Italian: Morte e Vita) is an oil on canvas painting by Austrian symbolist painter, Gustav Klimt whose primary subject was the female body.  His paintings, murals, and sketches are marked by a sensual eroticism, which is especially apparent in his pencil drawings.  The painting was started in 1908 and completed in 1915.  It is created in an Art Nouveau (Modern) style by use of allegorical painting genre during Golden phase.  The painting measures 178 by 198 centimeters and is now housed at the Leopold Museum in Vienna."
+    ],
+    "generated_answer": "Fallujah and Dying Fetus both engage in the creation of music, specifically in the genres of heavy metal and death metal, respectively.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.545432448387146,
+    "mean_prob": 0.7394117116928101,
+    "min_prob": 0.15291504561901093,
+    "sds": 1.2000662088394165,
+    "hallucinated": null
+  },
+  {
+    "id": 92,
+    "ds_index": 2209,
+    "question": "What Lord of the Rings actor starred alongside Paul Hogan in Flipper?",
+    "gold_answer": "Elijah Wood",
+    "context": [
+      "Luke Austin Halpin (born April 4, 1947) is an American former actor.  Beginning a prolific career as a child actor at the age of eight, Halpin is perhaps best known for his role as Sandy Ricks in the feature films \"Flipper\" and \"Flipper's New Adventure\", as well as for reprising his role for the television series adaptation, also titled \"Flipper\"."
+    ],
+    "generated_answer": "Luke Austin Halpin starred alongside Paul Hogan in Flipper.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2025786638259888,
+    "mean_prob": 0.8721564412117004,
+    "min_prob": 0.3363267183303833,
+    "sds": 0.7370210289955139,
+    "hallucinated": null
+  },
+  {
+    "id": 93,
+    "ds_index": 5471,
+    "question": "Who is the writer for an American teen sitcom created by Kim Bass for Nickelodeon?",
+    "gold_answer": "Wayne Conley",
+    "context": [
+      "Kim Kyung-ran (born September 28, 1977) is a South Korean television personality and former announcer.  She was a cast member in the reality show \"\", and is a cast member in the reality show \"\"."
+    ],
+    "generated_answer": "Kim Bass is the creator of the American teen sitcom \"Victorious,\" which aired on Nickelodeon.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.4138808250427246,
+    "mean_prob": 0.7942965626716614,
+    "min_prob": 0.07183455675840378,
+    "sds": 0.9831748604774475,
+    "hallucinated": null
+  },
+  {
+    "id": 94,
+    "ds_index": 5499,
+    "question": "What group of people are described as semi-nomadic and speak the Semitic language ? ",
+    "gold_answer": "Semitic people",
+    "context": [
+      "The Semitic languages are a branch of the Afroasiatic language family originating in the Middle East.  Semitic languages are spoken by more than 330 million people across much of Western Asia, North Africa and the Horn of Africa, as well as in often large expatriate communities in North America and Europe, with smaller communities in the Caucasus and Central Asia.  The terminology was first used in the 1780s by members of the G\u00f6ttingen School of History, who derived the name from Shem, one of the three sons of Noah in the Book of Genesis."
+    ],
+    "generated_answer": "The Bedouins are described as semi-nomadic people who speak the Semitic language.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3399860858917236,
+    "mean_prob": 0.8161230087280273,
+    "min_prob": 0.18784867227077484,
+    "sds": 0.935234010219574,
+    "hallucinated": null
+  },
+  {
+    "id": 95,
+    "ds_index": 946,
+    "question": "What county in Minnesota holds a 202 lb slab of greywacke covered in runes?",
+    "gold_answer": "Douglas",
+    "context": [
+      "The Kensington Runestone is a 202 lb slab of greywacke covered in runes on its face and side."
+    ],
+    "generated_answer": "The Kensington Runestone, a 202 lb slab of greywacke covered in runes, is located in Kensington Township, Minnesota.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2907615900039673,
+    "mean_prob": 0.843632698059082,
+    "min_prob": 0.1315740942955017,
+    "sds": 0.5609506964683533,
+    "hallucinated": null
+  },
+  {
+    "id": 96,
+    "ds_index": 1666,
+    "question": "Did the Sandy and Beaver Canal remain operational until a later date than the Los Angeles Aqueduct?",
+    "gold_answer": "no",
+    "context": [
+      "The Sandy and Beaver Canal ran 73 mi from the Ohio and Erie Canal at Bolivar, Ohio, to the Ohio River at Glasgow, Pennsylvania.  It had 90 locks, was chartered in 1828 and completed in 1848.  However, the middle section of the canal had many problems from the beginning and fell into disrepair.  The canal ceased to operate in 1852, when the Cold Run Reservoir Dam outside of Lisbon, Ohio, broke, ruining a large portion of the canal."
+    ],
+    "generated_answer": "No, the Sandy and Beaver Canal ceased operation in 1852, while the Los Angeles Aqueduct began operating in 1913.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1721525192260742,
+    "mean_prob": 0.9021618962287903,
+    "min_prob": 0.18699480593204498,
+    "sds": 0.8170046210289001,
+    "hallucinated": null
+  },
+  {
+    "id": 97,
+    "ds_index": 2011,
+    "question": "What is the birth name of the woman that \"A Woman Called Moses\" is based on?",
+    "gold_answer": "Araminta Ross",
+    "context": [
+      "Bithiah (Hebrew: \u05d1\u05b4\u05bc\u05ea\u05b0\u05d9\u05b8\u05d4\u200e \u200e \"Bi\u1e6fy\u0101h, Bity\u00e1\", literally \"daughter of Yah\") or \"Daughter of God\" was an Egyptian princess, and a daughter of Pharaoh according to the Old Testament.  Although the name of her father is not stated in Exodus, it is specified he was a Pharaoh.  Rabbinic interpretation Midrash of her Hebrew name states that since she took Moses in as her son though she did not give birth to him, so does God adopt her as his own daughter, naming her Bat-Yah (\"daughter of Yah\").  The Bible and Midrash both assert that she was the foster mother of Moses, having drawn him from the Nile and bestowed upon him his name, which in Hebrew meant 'drawn out' ( )."
+    ],
+    "generated_answer": "The birth name of the woman that \"A Woman Called Moses\" is based on is Bithiah.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.0625206232070923,
+    "mean_prob": 0.9477017521858215,
+    "min_prob": 0.6574141383171082,
+    "sds": 0.7067208290100098,
+    "hallucinated": null
+  },
+  {
+    "id": 98,
+    "ds_index": 6826,
+    "question": "Are Kim Dong-jun and Charlie Harper both singers?",
+    "gold_answer": "yes",
+    "context": [
+      "Kim Dong-jun (hangul: \uae40\ub3d9\uc900; hanja: \u91d1\u6850\u4fca; born February 11, 1992) is a South Korean singer and actor.  He is a member of the South Korean boyband and its sub-group ZE:A Five and ZE:A J."
+    ],
+    "generated_answer": "No, Kim Dong-jun is a South Korean singer and actor, while Charlie Harper is an American actor and singer, known for his role as a fictional character on the TV show \"Two and a Half Men.\"",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.4277697801589966,
+    "mean_prob": 0.7861661911010742,
+    "min_prob": 0.04863516241312027,
+    "sds": 0.8903526663780212,
+    "hallucinated": null
+  },
+  {
+    "id": 99,
+    "ds_index": 2264,
+    "question": "Meomi Design works include The Octonauts book series, how did the adaptations of the series continue? ",
+    "gold_answer": "a British children's television series",
+    "context": [
+      "The Octonauts is a British children's television series, produced by Silvergate Media for the BBC channel CBeebies.  The series is animated in Ireland by Brown Bag Films but uses British voice actors.  The TV series is based on American-Canadian children's books written by Vicki Wong and Michael C. Murphy of Meomi Design Inc."
+    ],
+    "generated_answer": "The Octonauts TV series was adapted from the American-Canadian children's book series written by Vicki Wong and Michael C. Murphy, and it continued with the series being produced by Silvergate Media for the BBC channel CBeebies, animated in Ireland by Brown Bag Films, and voiced by British actors.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.4614206552505493,
+    "mean_prob": 0.7929609417915344,
+    "min_prob": 0.03688034787774086,
+    "sds": 0.35716643929481506,
+    "hallucinated": null
+  }
+]

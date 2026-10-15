@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying research paper when using this project."
+title: "RAG Hallucination Detection"
+type: software
+repository-code: "https://github.com/rajeeell/hallucination-paper-public"
+authors:
+  - family-names: Ansari
+    given-names: Rajeel Ahmad
+  - family-names: Agrahari
+    given-names: Tautik
+preferred-citation:
+  type: conference-paper
+  title: "When Does Uncertainty Measure RAG Hallucination Risk?"
+  authors:
+    - family-names: Ansari
+      given-names: Rajeel Ahmad
+    - family-names: Agrahari
+      given-names: Tautik
+  year: 2026
+  conference:
+    name: "9th International Conference on Natural Language and Speech Processing (ICNLSP-2026)"
+  start: 53
+  end: 58
+  url: "https://aclanthology.org/2026.icnlsp-1.6/"

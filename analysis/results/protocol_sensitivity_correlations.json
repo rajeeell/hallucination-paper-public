@@ -1,0 +1,45 @@
+{
+  "pooled_spearman_hall_vs_AUROC": {
+    "rho": -0.804843879751955,
+    "boot_lo": -0.9039763779234175,
+    "boot_hi": -0.6394278037906039,
+    "frac_positive": 0.0,
+    "frac_negative": 1.0,
+    "B": 10000
+  },
+  "within_cell_spearman": {
+    "Gemma-3-4B/HotpotQA": {
+      "n": 5,
+      "spearman_hall_vs_AUROC": 0.7
+    },
+    "Gemma-3-4B/SQuAD": {
+      "n": 5,
+      "spearman_hall_vs_AUROC": -0.6324555320336759
+    },
+    "Llama-3.1-8B/HotpotQA": {
+      "n": 5,
+      "spearman_hall_vs_AUROC": -0.6
+    },
+    "Llama-3.1-8B/SQuAD": {
+      "n": 5,
+      "spearman_hall_vs_AUROC": 0.7181848464596079
+    },
+    "Phi-3-mini/HotpotQA": {
+      "n": 5,
+      "spearman_hall_vs_AUROC": -0.10259783520851543
+    },
+    "Phi-3-mini/SQuAD": {
+      "n": 5,
+      "spearman_hall_vs_AUROC": -0.19999999999999998
+    },
+    "Qwen-2.5-14B/HotpotQA": {
+      "n": 5,
+      "spearman_hall_vs_AUROC": 0.6
+    },
+    "Qwen-2.5-14B/SQuAD": {
+      "n": 5,
+      "spearman_hall_vs_AUROC": -0.9999999999999999
+    }
+  },
+  "n_rows": 40
+}

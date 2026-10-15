@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 0,
+    "ds_index": 6014,
+    "question": "Which of ABC's main production facilities is located in Hollywood, CA?",
+    "gold_answer": "ABC Television Center",
+    "context": [
+      "The San Diego Symphony at Symphony Towers performs on a regular basis and is directed by Jahja Ling. The San Diego Opera at Civic Center Plaza, directed by Ian Campbell, was ranked by Opera America as one of the top 10 opera companies in the United States. Old Globe Theatre at Balboa Park produces about 15 plays and musicals annually. The La Jolla Playhouse at UCSD is directed by Christopher Ashley. Both the Old Globe Theatre and the La Jolla Playhouse have produced the world premieres of plays and musicals that have gone on to win Tony Awards or nominations on Broadway. The Joan B. Kroc Theatre at Kroc Center's Performing Arts Center is a 600-seat state-of-the-art theatre that hosts music, dance, and theatre performances. The San Diego Repertory Theatre at the Lyceum Theatres in Horton Plaza produces a variety of plays and musicals. Hundreds of movies and a dozen TV shows have been filmed in San Diego, a tradition going back as far as 1898."
+    ],
+    "generated_answer": "There is no information provided in the context about ABC's main production facilities.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4375568628311157,
+    "mean_prob": 0.7400134801864624,
+    "min_prob": 0.30738237500190735,
+    "sds": 1.2129783630371094,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 1,
+    "ds_index": 8984,
+    "question": "Any number larger than 1 can be represented as a product of what?",
+    "gold_answer": "a product of primes",
+    "context": [
+      "For any prime number p, there is also the multiplicative group of integers modulo p. Its elements are the integers 1 to p \u2212 1. The group operation is multiplication modulo p. That is, the usual product is divided by p and the remainder of this division is the result of modular multiplication. For example, if p = 5, there are four group elements 1, 2, 3, 4. In this group, 4 \u00b7 4 = 1, because the usual product 16 is equivalent to 1, which divided by 5 yields a remainder of 1. for 5 divides 16 \u2212 1 = 15, denoted"
+    ],
+    "generated_answer": "Any number larger than 1 can be represented as a product of prime numbers.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.125907301902771,
+    "mean_prob": 0.9121798276901245,
+    "min_prob": 0.4447222054004669,
+    "sds": 1.0190483331680298,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 2,
+    "ds_index": 8627,
+    "question": "When was the Special Report on Managing Risks of Extreme Events and Disasters to Advance Climate Change Adaptation (SREX) issued?",
+    "gold_answer": "2011",
+    "context": [
+      "The National Disaster Relief Commission initiated a \"Level II emergency contingency plan\", which covers the most serious class of natural disasters. The plan rose to Level I at 22:15 CST, May 12."
+    ],
+    "generated_answer": "I'm not able to find any information about the Special Report on Managing Risks of Extreme Events and Disasters to Advance Climate Change Adaptation (SREX) in the provided context.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2734991312026978,
+    "mean_prob": 0.8306859135627747,
+    "min_prob": 0.24221010506153107,
+    "sds": 1.0305243730545044,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 3,
+    "ds_index": 4375,
+    "question": "A satellite that measured the amount of dust going to the Amazon was named what?",
+    "gold_answer": "CALIPSO",
+    "context": [
+      "On January 31, 1958, nearly four months after the launch of Sputnik 1, von Braun and the United States successfully launched its first satellite on a four-stage Juno I rocket derived from the US Army's Redstone missile, at Cape Canaveral. The satellite Explorer 1 was 30.8 pounds (14.0 kg) in mass. It carried a micrometeorite gauge and a Geiger-M\u00fcller tube. It passed in and out of the Earth-encompassing radiation belt with its 194-by-1,368-nautical-mile (360 by 2,534 km) orbit, therefore saturating the tube's capacity and proving what Dr. James Van Allen, a space scientist at the University of Iowa, had theorized. The belt, named the Van Allen radiation belt, is a doughnut-shaped zone of high-level radiation intensity around the Earth above the magnetic equator. Van Allen was also the man who designed and built the satellite instrumentation of Explorer 1. The satellite actually measured three phenomena: cosmic ray and radiation levels, the temperature in the spacecraft, and the frequency of collisions with micrometeorites. The satellite had no memory for data storage, therefore it had to transmit continuously. Two months later in March 1958, a second satellite was sent into orbit with augmented cosmic ray instruments."
+    ],
+    "generated_answer": "There is no information in the provided context about a satellite that measured the amount of dust going to the Amazon. The context mentions a satellite named Explorer 1 that measured micrometeorite collisions, but it does not specify the location of these collisions.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3764119148254395,
+    "mean_prob": 0.7690094709396362,
+    "min_prob": 0.24707286059856415,
+    "sds": 1.0764366388320923,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 4,
+    "ds_index": 6224,
+    "question": "Whose plan called for the Mongolian army to split in two after the Khwarezmian conquest?",
+    "gold_answer": "Subutai",
+    "context": [
+      "In July 1963 the Mongolian People's Republic asked to join the Warsaw Pact under Article 9 of the treaty. For this purpose a special protocol should have been taken since the text of the treaty applied only to Europe. Due to the emerging Sino-Soviet split, Mongolia remained on observer status. Soviet stationing troops were agreed to stay in Mongolia from 1966."
+    ],
+    "generated_answer": "I'm not aware of any information about the Mongolian army splitting in two after the Khwarezmian conquest.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4084254503250122,
+    "mean_prob": 0.7571364641189575,
+    "min_prob": 0.2238761931657791,
+    "sds": 0.9605355262756348,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 5,
+    "ds_index": 6271,
+    "question": "What kind of water body is rumored to be obscuring Genghis Khan's burial site?",
+    "gold_answer": "a river",
+    "context": [
+      "The structure of a mosque is simple and it expresses openness. Calligraphic inscriptions from the Quran decorate mosques and mausoleums in Punjab. The inscriptions on bricks and tiles of the mausoleum of Shah Rukn-e-Alam (1320 AD) at Multan are outstanding specimens of architectural calligraphy. The earliest existing building in South Asia with enamelled tile-work is the tomb of Shah Yusuf Gardezi (1150 AD) at Multan. A specimen of the sixteenth century tile-work at Lahore is the tomb of Sheikh Musa Ahangar, with its brilliant blue dome. The tile-work of Emperor Shah Jahan is of a richer and more elaborate nature. The pictured wall of Lahore Fort is the last line in the tile-work in the entire world."
+    ],
+    "generated_answer": "There is no information in the given context about Genghis Khan's burial site or any water body obscuring it.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.233824610710144,
+    "mean_prob": 0.8409973978996277,
+    "min_prob": 0.4042857885360718,
+    "sds": 1.0760149955749512,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 6,
+    "ds_index": 3795,
+    "question": "When did the Shah kingdom start to collapse?",
+    "gold_answer": "January 1979",
+    "context": [
+      "The Kabul Shahi dynasties ruled the Kabul Valley and Gandhara (modern-day Pakistan and Afghanistan) from the decline of the Kushan Empire in the 3rd century to the early 9th century. The Shahis are generally split up into two eras: the Buddhist Shahis and the Hindu Shahis, with the change-over thought to have occurred sometime around 870. The kingdom was known as the Kabul Shahan or Ratbelshahan from 565-670, when the capitals were located in Kapisa and Kabul, and later Udabhandapura, also known as Hund for its new capital."
+    ],
+    "generated_answer": "The Kabul Shahi dynasties started to decline in the early 9th century. The exact date of the collapse is not specified, but the change from the Buddhist to the Hindu Shahis is thought to have occurred around 870.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.701075553894043,
+    "mean_prob": 0.7015849947929382,
+    "min_prob": 0.041147228330373764,
+    "sds": 0.6535013914108276,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 7,
+    "ds_index": 9688,
+    "question": "What influence did Al Banna wish to eliminate from the Muslim world?",
+    "gold_answer": "imperialist",
+    "context": [
+      "In 1961, Nasser sought to firmly establish Egypt as the leader of the Arab world and to promote a second revolution in Egypt with the purpose of merging Islamic and socialist thinking. To achieve this, he initiated several reforms to modernize al-Azhar, which serves as the de facto leading authority in Sunni Islam, and to ensure its prominence over the Muslim Brotherhood and the more conservative Wahhabism promoted by Saudi Arabia. Nasser had used al-Azhar's most willing ulema (scholars) as a counterweight to the Brotherhood's Islamic influence, starting in 1953."
+    ],
+    "generated_answer": "Al Banna, the leader of the Muslim Brotherhood, promoted Wahhabism, a conservative Islamic ideology, which Nasser sought to counter with his reforms.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.7901076078414917,
+    "mean_prob": 0.6587244868278503,
+    "min_prob": 0.07242044061422348,
+    "sds": 0.8441859483718872,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 8,
+    "ds_index": 7421,
+    "question": "When did economists reach a conclusion with the S&P's rating agency?",
+    "gold_answer": "2014",
+    "context": [
+      "This boom in innovative financial products went hand in hand with more complexity. It multiplied the number of actors connected to a single mortgage (including mortgage brokers, specialized originators, the securitizers and their due diligence firms, managing agents and trading desks, and finally investors, insurances and providers of repo funding). With increasing distance from the underlying asset these actors relied more and more on indirect information (including FICO scores on creditworthiness, appraisals and due diligence checks by third party organizations, and most importantly the computer models of rating agencies and risk management desks). Instead of spreading risk this provided the ground for fraudulent acts, misjudgments and finally market collapse. In 2005 a group of computer scientists built a computational model for the mechanism of biased ratings produced by rating agencies, which turned out to be adequate to what actually happened in 2006\u20132008.[citation needed]"
+    ],
+    "generated_answer": "There is no information in the given context about economists reaching a conclusion with the S&P's rating agency.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2790911197662354,
+    "mean_prob": 0.8205420970916748,
+    "min_prob": 0.2936493754386902,
+    "sds": 1.2159191370010376,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 9,
+    "ds_index": 8229,
+    "question": "Why did Toghun Temur dismiss Toghtogha?",
+    "gold_answer": "fear of betrayal",
+    "context": [
+      "Once Pan had the audacity to compare his music with that of Apollo, and to challenge Apollo, the god of the kithara, to a trial of skill. Tmolus, the mountain-god, was chosen to umpire. Pan blew on his pipes, and with his rustic melody gave great satisfaction to himself and his faithful follower, Midas, who happened to be present. Then Apollo struck the strings of his lyre. Tmolus at once awarded the victory to Apollo, and all but Midas agreed with the judgment. He dissented and questioned the justice of the award. Apollo would not suffer such a depraved pair of ears any longer, and caused them to become the ears of a donkey."
+    ],
+    "generated_answer": "There is no information in the given context about Toghun Temur dismissing Toghtogha. The context is about a mythological story involving Pan, Apollo, and Midas.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3648236989974976,
+    "mean_prob": 0.7876391410827637,
+    "min_prob": 0.1735537052154541,
+    "sds": 1.107834815979004,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 10,
+    "ds_index": 9910,
+    "question": "What served as a justification for imposing imperialistic policies on certain peoples or regions?",
+    "gold_answer": "environmental determinism",
+    "context": [
+      "Between 1815 and 1914, a period referred to as Britain's \"imperial century\" by some historians, around 10,000,000 square miles (26,000,000 km2) of territory and roughly 400 million people were added to the British Empire. Victory over Napoleon left Britain without any serious international rival, other than Russia in central Asia. Unchallenged at sea, Britain adopted the role of global policeman, a state of affairs later known as the Pax Britannica, and a foreign policy of \"splendid isolation\". Alongside the formal control it exerted over its own colonies, Britain's dominant position in world trade meant that it effectively controlled the economies of many countries, such as China, Argentina and Siam, which has been characterised by some historians as \"Informal Empire\"."
+    ],
+    "generated_answer": "The concept of \"splendid isolation\" and the role of global policeman served as a justification for imposing imperialistic policies on certain peoples or regions.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2536605596542358,
+    "mean_prob": 0.8442598581314087,
+    "min_prob": 0.1819576472043991,
+    "sds": 1.0020259618759155,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 11,
+    "ds_index": 5367,
+    "question": "Which university has its origins in a school dealing with medicine and surgery?",
+    "gold_answer": "Newcastle University",
+    "context": [
+      "London is home to five major medical schools \u2013 Barts and The London School of Medicine and Dentistry (part of Queen Mary), King's College London School of Medicine (the largest medical school in Europe), Imperial College School of Medicine, UCL Medical School and St George's, University of London \u2013 and has a large number of affiliated teaching hospitals. It is also a major centre for biomedical research, and three of the UK's five academic health science centres are based in the city \u2013 Imperial College Healthcare, King's Health Partners and UCL Partners (the largest such centre in Europe)."
+    ],
+    "generated_answer": "St George's, University of London, has its origins in a school dealing with medicine and surgery.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2836333513259888,
+    "mean_prob": 0.8445857167243958,
+    "min_prob": 0.18846458196640015,
+    "sds": 0.8663110733032227,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 12,
+    "ds_index": 2824,
+    "question": "Who is VideoGuard owned by?",
+    "gold_answer": "NDS",
+    "context": [
+      "YouTube is a global video-sharing website headquartered in San Bruno, California, United States. The service was created by three former PayPal employees in February 2005. In November 2006, it was bought by Google for US$1.65 billion. YouTube now operates as one of Google's subsidiaries. The site allows users to upload, view, rate, share, and comment on videos, and it makes use of WebM, H.264/MPEG-4 AVC, and Adobe Flash Video technology to display a wide variety of user-generated and corporate media video. Available content includes video clips, TV clips, music videos, movie trailers, and other content such as video blogging, short original videos, and educational videos."
+    ],
+    "generated_answer": "There is no information in the provided context about VideoGuard being owned by anyone.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4211572408676147,
+    "mean_prob": 0.7487086653709412,
+    "min_prob": 0.32681435346603394,
+    "sds": 1.1035475730895996,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 13,
+    "ds_index": 5718,
+    "question": "In what year did the FCC publish it's report?",
+    "gold_answer": "1940",
+    "context": [
+      "On 12 March 2015, the FCC released the specific details of the net neutrality rules. On 13 April 2015, the FCC published the final rule on its new \"Net Neutrality\" regulations."
+    ],
+    "generated_answer": "The FCC published its final rule on \"Net Neutrality\" regulations in 2015. The specific date was 13 April 2015.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5369540452957153,
+    "mean_prob": 0.7624310851097107,
+    "min_prob": 0.10370644181966782,
+    "sds": 0.40963616967201233,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 14,
+    "ds_index": 5645,
+    "question": "How many photographic plates comprise the Animal Locomotion collection?",
+    "gold_answer": "781",
+    "context": [
+      "The Museum of Osteology houses more than 300 real animal skeletons. Focusing on the form and function of the skeletal system, this 7,000 sq ft (650 m2) museum displays hundreds of skulls and skeletons from all corners of the world. Exhibits include adaptation, locomotion, classification and diversity of the vertebrate kingdom. The Museum of Osteology is the only one of its kind in America."
+    ],
+    "generated_answer": "Unfortunately, the provided context does not mention the number of photographic plates in the Animal Locomotion collection.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.231559157371521,
+    "mean_prob": 0.8367347717285156,
+    "min_prob": 0.405911386013031,
+    "sds": 1.0485408306121826,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 15,
+    "ds_index": 963,
+    "question": "Where is the lowest point of Warsaw located?",
+    "gold_answer": "at the right bank of the Vistula",
+    "context": [
+      "Galicia has a surface area of 29,574 square kilometres (11,419 sq mi). Its northernmost point, at 43\u00b047\u2032N, is Estaca de Bares (also the northernmost point of Spain); its southernmost, at 41\u00b049\u2032N, is on the Portuguese border in the Baixa Limia-Serra do Xur\u00e9s Natural Park. The easternmost longitude is at 6\u00b042\u2032W on the border between the province of Ourense and the Castilian-Leonese province of Zamora) its westernmost at 9\u00b018\u2032W, reached in two places: the A Nave Cape in Fisterra (also known as Finisterre), and Cape Touri\u00f1\u00e1n, both in the province of A Coru\u00f1a."
+    ],
+    "generated_answer": "There is no information about the lowest point of Warsaw in the provided context. The context is about the geographical points of Galicia, a region in northwest Spain.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4269702434539795,
+    "mean_prob": 0.7421189546585083,
+    "min_prob": 0.2660906910896301,
+    "sds": 1.016501784324646,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 16,
+    "ds_index": 3657,
+    "question": "Electrolysis of what can be used to produce oxygen and hydrogen?",
+    "gold_answer": "water",
+    "context": [
+      "The electrolysis of water is a simple method of producing hydrogen. A low voltage current is run through the water, and gaseous oxygen forms at the anode while gaseous hydrogen forms at the cathode. Typically the cathode is made from platinum or another inert metal when producing hydrogen for storage. If, however, the gas is to be burnt on site, oxygen is desirable to assist the combustion, and so both electrodes would be made from inert metals. (Iron, for instance, would oxidize, and thus decrease the amount of oxygen given off.) The theoretical maximum efficiency (electricity used vs. energetic value of hydrogen produced) is in the range 80\u201394%."
+    ],
+    "generated_answer": "The electrolysis of water can be used to produce oxygen and hydrogen.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.1563594341278076,
+    "mean_prob": 0.9094664454460144,
+    "min_prob": 0.25535088777542114,
+    "sds": 0.6525036096572876,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 17,
+    "ds_index": 7945,
+    "question": "Who is parodied on programs such as Saturday Night Live and The Simpsons?",
+    "gold_answer": "Doctor Who fandom",
+    "context": [
+      "The BBC is also renowned for its production of costume dramas, such as Jane Austen's Pride and Prejudice and contemporary social dramas such as Boys from the Blackstuff and Our Friends in the North. The BBC has come under pressure to commission more programmes from independent British production companies, and indeed is legally required to source 25% of its output from such companies by the terms of the Broadcasting Act 1990. Programmes have also been imported mainly from English-speaking countries: notable\u2014though no longer shown\u2014examples include The Simpsons from the United States and Neighbours from Australia. Because of the availability of programmes in English, few programmes need use sub-titles or dubbing unlike much European television."
+    ],
+    "generated_answer": "The context does not directly mention who is parodied on programs such as Saturday Night Live and The Simpsons. However, based on general knowledge, it can be inferred that The Simpsons parodies various public figures and celebrities, including politicians, musicians, and other notable personalities.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4810073375701904,
+    "mean_prob": 0.7360318303108215,
+    "min_prob": 0.2129058539867401,
+    "sds": 1.0785784721374512,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 18,
+    "ds_index": 5274,
+    "question": "What was the first public building to be lit by electric light in Newcastle?",
+    "gold_answer": "lecture theatre",
+    "context": [
+      "With the help of Charles Stearn, an expert on vacuum pumps, in 1878, Swan developed a method of processing that avoided the early bulb blackening. This received a British Patent in 1880.[dubious \u2013 discuss] On 18 December 1878, a lamp using a slender carbon rod was shown at a meeting of the Newcastle Chemical Society, and Swan gave a working demonstration at their meeting on 17 January 1879. It was also shown to 700 who attended a meeting of the Literary and Philosophical Society of Newcastle upon Tyne on 3 February 1879. These lamps used a carbon rod from an arc lamp rather than a slender filament. Thus they had low resistance and required very large conductors to supply the necessary current, so they were not commercially practical, although they did furnish a demonstration of the possibilities of incandescent lighting with relatively high vacuum, a carbon conductor, and platinum lead-in wires. Besides requiring too much current for a central station electric system to be practical, they had a very short lifetime. Swan turned his attention to producing a better carbon filament and the means of attaching its ends. He devised a method of treating cotton to produce 'parchmentised thread' and obtained British Patent 4933 in 1880. From this year he began installing light bulbs in homes and landmarks in England. His house was the first in the world to be lit by a lightbulb and also the first house in the world to be lit by hydroelectric power. In 1878 the home of Lord Armstrong at Cragside was also among the first houses to be lit by electricity. In the early 1880s he had started his company. In 1881, the Savoy Theatre in the City of Westminster, London was lit by Swan incandescent lightbulbs, which was the first theatre, and the first public building in the world, to be lit entirely by electricity."
+    ],
+    "generated_answer": "The text does not mention the first public building in Newcastle to be lit by electric light. However, it does mention that the first house in the world to be lit by a lightbulb and also the first house in the world to be lit by hydroelectric power was Swan's house.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2397593259811401,
+    "mean_prob": 0.8453785181045532,
+    "min_prob": 0.2849093973636627,
+    "sds": 0.9948153495788574,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 19,
+    "ds_index": 9326,
+    "question": "What type of Delta is the Rhine-Meuse?",
+    "gold_answer": "tidal delta",
+    "context": [
+      "Major European rivers flow from Switzerland, such as the Rhine, the Rhone, the Inn, the Ticino and the Po, all of which have headwaters in the Alps and flow into neighbouring countries, finally emptying into the North Sea, the Mediterranean Sea, the Adriatic Sea and the Black Sea. Other rivers such as the Danube have major tributaries flowing into them that originate in the Alps. The Rhone is second to the Nile as a freshwater source to the Mediterranean Sea; the river begins as glacial meltwater, flows into Lake Geneva, and from there to France where one of its uses is to cool nuclear power plants. The Rhine originates in a 30 square kilometre area in Switzerland and represents almost 60 percent of water exported from the country. Tributary valleys, some of which are complicated, channel water to the main valleys which can experience flooding during the snow melt season when rapid runoff causes debris torrents and swollen rivers."
+    ],
+    "generated_answer": "The Rhine-Meuse river system does not have a delta, as it empties into the North Sea, not forming a typical delta.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.932331919670105,
+    "mean_prob": 0.625153124332428,
+    "min_prob": 0.10178401321172714,
+    "sds": 0.965916633605957,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 20,
+    "ds_index": 5590,
+    "question": "Which department houses the works on paper of the costume collection?",
+    "gold_answer": "Word and Image department",
+    "context": [
+      "The exhibits include a collection of royal and other funeral effigies (funeral saddle, helm and shield of Henry V), together with other treasures, including some panels of mediaeval glass, 12th-century sculpture fragments, Mary II's coronation chair and replicas of the coronation regalia, and historic effigies of Edward III, Henry VII and his queen, Elizabeth of York, Charles II, William III, Mary II and Queen Anne."
+    ],
+    "generated_answer": "Unfortunately, the provided context does not mention the department that houses the works on paper of the costume collection.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3051599264144897,
+    "mean_prob": 0.8096679449081421,
+    "min_prob": 0.39626583456993103,
+    "sds": 1.1175278425216675,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 21,
+    "ds_index": 5918,
+    "question": "In August 1994, what Toledo, Ohio affiliate did ABC purchase?",
+    "gold_answer": "WTVG",
+    "context": [
+      "On December 19, 2006, ESPN announced the purchase of a minority stake in the AFL. This deal included television rights for the ESPN family of networks. ESPN would televise a minimum of 17 regular season games, most on Monday nights, and nine playoff games, including ArenaBowl XXI on ABC. The deal resulted in added exposure on ESPN's SportsCenter. However, after the original AFL filed for bankruptcy, this arrangement did not carry over to the new AFL, which is a separate legal entity."
+    ],
+    "generated_answer": "There is no information provided in the context about ABC purchasing a Toledo, Ohio affiliate in August 1994.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3345354795455933,
+    "mean_prob": 0.812325119972229,
+    "min_prob": 0.15315724909305573,
+    "sds": 1.1074488162994385,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 22,
+    "ds_index": 7747,
+    "question": "What was the name of the 50th Anniversary episode?",
+    "gold_answer": "The Day of the Doctor",
+    "context": [
+      "BBC Television returned on 7 June 1946 at 15:00. Jasmine Bligh, one of the original announcers, made the first announcement, saying, 'Good afternoon everybody. How are you? Do you remember me, Jasmine Bligh?'. The Mickey Mouse cartoon of 1939 was repeated twenty minutes later.[unreliable source?] Alexandra Palace was the home base of the channel until the early 1950s when the majority of production moved into the newly acquired Lime Grove Studios.[original research?]"
+    ],
+    "generated_answer": "There is no information provided in the given context about a 50th Anniversary episode.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.508749008178711,
+    "mean_prob": 0.718016505241394,
+    "min_prob": 0.2786805033683777,
+    "sds": 1.2419377565383911,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 23,
+    "ds_index": 3309,
+    "question": "What type of heating element is often used in toy steam engines?",
+    "gold_answer": "electric",
+    "context": [
+      "Operating at normal power line frequencies, universal motors are often found in a range less than 1000 watts. Universal motors also formed the basis of the traditional railway traction motor in electric railways. In this application, the use of AC to power a motor originally designed to run on DC would lead to efficiency losses due to eddy current heating of their magnetic components, particularly the motor field pole-pieces that, for DC, would have used solid (un-laminated) iron and they are now rarely used."
+    ],
+    "generated_answer": "The context does not mention toy steam engines, it talks about universal motors and electric railways. However, based on general knowledge, toy steam engines often use a type of heating element called a \"glow plug\" or a \"glow coil\" to heat the steam.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6085338592529297,
+    "mean_prob": 0.681777834892273,
+    "min_prob": 0.21313083171844482,
+    "sds": 1.0698927640914917,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 24,
+    "ds_index": 5346,
+    "question": "How many bus companies provide service to the city of Newcastle?",
+    "gold_answer": "3",
+    "context": [
+      "Public bus services within the city are provided by the national bus operator Bus \u00c9ireann. City routes are numbered from 201 through to 219 and connect the city centre to the principal suburbs, colleges, shopping centres and places of interest. Two of these bus routes provide orbital services across the Northern and Southern districts of the city respectively. Buses to the outer suburbs, such as Ballincollig, Glanmire, Midleton and Carrigaline are provided from the city's bus terminal at Parnell Place in the city centre. Suburban services also include shuttles to Cork Airport, and a park and ride facility in the south suburbs only."
+    ],
+    "generated_answer": "There is no information provided about the city of Newcastle in the given context. The context only discusses public bus services in the city of Cork.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5348341464996338,
+    "mean_prob": 0.7088061571121216,
+    "min_prob": 0.2586771249771118,
+    "sds": 0.9599961638450623,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 25,
+    "ds_index": 8703,
+    "question": "What does 'gram-negative' mean?",
+    "gold_answer": "they have two cell membranes",
+    "context": [
+      "Gram-positive bacteria possess a thick cell wall containing many layers of peptidoglycan and teichoic acids. In contrast, gram-negative bacteria have a relatively thin cell wall consisting of a few layers of peptidoglycan surrounded by a second lipid membrane containing lipopolysaccharides and lipoproteins. Lipopolysaccharides, also called endotoxins, are composed of polysaccharides and lipid A that is responsible for much of the toxicity of gram-negative bacteria. Most bacteria have the gram-negative cell wall, and only the Firmicutes and Actinobacteria have the alternative gram-positive arrangement. These two groups were previously known as the low G+C and high G+C Gram-positive bacteria, respectively. These differences in structure can produce differences in antibiotic susceptibility; for instance, vancomycin can kill only gram-positive bacteria and is ineffective against gram-negative pathogens, such as Haemophilus influenzae or Pseudomonas aeruginosa. If the bacterial cell wall is entirely removed, it is called a protoplast, whereas if it is partially removed, it is called a spheroplast. \u03b2-Lactam antibiotics, such as penicillin, inhibit the formation of peptidoglycan cross-links in the bacterial cell wall. The enzyme lysozyme, found in human tears, also digests the cell wall of bacteria and is the body's main defense against eye infections."
+    ],
+    "generated_answer": "Gram-negative refers to a type of bacterial cell wall structure that is characterized by a thin layer of peptidoglycan surrounded by a second lipid membrane containing lipopolysaccharides and lipoproteins.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.1890382766723633,
+    "mean_prob": 0.8849809169769287,
+    "min_prob": 0.17823030054569244,
+    "sds": 0.5663808584213257,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 26,
+    "ds_index": 1415,
+    "question": "How long did Tesla hold this position?",
+    "gold_answer": "1892 to 1894",
+    "context": [
+      "In the latter part of the second revolution, Thomas Alva Edison developed many devices that greatly influenced life around the world and is often credited with the creation of the first industrial research laboratory. In 1882, Edison switched on the world's first large-scale electrical supply network that provided 110 volts direct current to fifty-nine customers in lower Manhattan. Also toward the end of the second industrial revolution, Nikola Tesla made many contributions in the field of electricity and magnetism in the late 19th and early 20th centuries."
+    ],
+    "generated_answer": "There is no information provided about Tesla holding a specific position. The text mentions Nikola Tesla's contributions in the field of electricity and magnetism, but it does not mention him holding a position.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.470202922821045,
+    "mean_prob": 0.7342292070388794,
+    "min_prob": 0.2742263674736023,
+    "sds": 1.0771827697753906,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 27,
+    "ds_index": 4134,
+    "question": "Who found that there was a developed culture of Commissioner's who lacked responsibility?",
+    "gold_answer": "Committee of Independent Experts",
+    "context": [
+      "Others argue that the rule of law has survived but was transformed to allow for the exercise of discretion by administrators. For much of American history, the dominant notion of the rule of law, in this setting, has been some version of A. V. Dicey's: \u201cno man is punishable or can be lawfully made to suffer in body or goods except for a distinct breach of law established in the ordinary legal manner before the ordinary Courts of the land.\u201d That is, individuals should be able to challenge an administrative order by bringing suit in a court of general jurisdiction. As the dockets of worker compensation commissions, public utility commissions and other agencies burgeoned, it soon became apparent that letting judges decide for themselves all the facts in a dispute (such as the extent of an injury in a worker's compensation case) would overwhelm the courts and destroy the advantages of specialization that led to the creation of administrative agencies in the first place. Even Charles Evans Hughes, a Chief Justice of the United States, believed \u201cyou must have administration, and you must have administration by administrative officers.\u201d By 1941, a compromise had emerged. If administrators adopted procedures that more-or-less tracked \"the ordinary legal manner\" of the courts, further review of the facts by \"the ordinary Courts of the land\" was unnecessary. That is, if you had your \"day in commission,\" the rule of law did not require a further \"day in court.\" Thus Dicey's rule of law was recast into a purely procedural form."
+    ],
+    "generated_answer": "There is no information in the provided context about a developed culture of Commissioner's who lacked responsibility.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4020497798919678,
+    "mean_prob": 0.7676554322242737,
+    "min_prob": 0.22565080225467682,
+    "sds": 1.2113866806030273,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 28,
+    "ds_index": 758,
+    "question": "Early in the fourth quarter, The Broncos drove to what yard line of the Panthers?",
+    "gold_answer": "41-yard line.",
+    "context": [
+      "Before scrimmage, an official places the ball at the spot it was at the stop of clock, but no nearer than 24 yards from the sideline or 1 yard from the goal line. The line parallel to the goal line passing through the ball (line from sideline to sideline for the length of the ball) is referred to as the line of scrimmage. This line is similar to \"no-man's land\"; players must stay on their respective sides of this line until the play has begun again. For a scrimmage to be valid the team in possession of the football must have seven players, excluding the quarterback, within one yard of the line of scrimmage. The defending team must stay a yard or more back from the line of scrimmage."
+    ],
+    "generated_answer": "The context does not provide information about the Broncos' drive or the yard line they reached.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.726000428199768,
+    "mean_prob": 0.6197965145111084,
+    "min_prob": 0.2879672646522522,
+    "sds": 1.1007708311080933,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 29,
+    "ds_index": 5150,
+    "question": "Whose wall has fragments visible in places around Newcastle even today?",
+    "gold_answer": "Hadrian's",
+    "context": [
+      "The city walls include God's House Tower, built in 1417, the first purpose-built artillery fortification in England. Over the years it has been used as home to the city's gunner, the Town Gaol and even as storage for the Southampton Harbour Board. Until September 2011, it housed the Museum of Archaeology. The walls were completed in the 15th century, but later development of several new fortifications along Southampton Water and the Solent by Henry VIII meant that Southampton was no longer dependent upon its fortifications."
+    ],
+    "generated_answer": "There is no information in the given context about Newcastle's walls. The context is about Southampton's city walls.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.7856791019439697,
+    "mean_prob": 0.6402038931846619,
+    "min_prob": 0.17542408406734467,
+    "sds": 1.0023294687271118,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 30,
+    "ds_index": 2323,
+    "question": "What did Schurf's letter say  Luther's return caused?",
+    "gold_answer": "joy",
+    "context": [
+      "In his work \"On the Jews and Their Lies\" (1543), German Reformation leader Martin Luther claims that Jewish history was \"assailed by much heresy\", and that Christ the logos swept away the Jewish heresy and goes on to do so, \"as it still does daily before our eyes.\" He stigmatizes Jewish Prayer as being \"blasphemous\" (sic) and a lie, and vilifies Jews in general as being spiritually \"blind\" and \"surely possessed by all devils.\" Luther calls the members of the Orthodox Catholic Church \"papists\" and heretics, and has a special spiritual problem with Jewish circumcision."
+    ],
+    "generated_answer": "Unfortunately, the context does not mention Schurf's letter.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5993163585662842,
+    "mean_prob": 0.6716352105140686,
+    "min_prob": 0.386313796043396,
+    "sds": 1.3403462171554565,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 31,
+    "ds_index": 2565,
+    "question": "When was Luther's writings about the Jews ignored, according to Johannes Wallmann?",
+    "gold_answer": "18th and 19th centuries",
+    "context": [
+      "In his work \"On the Jews and Their Lies\" (1543), German Reformation leader Martin Luther claims that Jewish history was \"assailed by much heresy\", and that Christ the logos swept away the Jewish heresy and goes on to do so, \"as it still does daily before our eyes.\" He stigmatizes Jewish Prayer as being \"blasphemous\" (sic) and a lie, and vilifies Jews in general as being spiritually \"blind\" and \"surely possessed by all devils.\" Luther calls the members of the Orthodox Catholic Church \"papists\" and heretics, and has a special spiritual problem with Jewish circumcision."
+    ],
+    "generated_answer": "Unfortunately, the provided context does not mention Johannes Wallmann.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4907182455062866,
+    "mean_prob": 0.7151765823364258,
+    "min_prob": 0.3155416250228882,
+    "sds": 1.2620824575424194,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 32,
+    "ds_index": 5732,
+    "question": "ABC aired symphony performances by what conductor?",
+    "gold_answer": "Paul Whiteman",
+    "context": [
+      "Seattle has been a regional center for the performing arts for many years. The century-old Seattle Symphony Orchestra is among the world's most recorded and performs primarily at Benaroya Hall. The Seattle Opera and Pacific Northwest Ballet, which perform at McCaw Hall (opened 2003 on the site of the former Seattle Opera House at Seattle Center), are comparably distinguished, with the Opera being particularly known for its performances of the works of Richard Wagner and the PNB School (founded in 1974) ranking as one of the top three ballet training institutions in the United States. The Seattle Youth Symphony Orchestras (SYSO) is the largest symphonic youth organization in the United States. The city also boasts lauded summer and winter chamber music festivals organized by the Seattle Chamber Music Society."
+    ],
+    "generated_answer": "The answer to this question cannot be determined from the given context as it does not mention any specific conductor.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 2.1034398078918457,
+    "mean_prob": 0.5626140832901001,
+    "min_prob": 0.1199040338397026,
+    "sds": 1.296385407447815,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 33,
+    "ds_index": 6805,
+    "question": "People behaving with civil disobedience that is not-violent is said to make society have more of what?",
+    "gold_answer": "tolerance",
+    "context": [
+      "Socioeconomic factors, in combination with early but enduring views of race, have led to considerable suffering within disadvantaged racial groups. Racial discrimination often coincides with racist mindsets, whereby the individuals and ideologies of one group come to perceive the members of an outgroup as both racially defined and morally inferior. As a result, racial groups possessing relatively little power often find themselves excluded or oppressed, while hegemonic individuals and institutions are charged with holding racist attitudes. Racism has led to many instances of tragedy, including slavery and genocide."
+    ],
+    "generated_answer": "People behaving with non-violent civil disobedience is said to make society more just and equitable. This is because non-violent civil disobedience can bring attention to social injustices and pressure institutions to change their racist attitudes and policies.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.8372752666473389,
+    "mean_prob": 0.6619297862052917,
+    "min_prob": 0.04939347505569458,
+    "sds": 0.9474307894706726,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 34,
+    "ds_index": 6860,
+    "question": "What is a way you can show police officers civil disobedience ?",
+    "gold_answer": "not to grant a consent search",
+    "context": [
+      "Despite popular conceptions promoted by movies and television, many US police departments prefer not to maintain officers in non-patrol bureaus and divisions beyond a certain period of time, such as in the detective bureau, and instead maintain policies that limit service in such divisions to a specified period of time, after which officers must transfer out or return to patrol duties.[citation needed] This is done in part based upon the perception that the most important and essential police work is accomplished on patrol in which officers become acquainted with their beats, prevent crime by their presence, respond to crimes in progress, manage crises, and practice their skills.[citation needed]"
+    ],
+    "generated_answer": "In the context of the provided information, a way to show police officers civil disobedience would be to transfer out or refuse to return to patrol duties after a specified period of time, as per the policy mentioned.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.8535923957824707,
+    "mean_prob": 0.6468624472618103,
+    "min_prob": 0.03455027565360069,
+    "sds": 0.8055379986763,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 35,
+    "ds_index": 10040,
+    "question": "Why was Wesley compelled to break with standard practice and ordain two of his lay preachers as presbyters?",
+    "gold_answer": "result of the American Revolution",
+    "context": [
+      "Methodism identifies principally with the theology of John Wesley\u2014an Anglican priest and evangelist. This evangelical movement originated as a revival within the 18th-century Church of England and became a separate Church following Wesley's death. Because of vigorous missionary activity, the movement spread throughout the British Empire, the United States, and beyond, today claiming approximately 80 million adherents worldwide. Originally it appealed especially to workers, agricultural workers, and slaves."
+    ],
+    "generated_answer": "John Wesley ordained two of his lay preachers as presbyters because the Church of England required that only ordained clergy could preach in churches, and he wanted to allow his lay preachers to preach in churches. This was a break from standard practice as lay preachers were not typically ordained in the Church of England at the time.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.991740345954895,
+    "mean_prob": 0.6047956347465515,
+    "min_prob": 0.059755079448223114,
+    "sds": 0.9380162358283997,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 36,
+    "ds_index": 2632,
+    "question": "Which border does the megaregion extend over?",
+    "gold_answer": "Mexican",
+    "context": [
+      "The United States shares land borders with Canada (to the north) and Mexico (to the south), and a territorial water border with Russia in the northwest, and two territorial water borders in the southeast between Florida and Cuba, and Florida and the Bahamas. The contiguous forty-eight states are otherwise bounded by the Pacific Ocean on the west, the Atlantic Ocean on the east, and the Gulf of Mexico to the southeast. Alaska borders the Pacific Ocean to the south, the Bering Strait to the west, and the Arctic Ocean to the north, while Hawaii lies far to the southwest of the mainland in the Pacific Ocean."
+    ],
+    "generated_answer": "The megaregion extends over the border between the United States and Mexico.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 2.0165185928344727,
+    "mean_prob": 0.623518168926239,
+    "min_prob": 0.08140688389539719,
+    "sds": 0.9808325171470642,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 37,
+    "ds_index": 8230,
+    "question": "Who had Toghtogha tried to defeat?",
+    "gold_answer": "the Red Turban rebels",
+    "context": [
+      "Once Pan had the audacity to compare his music with that of Apollo, and to challenge Apollo, the god of the kithara, to a trial of skill. Tmolus, the mountain-god, was chosen to umpire. Pan blew on his pipes, and with his rustic melody gave great satisfaction to himself and his faithful follower, Midas, who happened to be present. Then Apollo struck the strings of his lyre. Tmolus at once awarded the victory to Apollo, and all but Midas agreed with the judgment. He dissented and questioned the justice of the award. Apollo would not suffer such a depraved pair of ears any longer, and caused them to become the ears of a donkey."
+    ],
+    "generated_answer": "Pan had challenged Apollo to a trial of skill.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.8229222297668457,
+    "mean_prob": 0.6868211627006531,
+    "min_prob": 0.061256393790245056,
+    "sds": 0.884466826915741,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 38,
+    "ds_index": 8930,
+    "question": "What do C4 plants need?",
+    "gold_answer": "more ATP than NADPH",
+    "context": [
+      "Model plants such as Arabidopsis thaliana are used for studying the molecular biology of plant cells and the chloroplast. Ideally, these organisms have small genomes that are well known or completely sequenced, small stature and short generation times. Corn has been used to study mechanisms of photosynthesis and phloem loading of sugar in C4 plants. The single celled green alga Chlamydomonas reinhardtii, while not an embryophyte itself, contains a green-pigmented chloroplast related to that of land plants, making it useful for study. A red alga Cyanidioschyzon merolae has also been used to study some basic chloroplast functions. Spinach, peas, soybeans and a moss Physcomitrella patens are commonly used to study plant cell biology."
+    ],
+    "generated_answer": "C4 plants, such as corn, need to study mechanisms of photosynthesis and phloem loading of sugar.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.267836570739746,
+    "mean_prob": 0.8352041840553284,
+    "min_prob": 0.2951996624469757,
+    "sds": 0.7592994570732117,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 39,
+    "ds_index": 9596,
+    "question": "How old most a person be to apply to be an MSP?",
+    "gold_answer": "over the age of 18",
+    "context": [
+      "The eligible age-range for contestants is currently fifteen to twenty-eight years old. The initial age limit was sixteen to twenty-four in the first three seasons, but the upper limit was raised to twenty-eight in season four, and the lower limit was reduced to fifteen in season ten. The contestants must be legal U.S. residents, cannot have advanced to particular stages of the competition in previous seasons (varies depending on the season, currently by the semi-final stage until season thirteen), and must not hold any current recording or talent representation contract by the semi-final stage (in previous years by the audition stage)."
+    ],
+    "generated_answer": "To be eligible to apply, a person must be between 15 to 28 years old.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.427072286605835,
+    "mean_prob": 0.7734935879707336,
+    "min_prob": 0.20463210344314575,
+    "sds": 0.8660939931869507,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 40,
+    "ds_index": 8284,
+    "question": "When did Zhu Shijie die?",
+    "gold_answer": "1314",
+    "context": [
+      "Zhu Yousong, however, fared a lot worse than his ancestor Zhu Yuanzhang three centuries earlier. Beset by factional conflicts, his regime could not offer effective resistance to Qing forces, when the Qing army, led by the Manchu prince Dodo approached Jiangnan the next spring. Days after Yangzhou fell to the Manchus in late May 1645, the Hongguang Emperor fled Nanjing, and the imperial Ming Palace was looted by local residents. On June 6, Dodo's troops approached Nanjing, and the commander of the city's garrison, Zhao the Earl of Xincheng, promptly surrendered the city to them. The Manchus soon ordered all male residents of the city to shave their heads in the Manchu queue way. They requisitioned a large section of the city for the bannermen's cantonment, and destroyed the former imperial Ming Palace, but otherwise the city was spared the mass murders and destruction that befell Yangzhou."
+    ],
+    "generated_answer": "There is no information in the provided context about Zhu Shijie's death.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3908125162124634,
+    "mean_prob": 0.7727469205856323,
+    "min_prob": 0.2864624857902527,
+    "sds": 1.0129121541976929,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 41,
+    "ds_index": 6286,
+    "question": "What do some modern historians claim Genghis Khan sought to add his legal code at the end of his reign?",
+    "gold_answer": "legal equality of all individuals, including women",
+    "context": [
+      "In 1207, the Mongol ruler Genghis Khan (r. 1206\u20131227) conquered and subjugated the ethnic Tangut state of the Western Xia (1038\u20131227). In the same year, he established diplomatic relations with Tibet by sending envoys there. The conquest of the Western Xia alarmed Tibetan rulers, who decided to pay tribute to the Mongols. However, when they ceased to pay tribute after Genghis Khan's death, his successor \u00d6gedei Khan (r. 1229\u20131241) launched an invasion into Tibet."
+    ],
+    "generated_answer": "Some modern historians claim that Genghis Khan sought to add his legal code, known as the \"Yassa,\" at the end of his reign.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2415090799331665,
+    "mean_prob": 0.8583732843399048,
+    "min_prob": 0.1365492045879364,
+    "sds": 1.0180503129959106,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 42,
+    "ds_index": 6639,
+    "question": "In the process of vaccination, what is introduced in order to develop a specific immunity?",
+    "gold_answer": "an antigen from a pathogen",
+    "context": [
+      "Vaccines rely on immune modulation or augmentation. Vaccination either excites or reinforces the immune competence of a host to ward off infection, leading to the activation of macrophages, the production of antibodies, inflammation, and other classic immune reactions. Antibacterial vaccines have been responsible for a drastic reduction in global bacterial diseases. Vaccines made from attenuated whole cells or lysates have been replaced largely by less reactogenic, cell-free vaccines consisting of purified components, including capsular polysaccharides and their conjugates, to protein carriers, as well as inactivated toxins (toxoids) and proteins."
+    ],
+    "generated_answer": "In the process of vaccination, a weakened or inactivated form of a pathogen or a specific component of it, such as a protein or toxin, is introduced to the body to develop a specific immunity. This can include purified components like capsular polysaccharides, their conjugates, and inactivated toxins (toxoids) and proteins.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4319430589675903,
+    "mean_prob": 0.7755638957023621,
+    "min_prob": 0.07767299562692642,
+    "sds": 0.6626700162887573,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 43,
+    "ds_index": 10140,
+    "question": "How many schools and institutions does the church operate overseas?",
+    "gold_answer": "three hundred sixty",
+    "context": [
+      "The Roman Catholic Diocese of Charleston Office of Education also operates out of the city and oversees several K-8 parochial schools, such as Blessed Sacrament School, Christ Our King School, Charleston Catholic School, Nativity School, and Divine Redeemer School, all of which are \"feeder\" schools into Bishop England High School, a diocesan high school within the city. Bishop England, Porter-Gaud School, and Ashley Hall are the city's oldest and most prominent private schools, and are a significant part of Charleston history, dating back some 150 years."
+    ],
+    "generated_answer": "The context does not mention any schools or institutions operated by the Roman Catholic Diocese of Charleston outside of the city.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2814218997955322,
+    "mean_prob": 0.8083468675613403,
+    "min_prob": 0.35846206545829773,
+    "sds": 0.8836825489997864,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 44,
+    "ds_index": 7582,
+    "question": "How long does it take for the effects to manifest as changes to economic growth?",
+    "gold_answer": "several years",
+    "context": [
+      "Following a peak in growth in 1979, the Liberian economy began a steady decline due to economic mismanagement following the 1980 coup. This decline was accelerated by the outbreak of civil war in 1989; GDP was reduced by an estimated 90% between 1989 and 1995, one of the fastest declines in history. Upon the end of the war in 2003, GDP growth began to accelerate, reaching 9.4% in 2007. The global financial crisis slowed GDP growth to 4.6% in 2009, though a strengthening agricultural sector led by rubber and timber exports increased growth to 5.1% in 2010 and an expected 7.3% in 2011, making the economy one of the 20 fastest growing in the world."
+    ],
+    "generated_answer": "The effects of economic mismanagement and the civil war took around 14 years to manifest as a significant decline in GDP, from 1980 to 1995. The effects of the global financial crisis took one year to manifest, from 2008 to 2009.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5835366249084473,
+    "mean_prob": 0.725627601146698,
+    "min_prob": 0.04715655371546745,
+    "sds": 0.856499195098877,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 45,
+    "ds_index": 500,
+    "question": "What was media day called for Super Bowl 50?",
+    "gold_answer": "Super Bowl Opening Night.",
+    "context": [
+      "From the 1987 season until the late 1990s, the most exposure the league would receive was on ESPN, which aired tape-delayed games, often well after midnight, and often edited to match the alloted time slot. The league received its first taste of wide exposure in 1998, when Arena Bowl XII was televised nationally as part of ABC's old Wide World of Sports."
+    ],
+    "generated_answer": "Unfortunately, the provided context does not mention Super Bowl 50.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5148977041244507,
+    "mean_prob": 0.7084602117538452,
+    "min_prob": 0.30138030648231506,
+    "sds": 1.1532117128372192,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 46,
+    "ds_index": 9225,
+    "question": "How wide is the Upper Rhine Plain? ",
+    "gold_answer": "40 km wide",
+    "context": [
+      "The highest portion of the range is divided by the glacial trough of the Rhone valley, with the Pennine Alps from Mont Blanc to the Matterhorn and Monte Rosa on the southern side, and the Bernese Alps on the northern. The peaks in the easterly portion of the range, in Austria and Slovenia, are smaller than those in the central and western portions."
+    ],
+    "generated_answer": "The context does not mention the width of the Upper Rhine Plain. It mentions the Rhone valley, which is a glacial trough, but does not provide information about the Upper Rhine Plain.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.418161153793335,
+    "mean_prob": 0.7614067196846008,
+    "min_prob": 0.20363803207874298,
+    "sds": 0.9206243753433228,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 47,
+    "ds_index": 8150,
+    "question": "Who was Shi Tianze's father?",
+    "gold_answer": "Shi Bingzhi",
+    "context": [
+      "After the Kangxi Emperor's death in the winter of 1722, his fourth son, Prince Yong (\u96cd\u89aa\u738b), became the Yongzheng Emperor. In the later years of Kangxi's reign, Yongzheng and his brothers had fought, and there were rumours that he had usurped the throne(most of the rumours believe that Yongzheng's brother Yingzhen (Kangxi's 14th son) is the real successor of Kangxi Emperor, the reason why Yingzhen failed to sit on the throne is because Yongzheng and his confidant Keduo Long tampered the content of Kangxi's testament at the night when Kangxi passed away), a charge for which there is little evidence. In fact, his father had trusted him with delicate political issues and discussed state policy with him. When Yongzheng came to power at the age of 45, he felt a sense of urgency about the problems which had accumulated in his father's later years and did not need instruction in how to exercise power. In the words of one recent historian, he was \"severe, suspicious, and jealous, but extremely capable and resourceful,\" and in the words of another, turned out to be an \"early modern state-maker of the first order.\""
+    ],
+    "generated_answer": "There is no information in the given context about Shi Tianze's father.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.481566071510315,
+    "mean_prob": 0.7487009167671204,
+    "min_prob": 0.2093941867351532,
+    "sds": 1.0377206802368164,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 48,
+    "ds_index": 8335,
+    "question": "There were many Chinese with what unexpected status?",
+    "gold_answer": "rich and well socially standing",
+    "context": [
+      "Chinese generals and officials such as Zuo Zongtang led the suppression of rebellions and stood behind the Manchus. When the Tongzhi Emperor came to the throne at the age of five in 1861, these officials rallied around him in what was called the Tongzhi Restoration. Their aim was to adopt western military technology in order to preserve Confucian values. Zeng Guofan, in alliance with Prince Gong, sponsored the rise of younger officials such as Li Hongzhang, who put the dynasty back on its feet financially and instituted the Self-Strengthening Movement. The reformers then proceeded with institutional reforms, including China's first unified ministry of foreign affairs, the Zongli Yamen; allowing foreign diplomats to reside in the capital; establishment of the Imperial Maritime Customs Service; the formation of modernized armies, such as the Beiyang Army, as well as a navy; and the purchase from Europeans of armament factories. "
+    ],
+    "generated_answer": "There were many Chinese officials with Western-educated or Western-influenced views. They were also younger officials.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 3.6171576976776123,
+    "mean_prob": 0.4380919933319092,
+    "min_prob": 0.008786841295659542,
+    "sds": 0.9821622967720032,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 49,
+    "ds_index": 3343,
+    "question": "What did the use of steam engines in farming lead to?",
+    "gold_answer": "increase in the land available for cultivation",
+    "context": [
+      "The first Industrial Revolution merged into the Second Industrial Revolution around 1850, when technological and economic progress gained momentum with the development of steam-powered ships and railways, and later in the 19th century with the internal combustion engine and electric power generation. The Second Industrial Revolution was a phase of the Industrial Revolution; labeled as the separate Technical Revolution. From a technological and a social point of view there is no clean break between the two. Major innovations during the period occurred in the chemical, electrical, petroleum, and steel industries. Specific advancements included the introduction of oil fired steam turbine and internal combustion driven steel ships, the development of the airplane, the practical commercialization of the automobile, mass production of consumer goods, the perfection of canning, mechanical refrigeration and other food preservation techniques, and the invention of the telephone."
+    ],
+    "generated_answer": "The question does not mention the use of steam engines in farming. However, the development of steam-powered ships and railways during the Second Industrial Revolution likely improved transportation and logistics, which could have indirectly benefited farming by making it easier to transport goods and supplies.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.76475989818573,
+    "mean_prob": 0.6750501394271851,
+    "min_prob": 0.023265426978468895,
+    "sds": 0.94130939245224,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 50,
+    "ds_index": 4075,
+    "question": "How many sources of European Union law are there?",
+    "gold_answer": "three",
+    "context": [
+      "Although the drafts of both the Maastricht treaty and the Treaty establishing a Constitution for Europe mentioned federalism, the representatives of the member countries (all of whom would have had to agree to use of the term) never formally adopted it. The strongest advocates of European federalism have been Germany, Italy, Belgium and Luxembourg while those historically most strongly opposed have been the United Kingdom, Denmark and France (with conservative presidents and governments). Since the presidency of Fran\u00e7ois Mitterrand (1981-1995), the French authorities have adopted a much more pro-European Unification position, as they consider that a strong EU is presenting the best \"insurance\" against a unified Germany which might become too strong and thus a threat for its neighbours."
+    ],
+    "generated_answer": "There is no information in the given context about the number of sources of European Union law.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2896846532821655,
+    "mean_prob": 0.8227270841598511,
+    "min_prob": 0.20977053046226501,
+    "sds": 1.1655794382095337,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 51,
+    "ds_index": 2712,
+    "question": "How many earthquakes does southern California experience in a year?",
+    "gold_answer": "10,000",
+    "context": [
+      "Due to its location in the Pacific Ring of Fire, Seattle is in a major earthquake zone. On February 28, 2001, the magnitude 6.8 Nisqually earthquake did significant architectural damage, especially in the Pioneer Square area (built on reclaimed land, as are the Industrial District and part of the city center), but caused only one fatality. Other strong quakes occurred on January 26, 1700 (estimated at 9 magnitude), December 14, 1872 (7.3 or 7.4), April 13, 1949 (7.1), and April 29, 1965 (6.5). The 1965 quake caused three deaths in Seattle directly, and one more by heart failure. Although the Seattle Fault passes just south of the city center, neither it nor the Cascadia subduction zone has caused an earthquake since the city's founding. The Cascadia subduction zone poses the threat of an earthquake of magnitude 9.0 or greater, capable of seriously damaging the city and collapsing many buildings, especially in zones built on fill."
+    ],
+    "generated_answer": "There is no information provided in the context about the frequency of earthquakes in southern California. The context only discusses earthquakes in the Seattle area.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5417134761810303,
+    "mean_prob": 0.7027564644813538,
+    "min_prob": 0.26785922050476074,
+    "sds": 0.9079217910766602,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 52,
+    "ds_index": 9212,
+    "question": "What is the major tributary of the Rhine?",
+    "gold_answer": "river Aare",
+    "context": [
+      "Major European rivers flow from Switzerland, such as the Rhine, the Rhone, the Inn, the Ticino and the Po, all of which have headwaters in the Alps and flow into neighbouring countries, finally emptying into the North Sea, the Mediterranean Sea, the Adriatic Sea and the Black Sea. Other rivers such as the Danube have major tributaries flowing into them that originate in the Alps. The Rhone is second to the Nile as a freshwater source to the Mediterranean Sea; the river begins as glacial meltwater, flows into Lake Geneva, and from there to France where one of its uses is to cool nuclear power plants. The Rhine originates in a 30 square kilometre area in Switzerland and represents almost 60 percent of water exported from the country. Tributary valleys, some of which are complicated, channel water to the main valleys which can experience flooding during the snow melt season when rapid runoff causes debris torrents and swollen rivers."
+    ],
+    "generated_answer": "The Rhine does not have a single major tributary, but rather it has several significant tributaries, including the Aare, the Neckar, and the Main.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.7059189081192017,
+    "mean_prob": 0.6838052272796631,
+    "min_prob": 0.08093959838151932,
+    "sds": 0.8360475897789001,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 53,
+    "ds_index": 4155,
+    "question": "What are the total number of votes to be counted during the voting process?",
+    "gold_answer": "352",
+    "context": [
+      "The Legislature is composed of the Senate and the House of Representatives. The House, led by a speaker, has 73 members apportioned among the 15 counties on the basis of the national census, with each county receiving a minimum of two members. Each House member represents an electoral district within a county as drawn by the National Elections Commission and is elected by a plurality of the popular vote of their district into a six-year term. The Senate is made up of two senators from each county for a total of 30 senators. Senators serve nine-year terms and are elected at-large by a plurality of the popular vote. The vice president serves as the President of the Senate, with a President pro tempore serving in their absence."
+    ],
+    "generated_answer": "There are 103 total members in the Legislature (73 in the House and 30 in the Senate), but the question of total votes to be counted is not directly answered. However, if each of the 73 House members and 30 Senate members has a single vote, then the total number of votes would be 103.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.951005220413208,
+    "mean_prob": 0.6144965887069702,
+    "min_prob": 0.05765995383262634,
+    "sds": 0.7603311538696289,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 54,
+    "ds_index": 8093,
+    "question": "What video game series did Alex Seropian make?",
+    "gold_answer": "Halo",
+    "context": [
+      "Since playing Pong while filming Jaws in 1974, Spielberg has been an avid video gamer. Spielberg played many of LucasArts adventure games, including the first Monkey Island games. He owns a Wii, a PlayStation 3, a PSP, and Xbox 360, and enjoys playing first-person shooters such as the Medal of Honor series and Call of Duty 4: Modern Warfare. He has also criticized the use of cut scenes in games, calling them intrusive, and feels making story flow naturally into the gameplay is a challenge for future game developers."
+    ],
+    "generated_answer": "I'm sorry, but there is no information provided in the context about Alex Seropian making any video game series.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5947229862213135,
+    "mean_prob": 0.6918710470199585,
+    "min_prob": 0.17798486351966858,
+    "sds": 1.0465295314788818,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 55,
+    "ds_index": 5187,
+    "question": "What's the name of the green space north of the center of Newcastle?",
+    "gold_answer": "Town Moor",
+    "context": [
+      "St. John's is located along the coast of the Atlantic Ocean, on the northeast of the Avalon Peninsula in southeast Newfoundland. The city covers an area of 446.04 square kilometres (172.22 sq mi) and is the most easterly city in North America, excluding Greenland; it is 295 miles (475 km) closer to London, England than it is to Edmonton, Alberta. The city of St. John's is located at a distance by air of 3,636 kilometres (2,259 mi) from Lorient, France which lies on a nearly precisely identical latitude across the Atlantic on the French western coast. The city is the largest in the province and the second largest in the Atlantic Provinces after Halifax, Nova Scotia. Its downtown area lies to the west and north of St. John's Harbour, and the rest of the city expands from the downtown to the north, south, east and west."
+    ],
+    "generated_answer": "There is no information provided about a city named Newcastle in the context. The context is about St. John's, Newfoundland, and its geography.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.8234308958053589,
+    "mean_prob": 0.6060752272605896,
+    "min_prob": 0.18956221640110016,
+    "sds": 0.9713414311408997,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 56,
+    "ds_index": 8168,
+    "question": "Where did Kublai move the Mongol capital to?",
+    "gold_answer": "Khanbaliq",
+    "context": [
+      "Tibet retained nominal power over religious and regional political affairs, while the Mongols managed a structural and administrative rule over the region, reinforced by the rare military intervention. This existed as a \"diarchic structure\" under the Yuan emperor, with power primarily in favor of the Mongols. Mongolian prince Khuden gained temporal power in Tibet in the 1240s and sponsored Sakya Pandita, whose seat became the capital of Tibet. Drog\u00f6n Ch\u00f6gyal Phagpa, Sakya Pandita's nephew became Imperial Preceptor of Kublai Khan, founder of the Yuan dynasty."
+    ],
+    "generated_answer": "Kublai Khan, the founder of the Yuan dynasty, did not move the Mongol capital to Tibet. However, he did move the capital from Karakorum to Khanbaliq (modern-day Beijing) in 1260.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3888503313064575,
+    "mean_prob": 0.7645532488822937,
+    "min_prob": 0.3002821207046509,
+    "sds": 0.785736083984375,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 57,
+    "ds_index": 9517,
+    "question": "Where might committees meet outside of Parliament?",
+    "gold_answer": "other locations throughout Scotland",
+    "context": [
+      "The sessions of the City Parliament are public. Unlike members of the City Council, members of the City Parliament are not politicians by profession, and they are paid a fee based on their attendance. Any resident of Bern allowed to vote can be elected as a member of the City Parliament. The parliament holds its meetings in the Stadthaus (Town Hall)."
+    ],
+    "generated_answer": "Since the Stadthaus (Town Hall) is where the City Parliament holds its meetings, committees might meet in other locations within the city of Bern.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6393795013427734,
+    "mean_prob": 0.7071965932846069,
+    "min_prob": 0.09247714281082153,
+    "sds": 0.7549998164176941,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 58,
+    "ds_index": 2206,
+    "question": "How did Tetzel state that the soul could leave purgatory?",
+    "gold_answer": "coin in the coffer",
+    "context": [
+      "Families throughout Han China made ritual sacrifices of animals and food to deities, spirits, and ancestors at temples and shrines, in the belief that these items could be utilized by those in the spiritual realm. It was thought that each person had a two-part soul: the spirit-soul (hun \u9b42) which journeyed to the afterlife paradise of immortals (xian), and the body-soul (po \u9b44) which remained in its grave or tomb on earth and was only reunited with the spirit-soul through a ritual ceremony. These tombs were commonly adorned with uniquely decorated hollow clay tiles that function also as a doorjamb to the tomb. Otherwise known as tomb tiles, these artifacts feature holes in the top and bottom of the tile allowing it to pivot. Similar tiles have been found in the Chengdu area of Sichuan province in south-central China."
+    ],
+    "generated_answer": "There is no information provided about Tetzel in the given context.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3704702854156494,
+    "mean_prob": 0.767460823059082,
+    "min_prob": 0.29110243916511536,
+    "sds": 1.3820024728775024,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 59,
+    "ds_index": 10409,
+    "question": "What is the magnitude of force divided by when external force is added?",
+    "gold_answer": "mass of the system",
+    "context": [
+      "The Faraday constant F is the charge of one mole of electrons, equal to the Avogadro constant NA multiplied by the elementary charge e. It can be determined by careful electrolysis experiments, measuring the amount of silver dissolved from an electrode in a given time and for a given electric current. In practice, it is measured in conventional electrical units, and so given the symbol F90. Substituting the definitions of NA and e, and converting from conventional electrical units to SI units, gives the relation to the Planck constant."
+    ],
+    "generated_answer": "I can't answer that. The provided context does not mention anything about the magnitude of force divided by when an external force is added.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5532459020614624,
+    "mean_prob": 0.7164049744606018,
+    "min_prob": 0.16383658349514008,
+    "sds": 1.1919353008270264,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 60,
+    "ds_index": 8588,
+    "question": "What nationality is Hoesung Lee?",
+    "gold_answer": "Korean",
+    "context": [
+      "There are many Hokkien speakers among overseas Chinese in Southeast Asia as well as in the United States. Many ethnic Han Chinese emigrants to the region were Hoklo from southern Fujian, and brought the language to what is now Burma (Myanmar), Indonesia (the former Dutch East Indies) and present day Malaysia and Singapore (formerly Malaya and the British Straits Settlements). Many of the Hokkien dialects of this region are highly similar to Taiwanese and Amoy. Hokkien is reportedly the native language of up to 98.5% of the Chinese Filipino in the Philippines, among which is known locally as Lan-nang or L\u00e1n-l\u00e2ng-o\u0113 (\"Our people\u2019s language\"). Hokkien speakers form the largest group of Chinese in Singapore, Malaysia and Indonesia.[citation needed]"
+    ],
+    "generated_answer": "There is no information about Hoesung Lee in the given context.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5589385032653809,
+    "mean_prob": 0.7292713522911072,
+    "min_prob": 0.1110210046172142,
+    "sds": 1.2378140687942505,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 61,
+    "ds_index": 9150,
+    "question": "How was the Dutch name for the Rhine originally spelled? ",
+    "gold_answer": "Rhijn",
+    "context": [
+      "The term Nederduits, however introduced new confusion, since the non standardised dialects spoken in the north of Germany came to be known as Niederdeutsch as well, and thus the Duits reference in the name was dropped, leading to Nederlands as designation to refer to the Dutch language. The repeated use of Neder (or \"low\") to refer to the Dutch language is a reference to the Netherlands' downriver location at the Rhine\u2013Meuse\u2013Scheldt delta near the North Sea, harking back to Latin nomenclature, e.g. Germania Inferior. See also: Netherlands (toponymy)."
+    ],
+    "generated_answer": "The Dutch name for the Rhine was originally spelled \"Rijn\".",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.544327974319458,
+    "mean_prob": 0.7054833173751831,
+    "min_prob": 0.24202288687229156,
+    "sds": 0.9280081987380981,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 62,
+    "ds_index": 6594,
+    "question": "What type of T cells help with both innnate and adaptive immunity?",
+    "gold_answer": "\u03b3\u03b4 T cells",
+    "context": [
+      "Immunological research continues to become more specialized, pursuing non-classical models of immunity and functions of cells, organs and systems not previously associated with the immune system (Yemeserach 2010)."
+    ],
+    "generated_answer": "NKT cells are a type of T cell that play a role in both innate and adaptive immunity. They are involved in bridging the two branches of the immune system, providing a rapid response to pathogens and also modulating adaptive immune responses.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6851428747177124,
+    "mean_prob": 0.7105658650398254,
+    "min_prob": 0.031648337841033936,
+    "sds": 0.9937703609466553,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 63,
+    "ds_index": 6391,
+    "question": "Which pharmacists are likely to seek additional education following pharmacy school?",
+    "gold_answer": "pharmacists practicing in hospitals",
+    "context": [
+      "The city's largest private school by number of students is Temple University, followed by Drexel University. Along with the University of Pennsylvania, Temple University and Drexel University make up the city's major research universities. The city is also home to five schools of medicine: Drexel University College of Medicine, Perelman School of Medicine at the University of Pennsylvania, Philadelphia College of Osteopathic Medicine, Temple University School of Medicine, and the Thomas Jefferson University. Hospitals, universities, and higher education research institutions in Philadelphia's four congressional districts received more than $252 million in National Institutes of Health grants in 2015."
+    ],
+    "generated_answer": "Pharmacists who specialize in a particular area, such as pediatrics or oncology, may seek additional education through residency programs or fellowships. Those interested in research or academia may also pursue a Doctor of Pharmacy (PharmD) with a research focus or a Master's or Ph.D. in a related field.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.709607720375061,
+    "mean_prob": 0.6813413500785828,
+    "min_prob": 0.03357192873954773,
+    "sds": 1.0486747026443481,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 64,
+    "ds_index": 3183,
+    "question": "What English law made that country more welcoming to Huguenots?",
+    "gold_answer": "Foreign Protestants Naturalization Act",
+    "context": [
+      "However, it is important to understand that despite the presence of reception statutes, much of contemporary American common law has diverged significantly from English common law. The reason is that although the courts of the various Commonwealth nations are often influenced by each other's rulings, American courts rarely follow post-Revolution Commonwealth rulings unless there is no American ruling on point, the facts and law at issue are nearly identical, and the reasoning is strongly persuasive."
+    ],
+    "generated_answer": "The English law that made England more welcoming to Huguenots was the Act of Toleration of 1689, also known as the Act for Exempting their Protestant Subjects from the Penalties of the Law.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.48285973072052,
+    "mean_prob": 0.7520418167114258,
+    "min_prob": 0.0988076701760292,
+    "sds": 1.1299911737442017,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 65,
+    "ds_index": 9646,
+    "question": "What relationship with Israel is Sadat for?",
+    "gold_answer": "peace",
+    "context": [
+      "The 1977 Knesset elections marked a major turning point in Israeli political history as Menachem Begin's Likud party took control from the Labor Party. Later that year, Egyptian President Anwar El Sadat made a trip to Israel and spoke before the Knesset in what was the first recognition of Israel by an Arab head of state. In the two years that followed, Sadat and Begin signed the Camp David Accords (1978) and the Israel\u2013Egypt Peace Treaty (1979). In return, Israel withdrew from the Sinai Peninsula, which Israel had captured during the Six-Day War in 1967, and agreed to enter negotiations over an autonomy for Palestinians in the West Bank and the Gaza Strip."
+    ],
+    "generated_answer": "Egyptian President Anwar El Sadat made a historic trip to Israel and signed the Israel\u2013Egypt Peace Treaty in 1979, marking a significant relationship between Egypt and Israel.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6280831098556519,
+    "mean_prob": 0.7172724604606628,
+    "min_prob": 0.12257006764411926,
+    "sds": 0.7381001114845276,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 66,
+    "ds_index": 7722,
+    "question": "How did the BBC get audio versions of the lost episodes?",
+    "gold_answer": "home viewers who made tape recordings of the show",
+    "context": [
+      "The BBC began its own regular television programming from the basement of Broadcasting House, London, on 22 August 1932. The studio moved to larger quarters in 16 Portland Place, London, in February 1934, and continued broadcasting the 30-line images, carried by telephone line to the medium wave transmitter at Brookmans Park, until 11 September 1935, by which time advances in all-electronic television systems made the electromechanical broadcasts obsolete."
+    ],
+    "generated_answer": "The BBC obtained audio versions of the lost episodes from the original telephone line transmission, which carried both audio and 30-line images.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 2.0906248092651367,
+    "mean_prob": 0.583933413028717,
+    "min_prob": 0.09325873106718063,
+    "sds": 0.9747219681739807,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 67,
+    "ds_index": 9356,
+    "question": "What is the term for wind-blown dust in a tundra?",
+    "gold_answer": "loess",
+    "context": [
+      "Weather and climate in the coastal area are dominated by the cold, north-flowing Benguela current of the Atlantic Ocean which accounts for very low precipitation (50 mm per year or less), frequent dense fog, and overall lower temperatures than in the rest of the country. In Winter, occasionally a condition known as Bergwind (German: Mountain breeze) or Oosweer (Afrikaans: East weather) occurs, a hot dry wind blowing from the inland to the coast. As the area behind the coast is a desert, these winds can develop into sand storms with sand deposits in the Atlantic Ocean visible on satellite images."
+    ],
+    "generated_answer": "The term for wind-blown dust in a tundra is not specified in the given context, but it is referred to as a \"sand storm\" in the context of the coastal area described.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.631747841835022,
+    "mean_prob": 0.7022551894187927,
+    "min_prob": 0.046096451580524445,
+    "sds": 0.9856425523757935,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 68,
+    "ds_index": 3136,
+    "question": "When was the French colony in modern day Brazil founded?",
+    "gold_answer": "1555",
+    "context": [
+      "With the occupation by Napoleon, Portugal began a slow but inexorable decline that lasted until the 20th century. This decline was hastened by the independence in 1822 of the country's largest colonial possession, Brazil. In 1807, as Napoleon's army closed in on Lisbon, the Prince Regent Jo\u00e3o VI of Portugal transferred his court to Brazil and established Rio de Janeiro as the capital of the Portuguese Empire. In 1815, Brazil was declared a Kingdom and the Kingdom of Portugal was united with it, forming a pluricontinental State, the United Kingdom of Portugal, Brazil and the Algarves."
+    ],
+    "generated_answer": "There is no information in the context about a French colony in modern-day Brazil being founded. However, the context does mention that Brazil was the largest colonial possession of Portugal.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5369285345077515,
+    "mean_prob": 0.7176446318626404,
+    "min_prob": 0.18392398953437805,
+    "sds": 0.9037776589393616,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 69,
+    "ds_index": 879,
+    "question": "Who won the Ekstraklasa Championship in 2000?",
+    "gold_answer": "Polonia Warsaw",
+    "context": [
+      "Basketball is also a notable sport in Estonia. Estonia national basketball team previously participated in 1936 Summer Olympics, appeared in EuroBasket four times. Estonia national team also qualified to EuroBasket 2015, which will be held in Ukraine. BC Kalev/Cramo, which participates in EuroCup, is the most recent Korvpalli Meistriliiga winner after becoming champion of the league for the 6th time. Tartu \u00dclikool/Rock, which participates in EuroChallenge, is the second strongest Estonian basketball club, previously winning Korvpalli Meistriliiga 22 times. Six Estonian basketball clubs participates in Baltic Basketball League."
+    ],
+    "generated_answer": "There is no information about the Ekstraklasa Championship in the given context.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2331467866897583,
+    "mean_prob": 0.8423711061477661,
+    "min_prob": 0.31960710883140564,
+    "sds": 1.1352512836456299,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 70,
+    "ds_index": 8595,
+    "question": "How much of the IPCC attendees are government representatives?",
+    "gold_answer": "about seven-eighths",
+    "context": [
+      "As of 2015, the government structure of the New Delhi Municipal Council includes a chairperson, three members of New Delhi's Legislative Assembly, two members nominated by the Chief Minister of the NCT of Delhi and five members nominated by the central government."
+    ],
+    "generated_answer": "I can't answer that as there is no information about the IPCC attendees in the given context.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4852935075759888,
+    "mean_prob": 0.7117811441421509,
+    "min_prob": 0.352061927318573,
+    "sds": 1.214045763015747,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 71,
+    "ds_index": 387,
+    "question": "Who slipped on the Levi's Stadium turf in week 6 of the 2015 NFL season?",
+    "gold_answer": "Justin Tucker",
+    "context": [
+      "Plans for arena football were put on hold in 1982 as the United States Football League was launched. Foster left the NFL to accept a position in the USFL. He eventually became executive vice-president with the Chicago Blitz, where he returned to his concept of arena football. In 1983, he began organizing the test game in his spare time from his job with the Blitz. By 1985, the USFL had ceased football operations and he began devoting all his time to arena football, and on April 27, 1986, his concept was realized when the test game was played."
+    ],
+    "generated_answer": "There is no information provided about an incident involving someone slipping on the Levi's Stadium turf in week 6 of the 2015 NFL season.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2936075925827026,
+    "mean_prob": 0.8316291570663452,
+    "min_prob": 0.22327055037021637,
+    "sds": 1.1598045825958252,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 72,
+    "ds_index": 3666,
+    "question": "What type of exercise does research show receives a boost in performance from oxygen?",
+    "gold_answer": "aerobic",
+    "context": [
+      "Physical exercise, particularly continuous aerobic exercises such as running, cycling and swimming, has many cognitive benefits and effects on the brain. Influences on the brain include increases in neurotransmitter levels, improved oxygen and nutrient delivery, and increased neurogenesis in the hippocampus. The effects of exercise on memory have important implications for improving children's academic performance, maintaining mental abilities in old age, and the prevention and potential cure of neurological diseases."
+    ],
+    "generated_answer": "Research shows that continuous aerobic exercises, such as running, cycling, and swimming, receive a boost in performance from oxygen.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.1261422634124756,
+    "mean_prob": 0.9101770520210266,
+    "min_prob": 0.2990226149559021,
+    "sds": 0.9605796337127686,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 73,
+    "ds_index": 6112,
+    "question": "Where was Genghis Khan buried?",
+    "gold_answer": "somewhere in Mongolia at an unknown location",
+    "context": [
+      "In 1207, the Mongol ruler Genghis Khan (r. 1206\u20131227) conquered and subjugated the ethnic Tangut state of the Western Xia (1038\u20131227). In the same year, he established diplomatic relations with Tibet by sending envoys there. The conquest of the Western Xia alarmed Tibetan rulers, who decided to pay tribute to the Mongols. However, when they ceased to pay tribute after Genghis Khan's death, his successor \u00d6gedei Khan (r. 1229\u20131241) launched an invasion into Tibet."
+    ],
+    "generated_answer": "Genghis Khan's burial site is unknown, but it is believed to be in the Khentii Mountains of Mongolia.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5290905237197876,
+    "mean_prob": 0.711270809173584,
+    "min_prob": 0.24065802991390228,
+    "sds": 1.0473378896713257,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 74,
+    "ds_index": 620,
+    "question": "Who did play-by-play on Westwood One?",
+    "gold_answer": "Kevin Harlan",
+    "context": [
+      "Sergel's play toured in the UK starting at West Yorkshire Playhouse in Leeds in 2006, and again in 2011 starting at the York Theatre Royal, both productions featuring Duncan Preston as Atticus Finch. The play also opened the 2013 season at Regent's Park Open Air Theatre in London where it played to full houses and starred Robert Sean Leonard as Atticus Finch, his first London appearance in 22 years. The production is returning to the venue to close the 2014 season, prior to a UK Tour."
+    ],
+    "generated_answer": "There is no information provided about who played-by-play on Westwood One.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4907305240631104,
+    "mean_prob": 0.7308546900749207,
+    "min_prob": 0.2551918029785156,
+    "sds": 1.10184907913208,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 75,
+    "ds_index": 8652,
+    "question": "Who was Chairman of the Subcommittee on Oversight and Investigations?",
+    "gold_answer": "Ed Whitfield",
+    "context": [
+      "The board consists of nine directors. Michael Dell, the founder of the company, serves as chairman of the board and chief executive officer. Other board members include Don Carty, William Gray, Judy Lewent, Klaus Luft, Alex Mandl, Michael A. Miles, and Sam Nunn. Shareholders elect the nine board members at meetings, and those board members who do not get a majority of votes must submit a resignation to the board, which will subsequently choose whether or not to accept the resignation. The board of directors usually sets up five committees having oversight over specific matters. These committees include the Audit Committee, which handles accounting issues, including auditing and reporting; the Compensation Committee, which approves compensation for the CEO and other employees of the company; the Finance Committee, which handles financial matters such as proposed mergers and acquisitions; the Governance and Nominating Committee, which handles various corporate matters (including nomination of the board); and the Antitrust Compliance Committee, which attempts to prevent company practices from violating antitrust laws.[citation needed]"
+    ],
+    "generated_answer": "The text does not mention the Chairman of the Subcommittee on Oversight and Investigations. It only describes the five committees set up by the board of directors, which include the Audit Committee, Compensation Committee, Finance Committee, Governance and Nominating Committee, and Antitrust Compliance Committee.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3611253499984741,
+    "mean_prob": 0.8078520894050598,
+    "min_prob": 0.17566843330860138,
+    "sds": 0.8718641996383667,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 76,
+    "ds_index": 5219,
+    "question": "What is the name of the largest indoor shopping centre in Europe?",
+    "gold_answer": "the MetroCentre",
+    "context": [
+      "Islington's 1 mile (1.6 km) long Upper Street, extending northwards from Angel, has more bars and restaurants than any other street in the United Kingdom. Europe's busiest shopping area is Oxford Street, a shopping street nearly 1 mile (1.6 km) long, making it the longest shopping street in the United Kingdom. Oxford Street is home to vast numbers of retailers and department stores, including the world-famous Selfridges flagship store. Knightsbridge, home to the equally renowned Harrods department store, lies to the south-west."
+    ],
+    "generated_answer": "The answer cannot be determined from the given context as it does not mention the name of the largest indoor shopping centre in Europe.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3348722457885742,
+    "mean_prob": 0.7919409871101379,
+    "min_prob": 0.27821171283721924,
+    "sds": 0.9975040555000305,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 77,
+    "ds_index": 5253,
+    "question": "What's the average decibel level of noise in Newcastle?",
+    "gold_answer": "80.4",
+    "context": [
+      "There is a theory that vinyl records can audibly represent higher frequencies than compact discs. According to Red Book specifications, the compact disc has a frequency response of 20 Hz up to 22,050 Hz, and most CD players measure flat within a fraction of a decibel from at least 20 Hz to 20 kHz at full output. Turntable rumble obscures the low-end limit of vinyl but the upper end can be, with some cartridges, reasonably flat within a few decibels to 30 kHz, with gentle roll-off. Carrier signals of Quad LPs popular in the 1970s were at 30 kHz to be out of the range of human hearing. The average human auditory system is sensitive to frequencies from 20 Hz to a maximum of around 20,000 Hz. The upper and lower frequency limits of human hearing vary per person."
+    ],
+    "generated_answer": "Unfortunately, the provided context does not mention the average decibel level of noise in Newcastle.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.328778862953186,
+    "mean_prob": 0.7995774745941162,
+    "min_prob": 0.28557273745536804,
+    "sds": 1.129746675491333,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 78,
+    "ds_index": 7583,
+    "question": "What are longer growth spells associated with?",
+    "gold_answer": "more equality in the income distribution",
+    "context": [
+      "The adolescent growth spurt is a rapid increase in the individual's height and weight during puberty resulting from the simultaneous release of growth hormones, thyroid hormones, and androgens. Males experience their growth spurt about two years later, on average, than females. During their peak height velocity (the time of most rapid growth), adolescents grow at a growth rate nearly identical to that of a toddler\u2014about 4 inches (10.3 cm) a year for males and 3.5 inches (9 cm) for females. In addition to changes in height, adolescents also experience a significant increase in weight (Marshall, 1978). The weight gained during adolescence constitutes nearly half of one's adult body weight. Teenage and early adult males may continue to gain natural muscle growth even after puberty."
+    ],
+    "generated_answer": "Longer growth spells are associated with the adolescent growth spurt, particularly during the peak height velocity period.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.590652585029602,
+    "mean_prob": 0.7281984090805054,
+    "min_prob": 0.1002047061920166,
+    "sds": 0.6310586333274841,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 79,
+    "ds_index": 2689,
+    "question": "The two AAA clubs divided the state into a northern and southern California as opposed to what point of view?",
+    "gold_answer": "three-region",
+    "context": [
+      "The Tucson Padres played at Kino Veterans Memorial Stadium from 2011 to 2013. They served as the AAA affiliate of the San Diego Padres. The team, formerly known as the Portland Beavers, was temporarily relocated to Tucson from Portland while awaiting the building of a new stadium in Escondido. Legal issues derailed the plans to build the Escondido stadium, so they moved to El Paso, Texas for the 2014 season. Previously, the Tucson Sidewinders, a triple-A affiliate of the Arizona Diamondbacks, won the Pacific Coast League championship and unofficial AAA championship in 2006. The Sidewinders played in Tucson Electric Park and were in the Pacific Conference South of the PCL. The Sidewinders were sold in 2007 and moved to Reno, Nevada after the 2008 season. They now compete as the Reno Aces."
+    ],
+    "generated_answer": "The two AAA clubs divided the state of Arizona into a northern and southern region, as opposed to the point of view of the state of California.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6163849830627441,
+    "mean_prob": 0.6938761472702026,
+    "min_prob": 0.1324080377817154,
+    "sds": 1.0446746349334717,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 80,
+    "ds_index": 1329,
+    "question": "Where would profits go in this new company?",
+    "gold_answer": "\u2153 to Tesla, \u2153 to Peck and Brown, and \u2153 to fund development",
+    "context": [
+      "The Knights of Columbus, the world's largest Catholic fraternal service organization and a Fortune 1000 company, is headquartered in New Haven. Two more Fortune 1000 companies are based in Greater New Haven: the electrical equipment producers Hubbell, based in Orange, and Amphenol, based in Wallingford. Eight Courant 100 companies are based in Greater New Haven, with four headquartered in New Haven proper. New Haven-based companies traded on stock exchanges include NewAlliance Bank, the second largest bank in Connecticut and fourth-largest in New England (NYSE: NAL), Higher One Holdings (NYSE: ONE), a financial services firm United Illuminating, the electricity distributor for southern Connecticut (NYSE: UIL), Achillion Pharmaceuticals (NASDAQ: ACHN), Alexion Pharmaceuticals (NasdaqGS: ALXN), and Transpro Inc. (AMEX: TPR). Vion Pharmaceuticals is traded OTC (OTC BB: VIONQ.OB). Other notable companies based in the city include the Peter Paul Candy Manufacturing Company (the candy-making division of the Hershey Company), the American division of Assa Abloy (one of the world's leading manufacturers of locks), Yale University Press, and the Russell Trust Association (the business arm of the Skull and Bones Society). The Southern New England Telephone Company (SNET) began operations in the city as the District Telephone Company of New Haven in 1878; the company remains headquartered in New Haven as a subsidiary of AT&T Inc., now doing business as AT&T Connecticut, and provides telephone service for all but two municipalities in Connecticut."
+    ],
+    "generated_answer": "The profits of the new company would likely be distributed to shareholders, as the companies mentioned in the passage (NewAlliance Bank, Higher One Holdings, United Illuminating, Achillion Pharmaceuticals, Alexion Pharmaceuticals, and Transpro Inc.) are publicly traded and listed on stock exchanges.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6008974313735962,
+    "mean_prob": 0.7274391055107117,
+    "min_prob": 0.018473263829946518,
+    "sds": 0.9068790078163147,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 81,
+    "ds_index": 4773,
+    "question": "What is the most rainfall recorded in a 24 hour period in Fresno?",
+    "gold_answer": "3.55 inches",
+    "context": [
+      "Average annual precipitation is 15 inches (380 mm), but great variations are seen. The mountain ranges block the moist Pacific air, holding moisture in the western valleys, and creating rain shadows to the east. Heron, in the west, receives the most precipitation, 34.70 inches (881 mm). On the eastern (leeward) side of a mountain range, the valleys are much drier; Lonepine averages 11.45 inches (291 mm), and Deer Lodge 11.00 inches (279 mm) of precipitation. The mountains themselves can receive over 100 inches (2,500 mm), for example the Grinnell Glacier in Glacier National Park gets 105 inches (2,700 mm). An area southwest of Belfry averaged only 6.59 inches (167 mm) over a sixteen-year period. Most of the larger cities get 30 to 50 inches or 0.76 to 1.27 metres of snow each year. Mountain ranges themselves can accumulate 300 inches or 7.62 metres of snow during a winter. Heavy snowstorms may occur any time from September through May, though most snow falls from November to March."
+    ],
+    "generated_answer": "There is no information about Fresno in the given context.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3611178398132324,
+    "mean_prob": 0.7676559090614319,
+    "min_prob": 0.35822445154190063,
+    "sds": 1.3727401494979858,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 82,
+    "ds_index": 9002,
+    "question": "What are the specific divisors of all even numbers larger than 2?",
+    "gold_answer": "1, 2, and n",
+    "context": [
+      "For any prime number p, there is also the multiplicative group of integers modulo p. Its elements are the integers 1 to p \u2212 1. The group operation is multiplication modulo p. That is, the usual product is divided by p and the remainder of this division is the result of modular multiplication. For example, if p = 5, there are four group elements 1, 2, 3, 4. In this group, 4 \u00b7 4 = 1, because the usual product 16 is equivalent to 1, which divided by 5 yields a remainder of 1. for 5 divides 16 \u2212 1 = 15, denoted"
+    ],
+    "generated_answer": "Even numbers larger than 2 are not prime numbers, and therefore, they do not have a multiplicative group of integers modulo p. However, the question seems to be asking about the divisors of even numbers larger than 2, not the multiplicative group of integers modulo p. \n\nThe divisors of even numbers larger than 2 are 1, 2, and the number itself.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6492056846618652,
+    "mean_prob": 0.7305464744567871,
+    "min_prob": 0.0020477999933063984,
+    "sds": 0.9260726571083069,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 83,
+    "ds_index": 6744,
+    "question": "Which famous Indian practiced civil disobedience?",
+    "gold_answer": "Gandhi",
+    "context": [
+      "During this period, Bengal witnessed an intellectual awakening that is in some way similar to the Renaissance in Europe during the 16th century, although Europeans of that age were not confronted with the challenge and influence of alien colonialism. This movement questioned existing orthodoxies, particularly with respect to women, marriage, the dowry system, the caste system, and religion. One of the earliest social movements that emerged during this time was the Young Bengal movement, which espoused rationalism and atheism as the common denominators of civil conduct among upper caste educated Hindus. It played an important role in reawakening Indian minds and intellect across the sub-continent."
+    ],
+    "generated_answer": "The Young Bengal movement, which emerged during this period, espoused rationalism and atheism, but it is not directly associated with the practice of civil disobedience. However, the Young Bengal movement laid the groundwork for later movements that did practice civil disobedience, such as the Indian independence movement led by Mahatma Gandhi.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5939500331878662,
+    "mean_prob": 0.710533618927002,
+    "min_prob": 0.08337811380624771,
+    "sds": 0.6522343754768372,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 84,
+    "ds_index": 158,
+    "question": "How much did it cost to build Levi's Stadium?",
+    "gold_answer": "$1.2 billion",
+    "context": [
+      "Expansion of Highbury was restricted because the East Stand had been designated as a Grade II listed building and the other three stands were close to residential properties. These limitations prevented the club from maximising matchday revenue during the 1990s and first decade of the 21st century, putting them in danger of being left behind in the football boom of that time. After considering various options, in 2000 Arsenal proposed building a new 60,361-capacity stadium at Ashburton Grove, since named the Emirates Stadium, about 500 metres south-west of Highbury. The project was initially delayed by red tape and rising costs, and construction was completed in July 2006, in time for the start of the 2006\u201307 season. The stadium was named after its sponsors, the airline company Emirates, with whom the club signed the largest sponsorship deal in English football history, worth around \u00a3100 million; some fans referred to the ground as Ashburton Grove, or the Grove, as they did not agree with corporate sponsorship of stadium names. The stadium will be officially known as Emirates Stadium until at least 2028, and the airline will be the club's shirt sponsor until the end of the 2018\u201319 season. From the start of the 2010\u201311 season on, the stands of the stadium have been officially known as North Bank, East Stand, West Stand and Clock end."
+    ],
+    "generated_answer": "There is no mention of Levi's Stadium in the provided context. The text actually refers to the construction of the Emirates Stadium.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6068289279937744,
+    "mean_prob": 0.7065277695655823,
+    "min_prob": 0.12680085003376007,
+    "sds": 1.0139150619506836,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 85,
+    "ds_index": 1351,
+    "question": "Who wanted to acquire patents an AC motor.",
+    "gold_answer": "George Westinghouse",
+    "context": [
+      "The first commutator DC electric motor capable of turning machinery was invented by the British scientist William Sturgeon in 1832. Following Sturgeon's work, a commutator-type direct-current electric motor made with the intention of commercial use was built by the American inventor Thomas Davenport, which he patented in 1837. The motors ran at up to 600 revolutions per minute, and powered machine tools and a printing press. Due to the high cost of primary battery power, the motors were commercially unsuccessful and Davenport went bankrupt. Several inventors followed Sturgeon in the development of DC motors but all encountered the same battery power cost issues. No electricity distribution had been developed at the time. Like Sturgeon's motor, there was no practical commercial market for these motors."
+    ],
+    "generated_answer": "There is no mention of anyone wanting to acquire patents for an AC motor in the given context. The text only discusses the development of DC motors.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3380846977233887,
+    "mean_prob": 0.7876753211021423,
+    "min_prob": 0.2666994035243988,
+    "sds": 1.0030649900436401,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 86,
+    "ds_index": 4184,
+    "question": "When did Costa v ENEL take place?",
+    "gold_answer": "1964",
+    "context": [
+      "In 1943, Barcelona faced rivals Real Madrid in the semi-finals of Copa del General\u00edsimo (now the Copa del Rey). The first match at Les Corts was won by Barcelona 3\u20130. Real Madrid comfortably won the second leg, beating Barcelona 11\u20131. According to football writer Sid Lowe, \"There have been relatively few mentions of the game [since] and it is not a result that has been particularly celebrated in Madrid. Indeed, the 11\u20131 occupies a far more prominent place in Barcelona's history.\" It has been alleged by local journalist Paco Aguilar that Barcelona's players were threatened by police in the changing room, though nothing was ever proven."
+    ],
+    "generated_answer": "There is no information about the \"Costa v ENEL\" in the given context.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4086514711380005,
+    "mean_prob": 0.7674859762191772,
+    "min_prob": 0.3173588812351227,
+    "sds": 1.0944147109985352,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 87,
+    "ds_index": 5486,
+    "question": "What shape is the water feature in the John Madejski Garden?",
+    "gold_answer": "elliptical",
+    "context": [
+      "Today both the Papireto river and the Kemonia are covered up by buildings. However, the shape of the former watercourses can still be recognised today, because the streets that were built on them follow their shapes. Today the only waterway not drained yet is the Oreto river that divides the downtown of the city from the western uptown and the industrial districts. In the basins there were, though, many seasonal torrents that helped formed swampy plains, reclaimed during history; a good example of which can be found in the borough of Mondello."
+    ],
+    "generated_answer": "There is no information about the John Madejski Garden in the context provided.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.44769287109375,
+    "mean_prob": 0.7534815073013306,
+    "min_prob": 0.23980994522571564,
+    "sds": 1.3223257064819336,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 88,
+    "ds_index": 7089,
+    "question": "Along with public schools, what type of school was recognized under the South African Schools Act?",
+    "gold_answer": "independent",
+    "context": [
+      "Since the 1988 Education Reform Act, parents have a right to choose which school their child should go to or whether to not send them to school at all and to home educate them instead. The concept of \"school choice\" introduces the idea of competition between state schools, a fundamental change to the original \"neighbourhood comprehensive\" model, and is partly intended as a means by which schools that are perceived to be inferior are forced either to improve or, if hardly anyone wants to go there, to close down. Government policy is currently promoting 'specialisation' whereby parents choose a secondary school appropriate for their child's interests and skills. Most initiatives focus on parental choice and information, implementing a pseudo-market incentive to encourage better schools. This logic has underpinned the controversial league tables of school performance."
+    ],
+    "generated_answer": "There is no information provided in the context about the South African Schools Act. The context discusses the UK's Education Reform Act of 1988 and the concept of \"school choice\" in the UK.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3759933710098267,
+    "mean_prob": 0.7736604809761047,
+    "min_prob": 0.24203775823116302,
+    "sds": 0.8649322390556335,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 89,
+    "ds_index": 9756,
+    "question": "What organization did General Gaafar al-Nimeiry invite members of to serve in his government?",
+    "gold_answer": "National Islamic Front",
+    "context": [
+      "To varying degrees, Nasser's statist system of government was continued in Egypt and emulated by virtually all Arab republics, namely Algeria, Syria, Iraq, Tunisia, Yemen, Sudan, and Libya. Ahmed Ben Bella, Algeria's first president, was a staunch Nasserist. Abdullah al-Sallal drove out the king of North Yemen in the name of Nasser's pan-Arabism. Other coups influenced by Nasser included those that occurred in Iraq in July 1958 and Syria in 1963. Muammar Gaddafi, who overthrew the Libyan monarchy in 1969, considered Nasser his hero and sought to succeed him as \"leader of the Arabs\". Also in 1969, Colonel Gaafar Nimeiry, a supporter of Nasser, took power in Sudan. The Arab Nationalist Movement (ANM) helped spread Nasser's pan-Arabist ideas throughout the Arab world, particularly among the Palestinians, Syrians, and Lebanese, and in South Yemen, the Persian Gulf, and Iraq. While many regional heads of state tried to emulate Nasser, Podeh opined that the \"parochialism\" of successive Arab leaders \"transformed imitation [of Nasser] into parody\"."
+    ],
+    "generated_answer": "Unfortunately, the context does not mention General Gaafar al-Nimeiry inviting members of any organization to serve in his government. It only mentions that he was a supporter of Nasser and took power in Sudan in 1969.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2977113723754883,
+    "mean_prob": 0.8268619179725647,
+    "min_prob": 0.15535573661327362,
+    "sds": 0.8885207176208496,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 90,
+    "ds_index": 4130,
+    "question": "Which country refused to content to changes in the Treaty of Lisbon 2007?",
+    "gold_answer": "Ireland",
+    "context": [
+      "The Portuguese government and army successfully resisted the decolonization of its overseas territories until April 1974, when a bloodless left-wing military coup in Lisbon, known as the Carnation Revolution, led the way for the independence of the overseas territories in Africa and Asia, as well as for the restoration of democracy after two years of a transitional period known as PREC (Processo Revolucion\u00e1rio Em Curso). This period was characterized by social turmoil and power disputes between left- and right-wing political forces. The retreat from the overseas territories and the acceptance of its independence terms by Portuguese head representatives for overseas negotiations, which would create independent states in 1975, prompted a mass exodus of Portuguese citizens from Portugal's African territories (mostly from Portuguese Angola and Mozambique)."
+    ],
+    "generated_answer": "The Treaty of Lisbon 2007 was a European Union treaty, not related to the decolonization of Portugal's overseas territories. However, based on the context, it can be inferred that the country that refused to accept changes in the Treaty of Lisbon 2007 was the United Kingdom.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6363791227340698,
+    "mean_prob": 0.6797136068344116,
+    "min_prob": 0.1654740869998932,
+    "sds": 0.9576206207275391,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 91,
+    "ds_index": 8943,
+    "question": "How much carbon gets wasted by using O2 instead of CO2?",
+    "gold_answer": "up to half the carbon fixed by the Calvin cycle",
+    "context": [
+      "In the US, one kilowatt-hour (3.6 MJ) of electricity currently causes an average 1.34 pounds (610 g) of CO\n2 emission. Assuming the average light bulb is on for 10 hours a day, a 40-watt bulb will cause 196 pounds (89 kg) of CO\n2 emission per year. The 6-watt LED equivalent will only cause 30 pounds (14 kg) of CO\n2 over the same time span. A building\u2019s carbon footprint from lighting can therefore be reduced by 85% by exchanging all incandescent bulbs for new LEDs if a building previously used only incandescent bulbs."
+    ],
+    "generated_answer": "The question seems to be asking about the carbon waste from using O2 (oxygen) instead of CO2 (carbon dioxide), but the context provided is about the carbon footprint reduction from using LEDs instead of incandescent bulbs, which is related to CO2 emissions. However, if we consider the context of carbon waste, it's worth noting that the question might be asking about the difference in carbon content between O2 and CO2.\n\nO2 (oxygen) contains 0 grams of carbon",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.789888858795166,
+    "mean_prob": 0.6506338715553284,
+    "min_prob": 0.07456827163696289,
+    "sds": 0.8409013152122498,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 92,
+    "ds_index": 6420,
+    "question": "What is the main difference between online pharmacies and community pharmacies?",
+    "gold_answer": "the method by which the medications are requested and received",
+    "context": [
+      "Advertising is common in healthcare journals as well as through more mainstream media routes. In some countries, notably the US, they are allowed to advertise directly to the general public. Pharmaceutical companies generally employ sales people (often called 'drug reps' or, an older term, 'detail men') to market directly and personally to physicians and other healthcare providers. In some countries, notably the US, pharmaceutical companies also employ lobbyists to influence politicians. Marketing of prescription drugs in the US is regulated by the federal Prescription Drug Marketing Act of 1987."
+    ],
+    "generated_answer": "There is no information in the given context about online pharmacies and community pharmacies.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.458419680595398,
+    "mean_prob": 0.759222149848938,
+    "min_prob": 0.13336290419101715,
+    "sds": 1.153602957725525,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 93,
+    "ds_index": 5518,
+    "question": "Most of the Chinese works of art in the Far Eastern collections date from which two dynasties?",
+    "gold_answer": "Ming and Qing",
+    "context": [
+      "In ancient China, early literature was primarily focused on philosophy, historiography, military science, agriculture, and poetry. China, the origin of modern paper making and woodblock printing, produced one of the world's first print cultures. Much of Chinese literature originates with the Hundred Schools of Thought period that occurred during the Eastern Zhou Dynasty (769-269 BCE). The most important of these include the Classics of Confucianism, of Daoism, of Mohism, of Legalism, as well as works of military science (e.g. Sun Tzu's The Art of War) and Chinese history (e.g. Sima Qian's Records of the Grand Historian). Ancient Chinese literature had a heavy emphasis on historiography, with often very detailed court records. An exemplary piece of narrative history of ancient China was the Zuo Zhuan, which was compiled no later than 389 BCE, and attributed to the blind 5th century BCE historian Zuo Qiuming."
+    ],
+    "generated_answer": "The most of the Chinese works of art in the Far Eastern collections date from the Han and Tang dynasties.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4374635219573975,
+    "mean_prob": 0.813441812992096,
+    "min_prob": 0.031825631856918335,
+    "sds": 0.8824511766433716,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 94,
+    "ds_index": 2568,
+    "question": "Who thinks that Luther added antisemitism as a cultural element to Germany?",
+    "gold_answer": "Ronald Berger",
+    "context": [
+      "In his work \"On the Jews and Their Lies\" (1543), German Reformation leader Martin Luther claims that Jewish history was \"assailed by much heresy\", and that Christ the logos swept away the Jewish heresy and goes on to do so, \"as it still does daily before our eyes.\" He stigmatizes Jewish Prayer as being \"blasphemous\" (sic) and a lie, and vilifies Jews in general as being spiritually \"blind\" and \"surely possessed by all devils.\" Luther calls the members of the Orthodox Catholic Church \"papists\" and heretics, and has a special spiritual problem with Jewish circumcision."
+    ],
+    "generated_answer": "Martin Luther is often credited with adding antisemitism as a cultural element to Germany through his writings, including \"On the Jews and Their Lies.\" His inflammatory rhetoric contributed to the widespread persecution of Jews in Germany.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6507693529129028,
+    "mean_prob": 0.7298197746276855,
+    "min_prob": 0.04861079901456833,
+    "sds": 0.8361464738845825,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 95,
+    "ds_index": 10103,
+    "question": "When did John Wesley provide a revised version of The Book of Common Prayer?",
+    "gold_answer": "When the Methodists in America were separated from the Church of England",
+    "context": [
+      "Soteriologically, most Methodists are Arminian, emphasizing that Christ accomplished salvation for every human being, and that humans must exercise an act of the will to receive it (as opposed to the traditional Calvinist doctrine of monergism). Methodism is traditionally low church in liturgy, although this varies greatly between individual congregations; the Wesleys themselves greatly valued the Anglican liturgy and tradition. Methodism is known for its rich musical tradition; John Wesley's brother, Charles, was instrumental in writing much of the hymnody of the Methodist Church, and many other eminent hymn writers come from the Methodist tradition."
+    ],
+    "generated_answer": "John Wesley did not provide a revised version of The Book of Common Prayer. However, he did produce a revised version of the liturgy, known as the \"Sunday Service of the Methodists in North America,\" which was based on the Book of Common Prayer but adapted for Methodist worship.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.7708377838134766,
+    "mean_prob": 0.677344560623169,
+    "min_prob": 0.0564088337123394,
+    "sds": 0.8313849568367004,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 96,
+    "ds_index": 5109,
+    "question": "The analysis of stratigraphic sections such as drill cores is done by who?",
+    "gold_answer": "stratigraphers",
+    "context": [
+      "Holes through a PCB are typically drilled with small-diameter drill bits made of solid coated tungsten carbide. Coated tungsten carbide is recommended since many board materials are very abrasive and drilling must be high RPM and high feed to be cost effective. Drill bits must also remain sharp so as not to mar or tear the traces. Drilling with high-speed-steel is simply not feasible since the drill bits will dull quickly and thus tear the copper and ruin the boards. The drilling is performed by automated drilling machines with placement controlled by a drill tape or drill file. These computer-generated files are also called numerically controlled drill (NCD) files or \"Excellon files\". The drill file describes the location and size of each drilled hole."
+    ],
+    "generated_answer": "The analysis of stratigraphic sections such as drill cores is typically done by geologists.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3222551345825195,
+    "mean_prob": 0.8532183766365051,
+    "min_prob": 0.06142464652657509,
+    "sds": 1.1185884475708008,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 97,
+    "ds_index": 9444,
+    "question": "What percentage of Scotland's voting population failed to actually vote?",
+    "gold_answer": "32.9%",
+    "context": [
+      "The nationalist parties, in turn, demanded devolution to their respective constituent countries in return for their supporting the government. When referendums for Scottish and Welsh devolution were held in March 1979 Welsh devolution was rejected outright while the Scottish referendum returned a narrow majority in favour without reaching the required threshold of 40% support. When the Labour government duly refused to push ahead with setting up the proposed Scottish Assembly, the SNP withdrew its support for the government: this finally brought the government down as it triggered a vote of confidence in Callaghan's government that was lost by a single vote on 28 March 1979, necessitating a general election."
+    ],
+    "generated_answer": "The Scottish referendum returned a narrow majority in favour, but it did not reach the required 40% threshold of the total Scottish voting population. Therefore, the percentage of Scotland's voting population that failed to vote is not explicitly stated, but it can be inferred that it was less than 40%.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.8405957221984863,
+    "mean_prob": 0.6406347155570984,
+    "min_prob": 0.1027468740940094,
+    "sds": 0.9217121005058289,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 98,
+    "ds_index": 7718,
+    "question": "How did other countries have copies of the show?",
+    "gold_answer": "bought prints for broadcast",
+    "context": [
+      "The European publishing company, Panini, approached Digimon in different ways in different countries. While Germany created their own adaptations of episodes, the United Kingdom (UK) reprinted the Dark Horse titles, then translated some of the German adaptations of Adventure 02 episodes. Eventually the UK comics were given their own original stories, which appeared in both the UK's official Digimon Magazine and the official UK Fox Kids companion magazine, Wickid. These original stories only roughly followed the continuity of Adventure 02. When the comic switched to the Tamers series the storylines adhered to continuity more strictly; sometimes it would expand on subject matter not covered by the original Japanese anime (such as Mitsuo Yamaki's past) or the English adaptations of the television shows and movies (such as Ryo's story or the movies that remained undubbed until 2005). In a money saving venture, the original stories were later removed from Digimon Magazine, which returned to printing translated German adaptations of Tamers episodes. Eventually, both magazines were cancelled."
+    ],
+    "generated_answer": "Panini approached Digimon differently in various countries, with some countries creating their own adaptations, while others reprinted or translated existing adaptations from other countries. In the UK, they reprinted Dark Horse titles, translated German adaptations, and later created their own original stories.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.7567912340164185,
+    "mean_prob": 0.6732268929481506,
+    "min_prob": 0.013878776691854,
+    "sds": 0.7728688716888428,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 99,
+    "ds_index": 8498,
+    "question": "How much does petroleum account for of the national import bill?",
+    "gold_answer": "r 20% to 25%",
+    "context": [
+      "Nigeria has also been pervaded by political corruption. It was ranked 143 out of 182 countries in Transparency International's 2011 Corruption Perceptions Index; however, it improved to 136th position in 2014. More than $400 billion were stolen from the treasury by Nigeria's leaders between 1960 and 1999. In late 2013, Nigeria's then central bank governor Lamido Sanusi informed President Goodluck Jonathan that the state oil company, NNPC had failed to remit US$20 billion of oil revenues, which it owed the state. Jonathan however dismissed the claim and replaced Sanusi for his mismanagement of the central bank's budget. A Senate committee also found Sanusi\u2019s account to be lacking substance. After the conclusion of the NNPC's account Audit, it was announced in January 2015 that NNPC's non-remitted revenue is actually US$1.48billion, which it needs to refund back to the Government."
+    ],
+    "generated_answer": "There is no information provided in the context about the percentage of petroleum's contribution to Nigeria's national import bill.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5766056776046753,
+    "mean_prob": 0.7065737247467041,
+    "min_prob": 0.23814789950847626,
+    "sds": 1.041477084159851,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  }
+]

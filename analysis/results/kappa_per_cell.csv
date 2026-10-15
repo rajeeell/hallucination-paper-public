@@ -1,0 +1,10 @@
+model,dataset,k,n,agreement,kappa
+Qwen_Qwen2.5-14B-Instruct,squad,2,100,0.95,0.8983
+Qwen_Qwen2.5-14B-Instruct,squad,3,100,0.97,0.9386
+Qwen_Qwen2.5-14B-Instruct,squad,4,100,0.97,0.9399
+google_gemma-3-4b-it,hotpot,2,100,0.91,0.7955
+google_gemma-3-4b-it,hotpot,3,100,0.91,0.7915
+google_gemma-3-4b-it,hotpot,4,100,0.92,0.8066
+meta-llama_Llama-3.1-8B-Instruct,hotpot,2,100,0.95,0.8977
+meta-llama_Llama-3.1-8B-Instruct,hotpot,3,100,0.94,0.8682
+meta-llama_Llama-3.1-8B-Instruct,hotpot,4,100,0.93,0.8476

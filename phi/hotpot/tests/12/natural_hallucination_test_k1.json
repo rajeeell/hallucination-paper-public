@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 0,
+    "question": "Naseer & Shahab is a Pakistani band playing a genre that dominated radio in what decade?",
+    "gold_answer": "1970s",
+    "context": [
+      "Naseer & Shahab (Urdu: \u200e ) is a Pakistani soft alternative rock band from Khyber Pakhtunkhwa.  Formed in 2010, the band rose to stardom with their debut single \"\"Za Pukhtoon Yam\"\".  The band is a duo of Naseer Afridi, who is a lead vocalist, musician and songwriter, and Shahab Qamar, a producer, director and web designer.  Naseer & Shahab release singles independently, in mainly Pashtu language, propelled to international success by social media, Naseer & Shahab's four singles \"\"Za Pukhtoon Yam\"\" (2012), \"\"Za Sta Pashan Na Yam\"\" (2012), \"\"Meray Yaar\"\" (2012) and \"\"Ghalti Mein Shta\"\" (2014), tops many charts and made them most influential and first Pashtu rock band of Pakistan."
+    ],
+    "generated_answer": "Naseer & Shahab is a Pakistani band playing a genre that dominated radio in the 2010s.",
+    "degradation_mode": "k1",
+    "perplexity": 1.060546875,
+    "mean_prob": 0.94970703125,
+    "min_prob": 0.52099609375,
+    "sds": 0.6288632750511169,
+    "hallucinated": null
+  },
+  {
+    "id": 1,
+    "question": "What college teamdid the point guard that led the way for Philedlphia 76ers in the 2017-18 season play basketball in?",
+    "gold_answer": "Washington Huskies",
+    "context": [
+      "The 2017\u201318 Philadelphia 76ers season will be the 79th season of the franchise in the National Basketball Association (NBA).  The 2017\u201318 76ers season will likely be the first time where their franchise's young core would play together with players like Joel Embiid, Ben Simmons, Dario Saric, Timothe Luwawu-Cabarrot, and newly drafted point guard, Markelle Fultz with leading the way moving forward.  Furthermore, during the 2016\u201317 season, the club was plagued with injury with Ben Simmons, Jahlil Okafor, Jerryd Bayless, Joel Embiid and Robert Covington.  All five of them missed significant time.  They would wind up acquiring the #1 pick again, this time being point guard Markelle Fultz from the Boston Celtics on June 19, four days before the 2017 NBA Draft began in exchange for their #3 pick this year (which was Jayson Tatum) and another first round pick moving forward.  During the 2017\u201318 campaign, the Sixers look to build young core and have more of a legitimate change to a playoff run since Sam Hinkie's infamous tanking method."
+    ],
+    "generated_answer": "Markelle Fultz, the point guard who led the Philadelphia 76ers in the 2017-18 season, played basketball for the Florida State Seminoles.",
+    "degradation_mode": "k1",
+    "perplexity": 1.181640625,
+    "mean_prob": 0.88818359375,
+    "min_prob": 0.244384765625,
+    "sds": 0.8580834865570068,
+    "hallucinated": null
+  },
+  {
+    "id": 2,
+    "question": "What concert hall is located on the northern edge or South Kensington, London, and had songs chosen from a number of concerts there?",
+    "gold_answer": "Royal Albert Hall",
+    "context": [
+      "The Royal Albert Hall is a concert hall on the northern edge of South Kensington, London, which holds the Proms concerts annually each summer since 1941.  It has a capacity of up to 5,272 seats.  The Hall is a registered charity held in trust for the nation and receives no public or government funding."
+    ],
+    "generated_answer": "The Royal Albert Hall is the concert hall located on the northern edge of South Kensington, London, known for hosting the Proms concerts annually each summer since 1941.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2919921875,
+    "mean_prob": 0.9052734375,
+    "min_prob": 0.0011262893676757812,
+    "sds": 0.38376954197883606,
+    "hallucinated": null
+  },
+  {
+    "id": 3,
+    "question": "Marwan Hage played for a college team that sponsors how many varsity sports teams?",
+    "gold_answer": "17",
+    "context": [
+      "The Charleston Cougars are the varsity intercollegiate athletic teams representing the College of Charleston in Charleston, South Carolina.  The Cougars compete in NCAA Division I and are currently members of the Colonial Athletic Association.  The university sponsors 20 varsity sports teams including men and women's basketball, cross country, golf, soccer and tennis; women's-only dance team, equestrian, beach volleyball, softball, track and field and volleyball; men's-only baseball; and co-ed sailing and cheerleading.  The university's most successful sports are co-ed sailing, which has won 14 national championships since 1986, women's volleyball, which has qualified for the NCAA Tournament seven times since 2002 and men's baseball, which has qualified for the NCAA Tournament seven times since 2004."
+    ],
+    "generated_answer": "Marwan Hage played for a college team that sponsors 20 varsity sports teams.",
+    "degradation_mode": "k1",
+    "perplexity": 1.0634765625,
+    "mean_prob": 0.953125,
+    "min_prob": 0.44482421875,
+    "sds": 1.0557976961135864,
+    "hallucinated": null
+  },
+  {
+    "id": 4,
+    "question": "Which band has more members, Lawson or American Music Club?",
+    "gold_answer": "Lawson",
+    "context": [
+      "Lawson are an English pop rock band, consisting of Andy Brown (lead vocals, guitar), Ryan Fletcher (bass guitar, backing vocals), Joel Peat (lead guitar, backing vocals) and Adam Pitts (drums).  The band's debut album, \"Chapman Square\", was released on 22 October 2012 and reached number three on the UK Albums Chart.  To date, the band have achieved seven UK top 20 hit singles.  They are named after Liverpool-based surgeon Dr. David Lawson who performed life-saving surgery on Brown."
+    ],
+    "generated_answer": "Lawson has more members than American Music Club.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2685546875,
+    "mean_prob": 0.828125,
+    "min_prob": 0.376708984375,
+    "sds": 0.9131752252578735,
+    "hallucinated": null
+  },
+  {
+    "id": 5,
+    "question": "Who founded the company that Robinsons-May is a subsidiary of ?",
+    "gold_answer": "David May",
+    "context": [
+      "Robinsons-May was a chain of department stores operating in Southern California, Arizona and Las Vegas, Nevada, previously with headquarters in North Hollywood, California.  It was a subsidiary of The May Department Stores Company, having been acquired with Federated's takeover of The May Department Stores Company on August 30, 2005.  Robinsons May had 45 stores."
+    ],
+    "generated_answer": "The May Department Stores Company, which Robinsons-May is a subsidiary of, was founded by May & Company.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3388671875,
+    "mean_prob": 0.82666015625,
+    "min_prob": 0.11114501953125,
+    "sds": 0.4606497585773468,
+    "hallucinated": null
+  },
+  {
+    "id": 6,
+    "question": "Raiffeisen Zentralbank is the central institution of one a group of co-operative banks in Austria. What is the name of the other group?",
+    "gold_answer": "Austrian Volksbanks",
+    "context": [
+      "Raiffeisen Zentralbank \u00d6sterreich AG was the central institution of the Raiffeisen Banking Group Austria (RBG).  The central bank was merged with its subsidiary Raiffeisen Bank International in 2017."
+    ],
+    "generated_answer": "The other group is the Raiffeisen Banking Group Austria (RBG).",
+    "degradation_mode": "k1",
+    "perplexity": 1.1572265625,
+    "mean_prob": 0.890625,
+    "min_prob": 0.439697265625,
+    "sds": 0.5130766034126282,
+    "hallucinated": null
+  },
+  {
+    "id": 7,
+    "question": "Sinch when has the rank held by Sir Charles Comyn Egertong been the highest in the British Army?  ",
+    "gold_answer": "1736",
+    "context": [
+      "Ronald Brittain, MBE (2 September 1899 \u2013 9 January 1981) was a well-known Regimental Sergeant Major (R.S.M.) in the British Army.  The Warrant Officer class 1, who was reported on widely in the newspapers of the day, featured in several British military training films during the Second World War.  He was said to have possibly the loudest voice in the British Army"
+    ],
+    "generated_answer": "The rank held by Sir Charles Comyn Egertong was the highest in the British Army during the Second World War.",
+    "degradation_mode": "k1",
+    "perplexity": 1.439453125,
+    "mean_prob": 0.7822265625,
+    "min_prob": 0.221435546875,
+    "sds": 0.9263442754745483,
+    "hallucinated": null
+  },
+  {
+    "id": 8,
+    "question": "When is the 2010 population of a town in Waldo County which was covered by \"Maine School Administrative District 3\"?",
+    "gold_answer": "2,099",
+    "context": [
+      "The Maine School Administrative District 15 is a public school district that operates three elementary schools (K\u20132 and 3\u20134), one middle school (5\u20138) and one high school (9\u201312) in Cumberland County in the U.S. state of Maine.  The school system serves the towns of Gray, Maine and New Gloucester, Maine.  The school system is run by a school board and superintendent system."
+    ],
+    "generated_answer": "The 2010 population of a town in Waldo County covered by \"Maine School Administrative District 3\" cannot be determined from the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.20703125,
+    "mean_prob": 0.86962890625,
+    "min_prob": 0.298095703125,
+    "sds": 0.9129564762115479,
+    "hallucinated": null
+  },
+  {
+    "id": 9,
+    "question": "Between two bands, Mastodon and Hole, which one has more members?",
+    "gold_answer": "Mastodon",
+    "context": [
+      "Mastodon is an American heavy metal band from Atlanta, Georgia.  Formed in 2000, the group is composed of bassist Troy Sanders, guitarists Brent Hinds and Bill Kelliher, and drummer Brann Dailor, all of whom perform vocals in studio (except Bill Kelliher).  They all perform vocals at live shows.  Their musical style features progressive concepts and unique instrumentation.  Mastodon has released seven studio albums, as well as a number of other records.  The band's debut album, \"Remission\", released in 2002, garnered significant critical acclaim for its unique sound.  Mastodon's second full-length release, \"Leviathan\", is a concept album based on the novel \"Moby-Dick\" by Herman Melville.  Three magazines awarded the record \"Album of the Year\" in 2004: \"Revolver\", \"Kerrang! \" and \"Terrorizer\"."
+    ],
+    "generated_answer": "Mastodon has more members than Hole.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1865234375,
+    "mean_prob": 0.8935546875,
+    "min_prob": 0.257568359375,
+    "sds": 1.0504275560379028,
+    "hallucinated": null
+  },
+  {
+    "id": 10,
+    "question": "How did the chairman of the Luthuanian Union of Actors discribe the star of the film Redirected?",
+    "gold_answer": "one of Lithuania's most talented actors",
+    "context": [
+      "Tom Luddy (born 1943) is an American film producer and the co-founder of the Telluride Film Festival.  He has been a member of the jury at the 11th Moscow International Film Festival, the 38th Berlin International Film Festival and the 1993 Cannes Film Festival."
+    ],
+    "generated_answer": "I'm sorry, but the provided context does not contain information about the chairman of the Luthuanian Union of Actors or their description of the star of the film Redirected.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1943359375,
+    "mean_prob": 0.87548828125,
+    "min_prob": 0.2462158203125,
+    "sds": 0.9515136480331421,
+    "hallucinated": null
+  },
+  {
+    "id": 11,
+    "question": "Do James Schuyler and A. E. Housman have the same nationality?",
+    "gold_answer": "no",
+    "context": [
+      "The Schuyler family was a prominent Dutch family in New York and New Jersey in the 18th and 19th centuries, whose descendants played a critical role in the formation of the United States, in leading government and business in North America, and served as leaders in business, politics and society in the United Kingdom."
+    ],
+    "generated_answer": "No, James Schuyler and A. E. Housman do not have the same nationality. James Schuyler was American, while A. E. Housman was British.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1953125,
+    "mean_prob": 0.9091796875,
+    "min_prob": 0.0635986328125,
+    "sds": 1.001099705696106,
+    "hallucinated": null
+  },
+  {
+    "id": 12,
+    "question": "What was the MGM Grand Garden Arena in which Britney Spears recorded fourth video album originally known as?",
+    "gold_answer": "Grand Garden Special Events Center",
+    "context": [
+      "Britney Spears: In the Zone is the fifth video release by American recording artist Britney Spears.  Released by Jive Records on April 6, 2004, it accompanied the album of the same name.  The DVD contains her ABC concert special \"Britney Spears: In the Zone\", as well as footage from live performances to promote the album.  It also includes the music videos for \"Me Against the Music\" and \"Toxic\" and their respective episodes of \"Making the Video\", as well as unreleased material, such as several new tracks."
+    ],
+    "generated_answer": "The MGM Grand Garden Arena was originally known as the MGM Grand.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3427734375,
+    "mean_prob": 0.81298828125,
+    "min_prob": 0.1978759765625,
+    "sds": 1.3843274116516113,
+    "hallucinated": null
+  },
+  {
+    "id": 13,
+    "question": "Tommy's Honour was a drama film that included the actor who found success with what 2016 BBC miniseries?",
+    "gold_answer": "War & Peace",
+    "context": [
+      "Tommy's Honour is a 2016 historical drama film depicting the lives and careers of, and the complex relationship between, the pioneering Scottish golfing champions Old Tom Morris and his son Young Tom Morris.  The film is directed by Jason Connery, and the father and son are portrayed by Peter Mullan and Jack Lowden.  The film won Best Feature Film at the 2016 British Academy Scotland Awards."
+    ],
+    "generated_answer": "Tommy's Honour was a drama film that included the actor Jack Lowden, who found success with the 2016 BBC miniseries \"The Night Manager.\"",
+    "degradation_mode": "k1",
+    "perplexity": 1.1875,
+    "mean_prob": 0.89208984375,
+    "min_prob": 0.15234375,
+    "sds": 0.9272375106811523,
+    "hallucinated": null
+  },
+  {
+    "id": 14,
+    "question": "Manchester, New Hampshire is a part of the Northeast megalopolis which included what other major cities?",
+    "gold_answer": "Boston, Providence, Hartford, New York City, Philadelphia, Wilmington, Baltimore, and Washington, D.C.",
+    "context": [
+      "Manchester is the largest city in the U.S. state of New Hampshire, the eleventh largest city in New England, and as of 2016 the largest city in northern New England, an area comprising the states of Maine, New Hampshire, and Vermont.  As of the 2010 census, the city had a population of 109,565, and its estimated 2016 population was 110,506.  It is located in Hillsborough County along the banks of the Merrimack River, which divides the city into eastern and western sections.  Manchester is near the northern end of the Northeast megalopolis.  It was first named by the merchant and inventor Samuel Blodget (after whom Samuel Blodget Park and Blodget Street in Manchester's North End are named).  Blodget's vision was to create a great industrial center similar to that of the original Manchester in England, which was the world's first industrialized city."
+    ],
+    "generated_answer": "Manchester, New Hampshire is part of the Northeast megalopolis, which also includes major cities like Boston, New York City, Philadelphia, Baltimore, and Washington, D.C.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2353515625,
+    "mean_prob": 0.8603515625,
+    "min_prob": 0.16796875,
+    "sds": 0.7377306222915649,
+    "hallucinated": null
+  },
+  {
+    "id": 15,
+    "question": "Which magazine has been around longer, Guitar World or Golf Digest?",
+    "gold_answer": "Golf Digest",
+    "context": [
+      "Golf Magazine is a monthly golf magazine owned by \"Time Inc.\" It was started in April, 1959 by Universal Publishing and Distributing, who sold it to Times Mirror in 1972.  Time Inc. acquired it in 2000.  It was the world's most widely read golf publication from August 2006 to January 2007.  The magazine is for golfers of all skill levels.  Some features it includes are instruction from the top 100 teachers in America, interviews with famous golfers, tips on the best values for golf courses to go to on vacation, and an annual club test."
+    ],
+    "generated_answer": "Golf Digest has been around longer than Guitar World, as it was started in April 1959, while Guitar World was first published in 1980.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3271484375,
+    "mean_prob": 0.8125,
+    "min_prob": 0.103515625,
+    "sds": 0.9780615568161011,
+    "hallucinated": null
+  },
+  {
+    "id": 16,
+    "question": "Does Kurt Cobain and Glenn Frey work in the music industry?",
+    "gold_answer": "yes",
+    "context": [
+      "Garry Cobain (sometimes styled as Gaz Cobain) (born 1967) is a British electronic musician, and one half of The Future Sound of London.  He currently lives in France."
+    ],
+    "generated_answer": "No, Kurt Cobain was a musician and the lead singer of Nirvana, while Glenn Frey was a musician and the lead singer of the Eagles. They are not related to Garry Cobain, who is a British electronic musician.",
+    "degradation_mode": "k1",
+    "perplexity": 1.408203125,
+    "mean_prob": 0.7919921875,
+    "min_prob": 0.10028076171875,
+    "sds": 0.8062648773193359,
+    "hallucinated": null
+  },
+  {
+    "id": 17,
+    "question": "Signed with Maybach Music Group in 2011, which artist was featured as a guest in Fire of Zamani?",
+    "gold_answer": "Wale",
+    "context": [
+      "FIRE is a rock band from Malta.  Founded in 1998, the band's line-up includes vocalist Kenneth Calleja, guitarists Joe Vella and Robert Longo, bassist Trevor Catania and drummer Robert Spiteri.  The band has released three albums, which have received favorable reviews."
+    ],
+    "generated_answer": "The artist featured as a guest in Fire of Zamani, signed with Maybach Music Group in 2011, is not mentioned in the provided context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.228515625,
+    "mean_prob": 0.8662109375,
+    "min_prob": 0.1346435546875,
+    "sds": 0.9448367953300476,
+    "hallucinated": null
+  },
+  {
+    "id": 18,
+    "question": "Was Suzanne Chun Oakland a member of the upper of lower chamber of the Hawaii State Legislature?",
+    "gold_answer": "lower chamber",
+    "context": [
+      "Florence T. Nakakuni (born 1952) is the former United States Attorney for the District of Hawaii.  She was appointed in 2009 by President Barack Obama, replacing Edward H. Kubo Jr. who left to become a Judge on the Hawaii First Circuit Court.  She is the first female United States Attorney for the District of Hawaii.  As one of 93 US Attorneys nationwide, she represents the United States in all civil and criminal cases within the district."
+    ],
+    "generated_answer": "No, Suzanne Chun Oakland was not a member of the upper or lower chamber of the Hawaii State Legislature. She is the former United States Attorney for the District of Hawaii.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1572265625,
+    "mean_prob": 0.90234375,
+    "min_prob": 0.14697265625,
+    "sds": 0.8928110003471375,
+    "hallucinated": null
+  },
+  {
+    "id": 19,
+    "question": "Which filmmaker is considered a pioneer, Herschell Gordon Lewis or Leah Meyerhoff?",
+    "gold_answer": "Herschell Gordon Lewis was a pioneer",
+    "context": [
+      "Leah Meyerhoff is a Student Academy Award-nominated director, producer and screenwriter.  Her films have screened in over 200 film festivals worldwide and won over a dozen international awards."
+    ],
+    "generated_answer": "Leah Meyerhoff is considered the pioneer in this context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2880859375,
+    "mean_prob": 0.8125,
+    "min_prob": 0.362060546875,
+    "sds": 0.9044163823127747,
+    "hallucinated": null
+  },
+  {
+    "id": 20,
+    "question": "What are both Caleb Shomo and Brian Welch?",
+    "gold_answer": "singer",
+    "context": [
+      "Caleb Carr is a historian."
+    ],
+    "generated_answer": "Caleb Shomo and Brian Welch are both musicians.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2626953125,
+    "mean_prob": 0.828125,
+    "min_prob": 0.384521484375,
+    "sds": 1.0637062788009644,
+    "hallucinated": null
+  },
+  {
+    "id": 21,
+    "question": "The Amsterdam Tournament 2009 was contested by what club that plays their home games at the Wanda Metropolitano?",
+    "gold_answer": "Club Atl\u00e9tico de Madrid",
+    "context": [
+      "The 2008 Dutch Open (also known as the \"Priority Telecom Open\" for sponsorship reasons) was a tennis tournament played on outdoor clay courts.  It was the 51st and last edition of the Dutch Open, and was part of the International Series of the 2008 ATP Tour.  It took place at the Sportlokaal de Bokkeduinen in Amersfoort, Netherlands, from 14 July through 20 July 2008."
+    ],
+    "generated_answer": "The Amsterdam Tournament 2009 was contested by Real Madrid, which plays their home games at the Wanda Metropolitano.",
+    "degradation_mode": "k1",
+    "perplexity": 1.203125,
+    "mean_prob": 0.880859375,
+    "min_prob": 0.232666015625,
+    "sds": 0.9371627569198608,
+    "hallucinated": null
+  },
+  {
+    "id": 22,
+    "question": "Which pizza chain has locations in more cities, Round Table Pizza or Marion's Piazza?",
+    "gold_answer": "Round Table Pizza",
+    "context": [
+      "Marion's Piazza is a pizzeria chain based in Dayton, Ohio.  Established in 1965 by Marion Glass, the company currently operates 9 restaurants throughout the greater Dayton area.  Marion's is renowned for its unique style of pizza, characterized by its traditional preparation and small square slices.  The chain is intensely popular with Dayton locals and has been awarded the title of \"Best Pizza\" 2 times."
+    ],
+    "generated_answer": "Marion's Piazza has locations in more cities, with 9 restaurants throughout the greater Dayton area, compared to Round Table Pizza.",
+    "degradation_mode": "k1",
+    "perplexity": 1.26171875,
+    "mean_prob": 0.85205078125,
+    "min_prob": 0.16796875,
+    "sds": 0.5586752891540527,
+    "hallucinated": null
+  },
+  {
+    "id": 23,
+    "question": "Brian Newman's wife performs for what genre of variety show?",
+    "gold_answer": "American burlesque",
+    "context": [
+      "Tracy Ann Newman is an American television producer, writer and musician.  Newman is a founding member of the improvisational theater troupe The Groundlings (as is her sister, Laraine Newman).  She was co-creator and executive producer of the 2001-09 sitcom \"According to Jim\".  She is also a singer-songwriter, as well as an original member of The New Christy Minstrels and lead singer of Tracy Newman and The Reinforcements.  She is the mother of artist/writer Charlotte Dean, with whom she co-directs the live comedy show \"Charlotte's Shorts\"."
+    ],
+    "generated_answer": "Tracy Ann Newman, the wife of Brian Newman, performs for a variety show genre as a singer-songwriter and lead singer of Tracy Newman and The Reinforcements.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3154296875,
+    "mean_prob": 0.81298828125,
+    "min_prob": 0.27783203125,
+    "sds": 0.8630988001823425,
+    "hallucinated": null
+  },
+  {
+    "id": 24,
+    "question": "Where was the device that is similar to Princess max released?",
+    "gold_answer": "Bandai",
+    "context": [
+      "Amazing Princess Sarah is an indie platform-adventure video game developed and released by Haruneko for the Xbox 360's Xbox Live Indie Games, the PC Windows (Steam and Desura), and Windows Phone 7/8 platforms in 2014.  On June 17 of 2015, it was announced that the game was selected to become a part of Microsoft's ID@Xbox program."
+    ],
+    "generated_answer": "The device similar to Princess Max, Amazing Princess Sarah, was released on the Xbox 360's Xbox Live Indie Games, PC Windows (Steam and Desura), and Windows Phone 7/8 platforms in 2014.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1572265625,
+    "mean_prob": 0.8955078125,
+    "min_prob": 0.271240234375,
+    "sds": 0.5754400491714478,
+    "hallucinated": null
+  },
+  {
+    "id": 25,
+    "question": "James Garner had a role in the 2004 romantic drama directed by whom?",
+    "gold_answer": "Nick Cassavetes",
+    "context": [
+      "The following is the filmography for American actor James Garner.  Garner was known for prominent roles in films such as \"Sayonara\" (1957) with Marlon Brando, \"Cash McCall\" (1960) with Natalie Wood, \"The Great Escape\" (1963) with Steve McQueen, \"The Thrill of It All\" (1963) with Doris Day, \"Move Over, Darling\" (1963) with Doris Day, \"The Wheeler Dealers\" (1963) with Lee Remick, Paddy Chayevsky's \"The Americanization of Emily\" (1964) with Julie Andrews, \"Hour of the Gun\" (1967), \"Marlowe\" (1969) with Bruce Lee, \"Support Your Local Sheriff! \" (1969) with Walter Brennan, \"Murphy's Romance\" (1985) with Sally Field, \"Sunset\" (1988) with Bruce Willis, \"Maverick\" (1994) with Mel Gibson and Jodie Foster, \"Divine Secrets of the Ya-Ya Sisterhood\" (2002), and \"The Notebook\" (2004) with Ryan Gosling and Rachel McAdams.  His television series credits include portraying Bret Maverick in \"Maverick\" (1957\u20131962) and \"Bret Maverick\" (1981\u20131982), Jim Rockford in \"The Rockford Files\" (1974\u20131980), and Jim Egan in \"8 Simple Rules\" (2003\u20132005)."
+    ],
+    "generated_answer": "James Garner had a role in the 2004 romantic drama \"The Notebook\" directed by Nick Cassavetes.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1005859375,
+    "mean_prob": 0.9345703125,
+    "min_prob": 0.324951171875,
+    "sds": 0.9822531938552856,
+    "hallucinated": null
+  },
+  {
+    "id": 26,
+    "question": "What is the gross leasable area of the shopping mall served by the Merrick Boulevard buses?",
+    "gold_answer": "1800000 sqft",
+    "context": [
+      "The Shops at Riverside is a two-level enclosed shopping mall, located in Hackensack, New Jersey, United States, off Route 4, along the Hackensack River.  The mall has a Gross leasable area (GLA) of 658261 sqft .  The \"lavishly appointed\" mall opened on March 10, 1977 with 620000 sqft of retail space, which included a 237000 sqft Bloomingdale's (expanded from an original freestanding site opened in 1959) and a 107000 sqft Saks Fifth Avenue.  Until 2005, the shopping center was known as Riverside Square."
+    ],
+    "generated_answer": "The gross leasable area of the Shops at Riverside shopping mall is 658,261 sqft.",
+    "degradation_mode": "k1",
+    "perplexity": 1.193359375,
+    "mean_prob": 0.87744140625,
+    "min_prob": 0.282470703125,
+    "sds": 0.7005598545074463,
+    "hallucinated": null
+  },
+  {
+    "id": 27,
+    "question": "Are NRG Energy and Raymond James Financial  based in Great Britain?",
+    "gold_answer": "no",
+    "context": [
+      "NRG Energy, Inc. is a large American energy company, dual-headquartered in West Windsor Township, New Jersey, and Houston, Texas.  It was formerly the wholesale arm of Xcel Energy, and was spun off in bankruptcy in 2004."
+    ],
+    "generated_answer": "No, NRG Energy is based in West Windsor Township, New Jersey, and Houston, Texas, not Great Britain.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2724609375,
+    "mean_prob": 0.8642578125,
+    "min_prob": 0.1409912109375,
+    "sds": 0.7232961058616638,
+    "hallucinated": null
+  },
+  {
+    "id": 28,
+    "question": "What does the goddess associated with the goddess frigg  consists of what tales?",
+    "gold_answer": "various deities, beings, and heroes",
+    "context": [
+      "In Norse mythology, S\u00e1ga (] , possibly meaning \"seeress\") is a goddess associated with the wisdom S\u00f6kkvabekkr (] ; \"sunken bank\", \"sunken bench\", or \"treasure bank\").  At S\u00f6kkvabekkr, S\u00e1ga and the god Odin merrily drink as cool waves flow.  Both S\u00e1ga and S\u00f6kkvabekkr are attested in the \"Poetic Edda\", compiled in the 13th century from earlier traditional sources, and in the \"Prose Edda\", written in the 13th century by Snorri Sturluson.  Scholars have proposed theories about the implications of the goddess and her associated location, including that the location may be connected to the goddess Frigg's fen residence Fensalir and that S\u00e1ga may be another name for \"Frigg\"."
+    ],
+    "generated_answer": "The goddess associated with Frigg, S\u00e1ga, consists of tales in the \"Poetic Edda\" and \"Prose Edda\" that depict her as a seeress at S\u00f6kkvabekkr, where she and Odin drink cool waves. Scholars suggest a possible connection between S\u00e1ga and Frigg's fen residence, Fensalir.",
+    "degradation_mode": "k1",
+    "perplexity": 1.470703125,
+    "mean_prob": 0.783203125,
+    "min_prob": 0.0208740234375,
+    "sds": 0.5127897262573242,
+    "hallucinated": null
+  },
+  {
+    "id": 29,
+    "question": "What are the colors of the tricolour flag that was adopted in 1919?",
+    "gold_answer": "green (at the hoist), white and orange",
+    "context": [
+      "A tricolour or tricolor is a type of flag or banner design with a triband design which originated in the 16th century as a symbol of republicanism, liberty or indeed revolution.  The flags of France, Italy, Romania, Mexico, and Ireland were all first adopted with the formation of an independent republic in the period of the French Revolution to the Revolutions of 1848, with the exception of the Irish tricolour, which dates from 1848 but was not popularised until the Easter Rising in 1916 and adopted in 1919."
+    ],
+    "generated_answer": "The colors of the tricolour flag adopted in 1919 are green, white, and orange.",
+    "degradation_mode": "k1",
+    "perplexity": 1.0625,
+    "mean_prob": 0.9501953125,
+    "min_prob": 0.47705078125,
+    "sds": 0.6885348558425903,
+    "hallucinated": null
+  },
+  {
+    "id": 30,
+    "question": "Which of these is a genus of flowering plants, Anemopaegma or Semele?",
+    "gold_answer": "Anemopaegma",
+    "context": [
+      "Anemopaegma is a genus of flowering plants in the family Bignoniaceae.  Species of Anemopaegma along with many other unrelated plants go by the name of catuaba."
+    ],
+    "generated_answer": "Anemopaegma is a genus of flowering plants.",
+    "degradation_mode": "k1",
+    "perplexity": 1.078125,
+    "mean_prob": 0.93798828125,
+    "min_prob": 0.57470703125,
+    "sds": 0.5002249479293823,
+    "hallucinated": null
+  },
+  {
+    "id": 31,
+    "question": "What is the birthday of the actress who was the Duchess in \"The Revengers Tragedy\"?",
+    "gold_answer": "23 November 1946",
+    "context": [
+      "Revengers Tragedy is a film adaptation of the 1606 play \"The Revenger's Tragedy\" (attributed to Thomas Middleton in the credits, following the current scholarly consensus).  It was directed by Alex Cox and adapted for the screen by Cox's fellow Liverpudlian, Frank Cottrell Boyce.  The film stars Christopher Eccleston as the revenge-obsessed Vindice, with Derek Jacobi as the evil Duke, Eddie Izzard as his lecherous son Lussurioso, Diana Quick as the Duchess, Andrew Schofield as Vindice's brother Carlo (a version of the play's Hippolito), Carla Henry as his virtuous sister Castiza, and Marc Warren and Justin Salinger as the Duchess's sons Supervacuo and Ambitioso."
+    ],
+    "generated_answer": "The birthday of the actress who played the Duchess in \"The Revengers Tragedy\" is not provided in the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1845703125,
+    "mean_prob": 0.869140625,
+    "min_prob": 0.328369140625,
+    "sds": 0.7498779892921448,
+    "hallucinated": null
+  },
+  {
+    "id": 32,
+    "question": "Are Norman Z. McLeod and Sam Wanamaker both directors?",
+    "gold_answer": "yes",
+    "context": [
+      "Norman Zenos McLeod (September 20, 1898 \u2013 January 27, 1964) was an American film director, cartoonist, and writer."
+    ],
+    "generated_answer": "Yes, Norman Z. McLeod and Sam Wanamaker were both directors.",
+    "degradation_mode": "k1",
+    "perplexity": 1.0947265625,
+    "mean_prob": 0.9296875,
+    "min_prob": 0.490234375,
+    "sds": 0.9062421917915344,
+    "hallucinated": null
+  },
+  {
+    "id": 33,
+    "question": "I'd Come for You is a single by the band formed in what Alberta city?",
+    "gold_answer": "Hanna",
+    "context": [
+      "Love Has Come for You is a 2013 bluegrass music CD featuring a 13 song collaboration of original songs by Steve Martin (music) and Edie Brickell (lyrics).  The album cover art is a painting entitled \"After Dinner Drinks\" (2008) by Martin Mull; the original work is in Steve Martin's personal art collection.  Produced by Peter Asher, the album features musical appearances by Esperanza Spalding, Sara Watkins, Waddy Wachtel and others.  The record also features all five members of Steep Canyon Rangers who would back Martin and Brickell for the duration of the tour following the record release."
+    ],
+    "generated_answer": "I'd Come for You is a single by the band Steep Canyon Rangers, which was formed in Calgary, Alberta.",
+    "degradation_mode": "k1",
+    "perplexity": 1.189453125,
+    "mean_prob": 0.8896484375,
+    "min_prob": 0.20458984375,
+    "sds": 0.9187888503074646,
+    "hallucinated": null
+  },
+  {
+    "id": 34,
+    "question": "SkyJump Las Vegas is located at a hotel on what street?",
+    "gold_answer": "Las Vegas Boulevard",
+    "context": [
+      "Sky Las Vegas is a 45-story luxury high-rise condominium tower with 409 units, situated on a 3-acre site on the Las Vegas Strip in Winchester, Nevada.  The tower's land, as well as nearby property, had been the site of the El Rancho Vegas hotel and casino from 1941 to 1960, when it burned down.  The property remained vacant for decades.  A two-story retail project had been planned for a portion of the site in 2001, although it ultimately did not materialize.  Plans for Sky Las Vegas were announced in July 2004, with construction beginning the following year and its opening occurring in May 2007."
+    ],
+    "generated_answer": "Sky Las Vegas is located at a hotel on Las Vegas Boulevard.",
+    "degradation_mode": "k1",
+    "perplexity": 1.251953125,
+    "mean_prob": 0.83447265625,
+    "min_prob": 0.25390625,
+    "sds": 0.6698962450027466,
+    "hallucinated": null
+  },
+  {
+    "id": 35,
+    "question": "When was the earliest film of High School and The Thorn in the Heart shot?",
+    "gold_answer": "1968",
+    "context": [
+      "High School Possession is a 2014 American thriller film directed by Peter Sullivan.  The film stars Janel Parrish, Jennifer Stone, Shanley Caswell, Ione Skye, and Kelly Hu.  It premiered on Lifetime on October 25, 2014."
+    ],
+    "generated_answer": "The earliest film of High School Possession, which is a remake of High School and the Thorn in the Heart, was shot in 2014.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3447265625,
+    "mean_prob": 0.79150390625,
+    "min_prob": 0.234619140625,
+    "sds": 0.6738795638084412,
+    "hallucinated": null
+  },
+  {
+    "id": 36,
+    "question": "What country of origin does Traveling Wilburys and Tom Petty have in common?",
+    "gold_answer": "American",
+    "context": [
+      "The Traveling Wilburys (sometimes shortened to the Wilburys) were a British-American supergroup consisting of Bob Dylan, George Harrison, Jeff Lynne, Roy Orbison, and Tom Petty.  The band recorded two albums, the first in 1988 and the second in 1990, though Orbison died before the second was recorded."
+    ],
+    "generated_answer": "The Traveling Wilburys and Tom Petty both have the United States as their country of origin.",
+    "degradation_mode": "k1",
+    "perplexity": 1.193359375,
+    "mean_prob": 0.87060546875,
+    "min_prob": 0.28271484375,
+    "sds": 0.9252975583076477,
+    "hallucinated": null
+  },
+  {
+    "id": 37,
+    "question": "Psycho-physical Awareness was developed into an original and dependable method by a Russian-American actor who was referred to by Konstantin Stanislavski as what?",
+    "gold_answer": "his most brilliant student",
+    "context": [
+      "The \"art of representation\" (Russian: \"predstavlenie\" ) is a critical term used by the seminal Russian theatre practitioner Konstantin Stanislavski to describe a method of acting.  It comes from his acting manual \"An Actor Prepares\" (1936).  Stanislavski defines his own approach to acting as \"experiencing the role\" and contrasts it with the \"art of representation\".  It is on the basis of this formulation that the American Method acting teacher Uta Hagen defines her recommended Stanislavskian approach as 'presentational' acting, as opposed to 'representational' acting.  This use, however, directly contradicts mainstream critical use of these terms.  Despite the distinction, Stanislavskian theatre, in which actors 'experience' their roles, remains 'representational' in the broader critical sense."
+    ],
+    "generated_answer": "Uta Hagen.",
+    "degradation_mode": "k1",
+    "perplexity": 1.779296875,
+    "mean_prob": 0.7080078125,
+    "min_prob": 0.1396484375,
+    "sds": 1.304223895072937,
+    "hallucinated": null
+  },
+  {
+    "id": 38,
+    "question": "The poem \"soleil et chair\" was influenced by this Roman poet and philosopher who has only one known work about the tenets and philosophy of Epicureanism?",
+    "gold_answer": "Lucretius",
+    "context": [
+      "Titus Lucretius Carus ( ; 15 October 99 BC \u2013 c. 55 BC) was a Roman poet and philosopher.  His only known work is the didactic philosophical poem \"De rerum natura\" about the tenets and philosophy of Epicureanism, and which is usually translated into English as \"On the Nature of Things\".  Lucretius has been credited with originating the concept of the three-age system which was formalised from 1834 by C. J. Thomsen."
+    ],
+    "generated_answer": "The poem \"soleil et chair\" was influenced by Titus Lucretius Carus, the Roman poet and philosopher known for his work \"De rerum natura\" on Epicureanism.",
+    "degradation_mode": "k1",
+    "perplexity": 1.193359375,
+    "mean_prob": 0.88232421875,
+    "min_prob": 0.1976318359375,
+    "sds": 0.7259469032287598,
+    "hallucinated": null
+  },
+  {
+    "id": 39,
+    "question": "How long did The Shire of Flinders, which encompassed the extremity of the Mornington Peninsula located south-east of Melbourne, Australia, exist?",
+    "gold_answer": "1874 until 1994",
+    "context": [
+      "The Shire of McIvor was a local government area about 110 km north of Melbourne, the state capital of Victoria, Australia.  The shire covered an area of 1295 km2 , and existed from 1863 until 1994."
+    ],
+    "generated_answer": "The Shire of Flinders existed from 1871 until 1994.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3759765625,
+    "mean_prob": 0.78759765625,
+    "min_prob": 0.1785888671875,
+    "sds": 0.9045184850692749,
+    "hallucinated": null
+  },
+  {
+    "id": 40,
+    "question": "Randall Cunningham II was a multi-sport athlete at the high school located in what Nevada city?",
+    "gold_answer": "Summerlin",
+    "context": [
+      "Randall Cunningham II, sometimes Randall Cunningham, Jr., (born January 4, 1996) is an American collegiate high jumper for the USC Trojans Men's track & field team who will be a senior during the 2017\u201318 school year.  He was a high jumper and quarterback at Bishop Gorman High School.  He is a five-time Nevada Interscholastic Activities Association (NIAA) state champion (three times in track and twice in football).  He is a NCAA Outdoor Track Champion and 2-time All-American, U.S. Junior National Champion and Pan American Junior Athletics Championships Champion."
+    ],
+    "generated_answer": "Randall Cunningham II was a multi-sport athlete at Bishop Gorman High School, located in Las Vegas, Nevada.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1787109375,
+    "mean_prob": 0.91162109375,
+    "min_prob": 0.10284423828125,
+    "sds": 0.73739093542099,
+    "hallucinated": null
+  },
+  {
+    "id": 41,
+    "question": "Who was responsible for the Soviet\u2013Albanian split?",
+    "gold_answer": "Nikita Khrushchev",
+    "context": [
+      "Kosovo is the birthplace of the Albanian nationalist movement which emerged as a response to the Eastern Crisis of 1878.  In the immediate aftermath of the Russo-Ottoman war, the Congress of Berlin proposed partitioning Ottoman Albanian inhabited lands in the Balkans among neighbouring countries.  The \"League of Prizren\" was formed by Albanians to resist those impositions.  For Albanians those events have made Kosovo an important place regarding the emergence of Albanian nationalism.  During the remainder of the late Ottoman period various disagreements between Albanian nationalists and the Ottoman Empire over socio-cultural rights culminated in two revolts within Kosovo and adjacent areas.  The Balkan Wars (1912-13) ending with Ottoman defeat, Serbian and later Yugoslav sovereignty over the area generated an Albanian nationalism that has become distinct to Kosovo stressing Albanian language, culture and identity within the context of secession from Serbia.  Pan-Albanian sentiments are also present and historically have been achieved only once when part of Kosovo was united by Italian Axis forces to their protectorate of Albania during the Second World War."
+    ],
+    "generated_answer": "The Soviet Union was responsible for the Soviet\u2013Albanian split.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2763671875,
+    "mean_prob": 0.814453125,
+    "min_prob": 0.36328125,
+    "sds": 0.9039353132247925,
+    "hallucinated": null
+  },
+  {
+    "id": 42,
+    "question": "Who was born first, George Kuchar or Arthur Penn?",
+    "gold_answer": "Arthur Hiller Penn",
+    "context": [
+      "Dan Kuenster (born December 29, 1955 in Chicago, Illinois) is an American character animator and director, who worked for Walt Disney Animation Studios and Sullivan Bluth Studios, before pursuing educational multimedia projects.  He is currently Executive Vice President of Design and Animation at Istation in Dallas, Texas."
+    ],
+    "generated_answer": "The context does not provide information about George Kuchar or Arthur Penn.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4716796875,
+    "mean_prob": 0.78369140625,
+    "min_prob": 0.081787109375,
+    "sds": 1.139138102531433,
+    "hallucinated": null
+  },
+  {
+    "id": 43,
+    "question": "Who was the leading actor of the Christmas movie that Rebecca Forstadt did background voices for?",
+    "gold_answer": "Tim Allen",
+    "context": [
+      "Shelby is a 2014 Canadian Christmas comedy film directed by Brian K. Roberts and starring John Paul Ruttan, Chevy Chase, Tom Arnold and Rob Schneider as the voice of the titular dog."
+    ],
+    "generated_answer": "John Paul Ruttan was the leading actor in the Christmas movie \"Shelby,\" which Rebecca Forstadt did background voices for.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2138671875,
+    "mean_prob": 0.87060546875,
+    "min_prob": 0.277099609375,
+    "sds": 0.6764271855354309,
+    "hallucinated": null
+  },
+  {
+    "id": 44,
+    "question": "Ambrose Mendy has managed and/or advised a British professional boxer that as of July 2017 is ranked the world's seventh best super middleweight by who?",
+    "gold_answer": "\"The Ring\" magazine",
+    "context": [
+      "Ambrose Mendy (born August 1954) is a British boxing manager, advisor and sports agent.  He has managed and/or advised Nigel Benn; James DeGale; Chris Eubank Junior; Lloyd Honeyghan & Errol Christie among others during a career in boxing that started in the late 1970s."
+    ],
+    "generated_answer": "As of July 2017, Ambrose Mendy has managed and/or advised Chris Eubank Junior, who is ranked the world's seventh best super middleweight by the WBC.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2109375,
+    "mean_prob": 0.8798828125,
+    "min_prob": 0.124267578125,
+    "sds": 0.7634153962135315,
+    "hallucinated": null
+  },
+  {
+    "id": 45,
+    "question": "As the oldest player in the NFL, this football player is the only player ever to have accomplished what?",
+    "gold_answer": "score 1,000 points with two different teams",
+    "context": [
+      "This is a list of career achievements by former NFL quarterback Peyton Manning."
+    ],
+    "generated_answer": "Peyton Manning is the only player ever to have won the NFL Most Valuable Player (MVP) award twice.",
+    "degradation_mode": "k1",
+    "perplexity": 1.466796875,
+    "mean_prob": 0.7744140625,
+    "min_prob": 0.10833740234375,
+    "sds": 0.7511143684387207,
+    "hallucinated": null
+  },
+  {
+    "id": 46,
+    "question": "Mamie Gummer played the role of Nancy Crozier on the TV series airing on what network?",
+    "gold_answer": "CBS",
+    "context": [
+      "Mary Willa \"Mamie\" Gummer (born August 3, 1983) is an American actress.  She starred in the title role of The CW series \"Emily Owens, M.D.\" (2012\u201313), and played the recurring role of Nancy Crozier on \"The Good Wife\" (2010\u201315).  She has also appeared in the films \"Evening\" (2007), \"Side Effects\" (2013), \"Cake\" (2014), and \"Ricki and the Flash\" (2015).  She was nominated for the 2016 Drama Desk Award for Outstanding Actress in a Play for the original production of \"Ugly Lies the Bone\"."
+    ],
+    "generated_answer": "Mamie Gummer played the role of Nancy Crozier on the TV series \"The Good Wife\" airing on CBS.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1083984375,
+    "mean_prob": 0.92041015625,
+    "min_prob": 0.343017578125,
+    "sds": 0.7756154537200928,
+    "hallucinated": null
+  },
+  {
+    "id": 47,
+    "question": "What organization is known for having a president who was convicted of felony charges that was harbored by his brother, another high ranking member?",
+    "gold_answer": "FLDS Church",
+    "context": [
+      "The President's Commission on Organized Crime was a United States governmental body that existed during the Ronald Reagan administration.  It was established by Executive Order in 1984.  Its chairman was Judge Irving Kaufman.  It issued a final report in 1986 (published in 1987), when it was disestablished.  The Commission published seven volumes of hearings, including ones on money laundering, Asian organized crime, cocaine trafficking, heroin trafficking, labor-management racketeering, and gambling.  It also published three interim reports on money laundering, labor racketeering, and drug trafficking."
+    ],
+    "generated_answer": "The organization known for having a president who was convicted of felony charges and was harbored by his brother, another high-ranking member, is the President's Commission on Organized Crime.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1728515625,
+    "mean_prob": 0.9013671875,
+    "min_prob": 0.07421875,
+    "sds": 0.8138978481292725,
+    "hallucinated": null
+  },
+  {
+    "id": 48,
+    "question": "Of which band was the singer who released the record I Get Weak once a member ?",
+    "gold_answer": "The Go-Go's,",
+    "context": [
+      "\"I Get Weak\" is a pop song written by Diane Warren and produced by Rick Nowels for Belinda Carlisle's second album \"Heaven on Earth\".  The song reached number 2 in the US, behind Rick Astley's \"Never Gonna Give You Up\", and number 10 in the UK in 1988."
+    ],
+    "generated_answer": "Belinda Carlisle was a member of the band The Go-Go's.",
+    "degradation_mode": "k1",
+    "perplexity": 1.220703125,
+    "mean_prob": 0.87890625,
+    "min_prob": 0.1746826171875,
+    "sds": 1.0749837160110474,
+    "hallucinated": null
+  },
+  {
+    "id": 49,
+    "question": "In what part of Scotland is Bass Rock located?",
+    "gold_answer": "the Firth of Forth in the east of Scotland",
+    "context": [
+      "The Bass Rock, or simply the Bass ( ), is an island in the outer part of the Firth of Forth in the east of Scotland.  Approximately 2 km offshore, and 5 km north-east of North Berwick, it is a steep-sided volcanic rock, 107 m at its highest point, and is home to a large colony of gannets.  The rock is uninhabited, but historically has been settled by an early Christian hermit, and later was the site of an important castle, which after the Commonwealth period was used as a prison.  The island belongs to Sir Hew Hamilton-Dalrymple, whose family acquired it in 1706, and before to the Lauder family for almost six centuries.  The Bass Rock Lighthouse was constructed on the rock in 1902, and the remains of an ancient chapel survive."
+    ],
+    "generated_answer": "The Bass Rock is located in the east of Scotland.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1728515625,
+    "mean_prob": 0.89599609375,
+    "min_prob": 0.2724609375,
+    "sds": 0.7091231346130371,
+    "hallucinated": null
+  },
+  {
+    "id": 50,
+    "question": "Who was born more recently, Billy Corgan or Jeff Martin?",
+    "gold_answer": "\"Billy\" Corgan",
+    "context": [
+      "Jeffrey Brian \"Jeff\" Yagher (born January 18, 1961) is an American actor."
+    ],
+    "generated_answer": "Jeff Martin was born more recently than Billy Corgan.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3349609375,
+    "mean_prob": 0.7958984375,
+    "min_prob": 0.27734375,
+    "sds": 0.9692331552505493,
+    "hallucinated": null
+  },
+  {
+    "id": 51,
+    "question": "The rock band Sugar Ray began as a funk metal band, while the band Das Damen was considered what?",
+    "gold_answer": "alternative rock",
+    "context": [
+      "Sugar Ray is an American rock band formed in 1986.  The band, starting off more as a funk metal band, gained mainstream fame in 1997 with their release of the song \"Fly\".  This song's success, coupled with its pop rock sound that was quite different from the rest of their material at the time, led the band to change to a mainstream, pop music style.  Subsequent albums shared this style, and the band landed a number of hits with \"Every Morning\" and \"Someday\" from \"\" and \"When It's Over\" from their self-titled album."
+    ],
+    "generated_answer": "The context does not provide information about the band Das Damen.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5087890625,
+    "mean_prob": 0.72998046875,
+    "min_prob": 0.1588134765625,
+    "sds": 1.3134055137634277,
+    "hallucinated": null
+  },
+  {
+    "id": 52,
+    "question": "Kevin Watson currently manages which Southern League football team?",
+    "gold_answer": "Bishop's Stortford",
+    "context": [
+      "Kevin Watson Scott (born 17 December 1966) is an English former football defender.  He played over 300 games in the Football League for six different clubs."
+    ],
+    "generated_answer": "Kevin Watson currently manages the Southern League football team, Dorchester Town.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4765625,
+    "mean_prob": 0.7861328125,
+    "min_prob": 0.06561279296875,
+    "sds": 0.8163052201271057,
+    "hallucinated": null
+  },
+  {
+    "id": 53,
+    "question": "How many albums have been sold by the singer who released the 2002 single \"Sk8er Boi\"?  ",
+    "gold_answer": "40 million",
+    "context": [
+      "The discography of South Korean musician BoA consists of 17 studio albums, 6 compilation albums, 5 extended plays and numerous singles.  BoA debuted as a musician through South Korean talent agency S.M. Entertainment at the age of 13 with the album \"ID; Peace B\" (2000), followed by her debut in Japan with Avex Trax in 2001."
+    ],
+    "generated_answer": "The singer who released the 2002 single \"Sk8er Boi\" is Avril Lavigne, not BoA. Therefore, there is no information provided about albums sold by her in the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.33203125,
+    "mean_prob": 0.826171875,
+    "min_prob": 0.10247802734375,
+    "sds": 0.8172518014907837,
+    "hallucinated": null
+  },
+  {
+    "id": 54,
+    "question": "What was Richard Connell's best known work The Hounds of Zaroff also published as?",
+    "gold_answer": "The Most Dangerous Game",
+    "context": [
+      "Michael Connelly (born July 21, 1956) is an American author of detective novels and other crime fiction, notably those featuring LAPD Detective Hieronymus \"Harry\" Bosch and criminal defense attorney Mickey Haller.  His books, which have been translated into 39 languages, have garnered him many awards.  Connelly was the President of the Mystery Writers of America from 2003 to 2004."
+    ],
+    "generated_answer": "The Hounds of the Baskervilles is the best-known work of Richard Connell, published under the title \"The Hounds of the Baskervilles\" in the United States.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5947265625,
+    "mean_prob": 0.71044921875,
+    "min_prob": 0.111572265625,
+    "sds": 0.9861395955085754,
+    "hallucinated": null
+  },
+  {
+    "id": 55,
+    "question": "Which type of character is featured by the P.L. Travers's third book and last novel in the \"Mary Poppins\" series?",
+    "gold_answer": "fictional character",
+    "context": [
+      "Mary Poppins is a series of eight children's books written by P. L. Travers and published over the period 1934 to 1988.  Mary Shepard was the illustrator throughout the series."
+    ],
+    "generated_answer": "The P.L. Travers's third book and last novel in the \"Mary Poppins\" series features a nanny character.",
+    "degradation_mode": "k1",
+    "perplexity": 1.267578125,
+    "mean_prob": 0.8447265625,
+    "min_prob": 0.1787109375,
+    "sds": 0.6270652413368225,
+    "hallucinated": null
+  },
+  {
+    "id": 56,
+    "question": "Were Joss Whedon and Norman Mailer both Americans?",
+    "gold_answer": "yes",
+    "context": [
+      "Hanns and Rudolf is a dual biography of Hanns Alexander and Rudolf H\u00f6ss by the British-American journalist Thomas Harding."
+    ],
+    "generated_answer": "No, Joss Whedon and Norman Mailer were not both Americans. Joss Whedon is an American screenwriter, director, and producer, while Norman Mailer was an American novelist, journalist, essayist, playwright, film-maker, actor, and political activist.",
+    "degradation_mode": "k1",
+    "perplexity": 1.0947265625,
+    "mean_prob": 0.92529296875,
+    "min_prob": 0.396484375,
+    "sds": 1.01763117313385,
+    "hallucinated": null
+  },
+  {
+    "id": 57,
+    "question": "What is the name the French give to the war during which the Prussians occupied the Pavillon du Butard?",
+    "gold_answer": "War of 1870",
+    "context": [
+      "The Siege of Metz (17 January \u2013 10 April 1814) was a siege of the French city of Metz during the War of the Sixth Coalition at the end of the Napoleonic Wars.  It pitted French forces under General Pierre Fran\u00e7ois Joseph Durutte against Prussian, Russian and Hessian troops commanded by the Russian General Dimitri Mikhailovich Youzefovitch.  The allied force began the siege on 17 January 1814 and eventually lifted it on 10 April the same year, without having taken the city."
+    ],
+    "generated_answer": "The French name for the war during which the Prussians occupied the Pavillon du Butard is the War of the Sixth Coalition.",
+    "degradation_mode": "k1",
+    "perplexity": 1.12890625,
+    "mean_prob": 0.90869140625,
+    "min_prob": 0.3623046875,
+    "sds": 0.942735493183136,
+    "hallucinated": null
+  },
+  {
+    "id": 58,
+    "question": "Did both  Slaughter-House Cases and United States v. Darby Lumber Co. involve civil rights law?",
+    "gold_answer": "no",
+    "context": [
+      "The Slaughter-House Cases, 83 U.S. 36 (1873) , was the first United States Supreme Court interpretation of the U.S. Constitution's Fourteenth Amendment which had recently been enacted.  It was a pivotal case in early civil rights law and held that the Fourteenth Amendment protects the privileges or immunities of citizenship of the United States, not privileges and immunities of citizenship of a state.  However, federal rights of citizenship were then few, such as the right to travel between states and to use navigable rivers; the amendment did not protect the far broader range of rights covered by state citizenship.  In effect, the amendment was interpreted to convey limited protection pertinent to a small minority of rights."
+    ],
+    "generated_answer": "Yes, both the Slaughter-House Cases and United States v. Darby Lumber Co. involved civil rights law.",
+    "degradation_mode": "k1",
+    "perplexity": 1.0341796875,
+    "mean_prob": 0.970703125,
+    "min_prob": 0.642578125,
+    "sds": 0.9584611654281616,
+    "hallucinated": null
+  },
+  {
+    "id": 59,
+    "question": "Which musician played in the band Soulfly, Max Cavalera or Billy Idol?",
+    "gold_answer": "Massimiliano Antonio \"Max\" Cavalera",
+    "context": [
+      "Soulfly is an American heavy metal band formed in 1997 and based in Phoenix, Arizona.  The original lyrical content revolved around spirituality, political and religious themes, with later albums encompassing other themes including war, violence, aggression, slavery, hatred and anger.  Soulfly is led by former Sepultura frontman Max Cavalera, who formed the band after he left the Brazilian group in 1996.  To date the band has released ten studio albums, one tour EP, twenty-three singles, one video album, and twelve music videos.  Their debut album, \"Soulfly\", was released on April 21, 1998, while their newest album, \"Archangel\", was released on August 14, 2015.  In a interview with Max in 2015, the name Soulfly is taken from the song \"Headup\" of Deftones."
+    ],
+    "generated_answer": "Max Cavalera played in the band Soulfly.",
+    "degradation_mode": "k1",
+    "perplexity": 1.0341796875,
+    "mean_prob": 0.96923828125,
+    "min_prob": 0.78515625,
+    "sds": 0.8222180008888245,
+    "hallucinated": null
+  },
+  {
+    "id": 60,
+    "question": "Who is older Charles R. Black Jr. or Paul Manafort?",
+    "gold_answer": "Charles R. Black Jr.",
+    "context": [
+      "Paul John Manafort Jr. (born April 1, 1949) is an American lawyer, lobbyist and political consultant.  He joined Donald Trump's presidential campaign team in March 2016 and served as campaign manager from June to August 2016.  He was previously an adviser to the U.S. presidential campaigns of Republicans Gerald Ford, Ronald Reagan, George H. W. Bush, and Bob Dole.  In 1980 Manafort co-founded the Washington, D.C.-based lobbying firm Black, Manafort & Stone, along with principals Charles R. Black Jr., and Roger J. Stone.  In 1984 it was renamed Black, Manafort, Stone and Kelly (BMSK) & associates, after Peter G. Kelly was recruited."
+    ],
+    "generated_answer": "Charles R. Black Jr. is older than Paul Manafort.",
+    "degradation_mode": "k1",
+    "perplexity": 1.015625,
+    "mean_prob": 0.98486328125,
+    "min_prob": 0.92919921875,
+    "sds": 0.9297034740447998,
+    "hallucinated": null
+  },
+  {
+    "id": 61,
+    "question": "The author of \"The New American Story \" served three terms as a US Senator from what state?",
+    "gold_answer": "New Jersey",
+    "context": [
+      "The New American Story is a book written by former United States Senator and 2000 presidential hopeful, Bill Bradley, and first published on March 27, 2007.  The book offers workable solutions to the old American stories about economy, oil, entitlements, and party politics."
+    ],
+    "generated_answer": "Bill Bradley, the author of \"The New American Story,\" served three terms as a US Senator from New Jersey.",
+    "degradation_mode": "k1",
+    "perplexity": 1.115234375,
+    "mean_prob": 0.9208984375,
+    "min_prob": 0.344482421875,
+    "sds": 0.7704777717590332,
+    "hallucinated": null
+  },
+  {
+    "id": 62,
+    "question": "What NFL Team, undefeated in 1972, had on their staff the coach of the 2004 Florida Atlantic Owls football team?",
+    "gold_answer": "Miami Dolphins",
+    "context": [
+      "The 2001 Florida Atlantic University Owls football team represented Florida Atlantic University in the 2001 NCAA Division I-AA football season.  The team was coached by Howard Schnellenberger and played their home games at Pro Player Stadium in Miami Gardens, FL.  The Owls competed in the NCAA's Division I-AA as an Independent.  This was the inaugural season for the program that Schnellenberger started from scratch in 1998, working out of a trailer and holding practices in local high school gymnasiums."
+    ],
+    "generated_answer": "The 1972 Miami Dolphins, who were undefeated that season, had Howard Schnellenberger as their head coach.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5185546875,
+    "mean_prob": 0.74755859375,
+    "min_prob": 0.1297607421875,
+    "sds": 0.9586570262908936,
+    "hallucinated": null
+  },
+  {
+    "id": 63,
+    "question": "Which year and which conference was the 14th season for this conference as part of the NCAA Division that the Colorado Buffaloes played in with a record of 2-6 in conference play?",
+    "gold_answer": "2009 Big 12 Conference",
+    "context": [
+      "The 2011\u201312 Colorado Buffaloes men's basketball team represented the University of Colorado in the 2011\u201312 NCAA Division I men's basketball season.  Head coach Tad Boyle was in his second season at Colorado.  They awere the members of the Pac-12 Conference.  They finished the regular season with 24\u201312 overall, 11\u20137 in Pac-12 play.  They won the 2012 Pac-12 Conference Men's Basketball Tournament and earned a trip to the 2012 NCAA Division I Men's Basketball Tournament with an 11 seed in south.  They defeated UNLV in the second round before they lost to Baylor in the third round."
+    ],
+    "generated_answer": "The 14th season for the Pac-12 Conference as part of the NCAA Division I men's basketball was in 2011\u201312, during which the Colorado Buffaloes played with a record of 2-6 in conference play.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2080078125,
+    "mean_prob": 0.8583984375,
+    "min_prob": 0.343994140625,
+    "sds": 0.5432307720184326,
+    "hallucinated": null
+  },
+  {
+    "id": 64,
+    "question": "Are Parents and Madame Figaro published in the same country?",
+    "gold_answer": "no",
+    "context": [
+      "Madame Figaro is a French magazine supplement to the Saturday edition of the daily newspaper \"Le Figaro\", focusing on and catering to women."
+    ],
+    "generated_answer": "Yes, both Parents and Madame Figaro are published in France.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1533203125,
+    "mean_prob": 0.90234375,
+    "min_prob": 0.296142578125,
+    "sds": 0.7668420672416687,
+    "hallucinated": null
+  },
+  {
+    "id": 65,
+    "question": "In which city did he painter and printmaker associated with \"Les Nabis\" found Salon d'Automne?",
+    "gold_answer": "Paris",
+    "context": [
+      "Royal Gay Nebeker (February 22, 1945 \u2013 September 6, 2014) was an American painter and print maker born in San Francisco.  whose prints and paintings have been shown widely in Europe and North America including in Art Paris at the Louvre, Gallery Steen in Oslo and the Lisa Harris Gallery in Seattle.  His formal education in art included a Masters Diploma from the National School of Arts & Crafts in Oslo, an M.F.A. from Brigham Young University, and a sabbatical with Japanese printmaker Yashi Ishibashi and papermaker Naoaki Sakamoto.  Nebeker was friends with Gary Snyder and Robert Redford.  His art has been collected by IBM, the National Gallery of Art in Krakow, Poland, the U.C.L.A. print collection and the Seattle Art Museum, among others."
+    ],
+    "generated_answer": "The context does not provide information about Royal Gay Nebeker being associated with \"Les Nabis\" or founding Salon d'Automne.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2919921875,
+    "mean_prob": 0.8388671875,
+    "min_prob": 0.1593017578125,
+    "sds": 1.0522582530975342,
+    "hallucinated": null
+  },
+  {
+    "id": 66,
+    "question": "Which company owned by a Pakistani media mogul produced the Pakistani romantic drama film Dobara Phir Se?",
+    "gold_answer": "ARY Films",
+    "context": [
+      "Dobara Phir Se is a 2016 Pakistani romantic drama film directed by Mehreen Jabbar and a production of ARY Films.  The film is produced by Salman Iqbal and co-produced by Mohammad Jerjees Seja.  The film stars Ali Kazmi, Hareem Farooq, Adeel Hussain, Tooba Siddiqui, Sanam Saeed, Atiqa Odho, Shaz Khan, and child actor, Musa Khan.  The film was released on 25 November 2016."
+    ],
+    "generated_answer": "Dobara Phir Se was produced by ARY Films, owned by Pakistani media mogul Asim Raza.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5185546875,
+    "mean_prob": 0.83447265625,
+    "min_prob": 0.00559234619140625,
+    "sds": 0.6017275452613831,
+    "hallucinated": null
+  },
+  {
+    "id": 67,
+    "question": "Do writers John O'Hara and Bobbie Ann Mason share the same nationality?",
+    "gold_answer": "yes",
+    "context": [
+      "Bobbie Ann Mason (born May 1, 1940) is a Southern United States novelist, short story writer, essayist, and literary critic from Kentucky."
+    ],
+    "generated_answer": "No, John O'Hara and Bobbie Ann Mason do not share the same nationality. John O'Hara was an American writer, while Bobbie Ann Mason is also American, hailing from Kentucky.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2578125,
+    "mean_prob": 0.85009765625,
+    "min_prob": 0.15185546875,
+    "sds": 0.9160982966423035,
+    "hallucinated": null
+  },
+  {
+    "id": 68,
+    "question": "Is Ashland, New Hampshire or Plymouth Regional High School located near the Scribner-Fellows State Forest?",
+    "gold_answer": "Ashland is home to Scribner-Fellows State Forest",
+    "context": [
+      "Ashland Community High School was located in Ashland, Maine, USA.  It was part of Maine School Administrative District 32, or MSAD\u00a032, which serves Ashland, Garfield Plantation, Masardis, Oxbow, Portage Lake, and Sheridan, Maine.  There was a student population of 200 in school grades 7\u201312, with eighteen faculty members as well as administrators, a counselor and three support personnel.  The school had achieved accredited status with the New England Association of Schools and Colleges."
+    ],
+    "generated_answer": "Plymouth Regional High School is located near the Scribner-Fellows State Forest.",
+    "degradation_mode": "k1",
+    "perplexity": 1.0810546875,
+    "mean_prob": 0.94580078125,
+    "min_prob": 0.3203125,
+    "sds": 1.0248513221740723,
+    "hallucinated": null
+  },
+  {
+    "id": 69,
+    "question": "What retailer did Albert Heijn start up that eventually merged with the Delhaize Group?",
+    "gold_answer": "Koninklijke Ahold N.V.",
+    "context": [
+      "Albert Heijn B.V. is the largest Dutch supermarket chain, founded in 1887 in Oostzaan, Netherlands.  It is named after Albert Heijn, Sr., the founder of the first store in Oostzaan."
+    ],
+    "generated_answer": "Albert Heijn started up the Albert Heijn B.V., which eventually merged with the Delhaize Group.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2099609375,
+    "mean_prob": 0.865234375,
+    "min_prob": 0.279541015625,
+    "sds": 0.8698392510414124,
+    "hallucinated": null
+  },
+  {
+    "id": 70,
+    "question": "Have Tionne Watkins and Park So-yeon both been members of a girl group?",
+    "gold_answer": "yes",
+    "context": [
+      "Tionne Tenese Watkins (born April 26, 1970), better known by her stage name T-Boz, is an American singer, songwriter, actress, author, and executive producer.  Born in Des Moines, Iowa, Watkins rose to fame in the early 1990s as a member of the girl-group TLC.  She has won four Grammy Awards for her work with TLC."
+    ],
+    "generated_answer": "No, Tionne Watkins, known as T-Boz, was a member of the girl group TLC, while Park So-yeon is a member of the South Korean girl group Red Velvet.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2275390625,
+    "mean_prob": 0.8544921875,
+    "min_prob": 0.279541015625,
+    "sds": 0.7950670719146729,
+    "hallucinated": null
+  },
+  {
+    "id": 71,
+    "question": " Jordan's Furniture is a furniture retailer with a location in an enclosed shopping mall on the north side of Interstate 295 near what?",
+    "gold_answer": "the junction with Interstate 95",
+    "context": [
+      "Jordan's Furniture is a furniture retailer in New England.  There are currently seven locations - in Reading, Avon, Taunton, Natick, Massachusetts, Nashua, New Hampshire, Warwick Mall in Warwick, Rhode Island, and New Haven, Connecticut."
+    ],
+    "generated_answer": "Jordan's Furniture is located in Warwick Mall on the north side of Interstate 295 in Warwick, Rhode Island.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3134765625,
+    "mean_prob": 0.8642578125,
+    "min_prob": 0.05804443359375,
+    "sds": 0.6108839511871338,
+    "hallucinated": null
+  },
+  {
+    "id": 72,
+    "question": "A scam involving a male calling small town fast-food restaurants and pretending to be a police officer to have them strip search employees was turned into a movie of what name?",
+    "gold_answer": "Compliance",
+    "context": [
+      "Compliance is a 2012 American thriller film written and directed by Craig Zobel, and starring Ann Dowd, Dreama Walker, and Pat Healy.  The plot focuses on a prank caller who, posing as a police officer, convinces the manager of a fast food restaurant to carry out intrusive and unlawful procedures on an employee.  The film is based on the strip search prank call scam that took place at a Mount Washington, Kentucky McDonald's restaurant in Bullit County.  Dowd's performance as Sandra, the manager, won her the National Board of Review Award for Best Supporting Actress."
+    ],
+    "generated_answer": "The movie is called \"Compliance.\"",
+    "degradation_mode": "k1",
+    "perplexity": 1.634765625,
+    "mean_prob": 0.69189453125,
+    "min_prob": 0.2158203125,
+    "sds": 0.7497658133506775,
+    "hallucinated": null
+  },
+  {
+    "id": 73,
+    "question": "what 6-story building was listed on the National Register of Historic Places in 1980?",
+    "gold_answer": "Worcester Cold Storage and Warehouse Co. fire",
+    "context": [
+      "A listed building or listed structure, in the United Kingdom, is one that has been placed on the Statutory List of Buildings of Special Architectural or Historic Interest."
+    ],
+    "generated_answer": "The question does not provide enough information to identify a specific 6-story building that was listed on the National Register of Historic Places in 1980.",
+    "degradation_mode": "k1",
+    "perplexity": 1.302734375,
+    "mean_prob": 0.8369140625,
+    "min_prob": 0.168701171875,
+    "sds": 1.0155086517333984,
+    "hallucinated": null
+  },
+  {
+    "id": 74,
+    "question": "The Panel with striding lion  was one of many that lined the way north of the gate to the inner city of what location?",
+    "gold_answer": "Babylon",
+    "context": [
+      "The Panel with striding lion (MA 31.13.1) is a panel of Neo-Babylonian glazed ceramic bricks or tiles dated to 604\u2013562 B.C., now in the Metropolitan Museum of Art, New York.  It was one of many that lined the Processional Way north of the Ishtar Gate.  It was excavated by R. Koldewey in 1902, and at the Staatliche Museen zu Berlin from 1926, before coming into the possession of the Met in 1931."
+    ],
+    "generated_answer": "The Panel with striding lion was one of many that lined the way north of the gate to the inner city of Babylon.",
+    "degradation_mode": "k1",
+    "perplexity": 1.041015625,
+    "mean_prob": 0.96484375,
+    "min_prob": 0.68798828125,
+    "sds": 0.7959458231925964,
+    "hallucinated": null
+  },
+  {
+    "id": 75,
+    "question": "What is this group referred to as that this Russian composer, who wrote \"The Songs and Dances of Death,\" is a member of?",
+    "gold_answer": "The Five",
+    "context": [
+      "Songs and Dances of Death (Russian: \u041f\u0435\u0441\u043d\u0438 \u0438 \u043f\u043b\u044f\u0441\u043a\u0438 \u0441\u043c\u0435\u0440\u0442\u0438 , \"Pesni i plyaski smerti\") is a song cycle for voice (usually bass or bass-baritone) and piano by Modest Petrovich Mussorgsky, written in the mid-1870s, to poems by Arseny Golenishchev-Kutuzov, a relative of the composer."
+    ],
+    "generated_answer": "The Russian composer Modest Petrovich Mussorgsky, who wrote \"The Songs and Dances of Death,\" is a member of the group known as The Five or The Mighty Handful.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2041015625,
+    "mean_prob": 0.8779296875,
+    "min_prob": 0.1629638671875,
+    "sds": 0.7698326110839844,
+    "hallucinated": null
+  },
+  {
+    "id": 76,
+    "question": "What year did Christopher Nolan's magic-themed drama come out?",
+    "gold_answer": "2006",
+    "context": [
+      "Christopher Nolan (born 1970) is an English-American film director, writer and producer."
+    ],
+    "generated_answer": "The context provided does not specify the release year of any magic-themed drama by Christopher Nolan.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4306640625,
+    "mean_prob": 0.7607421875,
+    "min_prob": 0.2349853515625,
+    "sds": 1.0421440601348877,
+    "hallucinated": null
+  },
+  {
+    "id": 77,
+    "question": "Who was the lead prosecutor for the soilder court-martialed for the premeditated attack at Camp Pennsylvania, Kuwait?",
+    "gold_answer": "Colonel Michael Mulligan",
+    "context": [
+      "Ernest Lou Medina (born August 27, 1936) is a former captain of infantry in the United States Army.  He served during the Vietnam War and was acquitted in a court-martial of war crimes charges in 1971.  He was the commanding officer of Company C, 1st Battalion, 20th Infantry of the 11th Brigade, Americal Division, the unit responsible for the My Lai Massacre of 16 March 1968.  He was court martialed in 1971 for his role in the My Lai Massacre, but acquitted the same year."
+    ],
+    "generated_answer": "The lead prosecutor for the court-martial of Ernest Lou Medina for the premeditated attack at Camp Pennsylvania, Kuwait, was not mentioned in the provided context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2548828125,
+    "mean_prob": 0.84765625,
+    "min_prob": 0.176025390625,
+    "sds": 0.9888786673545837,
+    "hallucinated": null
+  },
+  {
+    "id": 78,
+    "question": "Which tennis player is older, Emilio S\u00e1nchez or Andrei Olhovskiy?",
+    "gold_answer": "Emilio \u00c1ngel S\u00e1nchez Vicario",
+    "context": [
+      "Andrei Stanislavovich Olhovskiy (Russian: \u0410\u043d\u0434\u0440\u0435\u0439 \u0421\u0442\u0430\u043d\u0438\u0441\u043b\u0430\u0432\u043e\u0432\u0438\u0447 \u041e\u043b\u044c\u0445\u043e\u0432\u0441\u043a\u0438\u0439 ) (born 15 April 1966) is a former tennis player from Russia, who turned professional in 1989."
+    ],
+    "generated_answer": "Andrei Olhovskiy is older than Emilio S\u00e1nchez.",
+    "degradation_mode": "k1",
+    "perplexity": 1.173828125,
+    "mean_prob": 0.90283203125,
+    "min_prob": 0.1951904296875,
+    "sds": 0.9267554879188538,
+    "hallucinated": null
+  },
+  {
+    "id": 79,
+    "question": "What year was the early consumer co-operative, in which a 2012 British biographical feature film tells the story of, formed?",
+    "gold_answer": "1844",
+    "context": [
+      "The Chelmsford Star Co-operative Society is an independent consumer co-operative in the United Kingdom."
+    ],
+    "generated_answer": "The early consumer co-operative, which is the subject of the 2012 British biographical film, was formed in 1844.",
+    "degradation_mode": "k1",
+    "perplexity": 1.314453125,
+    "mean_prob": 0.82421875,
+    "min_prob": 0.1329345703125,
+    "sds": 0.9806472659111023,
+    "hallucinated": null
+  },
+  {
+    "id": 80,
+    "question": "What running back ended his career in 2006 and was one of the rushers Matt O'Dwyer blocked for?",
+    "gold_answer": "Curtis Martin",
+    "context": [
+      "Matt O'Dwyer (born September 1, 1972) is a former American football player who played in the National Football League from 1995 to 2005.  A 6-foot-4, 315-pound lineman out of Northwestern University, O'Dwyer played for the New York Jets (1995\u20131998), the Cincinnati Bengals (1999\u20132003), and the Tampa Bay Buccaneers (2004).  He blocked on lines that produced a 1,000-yard rusher in seven of his 10 NFL seasons (Adrian Murrell 1996\u20131997, Curtis Martin 1998 and Corey Dillon 1999\u20132002).  He also helped Dillon to break Walter Payton's single-game NFL record, a 278-yard performance vs. Denver, October 22, 2000 (since surpassed by Jamal Lewis in 2003 and Adrian Peterson in 2007)."
+    ],
+    "generated_answer": "Corey Dillon ended his career in 2006 and was one of the rushers Matt O'Dwyer blocked for.",
+    "degradation_mode": "k1",
+    "perplexity": 1.0517578125,
+    "mean_prob": 0.96240234375,
+    "min_prob": 0.406494140625,
+    "sds": 0.9695160388946533,
+    "hallucinated": null
+  },
+  {
+    "id": 81,
+    "question": "About Time is a  British romantic comedy-drama film that stars an Irish actor and writer who recieved a Bachelor of Arts from where?",
+    "gold_answer": "Dublin Institute of Technology",
+    "context": [
+      "About Time is a 2013 British romantic comedy-drama film about a young man with the special ability to time travel who tries to change his past in order to improve his future.  The film was written and directed by Richard Curtis, and stars Domhnall Gleeson, Rachel McAdams and Bill Nighy.  It was released in the United Kingdom on 4 September 2013."
+    ],
+    "generated_answer": "About Time stars Irish actor Domhnall Gleeson, who received a Bachelor of Arts from the University of Edinburgh.",
+    "degradation_mode": "k1",
+    "perplexity": 1.392578125,
+    "mean_prob": 0.7861328125,
+    "min_prob": 0.153564453125,
+    "sds": 1.0506558418273926,
+    "hallucinated": null
+  },
+  {
+    "id": 82,
+    "question": "In what year were the European Athletics Junior Championships held in the capital of Slovenia?",
+    "gold_answer": "1997",
+    "context": [
+      "The Rhythmic Gymnastics Junior European Championships are the European championships for junior gymnasts for the sport of rhythmic gymnastics.  They were first held in 1987.  Prior to 1993, they were held as a separate event.  Since the 1993 edition in Bucharest, Romania, the Junior European Championships were integrated to the senior European Championships.  The competition is organized by the European Union of Gymnastics."
+    ],
+    "generated_answer": "The European Athletics Junior Championships were held in the capital of Slovenia, Ljubljana, in 2017.",
+    "degradation_mode": "k1",
+    "perplexity": 1.306640625,
+    "mean_prob": 0.82861328125,
+    "min_prob": 0.1103515625,
+    "sds": 0.8287890553474426,
+    "hallucinated": null
+  },
+  {
+    "id": 83,
+    "question": "What star if the Burbs was Canadian?",
+    "gold_answer": "Richard \"Rick\" Ducommun",
+    "context": [
+      "Canadians (French: \"Canadiens / Canadiennes\" ) are people identified with the country of Canada.  This connection may be residential, legal, historical, or cultural.  For most Canadians, several (or all) of these connections exist and are collectively the source of their being \"Canadian\"."
+    ],
+    "generated_answer": "The question seems to be unrelated to the context provided. The Burbs typically refers to suburban areas, and the context discusses Canadians and their connection to the country of Canada.",
+    "degradation_mode": "k1",
+    "perplexity": 1.7392578125,
+    "mean_prob": 0.677734375,
+    "min_prob": 0.0933837890625,
+    "sds": 0.971022367477417,
+    "hallucinated": null
+  },
+  {
+    "id": 84,
+    "question": "What is the name of the studio album that the Miley Cyrus song, Who Owns My Heart is on?",
+    "gold_answer": "Can't Be Tamed",
+    "context": [
+      "\"Who Owns My Heart\" is a song by American singer Miley Cyrus for her third studio album \"Can't Be Tamed\" (2010).  The song was written by Cyrus, Antonina Armato, Tim James and Devrim Karaoglu, and produced by Armato and James.  \"Who Owns My Heart\" was released on October 22, 2010 by Hollywood Records as the second and final single from Cyrus' third studio album \"Can't Be Tamed\" only in selected European countries.  It would become her final overall release with Hollywood Records after signing with RCA Records in 2013.  The song was written about the feelings a club's environment can lead someone to believe.  \"Who Owns My Heart\" is musically club-oriented and driven by synths.  Lyrically, the song speaks of meeting a potential love interest at a nightclub."
+    ],
+    "generated_answer": "The Miley Cyrus song \"Who Owns My Heart\" is on the studio album \"Can't Be Tamed.\"",
+    "degradation_mode": "k1",
+    "perplexity": 1.103515625,
+    "mean_prob": 0.92138671875,
+    "min_prob": 0.49560546875,
+    "sds": 0.5311099886894226,
+    "hallucinated": null
+  },
+  {
+    "id": 85,
+    "question": "Ralph Hefferline was a psychology professor at a university that is located in what city?",
+    "gold_answer": "New York City",
+    "context": [
+      "George Mandler (June 11, 1924 \u2013 May 6, 2016) was an Austrian-born American psychologist, who became a distinguished professor of psychology at the University of California, San Diego."
+    ],
+    "generated_answer": "Ralph Hefferline was a psychology professor at the University of California, San Diego, which is located in San Diego, California.",
+    "degradation_mode": "k1",
+    "perplexity": 1.09765625,
+    "mean_prob": 0.92041015625,
+    "min_prob": 0.529296875,
+    "sds": 0.9318931102752686,
+    "hallucinated": null
+  },
+  {
+    "id": 86,
+    "question": "Palestine Brigade RAF was a response to which English soldier's request for an air formation?",
+    "gold_answer": "Field Marshal Edmund Henry Hynman Allenby",
+    "context": [
+      "Squadron Leader Hugh Joseph \"Huseph\" Riddle RAF (1912\u20132009) was a World War II Royal Air Force fighter pilot during the Battle of Britain."
+    ],
+    "generated_answer": "The context provided does not mention the Palestine Brigade RAF or any request from an English soldier for an air formation. Therefore, it is not possible to answer the question based on the given context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.380859375,
+    "mean_prob": 0.78759765625,
+    "min_prob": 0.20947265625,
+    "sds": 0.9241284728050232,
+    "hallucinated": null
+  },
+  {
+    "id": 87,
+    "question": "Between Pine and Butea, which genus has the greatest number of species?",
+    "gold_answer": "\"Pinus\"",
+    "context": [
+      "A pine is any conifer in the genus Pinus, , of the family Pinaceae.  \"Pinus\" is the sole genus in the subfamily Pinoideae.  The Plant List compiled by the Royal Botanic Gardens, Kew and Missouri Botanical Garden accepts 126 species names of pines as current, together with 35 unresolved species and many more synonyms."
+    ],
+    "generated_answer": "Pine has the greatest number of species, with 126 accepted species names, compared to Butea.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2373046875,
+    "mean_prob": 0.849609375,
+    "min_prob": 0.2376708984375,
+    "sds": 0.859927773475647,
+    "hallucinated": null
+  },
+  {
+    "id": 88,
+    "question": "Which eight-time Academy Award nominee was Tennessee Williams's choice to play a leading role in his play \"Clothes for a Summer Hotel\"?",
+    "gold_answer": "Geraldine Page",
+    "context": [
+      "Clothes for a Summer Hotel is a 1980 play by Tennessee Williams about the relationship between novelist F. Scott Fitzgerald and his wife Zelda.  A critical and commercial failure, it was Williams' last play to debut on Broadway during his lifetime.  The play takes place over a one-day visit Scott pays the institutionalized Zelda at Highland Mental Hospital in Asheville, North Carolina, with a series of flashbacks to their marriage in the twenties.  Williams began work in 1976 on what he envisioned as a \"long play\" about the Fitzgeralds (he eventually cut it down), and had Geraldine Page in mind to play Zelda from the start."
+    ],
+    "generated_answer": "Geraldine Page was the eight-time Academy Award nominee chosen by Tennessee Williams to play a leading role in his play \"Clothes for a Summer Hotel.\"",
+    "degradation_mode": "k1",
+    "perplexity": 1.1201171875,
+    "mean_prob": 0.93359375,
+    "min_prob": 0.153564453125,
+    "sds": 0.9233888983726501,
+    "hallucinated": null
+  },
+  {
+    "id": 89,
+    "question": "Orson Welles made Filming the Trial, a making-of film of the production of The Trial, which was originally filmed where?",
+    "gold_answer": "Europe",
+    "context": [
+      "Filming 'The Trial' is an unfinished making-of film by Orson Welles, made in 1981, which focuses on the production of his 1962 film \"The Trial\"."
+    ],
+    "generated_answer": "Filming 'The Trial' by Orson Welles was originally filmed in Prague.",
+    "degradation_mode": "k1",
+    "perplexity": 1.59765625,
+    "mean_prob": 0.76513671875,
+    "min_prob": 0.055877685546875,
+    "sds": 0.6128792762756348,
+    "hallucinated": null
+  },
+  {
+    "id": 90,
+    "question": "Which songwriting duo composed music for \"La La Land\", and created lyrics for \"A Christmas Story: The Musical\"? ",
+    "gold_answer": "Pasek & Paul",
+    "context": [
+      "\"La La Land\" is a 2016 American romantic musical comedy-drama film written and directed by Damien Chazelle.  Starring Ryan Gosling and Emma Stone, the film focuses on two young people struggling to make ends meet in Los Angeles, while pursuing their dreams as artists.  Justin Hurwitz composed the film's musical score, while Linus Sandgren was the cinematographer.  David and Sandy Reynolds-Wasco were responsible for the production design and Mary Zophres designed the costumes."
+    ],
+    "generated_answer": "The songwriting duo that composed music for \"La La Land\" is Justin Hurwitz. However, the creators of the lyrics for \"A Christmas Story: The Musical\" are not mentioned in the provided context.",
+    "degradation_mode": "k1",
+    "perplexity": 1.224609375,
+    "mean_prob": 0.8642578125,
+    "min_prob": 0.1502685546875,
+    "sds": 0.8628830313682556,
+    "hallucinated": null
+  },
+  {
+    "id": 91,
+    "question": "Who starred in Love and other drugs and The Simpsons?",
+    "gold_answer": "Henry Albert \"Hank\" Azaria",
+    "context": [
+      "\"The Simpsons Spin-Off Showcase\" is the twenty-fourth episode of the eighth season of \"The Simpsons\".  It originally aired on the Fox network in the United States on May 11, 1997.  The episode centers on fictional pilot episodes of non-existent television series derived from \"The Simpsons\", and is a parody of the tendency of networks to spin off characters from a hit series.  As such it includes references to many different TV series.  The first fictional spin-off is \"Chief Wiggum P.I.\", a cop-drama featuring Chief Wiggum and Seymour Skinner.  The second is \"The Love-matic Grampa\", a sitcom featuring Moe Szyslak who receives dating advice from Abraham Simpson, whose ghost is possessing a love testing machine.  The final segment is \"The Simpson Family Smile-Time Variety Hour\", a variety show featuring the Simpson family except for Lisa, who has been replaced."
+    ],
+    "generated_answer": "\"Love and other drugs\" starred Jennifer Aniston, while \"The Simpsons\" starred Dan Castellaneta as Homer Simpson.",
+    "degradation_mode": "k1",
+    "perplexity": 1.48828125,
+    "mean_prob": 0.771484375,
+    "min_prob": 0.10552978515625,
+    "sds": 0.9867260456085205,
+    "hallucinated": null
+  },
+  {
+    "id": 92,
+    "question": "Who was the director of 1935 American crime drama film, which was the feature film debut if the classic actor born on May 20,1908 ?",
+    "gold_answer": "Tim Whelan",
+    "context": [
+      "Herman C. Raymaker (22 January 1893 \u2013 6 March 1944) was an American film director and actor.  He directed 51 films between 1917 and 1934.  His last two films as director were \"Trailing the Killer\" (1932) and \"Adventure Girl\" (1934)."
+    ],
+    "generated_answer": "The classic actor born on May 20, 1908, who made his feature film debut in a 1935 American crime drama film, was Humphrey Bogart. The director of that film was William Wyler.",
+    "degradation_mode": "k1",
+    "perplexity": 1.244140625,
+    "mean_prob": 0.84716796875,
+    "min_prob": 0.257080078125,
+    "sds": 0.9683130979537964,
+    "hallucinated": null
+  },
+  {
+    "id": 93,
+    "question": "What is the year of the event which orrurred first, Beecher's Handmade Cheese was founded, or Pike Place Market opened?",
+    "gold_answer": "1907",
+    "context": [
+      "Pike Place Market is a public market overlooking the Elliott Bay waterfront in Seattle, Washington, United States.  The Market opened August 17, 1907, and is one of the oldest continuously operated public farmers' markets in the United States.  It is a place of business for many small farmers, craftspeople and merchants. Named after the central street, Pike Place runs northwest from Union Street to Virginia Street.  With more than 10 million visitors annually, Pike Place Market is Seattle's most popular tourist destination and is the 33rd most visited tourist attraction in the world."
+    ],
+    "generated_answer": "Pike Place Market opened first in 1907.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2548828125,
+    "mean_prob": 0.845703125,
+    "min_prob": 0.309326171875,
+    "sds": 0.7410429120063782,
+    "hallucinated": null
+  },
+  {
+    "id": 94,
+    "question": "When did the game which held three times in  in East Asia first held ",
+    "gold_answer": "in 1896",
+    "context": [
+      "The 9th Asian Games were held from November 19, 1982, to December 4, 1982, in Delhi, India.  74 Asian and Asian Games records were broken at the event.  This was also the first Asiad to be held under the aegis of the Olympic Council of Asia."
+    ],
+    "generated_answer": "The 9th Asian Games first held in Delhi, India, from November 19, 1982, to December 4, 1982.",
+    "degradation_mode": "k1",
+    "perplexity": 1.177734375,
+    "mean_prob": 0.8994140625,
+    "min_prob": 0.11688232421875,
+    "sds": 0.4614250659942627,
+    "hallucinated": null
+  },
+  {
+    "id": 95,
+    "question": "What was the given name of the singer who is most closely associated with The Dakotas ?",
+    "gold_answer": "William Howard Ashton,",
+    "context": [
+      "The Dakotas is a group of British musicians, which initially convened as a backing band in Manchester, England.  However, they are most closely associated with the singer Billy J. Kramer, a Liverpudlian who was the lead vocalist for the group during the 1960s.  In the U.S., they are regarded as part of the British Invasion."
+    ],
+    "generated_answer": "The singer most closely associated with The Dakotas was Billy J. Kramer.",
+    "degradation_mode": "k1",
+    "perplexity": 1.37890625,
+    "mean_prob": 0.8291015625,
+    "min_prob": 0.11505126953125,
+    "sds": 0.6213234663009644,
+    "hallucinated": null
+  },
+  {
+    "id": 96,
+    "question": "UFO Magazine covers what subject named for Charles Hoy Fort?",
+    "gold_answer": "Fortean",
+    "context": [
+      "Charles Hoy Fort (August 6, 1874 \u2013 May 3, 1932) was an American writer and researcher who specialized in anomalous phenomena.  The terms \"Fortean\" and \"Forteana\" are sometimes used to characterize various such phenomena.  Fort's books sold well and are still in print.  His work continues to inspire admirers, who refer to themselves as \"Forteans\", and has influenced some aspects of science fiction."
+    ],
+    "generated_answer": "UFO Magazine covers anomalous phenomena named after Charles Hoy Fort, often referred to as Fortean.",
+    "degradation_mode": "k1",
+    "perplexity": 1.494140625,
+    "mean_prob": 0.7919921875,
+    "min_prob": 0.09130859375,
+    "sds": 0.6990798115730286,
+    "hallucinated": null
+  },
+  {
+    "id": 97,
+    "question": "What college did the person who defeated Fedor Emelianenko play football at?",
+    "gold_answer": "Purdue University",
+    "context": [
+      "Nathaniel \"Nate\" Northington (born 1947) was the first African-American to play college football in the Southeastern Conference (SEC).  He became the first black athlete to play in an athletic contest of any kind in the SEC when his University of Kentucky Wildcats played Ole Miss in Lexington, Kentucky on Sept. 30, 1967."
+    ],
+    "generated_answer": "Nathaniel \"Nate\" Northington played college football at the University of Kentucky.",
+    "degradation_mode": "k1",
+    "perplexity": 1.09375,
+    "mean_prob": 0.9375,
+    "min_prob": 0.37451171875,
+    "sds": 0.6368018388748169,
+    "hallucinated": null
+  },
+  {
+    "id": 98,
+    "question": "Elizabeth Austin wrote for a fitness magazine founded by who?",
+    "gold_answer": "Christine MacIntyre",
+    "context": [
+      "Fitness is a United States-based women's magazine, focusing on health, exercise, and nutrition.  It is owned and published by the Meredith Corporation.  The editor-in-chief of \"Fitness\" is Betty Wong."
+    ],
+    "generated_answer": "Elizabeth Austin wrote for a fitness magazine founded by the Meredith Corporation.",
+    "degradation_mode": "k1",
+    "perplexity": 1.08203125,
+    "mean_prob": 0.93701171875,
+    "min_prob": 0.5234375,
+    "sds": 0.910007119178772,
+    "hallucinated": null
+  },
+  {
+    "id": 99,
+    "question": "Between Danny Elfman and Fran Healy who has worked in more diverse fields?",
+    "gold_answer": "Elfman",
+    "context": [
+      "Patrick Healy, Pat Healy, Patrick Healey or Pat Healey may refer to:"
+    ],
+    "generated_answer": "Fran Healy has worked in more diverse fields.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1904296875,
+    "mean_prob": 0.884765625,
+    "min_prob": 0.28759765625,
+    "sds": 0.9565856456756592,
+    "hallucinated": null
+  }
+]

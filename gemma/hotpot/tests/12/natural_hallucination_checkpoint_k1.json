@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 0,
+    "question": "What was the population in 2016 of the city that Norman Foote is originally from?",
+    "gold_answer": "631,486",
+    "context": [
+      "Norman is a city in the U.S. state of Oklahoma 20 mi south of downtown Oklahoma City in its metropolitan area.  The population was 110,925 at the 2010 census.  Norman's estimated population of 120,284 in 2015 makes it the third-largest city in Oklahoma, and the city serves as the county seat of Cleveland County."
+    ],
+    "generated_answer": "The text does not provide information about Norman Foote's hometown or its population in 2016. It only describes the population of the city of Norman, Oklahoma.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1089907884597778,
+    "mean_prob": 0.9389021396636963,
+    "min_prob": 0.11918125301599503,
+    "sds": 0.8118480443954468,
+    "hallucinated": null
+  },
+  {
+    "id": 1,
+    "question": "What part of Australia is Alice River and Rupertswood in?",
+    "gold_answer": "Victoria",
+    "context": [
+      "The Big River, a perennial river of the North-East Murray catchment of the Murray-Darling basin, is located in the East Gippsland and alpine regions of Victoria, Australia.  It flows from the northern slopes of Falls Creek in the Australian Alps, joining with the Cobungra River near Anglers Rest to form the Mitta Mitta River."
+    ],
+    "generated_answer": "The provided text does not contain information about Alice River or Rupertswood.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5819730758666992,
+    "mean_prob": 0.857761800289154,
+    "min_prob": 0.004062314052134752,
+    "sds": 1.2348477840423584,
+    "hallucinated": null
+  },
+  {
+    "id": 2,
+    "question": "Which building will have more floors, 15 Penn Plaza, or 247 Cherry?",
+    "gold_answer": "247 Cherry",
+    "context": [
+      "247 Cherry is a seventy seven story residential building under development in the Lower East Side neighborhood of Manhattan, in New York City.  The building was designed by SHoP Architects, and is being developed by JDS Development Group.  Renderings for the building were first released in April 2016.  The building will be adjacent One Manhattan Square."
+    ],
+    "generated_answer": "247 Cherry will have more floors, with seventy-seven stories, compared to 15 Penn Plaza.",
+    "degradation_mode": "k1",
+    "perplexity": 3.1090457439422607,
+    "mean_prob": 0.797040581703186,
+    "min_prob": 7.707871191087179e-06,
+    "sds": 0.7767776846885681,
+    "hallucinated": null
+  },
+  {
+    "id": 3,
+    "question": "The M104 155mm Projectile was specifically designed to carry about 11.7 pounds of what prototypical substance?",
+    "gold_answer": "mustard gas",
+    "context": [
+      "The M20 recoilless rifle was a U.S. 75\u00a0mm caliber recoilless rifle used during the last months of the Second World War and extensively during the Korean War.  It could be fired from an M1917A1 .30 caliber machine gun tripod, or from a vehicle mount, typically a Jeep.  Its shaped charge warhead, also known as HEAT, was capable of penetrating 100\u00a0mm of armor.  Although the weapon proved ineffective against the T-34 tank during the Korean War, it was used primarily as a close infantry support weapon to engage all types of targets including infantry and lightly armored vehicles.  The M20 proved useful against pillboxes and other types of field fortifications."
+    ],
+    "generated_answer": "The context does not provide information about the M104 155mm projectile or the substance it carried.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4823857545852661,
+    "mean_prob": 0.878905713558197,
+    "min_prob": 0.022967077791690826,
+    "sds": 0.8922039270401001,
+    "hallucinated": null
+  },
+  {
+    "id": 4,
+    "question": "Are Toshi and Warrel Dane both in the band Sanctuary?",
+    "gold_answer": "no",
+    "context": [
+      "Sanctuary is an American heavy metal band founded in Seattle in 1985.  They split up in 1992, but reformed 18 years later.  The band consists of Warrel Dane (vocals), Lenny Rutledge (guitar), Nick Cordle (guitar), George Hernandez (bass), and Dave Budbill (drums).  To date, they have released four studio albums and one live EP."
+    ],
+    "generated_answer": "Yes, Warrel Dane is a vocalist in Sanctuary, and Toshi is not listed as a member.",
+    "degradation_mode": "k1",
+    "perplexity": 13.695663452148438,
+    "mean_prob": 0.6077292561531067,
+    "min_prob": 1.1253516163378663e-07,
+    "sds": 0.9045451879501343,
+    "hallucinated": null
+  },
+  {
+    "id": 5,
+    "question": "Who has a better career-high singles ranking Daniel Vacek or Fabio Fognini ?",
+    "gold_answer": "Fabio Fognini",
+    "context": [
+      "Fabio Fognini (] ; born 24 May 1987) is an Italian professional tennis player who is currently ranked world No. 29 in men's singles by the Association of Tennis Professionals (ATP) and the current Italian No. 1.  His career-high singles ranking is world No. 13, achieved in March 2014, and world No. 7 in doubles, achieved in July 2015.  Fognini's most successful surface is red clay, upon which he won his four ATP singles titles in Stuttgart, Hamburg, Vi\u00f1a del Mar and Umag, reached the quarterfinals of the 2011 French Open and the semifinals of the 2013 Monte-Carlo Masters.  Together with Simone Bolelli, Fognini won the 2015 Australian Open doubles event, becoming the first all Italian men's pair to win a Grand Slam title in the Open era."
+    ],
+    "generated_answer": "Fabio Fognini has a higher career-high singles ranking of world No. 13 compared to Daniel Vacek.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3411533832550049,
+    "mean_prob": 0.90547776222229,
+    "min_prob": 0.004070138093084097,
+    "sds": 0.8418172001838684,
+    "hallucinated": null
+  },
+  {
+    "id": 6,
+    "question": "Which case came first,  Barnes v. Glen Theatre, Inc. or Diamond v. Chakrabarty?",
+    "gold_answer": "Diamond v. Chakrabarty",
+    "context": [
+      "Diamond v. Chakrabarty, 447 U.S. 303 (1980), was a United States Supreme Court case dealing with whether genetically modified organisms can be patented."
+    ],
+    "generated_answer": "Barnes v. Glen Theatre, Inc. came first. Diamond v. Chakrabarty was decided in 1980, while Barnes v. Glen Theatre, Inc. was decided in 1939.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1350010633468628,
+    "mean_prob": 0.9731777310371399,
+    "min_prob": 0.005093205254524946,
+    "sds": 1.0320965051651,
+    "hallucinated": null
+  },
+  {
+    "id": 7,
+    "question": "What man, born in 1963, was instrumental in bringing the Boston Red Sox to the stadium City of Palms Park in Fort Myers, Florida?",
+    "gold_answer": "Mike Greenwell",
+    "context": [
+      "City of Palms Park is a stadium in Fort Myers, Florida primarily used for baseball, although the City of Fort Myers uses the venue for the occasional concert.  It served as the spring training home of the Boston Red Sox from its opening in 1993 to 2011.  Former Boston Red Sox left fielder Mike Greenwell is from Fort Myers, and was instrumental in bringing his team to the city for spring training.  The stadium was built in 1992 for that purpose and holds 8,000 people.  It was also the home of the Red Sox Rookie team, the Gulf Coast League Red Sox, from April through June.  The stadium's name is taken from the city's official nickname."
+    ],
+    "generated_answer": "Mike Greenwell, a former Boston Red Sox left fielder from Fort Myers, was instrumental in bringing the team to City of Palms Park.",
+    "degradation_mode": "k1",
+    "perplexity": 2.3251988887786865,
+    "mean_prob": 0.9210054874420166,
+    "min_prob": 1.6115488676859968e-07,
+    "sds": 0.7972642779350281,
+    "hallucinated": null
+  },
+  {
+    "id": 8,
+    "question": "One of the actors in the film Dhruva Natchathiram was awarded an Honorary Doctorate by the People's University of Milan in what year?",
+    "gold_answer": "2011",
+    "context": [
+      "Nataraja Service (Kannada: \u0ca8\u0c9f\u0cb0\u0cbe\u0c9c \u0cb8\u0cb0\u0ccd\u0cb5\u0cbf\u0cb8\u0ccd ) is a 2016 Indian Kannada language romantic emotional comedy film directed by Pavan Wadeyar, produced by N.S. Rajkumar and presented by Puneeth Rajkumar.  It stars Sharan and Mayuri Kyatari in the lead roles.  The music of the film is composed by Anoop Seelin whilst the cinematography is by Arul K. Somasundaram."
+    ],
+    "generated_answer": "The provided text does not contain information about Dhruva Natchathiram or any awards received by its actors.",
+    "degradation_mode": "k1",
+    "perplexity": 1.054052472114563,
+    "mean_prob": 0.9582585692405701,
+    "min_prob": 0.5465438961982727,
+    "sds": 1.0763683319091797,
+    "hallucinated": null
+  },
+  {
+    "id": 9,
+    "question": "My First Mister co-stars an actor who was best known for his role as what character on the TV series Roseanne?",
+    "gold_answer": "Dan Conner",
+    "context": [
+      "John Mark Galecki (born April 30, 1975) is an American actor.  He is known for playing David Healy in the ABC sitcom \"Roseanne\" from 1992 to 1997 and Dr. Leonard Hofstadter in the CBS sitcom \"The Big Bang Theory\" since 2007.  Galecki also appeared in the films \"National Lampoon's Christmas Vacation\" (1989), \"Prancer\" (1989), \"Suicide Kings\" (1997), \"I Know What You Did Last Summer\" (1997), \"Bookies\" (2003), and \"In Time\" (2011)."
+    ],
+    "generated_answer": "John Galecki, who co-starred in *My First Mister*, was best known for playing David Healy on *Roseanne*.",
+    "degradation_mode": "k1",
+    "perplexity": 2.7052481174468994,
+    "mean_prob": 0.7855024933815002,
+    "min_prob": 0.0014973422512412071,
+    "sds": 0.7163015007972717,
+    "hallucinated": null
+  },
+  {
+    "id": 10,
+    "question": "What was the third studio album released by Richard Melville Hall?",
+    "gold_answer": "Everything Is Wrong",
+    "context": [
+      "Third is the third studio album by English electronic band Portishead.  It was released in the United Kingdom on 28 April 2008 through Island Records, and a day later in the United States through Mercury Records.  The band's first studio album in 11 years, it moved away from the trip hop style they had popularised into a newer style, incorporating influences such as krautrock, surf rock, doo wop, and the film soundtracks of John Carpenter."
+    ],
+    "generated_answer": "The third studio album, titled *Third*, was released by Richard Melville Hall in 2008. It marked a departure from Portishead\u2019s previous trip-hop style, incorporating diverse influences like krautrock and surf rock.",
+    "degradation_mode": "k1",
+    "perplexity": 4.7635369300842285,
+    "mean_prob": 0.7903590798377991,
+    "min_prob": 1.050774578459368e-09,
+    "sds": 0.5396761894226074,
+    "hallucinated": null
+  },
+  {
+    "id": 11,
+    "question": "Luke Rockhold defeated the MMA fighter who was the first to earn a win against which champion in the UFC?",
+    "gold_answer": "Anderson Silva",
+    "context": [
+      "Luke Skyler Rockhold (born October 17, 1984) is an American mixed martial artist competing in the UFC, where he is the former UFC Middleweight Champion.  He won the title on December 12, 2015 by defeating prior champion, the undefeated Chris Weidman via 4th round TKO.  He lost his belt in his first title defense against Michael Bisping, who stepped in after Weidman pulled out of their scheduled rematch.  A two-time world champion, Rockhold also won the Strikeforce Middleweight Championship by defeating Ronaldo Souza on September 10, 2011 via unanimous decision.  Rockhold defended the title twice and was the last man to hold the belt, before Strikeforce was officially taken over by the UFC.  He is currently ranked the #2 middleweight and #12 official pound-for-pound fighter by the UFC and other publications like Fight Matrix and Sherdog.  Luke is also an avid surfer and skateboarder."
+    ],
+    "generated_answer": "Luke Rockhold defeated Chris Weidman, who was the undefeated UFC Middleweight Champion.",
+    "degradation_mode": "k1",
+    "perplexity": 3.903568983078003,
+    "mean_prob": 0.8753403425216675,
+    "min_prob": 1.4449700813656818e-07,
+    "sds": 0.6721612811088562,
+    "hallucinated": null
+  },
+  {
+    "id": 12,
+    "question": "where is the  a county where  Purcell can be found located ",
+    "gold_answer": "the U.S. state of Kansas",
+    "context": [
+      "Purcellville is a town in Loudoun County, Virginia, United States.  The population was 9,232 according to the United States Census 2015 Population Estimate (as of July 1, 2015).  Purcellville is the major population center for western Loudoun and the Loudoun Valley.  Today , many of the older structures remaining in Purcellville reflect the Victorian architecture popular during the early 20th century.  Patrick Henry College is located in the town."
+    ],
+    "generated_answer": "Purcellville is located in Loudoun County, Virginia.",
+    "degradation_mode": "k1",
+    "perplexity": 4.388019561767578,
+    "mean_prob": 0.9165309071540833,
+    "min_prob": 1.955552342280953e-08,
+    "sds": 0.40914905071258545,
+    "hallucinated": null
+  },
+  {
+    "id": 13,
+    "question": "What actor, who passed away in 1942 was also the producer of the stage version of the 1940 spy film which stars Boris Karloff and Margaret Lindsay?",
+    "gold_answer": "George M. Cohan",
+    "context": [
+      "This is the filmography of Boris Karloff.  Born as William Henry Pratt, he joined a touring company and adopted the stage name Boris Karloff.  During these early stages of his career he was mostly left in obscurity.  By 1919, Karloff found regular work as an extra at Universal Studios.  Karloff's first significant hit film was in Howard Hawks's \"The Criminal Code\" (1931).  While shooting \"Graft\", director James Whale convinced Karloff to star as a character in one of his most popular roles as Frankenstein's monster in \"Frankenstein\" which led to him becoming an overnight superstar.  After \"Frankenstein\" and starring in several high-profile films such as \"Bride of Frankenstein\" and \"Scarface\", Karloff spent the remainder of the 1930s continuing to work at an incredible pace, but progressively more into less financially successful films.  Karloff starred in a few acclaimed Val Lewton produced horror films of the 1940s and by the mid-1950s, he was a familiar presence on television hosting his own series including \"Thriller\" and \"The Veil\" and guest starring on such variety programs as \"The Donald O'Connor Show\"."
+    ],
+    "generated_answer": "The provided text does not contain information about the actor who produced the stage version of the 1940 spy film or his death date.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5434141159057617,
+    "mean_prob": 0.8877128958702087,
+    "min_prob": 0.001497471472248435,
+    "sds": 1.1852515935897827,
+    "hallucinated": null
+  },
+  {
+    "id": 14,
+    "question": "Kate Ashfield plays what role in the 2004 British horror comedy film about a zombie uprising?",
+    "gold_answer": "Liz",
+    "context": [
+      "Zombie Chronicles is a 2001 horror film directed by Brad Sykes.  It follows Tara Woodley, a reporter who visits an old desert town to research her article on the ghost town legends from around there.  On the way she picks up the hitchhiker, Ebenezer Jackson, who takes her to an abandoned building where she interviews him via tape recorder."
+    ],
+    "generated_answer": "The provided context is about the 2001 film *Zombie Chronicles*, not a 2004 horror comedy about a zombie uprising. Therefore, I cannot answer the question about Kate Ashfield's role in that film.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5812405347824097,
+    "mean_prob": 0.8526663184165955,
+    "min_prob": 0.0024715603794902563,
+    "sds": 0.9410549402236938,
+    "hallucinated": null
+  },
+  {
+    "id": 15,
+    "question": "What language was spoken by the Native American people whose principal town was Anhaica?",
+    "gold_answer": "Apalachee",
+    "context": [
+      "The Algonquian are one of the most populous and widespread North American native language groups.  Today, thousands of individuals identify with various Algonquian peoples.  Historically, the peoples were prominent along the Atlantic Coast and into the interior along the St. Lawrence River and around the Great Lakes.  This grouping consists of the peoples who speak Algonquian languages."
+    ],
+    "generated_answer": "The context does not specify which Algonquian language was spoken by the people of Anhaica. It only states that the Algonquian peoples speak Algonquian languages.",
+    "degradation_mode": "k1",
+    "perplexity": 1.268811821937561,
+    "mean_prob": 0.910800039768219,
+    "min_prob": 0.014063086360692978,
+    "sds": 0.8486992716789246,
+    "hallucinated": null
+  },
+  {
+    "id": 16,
+    "question": "What is the origin of the National Space Olympiad and Kalpana Chawla ?",
+    "gold_answer": "Indian",
+    "context": [
+      "The National Space Olympiad (NSO) is a science competition conducted in India.  The competition is conducted at the Department of Physics, Cochin University of science and Technology.  Students from class 8 to class 10 can participate in the competition.  The National Space Olympiad is conducted in remembrance of Indian astronaut Kalpana Chawla.  All students participating in NSO are given a Certificate of Participation."
+    ],
+    "generated_answer": "The National Space Olympiad (NSO) was established in India in remembrance of Indian astronaut Kalpana Chawla. It is conducted at Cochin University of Science and Technology and open to students in classes 8-10.",
+    "degradation_mode": "k1",
+    "perplexity": 3.6491456031799316,
+    "mean_prob": 0.8415923714637756,
+    "min_prob": 5.218801746309509e-08,
+    "sds": 0.32775798439979553,
+    "hallucinated": null
+  },
+  {
+    "id": 17,
+    "question": "George Tawengwa was the first black person to buy a farm located in a country now known as which country ?",
+    "gold_answer": "Zimbabwe",
+    "context": [
+      "George William Nicol (1810-1884) was the first African Colonial Secretary of Sierra Leone and was one of few African senior level colonial officials in Freetown during the 19th century.  Nicol belonged to the mulatto Settler class that exerted great influence in Freetown during the 19th century."
+    ],
+    "generated_answer": "The text does not provide information about George Tawengwa or the country where he bought a farm.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2731257677078247,
+    "mean_prob": 0.8654085397720337,
+    "min_prob": 0.14801496267318726,
+    "sds": 1.1328716278076172,
+    "hallucinated": null
+  },
+  {
+    "id": 18,
+    "question": "Which system of parliament was modeled after the United Kingdom and is also used in Canada? ",
+    "gold_answer": "Westminster system",
+    "context": [
+      "The Parliament of the United Kingdom, commonly known as the UK Parliament or British Parliament, is the supreme legislative body in the United Kingdom, British Crown dependencies and British overseas territories.  It alone possesses legislative supremacy and thereby ultimate power over all other political bodies in the UK and its territories.  Its head is the Sovereign of the United Kingdom (currently Queen Elizabeth II) and its seat is the Palace of Westminster in the City of Westminster, one of the boroughs of the British capital, London."
+    ],
+    "generated_answer": "The provided text does not state which system of parliament was modeled after the United Kingdom and used in Canada.",
+    "degradation_mode": "k1",
+    "perplexity": 1.594217300415039,
+    "mean_prob": 0.8571359515190125,
+    "min_prob": 0.018444977700710297,
+    "sds": 0.9854356646537781,
+    "hallucinated": null
+  },
+  {
+    "id": 19,
+    "question": "The revue Putting It Together was devised by Stephen Sondheim and what actress best known as Miss Marple?",
+    "gold_answer": "Julia McKenzie",
+    "context": [
+      "Sondheim on Sondheim is a musical revue consisting of music and lyrics written by Stephen Sondheim for his many shows.  It is conceived and directed by James Lapine.  The revue had a limited run on Broadway in 2010."
+    ],
+    "generated_answer": "The revue was *Sondheim on Sondheim*, not \u201cPutting It Together.\u201d It was devised by Stephen Sondheim and directed by James Lapine, and featured Joan Hickson, best known as Miss Marple.",
+    "degradation_mode": "k1",
+    "perplexity": 3.9348249435424805,
+    "mean_prob": 0.8243381977081299,
+    "min_prob": 1.476351402240894e-10,
+    "sds": 0.8944405317306519,
+    "hallucinated": null
+  },
+  {
+    "id": 20,
+    "question": "Who was born first, Mark Steven Johnson or Robert Thornby?",
+    "gold_answer": "Robert Thornby",
+    "context": [
+      "Mark Steven Johnson (born October 30, 1964) is an American screenwriter, film director, and producer."
+    ],
+    "generated_answer": "The context only provides information about Mark Steven Johnson\u2019s birthdate (October 30, 1964). It does not offer any information about Robert Thornby\u2019s birthdate, so we cannot determine who was born first.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2894282341003418,
+    "mean_prob": 0.9147711992263794,
+    "min_prob": 0.01114356704056263,
+    "sds": 1.0210567712783813,
+    "hallucinated": null
+  },
+  {
+    "id": 21,
+    "question": "The director of a film about Wong Fei-hung also made what film? ",
+    "gold_answer": "\"The 36th Chamber of Shaolin\"",
+    "context": [
+      "The Wong Fei Hung Series is a 1996 Hong Kong television film series of five stories about the Chinese folk hero Wong Fei-hung.  The series was produced by Tsui Hark and starred Vincent Zhao, Maggie Shiu, Max Mok, Lau Shun, Kent Cheng, Hung Yan-yan, Power Chan and Cheung Chun-hung in the leading roles.  It may be regarded as a television series counterpart to the \"Once Upon a Time in China\" film series, which were also produced by Tsui Hark and starred Vincent Zhao in two of the films."
+    ],
+    "generated_answer": "Tsui Hark, the director of the Wong Fei Hung series, also directed films in the \"Once Upon a Time in China\" series, which starred Vincent Zhao.",
+    "degradation_mode": "k1",
+    "perplexity": 2.6956865787506104,
+    "mean_prob": 0.8103057146072388,
+    "min_prob": 4.768123289977666e-06,
+    "sds": 0.5409594178199768,
+    "hallucinated": null
+  },
+  {
+    "id": 22,
+    "question": "Where did the tribe Mato-tope chief over reside?",
+    "gold_answer": "North Dakota",
+    "context": [
+      "Mato-tope (also known as Ma-to-toh-pe or Four Bears, from \"mato\" \"bear\" and \"tope\" \"four\") (c.1784 - July 30, 1837) was the second chief of the Mandan tribe to be known as \"Four Bears,\" a name he earned after charging the Assiniboine tribe during battle with the strength of four bears.  Four Bears lived in the first half of the 19th century on the upper Missouri River in what is now North Dakota.  Four Bears was a favorite subject of artists, painted by George Catlin and Karl Bodmer."
+    ],
+    "generated_answer": "Mato-tope, also known as Four Bears, resided in the upper Missouri River region of what is now North Dakota during the first half of the 19th century.",
+    "degradation_mode": "k1",
+    "perplexity": 4.087218284606934,
+    "mean_prob": 0.8598967790603638,
+    "min_prob": 4.139937814784389e-08,
+    "sds": 0.6670721769332886,
+    "hallucinated": null
+  },
+  {
+    "id": 23,
+    "question": "What is the approximate population of the town near which Forward Operating Base Gibraltar was located ?",
+    "gold_answer": "approximately 14,000",
+    "context": [
+      "Gibraltar ( , or other permutations; ] ) is a British Overseas Territory located on the southern end of the Iberian Peninsula.  It has an area of 2.6 sqmi and shares its northern border with Spain.  The Rock of Gibraltar is the major landmark of the region.  At its foot is a densely populated city area, home to over 30,000 Gibraltarians and other nationalities."
+    ],
+    "generated_answer": "The text states that the densely populated city area at the foot of the Rock of Gibraltar has over 30,000 Gibraltarians and other nationalities.",
+    "degradation_mode": "k1",
+    "perplexity": 1.0129445791244507,
+    "mean_prob": 0.9891176819801331,
+    "min_prob": 0.6790162920951843,
+    "sds": 0.7797778248786926,
+    "hallucinated": null
+  },
+  {
+    "id": 24,
+    "question": "When was the advisor of Alpher\u2013Bethe\u2013Gamow paper died?",
+    "gold_answer": "August 19, 1968",
+    "context": [
+      "Algirdas Jonas \"Algis\" Budrys (January 9, 1931 \u2013 June 9, 2008) was a Lithuanian-American science fiction author, editor, and critic.  He was also known under the pen names Frank Mason, Alger Rome, John A. Sentry, William Scarff, and Paul Janvier."
+    ],
+    "generated_answer": "The provided text does not contain information about when Algirdas Budrys, or any of his pen names, was an advisor on the Alpher\u2013Bethe\u2013Gamow paper.",
+    "degradation_mode": "k1",
+    "perplexity": 3.0673818588256836,
+    "mean_prob": 0.7690182328224182,
+    "min_prob": 1.8518169042636146e-07,
+    "sds": 0.8562019467353821,
+    "hallucinated": null
+  },
+  {
+    "id": 25,
+    "question": "Drachen Fire was a roller coaster located behind which suspended coaster at Busch Gardens Williamsburg?",
+    "gold_answer": "Big Bad Wolf",
+    "context": [
+      "Drachen Fire was a steel roller coaster located at Busch Gardens Williamsburg, in Williamsburg, Virginia.  Operating from 1992 until 1998, the roller coaster was manufactured by Arrow Dynamics.  It featured electric-blue track and silver supports, and was located in the Oktoberfest portion of the park, behind the Big Bad Wolf and Das Festhaus.  The tagline for the ride was \"Feel the Heat.\"  The ride had three separate trains, featuring seven cars each, with each car holding passengers arranged two by two.  The cars were red, with grey seats, and featured red trim lights illuminated the trains at night.  Upon opening, the ride featured a 150 foot tall lift hill, six inversions, and a zero-gravity camel-back hump element.  The ride was shut down in the middle of the 1998 season following a history of low ridership, and complaints of roughness."
+    ],
+    "generated_answer": "Drachen Fire was located behind the Big Bad Wolf at Busch Gardens Williamsburg.",
+    "degradation_mode": "k1",
+    "perplexity": 2.461803913116455,
+    "mean_prob": 0.8673612475395203,
+    "min_prob": 0.00012320317910052836,
+    "sds": 0.879236102104187,
+    "hallucinated": null
+  },
+  {
+    "id": 26,
+    "question": "The Bellagio resort owned by MGM Resorts international is located in which US city?",
+    "gold_answer": "Las Vegas",
+    "context": [
+      "Bellagio is a resort, luxury hotel and casino on the Las Vegas Strip in Paradise, Nevada.  It is owned and operated by MGM Resorts International and was built on the site of the demolished Dunes hotel and casino.  Inspired by the Lake Como town of Bellagio in Italy, Bellagio is famed for its elegance.  One of its most notable features is an 8 acre lake between the building and the Strip, which houses the Fountains of Bellagio, a large dancing water fountain synchronized to music."
+    ],
+    "generated_answer": "The Bellagio resort is located in Las Vegas, Nevada.",
+    "degradation_mode": "k1",
+    "perplexity": 14.72275161743164,
+    "mean_prob": 0.8333380222320557,
+    "min_prob": 3.266131668507727e-13,
+    "sds": 0.5606536865234375,
+    "hallucinated": null
+  },
+  {
+    "id": 27,
+    "question": "H Pistorius & Co is part of the reason for the wealth of the family that includes which South African sprinter?",
+    "gold_answer": "Oscar Leonard Carl Pistorius",
+    "context": [
+      "H Pistorius & Co is a private South African company based in Pretoria, which according to its website is the oldest supplier of agricultural lime in Africa.  The company is also the backbone for the personal wealth of the Pistorius family (one member being Oscar Pistorius)."
+    ],
+    "generated_answer": "H Pistorius & Co is part of the reason for the wealth of the family that includes Oscar Pistorius.",
+    "degradation_mode": "k1",
+    "perplexity": 1.630124807357788,
+    "mean_prob": 0.9545339941978455,
+    "min_prob": 2.1441694116219878e-05,
+    "sds": 0.7436716556549072,
+    "hallucinated": null
+  },
+  {
+    "id": 28,
+    "question": "Meet Market is a 2004 film starring which son of a former prime minister?",
+    "gold_answer": "Julian McMahon",
+    "context": [
+      "The Deal is a 2005 political thriller film directed by Harvey Kahn, starring Christian Slater, Selma Blair, Robert Loggia and Colm Feore.  The movie was filmed in 2004 and based in Boston, Massachusetts.  The film was released only in limited cinemas of USA and United Arab Emirates."
+    ],
+    "generated_answer": "The provided context does not contain information about \"Meet Market\" or any actors' family connections.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2464216947555542,
+    "mean_prob": 0.8907497525215149,
+    "min_prob": 0.07153715193271637,
+    "sds": 1.1516166925430298,
+    "hallucinated": null
+  },
+  {
+    "id": 29,
+    "question": "Who released the song \"With or Without You\" first, Jai McDowall or U2?",
+    "gold_answer": "U2",
+    "context": [
+      "\"Without You\" is the second single to be released from the number-one album \"Join With Us\" by pop/rock band The Feeling. <ref http://www.thefeeling.co.uk/news.php?item=52> Announcement of single release</ref> The band recorded the song in their live set each night during their tour of the UK from 7 March 2008 to 20 March 2008\u2014these recordings became available to download at the time of the single's release. <ref http://www.thefeeling.co.uk/news.php?item=55>Without You live recordings</ref> It peaked at #53 in the UK Singles chart."
+    ],
+    "generated_answer": "The song \"Without You\" was released by The Feeling, who recorded it live during their UK tour. Neither Jai McDowall nor U2 were involved in the song's creation.",
+    "degradation_mode": "k1",
+    "perplexity": 4.65518856048584,
+    "mean_prob": 0.8214249610900879,
+    "min_prob": 1.0838639985522036e-09,
+    "sds": 0.7081150412559509,
+    "hallucinated": null
+  },
+  {
+    "id": 30,
+    "question": "Who directed the 2014 American biographical survival drama film which Laura Elizabeth Dern was nominated for the Academy Award for Best Supporting Actress in",
+    "gold_answer": "Jean-Marc Vall\u00e9e",
+    "context": [
+      "Laura Elizabeth Dern (born February 10, 1967) is an American actress.  For her performance in the 1991 film \"Rambling Rose\", she was nominated for the Academy Award for Best Actress, while for her performance in the 2014 film \"Wild\", she was nominated for the Academy Award for Best Supporting Actress.  Her other film roles include \"Mask\" (1985), \"Smooth Talk\" (1985), \"Blue Velvet\" (1986), \"Wild at Heart\" (1990), \"Jurassic Park\" (1993), \"Citizen Ruth\" (1996), \"October Sky\" (1999), \"I Am Sam\" (2001), \"Inland Empire\" (2006), \"The Master\" (2012), \"The Fault in Our Stars\" (2014), and \"\" (2017).  She is known for her collaborations with filmmaker David Lynch, having appeared in four of his films and the 2017 \"Twin Peaks\" revival."
+    ],
+    "generated_answer": "David Lynch directed the 2014 film \"Wild\" in which Laura Elizabeth Dern received an Academy Award nomination for Best Supporting Actress.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5266718864440918,
+    "mean_prob": 0.9179245233535767,
+    "min_prob": 0.0009110512328334153,
+    "sds": 0.6921514272689819,
+    "hallucinated": null
+  },
+  {
+    "id": 31,
+    "question": "What was the code name of The landing barge primarily used to provide hot meals to the landing crew?",
+    "gold_answer": "Operation Neptune",
+    "context": [
+      "A dock landing ship (also called landing ship, dock or LSD) is an amphibious warfare ship with a well dock to transport and launch landing craft and amphibious vehicles.  Some ships with well decks, such as the Soviet Ivan Rogov class, also have bow doors to enable them to deliver vehicles directly onto a beach (like a Landing Ship, Tank).  Modern dock landing ships also operate helicopters."
+    ],
+    "generated_answer": "The provided text does not contain information about a code name for a landing barge or its function of providing hot meals.",
+    "degradation_mode": "k1",
+    "perplexity": 1.4403799772262573,
+    "mean_prob": 0.8488733768463135,
+    "min_prob": 0.015720317140221596,
+    "sds": 1.2222658395767212,
+    "hallucinated": null
+  },
+  {
+    "id": 32,
+    "question": "Which footballer who is an attacking midfielder for Premier League club Stoke City, has Jim Cassell developed?",
+    "gold_answer": "Stephen James Ireland",
+    "context": [
+      "Jim Cassell is a former Youth Academy Director at Manchester City.  He has been responsible for the development of players such as Shaun Wright-Phillips, Joey Barton, Stephen Ireland, Nedum Onuoha, Daniel Sturridge, Michael Johnson and Micah Richards and many others."
+    ],
+    "generated_answer": "Jim Cassell developed Joey Barton, who currently plays as an attacking midfielder for Stoke City.",
+    "degradation_mode": "k1",
+    "perplexity": 13.530732154846191,
+    "mean_prob": 0.7053399682044983,
+    "min_prob": 2.5507501666410803e-10,
+    "sds": 0.7608989477157593,
+    "hallucinated": null
+  },
+  {
+    "id": 33,
+    "question": "Charles Scribner's Sons publishes the books of what author whose books cover subjects such as the Cold War, mathematics, politics, and economics, and global terrorism?",
+    "gold_answer": "Donald Richard \"Don\" DeLillo",
+    "context": [
+      "Charles Scribner's Sons, or simply Scribner's or Scribner, is an American publisher based in New York City, known for publishing American authors including Ernest Hemingway, F. Scott Fitzgerald, Kurt Vonnegut, Marjorie Kinnan Rawlings, Stephen King, Robert A. Heinlein, Thomas Wolfe, George Santayana, John Clellon Holmes, Don DeLillo and Edith Wharton."
+    ],
+    "generated_answer": "The text does not provide information about an author who writes on those specific subjects. It only lists authors published by Charles Scribner's Sons, such as Ernest Hemingway and Stephen King.",
+    "degradation_mode": "k1",
+    "perplexity": 1.8509199619293213,
+    "mean_prob": 0.7729613780975342,
+    "min_prob": 0.021597731858491898,
+    "sds": 0.8122557997703552,
+    "hallucinated": null
+  },
+  {
+    "id": 34,
+    "question": "Who is the lead vocalist for Maroon 5's sixth studio album?",
+    "gold_answer": "Adam Levine",
+    "context": [
+      "Maroon 5 is an American pop rock band that originated in Los Angeles, California.  It currently consists of lead vocalist Adam Levine, keyboardist and rhythm guitarist Jesse Carmichael, bassist Mickey Madden, lead guitarist James Valentine, drummer Matt Flynn and keyboardist PJ Morton."
+    ],
+    "generated_answer": "The context doesn't specify the lead vocalist for any particular album. It only states that Adam Levine is the lead vocalist for Maroon 5.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5958150625228882,
+    "mean_prob": 0.8161924481391907,
+    "min_prob": 0.008424443192780018,
+    "sds": 0.7290557622909546,
+    "hallucinated": null
+  },
+  {
+    "id": 35,
+    "question": "How close to Louisville was Randal Malone born?",
+    "gold_answer": "107 mi southwest of Louisville",
+    "context": [
+      "William Bradley (June 16, 1941) was an American basketball player.  He attended Central High School in Louisville, Kentucky."
+    ],
+    "generated_answer": "The context does not provide information about Randal Malone's birthplace. It only details William Bradley's background.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5202594995498657,
+    "mean_prob": 0.8496967554092407,
+    "min_prob": 0.02501266449689865,
+    "sds": 1.000436782836914,
+    "hallucinated": null
+  },
+  {
+    "id": 36,
+    "question": "Kung Fu Magoo is a Mexican-American animated action comedy film with an English voice cast star best known for her roll as what in \"Naruto\"? ",
+    "gold_answer": "Naruto Uzumaki",
+    "context": [
+      "Kung Fu Magoo is a Mexican-American animated action comedy film based on the \"Mr. Magoo\" character, created by Millard Kaufman and John Hubley.  This film was produced by Classic Media, \u00c1nima Estudios, and Santo Domingo Films.  This film was also produced by Motion Toons, a new animation studio created in conjunction of \u00c1nima Estudios, and Santo Domingo Films.  English voice-cast stars Dylan and Cole Sprouse, Alyson Stoner and voice actors Tom Kenny, Rodger Bumpass, Jim Conroy, Chris Parnell, and Maile Flanagan."
+    ],
+    "generated_answer": "Alyson Stoner, known for her role as Blair in \"Naruto,\" is an English voice actor in \"Kung Fu Magoo.\"",
+    "degradation_mode": "k1",
+    "perplexity": 5.140886306762695,
+    "mean_prob": 0.7535309195518494,
+    "min_prob": 5.4090405683382414e-06,
+    "sds": 0.9015902876853943,
+    "hallucinated": null
+  },
+  {
+    "id": 37,
+    "question": "Are Cryptanthus and Gagea, both a genus?",
+    "gold_answer": "yes",
+    "context": [
+      "Cryptanthus is a genus in the botanical family Bromeliaceae, subfamily Bromelioideae.  The genus name is from the Greek \u201ccryptos\u201d (hidden) and \u201canthos\u201d (flower).  This genus has two recognized subgenera: the type subgenus and \"Hoplocryptanthus\" .  All species of this genus are endemic to Brazil.  The common name for any \"Cryptanthus\" is \"Earth Star\"."
+    ],
+    "generated_answer": "No, Cryptanthus is a genus within the Bromeliaceae family, while Gagea is a separate genus of flowering plants.",
+    "degradation_mode": "k1",
+    "perplexity": 8.984332084655762,
+    "mean_prob": 0.7046836614608765,
+    "min_prob": 3.222795186275107e-08,
+    "sds": 0.8091845512390137,
+    "hallucinated": null
+  },
+  {
+    "id": 38,
+    "question": "David Thewlis had a performance in the film Macbeth as which father of Malcolm and Donalbain?",
+    "gold_answer": "King Duncan",
+    "context": [
+      "Donalbain is a character in William Shakespeare's \"Macbeth\" (c. 1603\u20131607).  He is the younger son of King Duncan and brother to Malcolm, the heir to the throne.  Donalbain flees to Ireland after the murder of his father for refuge."
+    ],
+    "generated_answer": "David Thewlis played King Duncan, the father of Malcolm and Donalbain in the film Macbeth.",
+    "degradation_mode": "k1",
+    "perplexity": 12.851215362548828,
+    "mean_prob": 0.8080623149871826,
+    "min_prob": 2.646546759521584e-09,
+    "sds": 0.6295686960220337,
+    "hallucinated": null
+  },
+  {
+    "id": 39,
+    "question": "An American Werewolf in Paris was a partial sequel to the comedy film starring whom?",
+    "gold_answer": "David Naughton, Jenny Agutter and Griffin Dunne",
+    "context": [
+      "An American Werewolf in Paris is a 1997 comedy horror film directed by Anthony Waller, co-written by Tim Burns, Tom Stern, and Waller, and starring Tom Everett Scott and Julie Delpy.  It follows the general concept of, and is a loose sequel to, John Landis' 1981 film \"An American Werewolf in London\".  The film is an international co-production between companies from the Netherlands, Luxembourg, the United States, and France."
+    ],
+    "generated_answer": "An American Werewolf in Paris was a partial sequel to the comedy film starring John Landis.",
+    "degradation_mode": "k1",
+    "perplexity": 2.6471049785614014,
+    "mean_prob": 0.9042631387710571,
+    "min_prob": 5.111382961331401e-08,
+    "sds": 0.6001571416854858,
+    "hallucinated": null
+  },
+  {
+    "id": 40,
+    "question": "High Water is a song by Bob Dylan it was based on the 1927 Lousiana Flood. Another song recorded by Dylan about the event is When the Levee Breaks who is the Husband and Wife team that wrote and recorded this song in 1929 ?",
+    "gold_answer": "Joe McCoy and Memphis Minnie",
+    "context": [
+      "\"High Water (For Charley Patton)\" is a song by Bob Dylan, released on his 31st studio album \"\"Love and Theft\"\" in 2001.  The song draws its title from the Charley Patton song \"High Water Everywhere\", and is meant as a tribute to that bluesman.  It is one of many songs based on the 1927 Louisiana flood.  Other songs about the event include Memphis Minnie's \"When the Levee Breaks\" (also recorded by Dylan on his \"Modern Times\" album as \"The Levee's Gonna Break\"), and Randy Newman's \"Louisiana 1927\"."
+    ],
+    "generated_answer": "The question asks about a husband and wife team who wrote and recorded \"When the Levee Breaks,\" but the context only states that Memphis Minnie recorded it. It does not provide information about the songwriters' relationship.",
+    "degradation_mode": "k1",
+    "perplexity": 1.702125906944275,
+    "mean_prob": 0.8381409645080566,
+    "min_prob": 0.0024726029951125383,
+    "sds": 1.0262430906295776,
+    "hallucinated": null
+  },
+  {
+    "id": 41,
+    "question": "What is the nationality of the author of Fifty Shades Freed?",
+    "gold_answer": "English",
+    "context": [
+      "Fifty Shades Freed is the third and final installment of the erotic romance \"Fifty Shades Trilogy\" by British author E. L. James.  After accepting entrepreneur CEO Christian Grey's proposal in \"Fifty Shades Darker\", Anastasia Steele must adjust not only to married life but to her new husband's wealthy lifestyle and controlling nature.  The paperback edition was first published in April 2012."
+    ],
+    "generated_answer": "The author of Fifty Shades Freed, E. L. James, is British.",
+    "degradation_mode": "k1",
+    "perplexity": 6.219057559967041,
+    "mean_prob": 0.8094364404678345,
+    "min_prob": 1.2501528701136522e-09,
+    "sds": 0.7375828623771667,
+    "hallucinated": null
+  },
+  {
+    "id": 42,
+    "question": " Who was the husband of the prominent Walton family member who died after John died in 2005?",
+    "gold_answer": "Sam Walton",
+    "context": [
+      "The Walton family is an American family whose collective fortune makes them among the richest families in the world.  The majority of their wealth derives from the heritage of Bud and Sam Walton, who were the co-founders of the world's largest retailer, Walmart.  The three most prominent living members (Jim, Rob and Alice) have consistently been in the top ten of the \"Forbes\" 400 since 2001, as were John ( 2005) and Helen (d. 2007) prior to their deaths.  Christy Walton took her husband John's place after his death."
+    ],
+    "generated_answer": "The husband of Alice Walton, who was in the Forbes 400 in 2005, was John Walton.",
+    "degradation_mode": "k1",
+    "perplexity": 2.26627516746521,
+    "mean_prob": 0.8195784091949463,
+    "min_prob": 9.579323523212224e-05,
+    "sds": 0.8028187155723572,
+    "hallucinated": null
+  },
+  {
+    "id": 43,
+    "question": "What company founded in 1886 has owned the K-Y brand?",
+    "gold_answer": "Johnson & Johnson",
+    "context": [
+      "K\u00b7B Toys (known as Kay Bee Toys until 1997) was a chain of mall-based retail toy stores in the United States.  Founded in 1922, it operated, at its height, 1300 stores across all 50 states, and went out of business in 2009.  International retailer Toys \"R\" Us acquired the remains of K\u00b7B Toys, consisting mainly of its website, trademarks, and intellectual property rights."
+    ],
+    "generated_answer": "The provided text does not contain information about which company founded the K-Y brand. It states that Toys \"R\" Us acquired the remains of K\u00b7B Toys.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6722151041030884,
+    "mean_prob": 0.8832325339317322,
+    "min_prob": 6.117570592323318e-05,
+    "sds": 0.6923441290855408,
+    "hallucinated": null
+  },
+  {
+    "id": 44,
+    "question": "Are Eve Beglarian and Zach Bogosian both of Armenian descent?",
+    "gold_answer": "yes",
+    "context": [
+      "Eve Beglarian (born Ann Arbor, Michigan, U.S., July 22, 1958) is a contemporary American composer, performer and audio producer of Armenian descent.  Her music is often characterized as postminimalist."
+    ],
+    "generated_answer": "The text states that Eve Beglarian is of Armenian descent, but it does not provide information about Zach Bogosian's heritage.",
+    "degradation_mode": "k1",
+    "perplexity": 1.366563320159912,
+    "mean_prob": 0.90641850233078,
+    "min_prob": 0.0015011822106316686,
+    "sds": 0.8414663076400757,
+    "hallucinated": null
+  },
+  {
+    "id": 45,
+    "question": "The Rome Protocols were signed by three Prime Ministers one of which was assassinated as part of what?",
+    "gold_answer": "a failed coup attempt",
+    "context": [
+      "The Rome Protocols were a series of three international agreements signed in Rome on 17 March 1934 between the governments of Austria, Hungary and Italy.  They were signed by Italian Prime Minister Benito Mussolini, Austrian Prime Minister Engelbert Dollfuss and Hungarian Prime Minister Gyula G\u00f6mb\u00f6s.  All the three protocols went into effect on 12 July 1934 and were registered in \"League of Nations Treaty Series\" on 12 December 1934."
+    ],
+    "generated_answer": "The Rome Protocols were signed by Benito Mussolini (Italy), Engelbert Dollfuss (Austria), and Gyula G\u00f6mb\u00f6s (Hungary). G\u00f6mb\u00f6s was assassinated as part of a broader political upheaval in Hungary related to the Protocols.",
+    "degradation_mode": "k1",
+    "perplexity": 2.105790138244629,
+    "mean_prob": 0.9008626341819763,
+    "min_prob": 4.663997060561087e-06,
+    "sds": 0.7058878540992737,
+    "hallucinated": null
+  },
+  {
+    "id": 46,
+    "question": "Which Company published a magazine that was a hybrid video game/film, Red Herring or GameFan?",
+    "gold_answer": "GameFan",
+    "context": [
+      "GameFan (originally known as Diehard GameFan) was a publication started by Tim Lindquist and Dave Halverson in September 1992 that provided coverage of domestic and import video games.  It was notable for its extensive use of game screenshots in page design because of the lack of good screen shots in other U.S. publications at the time.  The original magazine ceased publishing in December 2000.  On April 2010, Halverson relaunched GameFan as a hybrid video game/film magazine.  However, this relaunch was short-lived and suffered from many internal conflicts, advertising revenue being the main one."
+    ],
+    "generated_answer": "GameFan published a magazine that was a hybrid video game/film magazine. Red Herring did not.",
+    "degradation_mode": "k1",
+    "perplexity": 5.202325344085693,
+    "mean_prob": 0.8499612808227539,
+    "min_prob": 1.6945901961662457e-06,
+    "sds": 0.8198458552360535,
+    "hallucinated": null
+  },
+  {
+    "id": 47,
+    "question": "What phone series serves as the successor to phones officially unveiled at the \"Samsung Unpacked 2015\" event?",
+    "gold_answer": "The S7 series",
+    "context": [
+      "Samsung Galaxy S6, Samsung Galaxy S6 Edge, and Samsung Galaxy S6 Edge+ are Android smartphones manufactured and marketed by Samsung Electronics.  The S6 line serves as a successor to the Galaxy S5.  The S6 and S6 Edge smartphones were officially unveiled in the first \"Samsung Unpacked 2015\" event at Mobile World Congress on 1 March 2015, while the bigger S6 Edge+ was officially unveiled together with the Samsung Galaxy Note 5 in the second \"Samsung Unpacked 2015\" event at New York on 13 August 2015.  Alongside the S6, Samsung also unveiled the S6 Edge (and later on the bigger S6 Edge+), a variant whose screen is wrapped along the sides of the device; the curvature is usable for several additional features.  The Galaxy S6 and S6 Edge were released on 10 April 2015 in 20 countries while the S6 Edge+ was released on 21 August 2015 in 20 countries."
+    ],
+    "generated_answer": "The Samsung Galaxy S6 and S6 Edge series served as the successors to the Galaxy S5, which were officially unveiled at the \"Samsung Unpacked 2015\" event.",
+    "degradation_mode": "k1",
+    "perplexity": 2.3084375858306885,
+    "mean_prob": 0.8678946495056152,
+    "min_prob": 2.7535686967894435e-05,
+    "sds": 0.5442501902580261,
+    "hallucinated": null
+  },
+  {
+    "id": 48,
+    "question": "Who has more scope of profession, Bob Fosse or Angelina Jolie?",
+    "gold_answer": "Robert Louis Fosse",
+    "context": [
+      "Justice Howard (born in San Francisco, California) is an American photographer best known for her work shooting Erotica, Pin-up and Celebrities.  She really is an \"\"artist-without-adjective\"\" whose work has appeared in over 50 hardcover books and in thousands of magazines internationally including French Vogue (magazine), Esquire (magazine), Easyriders, Playboy, Cosmopolitan (magazine), People Magazine, In Touch Weekly, Skin Two, and a 25-page spread in Bound By Ink Magazine, as well as being displayed in over 60 art gallery exhibits and numerous museum shows.  She has also been featured in DANKLOOK's 'On Women in Black and White Fine Art Photography' alongside Irving Penn and Helmut Newton and is currently the favorite artist on the site.  Her photography features themes of female empowerment, freedom, and inner strength.  She was previously a model before \u2018graduating to photography\u2019 and training under a master German photographer who had previously photographed Marilyn Monroe.  Her work has been compared to Annie Leibovitz and Herb Ritts."
+    ],
+    "generated_answer": "Based on the text, Angelina Jolie has a broader scope of profession, as Justice Howard has exhibited her work in art galleries, museums, and numerous magazines, while Bob Fosse was primarily a choreographer.",
+    "degradation_mode": "k1",
+    "perplexity": 2.7293429374694824,
+    "mean_prob": 0.7347478866577148,
+    "min_prob": 3.054243222777586e-07,
+    "sds": 0.9019148945808411,
+    "hallucinated": null
+  },
+  {
+    "id": 49,
+    "question": "How many Academy Awards did the film, in which Jimmy Bryant provided the singing voice for the character Tony, win ?",
+    "gold_answer": "10",
+    "context": [
+      "James Howard Bryant (born June 2, 1929) is a singer, arranger and composer.  He is most well known for providing the singing voice of Tony (played onscreen by Richard Beymer) in the 1961 film musical \"West Side Story\".  While he received no screen credit, he states that Beymer was \"a nice guy, and every time he did an interview he would mention my name.\"  He also sang for James Fox in the 1967 film musical \"Thoroughly Modern Millie\", and sang in \"The Telephone Hour\" number in \"Bye Bye Birdie\".  He also sang in the group that performed the theme song of the TV series \"Batman\"."
+    ],
+    "generated_answer": "The film \"West Side Story,\" in which James Howard Bryant provided the singing voice for Tony, won 10 Academy Awards.",
+    "degradation_mode": "k1",
+    "perplexity": 2.965623617172241,
+    "mean_prob": 0.8924353122711182,
+    "min_prob": 5.287055168667898e-11,
+    "sds": 0.732541024684906,
+    "hallucinated": null
+  },
+  {
+    "id": 50,
+    "question": "This singer of A Rather Blustery Day also voiced what hedgehog?",
+    "gold_answer": "Sonic",
+    "context": [
+      "Ryan Drummond (born January 10, 1973) is an American voice actor, singer, actor, clown and comedian.  He is mainly known for voicing Sonic the Hedgehog along with other characters included in the video games series for SEGA from 1998 to 2004 which includes \"Sonic Adventure\", \"Sonic Heroes\", and \"Sonic Shuffle\".  Then, he was succeeded by Jason Griffith for the voice of Sonic, as seen in \"Sonic X\".  He is also known for being the bass vocalist in the A.Y.U. Quartet since 1991.  Recently, he has starred in a musical comedy in San Diego called \"Forever Plaid\"."
+    ],
+    "generated_answer": "Ryan Drummond voiced Sonic the Hedgehog for the SEGA video game series from 1998 to 2004.",
+    "degradation_mode": "k1",
+    "perplexity": 3.201895236968994,
+    "mean_prob": 0.8752959370613098,
+    "min_prob": 1.4738133359060157e-05,
+    "sds": 0.6622447371482849,
+    "hallucinated": null
+  },
+  {
+    "id": 51,
+    "question": "Which documentary film was released first, Chicken Ranch or The End of Suburbia?",
+    "gold_answer": "Chicken Ranch",
+    "context": [
+      "Chicken Ranch is a 1983 documentary film by Nick Broomfield about the famous legalised brothel, the Chicken Ranch, in Pahrump, Nevada.  Photographed by Sandi Sissel."
+    ],
+    "generated_answer": "Chicken Ranch was released in 1983, while The End of Suburbia was released in 2003.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5470398664474487,
+    "mean_prob": 0.8981642127037048,
+    "min_prob": 0.00012339440581854433,
+    "sds": 0.8897087574005127,
+    "hallucinated": null
+  },
+  {
+    "id": 52,
+    "question": "Are Rob Parissi and Robert Pollard both musicians",
+    "gold_answer": "yes",
+    "context": [
+      "Rob \"Blasko\" Nicholson (born November 24, 1969) is a heavy metal bassist.  His influences include the metal bands Iron Maiden, Mot\u00f6rhead and Corrosion of Conformity.  Rob is perhaps best known for his performances on Rob Zombie's solo albums, and is currently part of Ozzy Osbourne's band.  Nicholson is also noted for his contribution as bassist to metal band Cryptic Slaughter within underground metal circles."
+    ],
+    "generated_answer": "No, the text describes Rob Nicholson as a bassist for Rob Zombie and Ozzy Osbourne, not Rob Parissi or Robert Pollard.",
+    "degradation_mode": "k1",
+    "perplexity": 14.240942001342773,
+    "mean_prob": 0.7178527116775513,
+    "min_prob": 1.6586323243680812e-12,
+    "sds": 0.7672855854034424,
+    "hallucinated": null
+  },
+  {
+    "id": 53,
+    "question": "Who was born first, Bobcat Goldthwait or Maurice Elvey?",
+    "gold_answer": "Maurice Elvey",
+    "context": [
+      "Fabian Marley was born on 27 July 1968 in Kingston, Jamaica.  Fabian Marley claimed that Bob Marley is his father, but this was later disproven through DNA analysis.  At the age of 12 Fabian and his mother relocated to Eastern Kingston, Jamaica.  His first encounter with the music was with the Rainbow Band.  While playing with the band he began working with The Skatalites.  He garnered his style of music the orthodox way from mentors, Johnny Moore (trumpeter), Roland Alphanso, and other members from the band.  After mastering the Harmonica he then acquired piano skills and then later learned how to play the guitar."
+    ],
+    "generated_answer": "The text does not provide information about Bobcat Goldthwait or Maurice Elvey, so it\u2019s impossible to answer who was born first.",
+    "degradation_mode": "k1",
+    "perplexity": 2.3805606365203857,
+    "mean_prob": 0.8403255939483643,
+    "min_prob": 4.539783549262211e-05,
+    "sds": 1.0134819746017456,
+    "hallucinated": null
+  },
+  {
+    "id": 54,
+    "question": "What is the pen name of author Carolyn Janice Cherry, who wrote the Fortress Series?",
+    "gold_answer": "Carolyn Janice Cherry (born September 1, 1942), better known by the pen name C. J. Cherryh,",
+    "context": [
+      "Carolyn Janice Cherry (born September 1, 1942), better known by the pen name C. J. Cherryh, is an American writer of speculative fiction.  She has written more than 60 books since the mid-1970s, including the Hugo Award-winning novels \"Downbelow Station\" (1981) and \"Cyteen\" (1988), both set in her Alliance-Union universe.  She is known for \"world building,\" depicting fictional realms with great realism supported by vast research in history, language, psychology, and archeology.  Her series of fantasy novels set in the Alliance-Union universe, the Morgaine Stories, have sold in excess of 3 million copies."
+    ],
+    "generated_answer": "The text does not mention that Carolyn Janice Cherry wrote the Fortress Series. She is known as C. J. Cherryh.",
+    "degradation_mode": "k1",
+    "perplexity": 1.190882921218872,
+    "mean_prob": 0.9242247939109802,
+    "min_prob": 0.04067551717162132,
+    "sds": 0.9290395975112915,
+    "hallucinated": null
+  },
+  {
+    "id": 55,
+    "question": "Who was the winner of the European Cup the year that 39 people were killed?",
+    "gold_answer": "Juventus",
+    "context": [
+      "The 1979\u201380 UEFA Cup was won by Eintracht Frankfurt on away goals over Borussia M\u00f6nchengladbach.  The tournament was notable for all four semi-finalists coming from Germany, with a 5th being eliminated in the quarter-finals.  This is the only time all the semifinalists came from one nation."
+    ],
+    "generated_answer": "The context does not provide information about the 1979-80 UEFA Cup and the deaths of 39 people. It only states that Eintracht Frankfurt won the 1979-80 UEFA Cup.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6452345848083496,
+    "mean_prob": 0.8872727751731873,
+    "min_prob": 0.0006670074653811753,
+    "sds": 0.7683331966400146,
+    "hallucinated": null
+  },
+  {
+    "id": 56,
+    "question": "What casino in Las Vegas which is now operated by MGM Resorts International was developed by William G. Bennett?",
+    "gold_answer": "Excalibur Hotel and Casino",
+    "context": [
+      "William G. Bennett (November 16, 1924-December 22, 2002) was an American gaming executive and real estate developer.  Noted for pioneering Las Vegas as a destination for middle-class tourists and their families, he is best remembered for his establishment of gaming giant Circus Circus Enterprises in 1974.  He served as chairman of Circus Circus between 1974 and 1994.  Under his leadership Circus Circus would go on to develop numerous additional properties throughout Nevada, including the Excalibur and Luxor casinos in Las Vegas.  Following his departure from Circus Circus, Bennett purchased the Sahara Hotel and Casino in Las Vegas in 1995 and operated it until his death in 2002."
+    ],
+    "generated_answer": "William G. Bennett developed the Luxor casino in Las Vegas, which is now operated by MGM Resorts International.",
+    "degradation_mode": "k1",
+    "perplexity": 4.290250778198242,
+    "mean_prob": 0.8634821772575378,
+    "min_prob": 2.8543550037668855e-14,
+    "sds": 0.7997937798500061,
+    "hallucinated": null
+  },
+  {
+    "id": 57,
+    "question": "In what year was the aviator in whose honour the Quai d'Auteuil was renamed born?",
+    "gold_answer": "1872",
+    "context": [
+      "\"The Aviator\" is the 1965 English translation of a short story, \"\", by the French aristocrat writer, poet and pioneering aviator, Antoine de Saint-Exup\u00e9ry (29 June 1900\u00a0\u2013 31 July 1944, \"Mort pour la France\")."
+    ],
+    "generated_answer": "Antoine de Saint-Exup\u00e9ry was born in 1900.",
+    "degradation_mode": "k1",
+    "perplexity": 3.505983829498291,
+    "mean_prob": 0.937497615814209,
+    "min_prob": 1.8189270090118725e-09,
+    "sds": 1.1655038595199585,
+    "hallucinated": null
+  },
+  {
+    "id": 58,
+    "question": "What is the former name of the animal whose habitat the R\u00e9serve Naturelle Lomako Yokokala was established to protect?",
+    "gold_answer": "pygmy chimpanzee",
+    "context": [
+      "Hakalau Forest National Wildlife Refuge is a protected area on the Big Island of Hawai\u02bb i.  It is one of two units, along with the Kona Forest National Wildlife Refuge that is managed as part of the Big Island National Wildlife Refuge Complex.  Access to the Kona Forest is restricted since it contains several endangered species."
+    ],
+    "generated_answer": "The provided context does not contain information about the R\u00e9serve Naturelle Lomako Yokokala or the animals it protects.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3376671075820923,
+    "mean_prob": 0.8676870465278625,
+    "min_prob": 0.07585817575454712,
+    "sds": 1.0067726373672485,
+    "hallucinated": null
+  },
+  {
+    "id": 59,
+    "question": "Which soccer club's head coach was born August 1, 1973?",
+    "gold_answer": "Columbus Crew Soccer Club",
+    "context": [
+      "Siegfried \"Sigi\" Schmid (] ; born March 20, 1953) is a German American soccer coach who is currently the head coach of the Los Angeles Galaxy of Major League Soccer (MLS).  Born in T\u00fcbingen, West Germany, he moved to the United States with his family when he was a child.  He played college soccer from 1972 to 1975 at the University of California, Los Angeles\u00a0(UCLA), where he was a starting midfielder in each of his four years.  He coached his former college team, the UCLA Bruins, between 1980 and 1999.  During that period, he became one of the most successful collegiate coaches of all time, leading the Bruins to a record of 322\u201363\u201333\u00a0(wins\u2013losses\u2013draws).  The team made 16 consecutive playoff appearances from 1983 to 1998, winning the national championship in 1985, 1990, and 1997.  Schmid also worked with U.S. Soccer throughout the 1990s."
+    ],
+    "generated_answer": "The text does not provide the birthdate of Siegfried \"Sigi\" Schmid.",
+    "degradation_mode": "k1",
+    "perplexity": 1.1633244752883911,
+    "mean_prob": 0.9111807942390442,
+    "min_prob": 0.18242216110229492,
+    "sds": 1.1809179782867432,
+    "hallucinated": null
+  },
+  {
+    "id": 60,
+    "question": "Does Jimmy Barnes have more hits, both solo and in a group, than Yang Seung-ho has with his group?",
+    "gold_answer": "yes",
+    "context": [
+      "James Samuel \"Jimmy Jam\" Harris III (born June 6, 1959) and Terry Steven Lewis (born November 24, 1956) are an American R&B songwriting and record production team.  They have enjoyed great success since the 1980s with various artists, most notably Janet Jackson.  They have written 31 top ten hits in the UK and 41 in the US."
+    ],
+    "generated_answer": "The text does not provide information about Jimmy Barnes or Yang Seung-ho, so it\u2019s impossible to answer whether either has more hits than the other.",
+    "degradation_mode": "k1",
+    "perplexity": 1.8746185302734375,
+    "mean_prob": 0.8134820461273193,
+    "min_prob": 0.0015011569485068321,
+    "sds": 1.0358625650405884,
+    "hallucinated": null
+  },
+  {
+    "id": 61,
+    "question": "What type of movie are Wishing Stairs and Voice?",
+    "gold_answer": "South Korean horror film",
+    "context": [
+      "Wishing Stairs ( also known as Whispering Corridors 3: Wishing Stairs) is a 2003 South Korean horror film.  It is the third installment of the \"Whispering Corridors\" film series set in girls high schools, but, as with all films in the series, is unrelated to the others; apart from a song being sung in one scene that is a pivotal plot in \"Voice\"."
+    ],
+    "generated_answer": "Wishing Stairs and Voice are both South Korean horror films. However, they are largely unrelated apart from a shared song reference.",
+    "degradation_mode": "k1",
+    "perplexity": 5.402297496795654,
+    "mean_prob": 0.7269196510314941,
+    "min_prob": 5.338302457857935e-07,
+    "sds": 0.7066864371299744,
+    "hallucinated": null
+  },
+  {
+    "id": 62,
+    "question": "Thomas Francis Murphy had a role in which 2008 comedy film?",
+    "gold_answer": "Leatherheads",
+    "context": [
+      "Murphy's Romance is a 1985 American romantic comedy film directed by Martin Ritt.  The screenplay by Harriet Frank Jr. and Irving Ravetch was based on the 1980 novella by Max Schott.  The film stars Sally Field, James Garner, Brian Kerwin, and Corey Haim, and was produced by Laura Ziskin for Field's production company Fogwood Films."
+    ],
+    "generated_answer": "The provided text does not contain information about Thomas Francis Murphy or any 2008 comedy film.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3801547288894653,
+    "mean_prob": 0.8822099566459656,
+    "min_prob": 0.030058743432164192,
+    "sds": 1.019413709640503,
+    "hallucinated": null
+  },
+  {
+    "id": 63,
+    "question": "Back Home is a children's historical novel adapted into a TV drama starring what English actress born in 1946?",
+    "gold_answer": "Hayley Catherine Rose Vivien Mills",
+    "context": [
+      "Back Home is a 1990 British-American made-for-television drama film based on Michelle Magorian's novel of the same name.  Directed by Piers Haggard, the film starred Hayley Mills, Hayley Carr, Brenda Bruce and Jean Anderson and premiered on Disney Channel on June 7, 1990."
+    ],
+    "generated_answer": "Hayley Mills, born in 1946, starred in the television drama *Back Home*.",
+    "degradation_mode": "k1",
+    "perplexity": 7.863327503204346,
+    "mean_prob": 0.7862021923065186,
+    "min_prob": 2.400753906783848e-08,
+    "sds": 0.7757401466369629,
+    "hallucinated": null
+  },
+  {
+    "id": 64,
+    "question": "When was the American patriot Hamilton, New York Wass named after born?",
+    "gold_answer": "January 11, 1755 or 1757July",
+    "context": [
+      "The Hamiltons of the United States are a family of Scottish origin, whose most prominent member was Founding Father Alexander Hamilton ( \u20091755 \u20131804).  Their ancestors and relations in Scotland included the Lairds of Kerelaw Castle in Stevenston, North Ayrshire, of the Cambuskeith branch of Clan Hamilton."
+    ],
+    "generated_answer": "The text states that Alexander Hamilton, the prominent member of the Hamilton family, was born in 1755.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2178033590316772,
+    "mean_prob": 0.9067504405975342,
+    "min_prob": 0.04742511361837387,
+    "sds": 0.7971066832542419,
+    "hallucinated": null
+  },
+  {
+    "id": 65,
+    "question": "The Good Design movement is associated with what Danish furniture designer whose style is often described as Organic Functionality?",
+    "gold_answer": "Hans J\u00f8rgensen Wegner",
+    "context": [
+      "Danish modern is a style of minimalist furniture and housewares from Denmark associated with the Danish design movement.  In the 1920s, Kaare Klint embraced the principles of Bauhaus modernism in furniture design, creating clean, pure lines based on an understanding of classical furniture craftsmanship coupled with careful research into materials, proportions and the requirements of the human body.  With designers such as Arne Jacobsen and Hans Wegner and associated cabinetmakers, Danish furniture thrived from the 1940s through the 1960s.  Adopting mass-production techniques and concentrating on form rather than just function, Finn Juhl contributed to the style's success.  Danish housewares adopting a similar minimalist design such as cutlery and trays of teak and stainless steel and dinnerware such as those produced in Denmark for Dansk in its early years, expanded the Danish modern aesthetic beyond furniture."
+    ],
+    "generated_answer": "Finn Juhl is associated with the Good Design movement and his style is often described as Organic Functionality.",
+    "degradation_mode": "k1",
+    "perplexity": 2.6048240661621094,
+    "mean_prob": 0.9043376445770264,
+    "min_prob": 1.6033080783017795e-06,
+    "sds": 0.9739232063293457,
+    "hallucinated": null
+  },
+  {
+    "id": 66,
+    "question": "Which band released more albums, Forest for the Trees or Jon Spencer Blues Explosion?",
+    "gold_answer": "Jon Spencer Blues Explosion",
+    "context": [
+      "The Jon Spencer Blues Explosion is an American alternative rock trio, formed in 1991 and based in New York City, New York.  The band consists of Judah Bauer on guitar, backing vocals, harmonica and occasional lead vocals, Russell Simins on drums and Jon Spencer on vocals, guitar and theremin.  Their musical style is largely rooted in rock and roll although it draws influences from punk, blues, garage, rockabilly, soul, noise rock, rhythm and blues and hip hop.  They have released nine official studio albums, collaborative records with Dub Narcotic Sound System and R.L. Burnside as well as numerous live, singles, out-take albums, compilations, remix albums and, in 2010, a series of expanded reissues."
+    ],
+    "generated_answer": "Jon Spencer Blues Explosion released more albums, with nine official studio albums compared to Forest for the Trees.",
+    "degradation_mode": "k1",
+    "perplexity": 4.5842180252075195,
+    "mean_prob": 0.821691632270813,
+    "min_prob": 1.5225303684474056e-08,
+    "sds": 0.7536680698394775,
+    "hallucinated": null
+  },
+  {
+    "id": 67,
+    "question": "Who has more scope of profession, Phil Rosen or  Delmer Daves?",
+    "gold_answer": "Delmer Lawrence Daves",
+    "context": [
+      "Daniel Rosen is an American comedian, juggler and game show announcer.  He began his career with unicycle, juggling and magic acts in high school.  Johnny Carson discovered Rosen when he was a teen and made him a regular guest on The Tonight Show Starring Johnny Carson.  The Tonight Show exposure and Carson's endorsement led him be the announcer and writer on \"The Late Show\", a talk show that was on Fox."
+    ],
+    "generated_answer": "The context does not provide information about Delmer Daves, so it's impossible to determine who has a broader range of professions. Daniel Rosen has a diverse career as a comedian, juggler, and game show announcer.",
+    "degradation_mode": "k1",
+    "perplexity": 2.1463565826416016,
+    "mean_prob": 0.869434118270874,
+    "min_prob": 1.9684177914314205e-06,
+    "sds": 0.8799812197685242,
+    "hallucinated": null
+  },
+  {
+    "id": 68,
+    "question": "Where does the region where Jews supported by Kolel Chibas Jerusalem are from get its name?",
+    "gold_answer": "the medieval city of Halych",
+    "context": [
+      "The Bar Kokhba revolt (Hebrew: \u05de\u05e8\u05d3 \u05d1\u05e8 \u05db\u05d5\u05db\u05d1\u05d0\u200e ; \"Mered Bar Kokhba\") was a rebellion of the Jews of the Roman province of Judea, led by Simon bar Kokhba, against the Roman Empire.  Fought circa 132\u2013136 CE, it was the last of three major Jewish\u2013Roman wars, so it is also known as The Third Jewish\u2013Roman War or The Third Jewish Revolt.  Some historians also refer to it as the Second Revolt of Judea, not counting the Kitos War (115\u2013117 CE), which had only marginally been fought in Judea."
+    ],
+    "generated_answer": "The region where Jews supported by Kolel Chibas Jerusalem is from Judea, a province of the Roman Empire.",
+    "degradation_mode": "k1",
+    "perplexity": 6.174839973449707,
+    "mean_prob": 0.8134282231330872,
+    "min_prob": 7.793791653720739e-12,
+    "sds": 0.9189112186431885,
+    "hallucinated": null
+  },
+  {
+    "id": 69,
+    "question": "What horror movie set in 1972 Vietnam was filmed in part in Bokor Hill Station?",
+    "gold_answer": "R-Point",
+    "context": [
+      "R-Point () is a 2004 Korean horror film written and directed by Kong Su-chang.  Set in 1972 Vietnam, during the Vietnam War, it stars Kam Woo-sung and Son Byong-ho as members of the South Korean military in Vietnam.  Most of the movie was shot in Cambodia.  Bokor Hill Station plays a prominent part of the movie, in this case doubling as a colonial French plantation."
+    ],
+    "generated_answer": "R-Point, a 2004 Korean horror film starring Kam Woo-sung and Son Byong-ho, was filmed in part in Bokor Hill Station, which served as a colonial French plantation setting during the Vietnam War.",
+    "degradation_mode": "k1",
+    "perplexity": 3.047982692718506,
+    "mean_prob": 0.8205073475837708,
+    "min_prob": 5.31574606554841e-08,
+    "sds": 0.36119627952575684,
+    "hallucinated": null
+  },
+  {
+    "id": 70,
+    "question": "Who wrote the jukebox musical depicting the recording session between the \"King of Rock and Roll\" and 3 other famous musicians?",
+    "gold_answer": "Floyd Mutrux and Colin Escott",
+    "context": [
+      "A jukebox musical is a stage or film musical that uses previously released popular songs as its musical score.  Usually the songs have a connection with a particular popular musician or group\u2014because they were either written by, or for, the artists in question, or at least covered by them.  The songs are contextualized into a dramatic plot: often the biographical story of the performer(s) whose music is featured, although in some cases the plot does not revolve around the particular group at all."
+    ],
+    "generated_answer": "The context doesn't specify who wrote the jukebox musical about Elvis Presley and other musicians. It only describes the general concept of a jukebox musical using existing songs.",
+    "degradation_mode": "k1",
+    "perplexity": 2.896249294281006,
+    "mean_prob": 0.8194221258163452,
+    "min_prob": 1.5222413551896352e-08,
+    "sds": 0.7610911130905151,
+    "hallucinated": null
+  },
+  {
+    "id": 71,
+    "question": "FC Barcelona ambassador Ronaldinho won what French award in addition to FIFA World Player of the Year?",
+    "gold_answer": "Ballon d'Or",
+    "context": [
+      "The 2004-05 season saw F\u00fatbol Club Barcelona end their six-year wait for the La Liga title, having not won the league or, indeed, any trophy since the 1998\u201399 season and thus La Liga trophy returned in Barcelona's trophy room.  Having finished second in La Liga the previous season, Barcelona once again competed in the UEFA Champions League as well as the Copa del Rey.  The squad was restructured significantly following the retirement of key players Luis Enrique and Marc Overmars, as well as the return of Edgar Davids to Juventus and first team regulars Patrick Kluivert and Phillip Cocu moving onto new clubs.  Ronaldinho's and new signing Samuel Eto'o's performances won them places in FIFPro's XI of 2004\u201305.  Ronaldinho was later named FIFA World Player of the Year for 2005 for the second time in succession and with the highest points total ever; Eto'o came third.  This season was also notable for the debut of Lionel Messi."
+    ],
+    "generated_answer": "Ronaldinho was named FIFA World Player of the Year for 2005 for the second time in succession.",
+    "degradation_mode": "k1",
+    "perplexity": 2.7489733695983887,
+    "mean_prob": 0.9312453269958496,
+    "min_prob": 8.507144294567226e-11,
+    "sds": 0.8516663908958435,
+    "hallucinated": null
+  },
+  {
+    "id": 72,
+    "question": "With whom did Lever Brothers merge to create an Indonesian soap factory?",
+    "gold_answer": "Margarine Unie",
+    "context": [
+      "Lever Brothers was a British manufacturing company founded in 1885 by brothers William Hesketh Lever (1851\u20131925) and James Darcy Lever (1854\u20131916).  They invested in and successfully promoted a new soap-making process invented by chemist William Hough Watson.  In 1930, Lever Brothers merged with Margarine Unie to form Unilever."
+    ],
+    "generated_answer": "Lever Brothers merged with Margarine Unie in 1930 to form Unilever, which then established an Indonesian soap factory.",
+    "degradation_mode": "k1",
+    "perplexity": 4.57923698425293,
+    "mean_prob": 0.8275143504142761,
+    "min_prob": 2.215926819815195e-08,
+    "sds": 0.5907154679298401,
+    "hallucinated": null
+  },
+  {
+    "id": 73,
+    "question": "Between Wilkes-Barre/Scranton International Airport and Long Island MacArthur Airport, which airport is owned by a higher government?",
+    "gold_answer": "Wilkes-Barre/Scranton International Airport",
+    "context": [
+      "Long Island MacArthur Airport (also known as Islip Airport) (IATA: ISP,\u00a0ICAO: KISP,\u00a0FAA LID: ISP) is a public airport on Long Island, in Ronkonkoma, Town of Islip, Suffolk County, New York.  The Town owns and operates the airport, which serves about two million commercial passengers a year, as well as general aviation.  Long Island MacArthur Airport (LIMA) covers 1,311 acres (531 ha) and has four runways and two helipads."
+    ],
+    "generated_answer": "Long Island MacArthur Airport (LIMA) is owned and operated by the Town of Islip, a local government, whereas Wilkes-Barre/Scranton International Airport is owned and operated by the county.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6616991758346558,
+    "mean_prob": 0.8668692111968994,
+    "min_prob": 0.0024726104456931353,
+    "sds": 0.5961354374885559,
+    "hallucinated": null
+  },
+  {
+    "id": 74,
+    "question": "Jos\u00e9 Baviera starred in the 1962 film by the filmmaker who worked in what countries?",
+    "gold_answer": "Spain, Mexico and France",
+    "context": [
+      "Manuel Conde (born Manuel Urbano; October 9, 1915 in Daet, Camarines Norte \u2013 August 11, 1985) was a Filipino actor, director and producer.  As an actor, he also used the screen name Juan Urbano during the 1930s aside from his more popular screen name.  His first film was \"Mahiwagang Biyolin\" in 1935.  He made almost three dozen films under LVN Pictures as a contract star.  He later put up his own movie company, Manuel Conde Pictures, in 1947 which produced classic films, notably the Juan Tamad series (Si Juan Tamad (1947), Si Juan Daldal (Anak ni Juan Tamad) (1948), Juan Tamad Goes to Congress (1959), Juan Tamad Goes to Society (1960), Si Juan Tamad At Juan Masipag sa Pulitikang Walang Hanggan (1963)).  Other movies Conde produced, directed and/or starred were Vende Cristo (1948), Prinsipe Paris (1949), Krus Na Kawayan (1956), Siete Infantes de Lara (1950) and its re-make in 1973, Molave (1961) and the internationally acclaimed Genghis Khan (1950)."
+    ],
+    "generated_answer": "The text does not provide information about Jos\u00e9 Baviera or the countries where Manuel Conde worked. It only details Manuel Conde's filmography and career.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3775925636291504,
+    "mean_prob": 0.9230150580406189,
+    "min_prob": 0.008575720712542534,
+    "sds": 1.0455974340438843,
+    "hallucinated": null
+  },
+  {
+    "id": 75,
+    "question": "Which movie came out first Baseball or Tunisian Victory ?",
+    "gold_answer": "Tunisian Victory",
+    "context": [
+      "Tunisian Victory is a 1944 Anglo-American propaganda film about the victories in the North Africa Campaign."
+    ],
+    "generated_answer": "Baseball came out first. Tunisian Victory was released in 1944, while the first baseball games were played much earlier.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3387833833694458,
+    "mean_prob": 0.8713023662567139,
+    "min_prob": 0.04635465517640114,
+    "sds": 1.0528069734573364,
+    "hallucinated": null
+  },
+  {
+    "id": 76,
+    "question": "The HMS Seraph is most famous for a WWII operation intended to cover the allied invasion of Sicily in what year?",
+    "gold_answer": "1943",
+    "context": [
+      "The Allied invasion of Sicily, codenamed Operation Husky, was a major campaign of World War II, in which the Allies took the island of Sicily from the Axis powers (Italy and Nazi Germany).  It was a large amphibious and airborne operation, followed by a six-week land campaign and was the beginning of the Italian Campaign."
+    ],
+    "generated_answer": "The HMS Seraph was most famous for its role in covering the Allied invasion of Sicily during Operation Husky in 1943.",
+    "degradation_mode": "k1",
+    "perplexity": 3.1053473949432373,
+    "mean_prob": 0.7917191386222839,
+    "min_prob": 2.936688758836681e-07,
+    "sds": 0.7527684569358826,
+    "hallucinated": null
+  },
+  {
+    "id": 77,
+    "question": "What films were the basis for \"Family Guy\" and the character of Peter Griffith? ",
+    "gold_answer": "The Life of Larry and Larry & Steve",
+    "context": [
+      "Peter Griffin is the main protagonist and title character of the American animated sitcom \"Family Guy\".  He is voiced by cartoonist Seth MacFarlane and first appeared on television, along with the rest of the family, in the 15-minute pilot pitch of \"Family Guy\" on December 20, 1998.  Peter was created and designed by MacFarlane himself.  MacFarlane was asked to pitch a pilot to the Fox Broadcasting Company based on \"Larry & Steve\", a short made by MacFarlane which featured a middle-aged character named Larry and an intellectual dog, Steve.  After the pilot was given the green light, the Griffin family appeared in the episode \"Death Has a Shadow\"."
+    ],
+    "generated_answer": "\u201cFamily Guy\u201d and Peter Griffin were initially based on a short cartoon called \u201cLarry & Steve,\u201d created by Seth MacFarlane. MacFarlane then developed the concept into the \u201cFamily Guy\u201d television series.",
+    "degradation_mode": "k1",
+    "perplexity": 4.860795974731445,
+    "mean_prob": 0.740731418132782,
+    "min_prob": 4.376048134968613e-10,
+    "sds": 0.5549806356430054,
+    "hallucinated": null
+  },
+  {
+    "id": 78,
+    "question": "An NFL Color Rush uniform and a Third Jersey are both considered what type of uniform in the NFL?",
+    "gold_answer": "alternate uniform",
+    "context": [
+      "The NFL Color Rush is a promotion done in conjunction with the National Football League (NFL) and Nike that promotes so-called \"color vs. color\" matchups with teams in matchup-specific uniforms that are primarily one solid color with alternating colored accents, primarily airing on \"Thursday Night Football\".  Despite being promoted as color vs. color, some games have one team wearing traditional white uniforms, either by choice or out of necessity.  The uniforms do not count against each team with regards to their allowed alternate uniform allotment.  The games have received mixed responses from fans, with some praising the NFL for changing up their games in terms of uniforms, while others criticize the promotion for some of its garish uniforms."
+    ],
+    "generated_answer": "Both an NFL Color Rush uniform and a Third Jersey are considered alternate uniforms in the NFL. They do not count against a team's allotted number of alternate uniform sets.",
+    "degradation_mode": "k1",
+    "perplexity": 2.8319454193115234,
+    "mean_prob": 0.8367787599563599,
+    "min_prob": 8.439040577457035e-10,
+    "sds": 0.7068843245506287,
+    "hallucinated": null
+  },
+  {
+    "id": 79,
+    "question": "Who was the ruler ousted by the 30th Prime Minister of Cambodia after Khmer Rouge's victory over the Lon Nol government?",
+    "gold_answer": "Prince of Cambodia Norodom Sihanouk",
+    "context": [
+      "Samdech Penn Nouth (Khmer: \u179f\u1798\u17d2\u178f\u17c1\u1785 \u1794\u17c9\u17c2\u1793 \u1793\u17bb\u178f , ] ) (April 1, 1906 \u2013 May 18, 1985) was a Cambodian politician.  He served in the French colonial administration, then took active part in Cambodian politics, was several times a Prime Minister of Cambodia (1953, 1954-1955, 1958, 1961) as part of the Sangkum regime of Prince Norodom Sihanouk.  He was the first prime minister of an independent Cambodia.  He was prime minister for the sixth time from 31 January 1968 to 14 August 1969.  On 18 March 1970, when Norodom Sihanouk was deposed by Lon Nol, Penn Nouth joined the monarch in his exile and became prime minister in the GRUNK coalition."
+    ],
+    "generated_answer": "The ruler ousted by the 30th Prime Minister of Cambodia (Penn Nouth) was Norodom Sihanouk.",
+    "degradation_mode": "k1",
+    "perplexity": 1.6465542316436768,
+    "mean_prob": 0.8929433226585388,
+    "min_prob": 0.0024726130068302155,
+    "sds": 0.6568620800971985,
+    "hallucinated": null
+  },
+  {
+    "id": 80,
+    "question": "What is the main nickname of the professional association football club where Ewan Fenton spent thirteen seasons?",
+    "gold_answer": "\"the Seasiders\"",
+    "context": [
+      "The 2012\u201313 season was the 112th season of competitive association football and the 86th season in the Football League played by Tranmere Rovers Football Club, a professional football club based in Birkenhead, Wirral.  During the season, Tranmere Rovers competed in Football League One under Ronnie Moore in his first full season in charge."
+    ],
+    "generated_answer": "The context does not provide information about Ewan Fenton or Tranmere Rovers' nickname.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3902658224105835,
+    "mean_prob": 0.9125142693519592,
+    "min_prob": 0.006692476104944944,
+    "sds": 1.081557273864746,
+    "hallucinated": null
+  },
+  {
+    "id": 81,
+    "question": "Joel H. Cohen is the younger brother of one-time Simpsons writer who has also written for which show? ",
+    "gold_answer": "\"The Wonder Years\"",
+    "context": [
+      "Joel H. Cohen is a Canadian writer for \"Saturday Night Live\", \"Suddenly Susan\" and \"The Simpsons\".  He is the younger brother of one-time \"Simpsons\" writer Robert Cohen, who penned the season three episode \"Flaming Moe's.\"  Cohen received a Bachelor of Science degree in 1988 from the University of Alberta.  He was born in Calgary."
+    ],
+    "generated_answer": "Joel H. Cohen\u2019s brother, Robert Cohen, also wrote for \u201cThe Simpsons.\u201d",
+    "degradation_mode": "k1",
+    "perplexity": 3.3731253147125244,
+    "mean_prob": 0.817426323890686,
+    "min_prob": 3.0487075264318264e-07,
+    "sds": 0.5985212922096252,
+    "hallucinated": null
+  },
+  {
+    "id": 82,
+    "question": "Giovanna d'Arco is an opera that was created by the composer of what nationality?",
+    "gold_answer": "Italian",
+    "context": [
+      "Salvatore Giuliano is an opera in one act by Lorenzo Ferrero to an Italian-language libretto by Giuseppe Di Leva, which was conceived to be performed in tandem with Pietro Mascagni's \"Cavalleria rusticana\".  The work was commissioned by the Teatro dell'Opera di Roma and premiered there on 25 January 1986."
+    ],
+    "generated_answer": "The opera Salvatore Giuliano was created by Lorenzo Ferrero, an Italian composer.",
+    "degradation_mode": "k1",
+    "perplexity": 7.816226959228516,
+    "mean_prob": 0.749408483505249,
+    "min_prob": 8.764197900745785e-08,
+    "sds": 0.47103506326675415,
+    "hallucinated": null
+  },
+  {
+    "id": 83,
+    "question": "What is the name of Bruce Willis's character in Unbreakable?",
+    "gold_answer": "David Dunn",
+    "context": [
+      "Unbreakable is a 2000 American superhero thriller film written, produced, and directed by M. Night Shyamalan, and starring Bruce Willis and Samuel L. Jackson, alongside Robin Wright and Spencer Treat Clark.  The movie is the first installment in a trilogy.  In \"Unbreakable\", a security guard named David Dunn survives a horrific train crash.  After the incident, with the help of a manipulative disabled comic book shop owner named Elijah Price, he learns that he possesses superhuman powers.  As Dunn explores and reluctantly confronts his powers while trying to navigate a difficult family life, he begins to fight crime and learns the true nature of Elijah Price."
+    ],
+    "generated_answer": "Bruce Willis plays David Dunn in the film *Unbreakable*.",
+    "degradation_mode": "k1",
+    "perplexity": 16.502544403076172,
+    "mean_prob": 0.7069557309150696,
+    "min_prob": 2.4133574912793554e-12,
+    "sds": 0.780369222164154,
+    "hallucinated": null
+  },
+  {
+    "id": 84,
+    "question": "What Disney movie was the wrestler with the real name of John William Minton in?",
+    "gold_answer": "Double Agent",
+    "context": [
+      "John William Minton (February 19, 1948 \u2013 March 20, 1995) was an American professional wrestler and actor, better known by his ring name, Big John Studd.  Studd is best known for his appearances with the World Wide Wrestling Federation/World Wrestling Federation in the 1970s and 1980s."
+    ],
+    "generated_answer": "The provided text does not contain information about John William Minton's involvement in any Disney movie. It only details his career as a professional wrestler and actor.",
+    "degradation_mode": "k1",
+    "perplexity": 1.433441400527954,
+    "mean_prob": 0.8554182052612305,
+    "min_prob": 0.009074241854250431,
+    "sds": 0.9063253402709961,
+    "hallucinated": null
+  },
+  {
+    "id": 85,
+    "question": "What commentator and author questioned the validity of CORE's non-profit status?",
+    "gold_answer": "Rachel Anne Maddow",
+    "context": [
+      "Jean McSorley is long-standing anti-nuclear campaigner, who formed the group \"Cumbrians Against a Radioactive Environment\" (Core) from her home town of Barrow-in-Furness, England in protest at the local Sellafield plant.  As well as fighting compensation cases for Sellafield workers, Core took part in direct action campaigns.  It has been incorrectly reported that they earned a string of injunctions. [1] Neither CORE as a group, nor the individuals involved, have received injunctions; but Greenpeace \u2013 who Jean McSorley subsequently worked for - has been served with a number due to its actions against nuclear operations."
+    ],
+    "generated_answer": "The text does not state that anyone questioned the validity of CORE\u2019s non-profit status. It only mentions that it has been incorrectly reported they received injunctions.",
+    "degradation_mode": "k1",
+    "perplexity": 1.3845566511154175,
+    "mean_prob": 0.8678991794586182,
+    "min_prob": 0.02931221015751362,
+    "sds": 1.0273271799087524,
+    "hallucinated": null
+  },
+  {
+    "id": 86,
+    "question": "What was the first comic book written by the writer who had a series developed into a 2010 film with Bruce Willis and Morgan Freeman?",
+    "gold_answer": "Transmetropolitan",
+    "context": [
+      "Red is a 2010 American action comedy film inspired by the limited comic book series of the same name created by Warren Ellis and Cully Hamner and published by the DC Comics imprint Homage.  The film stars Bruce Willis, Morgan Freeman, John Malkovich, Mary-Louise Parker, Helen Mirren and Karl Urban, with German film director Robert Schwentke directing a screenplay by Jon Hoeber and Erich Hoeber.  In the film version, the title is derived from the designation of former CIA Agent Frank Moses (Bruce Willis), meaning \"Retired, Extremely Dangerous\"."
+    ],
+    "generated_answer": "Warren Ellis wrote the comic book series \u201cRed\u201d that was adapted into the 2010 film starring Bruce Willis and Morgan Freeman.",
+    "degradation_mode": "k1",
+    "perplexity": 2.6462697982788086,
+    "mean_prob": 0.8315075635910034,
+    "min_prob": 3.982499038102105e-05,
+    "sds": 0.5372079610824585,
+    "hallucinated": null
+  },
+  {
+    "id": 87,
+    "question": "From what countries are Gauhar Ali and Iftikhar Ahmed from?",
+    "gold_answer": "Pakistan",
+    "context": [
+      "Gauhar Ali (born 5 May 1989) is a Pakistani first-class cricketer who plays for Peshawar.  He made 145 not out in the final of the 2016\u201317 Regional One Day Cup and was jointly named man of the match along with Iftikhar Ahmed."
+    ],
+    "generated_answer": "Gauhar Ali is from Pakistan, and Iftikhar Ahmed is also from Pakistan.",
+    "degradation_mode": "k1",
+    "perplexity": 2.095154047012329,
+    "mean_prob": 0.9279058575630188,
+    "min_prob": 1.2208961379656103e-06,
+    "sds": 0.7561104893684387,
+    "hallucinated": null
+  },
+  {
+    "id": 88,
+    "question": "Which character does this protagonist, who secretly loves and marries a member of the rival house, of William Shakespeare's tragedy that has a fictional character Benvolio slay?",
+    "gold_answer": "Tybalt",
+    "context": [
+      "Benvolio is a fictional character in Shakespeare's drama \"Romeo and Juliet\".  He is Montague's nephew and Romeo's cousin.  Benvolio serves as an unsuccessful peacemaker in the play, attempting to prevent violence between the Capulet and Montague families."
+    ],
+    "generated_answer": "Romeo. Benvolio attempts to prevent violence between the Capulet and Montague families in Shakespeare\u2019s \u201cRomeo and Juliet,\u201d where Romeo ultimately kills himself.",
+    "degradation_mode": "k1",
+    "perplexity": 7.3826212882995605,
+    "mean_prob": 0.6645560264587402,
+    "min_prob": 3.220421973537668e-08,
+    "sds": 0.5431542992591858,
+    "hallucinated": null
+  },
+  {
+    "id": 89,
+    "question": "John Hatzistergos was a Member of a council that has how many members ?",
+    "gold_answer": "42 members",
+    "context": [
+      "John Shelton Fenty (born 10 December 1961) is the majority shareholder and de facto chairman of the football club Grimsby Town He is also a Conservative councillor for the Humberston and New Waltham ward of North East Lincolnshire Council."
+    ],
+    "generated_answer": "The context does not provide information about John Hatzistergos or the number of members on the council he was a part of.",
+    "degradation_mode": "k1",
+    "perplexity": 1.2516732215881348,
+    "mean_prob": 0.9296895265579224,
+    "min_prob": 0.00856662355363369,
+    "sds": 1.1068494319915771,
+    "hallucinated": null
+  },
+  {
+    "id": 90,
+    "question": "The Cineplex Odeon Theatres are now operated as which American movie theater chain majority-owned by Chinese conglomerate Dalian Wanda Group?",
+    "gold_answer": "AMC Theatres",
+    "context": [
+      "AMC Theatres (originally an abbreviation for American Multi-Cinema, often referred to simply as AMC and known in some countries as AMC Cinemas) is an American movie theater chain owned and operated by AMC Entertainment Inc., which is itself owned by AMC Entertainment Holdings, Inc., majority-owned by Chinese conglomerate Dalian Wanda Group.  Founded in 1920, AMC has the largest share of the American theater market ahead of Regal Entertainment Group and Cinemark Theatres.  The chain has 86 locations in mainland China, home of the Dalian Wanda Group.  The company's headquarters are located in Leawood, Kansas."
+    ],
+    "generated_answer": "The Cineplex Odeon Theatres are now operated as AMC Theatres, which is majority-owned by the Dalian Wanda Group.",
+    "degradation_mode": "k1",
+    "perplexity": 1.8284013271331787,
+    "mean_prob": 0.9591135382652283,
+    "min_prob": 9.348812568532594e-08,
+    "sds": 0.7326433062553406,
+    "hallucinated": null
+  },
+  {
+    "id": 91,
+    "question": "Which of the city at the south of Shelly Beach, New South Wales is a local government area in the Hunter region of New South Wales, Australia?",
+    "gold_answer": "City of Newcastle",
+    "context": [
+      "Shelly Beach is a coastal suburb of the Central Coast region of New South Wales, Australia, located east of Tuggerah Lake and bordering the Pacific Ocean south of The Entrance.  It is part of the Central Coast Council local government area.  It is 66\u00a0km south of Newcastle & 93\u00a0km north of Sydney.  Shelly Beach is considered one of the most popular surfing beaches on the Central Coast."
+    ],
+    "generated_answer": "The context does not provide information about a city south of Shelly Beach that is part of the Hunter region. It only states that Shelly Beach is located in the Central Coast region of New South Wales.",
+    "degradation_mode": "k1",
+    "perplexity": 1.9580349922180176,
+    "mean_prob": 0.8575120568275452,
+    "min_prob": 0.0003798943944275379,
+    "sds": 0.6068901419639587,
+    "hallucinated": null
+  },
+  {
+    "id": 92,
+    "question": "What is the stage name of the former pornographic actress born in 1981 that co-hosted the 26th AVN Awards?  ",
+    "gold_answer": "Belladonna",
+    "context": [
+      "The 10th AVN Awards ceremony, presented by Adult Video News (AVN), honored pornographic films released in 1992 in the United States and took place in January 1993, at Bally\u2019s Hotel and Casino in Paradise, Nevada.  During the ceremony, AVN presented AVN Awards in 67 categories.  The ceremony was produced by Gary Miller and directed by S. Marco DiMercurio.  Actor Randy West hosted the show for the second consecutive year, with actresses Porsche Lynn and Ona Zee as co-hosts."
+    ],
+    "generated_answer": "The provided text does not mention the stage name of Porsche Lynn.",
+    "degradation_mode": "k1",
+    "perplexity": 2.153881072998047,
+    "mean_prob": 0.7606543302536011,
+    "min_prob": 0.001915473723784089,
+    "sds": 1.3362293243408203,
+    "hallucinated": null
+  },
+  {
+    "id": 93,
+    "question": "when did the black Angolan was one of the earliest African-American landowners in what would become the United States.acieved his freedom ",
+    "gold_answer": "in the early 17th-century",
+    "context": [
+      "Loango-Angola is the name for the possessions of the Dutch West India Company in contemporary Angola and the Republic of the Congo.  Notably, the name refers to the colony that was occupied from the Portuguese between 1641 and 1648.  After Angola was recaptured by the Portuguese in 1648, Dutch trade with Loango-Angola did not stop, however.  From about 1670 onward, the Dutch West India Company acquired slaves from the Loango region on a regular basis, and Dutch free traders continued this practice until after 1730."
+    ],
+    "generated_answer": "The text does not provide information about a specific individual or when a Black Angolan achieved freedom and became a landowner in the United States. It only details the Dutch West India Company\u2019s involvement in slave trade from the Loango region.",
+    "degradation_mode": "k1",
+    "perplexity": 1.5377284288406372,
+    "mean_prob": 0.8281188607215881,
+    "min_prob": 0.022806625813245773,
+    "sds": 0.6899789571762085,
+    "hallucinated": null
+  },
+  {
+    "id": 94,
+    "question": "What nationality is the director of the 1971 film Wake in Fright?",
+    "gold_answer": "Velichko Todorov Tsochev) is a Bulgarian-Canadian",
+    "context": [
+      "Wake in Fright (initially released as Outback outside Australia) is a 1971 psychological thriller film directed by Ted Kotcheff, written by Evan Jones and starring Gary Bond, Donald Pleasence, Chips Rafferty, Sylvia Kay and Jack Thompson.  Based on Kenneth Cook's 1961 novel of the same name, the film follows a young schoolteacher from Sydney who descends into personal moral degradation after finding himself stranded in a brutal, menacing town in outback Australia."
+    ],
+    "generated_answer": "The director of Wake in Fright, Ted Kotcheff, was American.",
+    "degradation_mode": "k1",
+    "perplexity": 3.7372260093688965,
+    "mean_prob": 0.8128564953804016,
+    "min_prob": 1.6701304048183374e-05,
+    "sds": 0.7718603014945984,
+    "hallucinated": null
+  },
+  {
+    "id": 95,
+    "question": "Ocean Springs School District is located in the city in what Mississippi county?",
+    "gold_answer": "Jackson",
+    "context": [
+      "Ocean Springs is a city in Jackson County, Mississippi, United States, approximately 2 mi east of Biloxi and west of Gautier.  It is part of the Pascagoula, Mississippi Metropolitan Statistical Area.  The population was 17,225 at the 2000 U.S. Census.  As of the 2010 U.S. Census, the city of Ocean Springs had a population of 17,442."
+    ],
+    "generated_answer": "Ocean Springs School District is located in Jackson County, Mississippi.",
+    "degradation_mode": "k1",
+    "perplexity": 86.1888656616211,
+    "mean_prob": 0.7500023245811462,
+    "min_prob": 4.3334390869987217e-16,
+    "sds": 0.5694501996040344,
+    "hallucinated": null
+  },
+  {
+    "id": 96,
+    "question": "Where does the Husband character reside in the book published in 1847 under the pseudonym \"Ellis Bell\"?",
+    "gold_answer": "Thrushcross Grange",
+    "context": [
+      "Thomas Frederick Bell, Jr. (born ca. 1880) was an American millionaire heir, the son of banker Thomas Bell and his wife Teresa."
+    ],
+    "generated_answer": "The husband character, Thomas Bell, resides in the book published in 1847 under the pseudonym \"Ellis Bell,\" as he is the son of a banker and the subject of the story.",
+    "degradation_mode": "k1",
+    "perplexity": 2.7136828899383545,
+    "mean_prob": 0.7889764308929443,
+    "min_prob": 0.0001379058521706611,
+    "sds": 0.7487354874610901,
+    "hallucinated": null
+  },
+  {
+    "id": 97,
+    "question": "Who was the singer of the song that held the record for most weeks spent at number one by a female country artist until it was surpassed by the the one named second best song of 2012 by \"Rolling Stone Magazine\"?",
+    "gold_answer": "Connie Smith",
+    "context": [
+      "The discography of Kenny Rogers, an American country music singer, consists of 39 studio albums and 80 singles.  Among his singles, twenty-one have reached Number One on the country music charts.  His longest-lasting Number Ones on that chart are \"The Gambler\" and \"Coward of the County,\" at three weeks each.  Two of his Number One country hits \u2014 \"Lady\" and \"Islands in the Stream,\" the latter a duet with Dolly Parton \u2014 also reached Number One on the \"Billboard\" Hot 100 the former spending six weeks at the top, making it his longest running #1 single on all Billboard charts.  Also, both his albums \"The Gambler\" and \"Kenny\" each topped the country charts for no less than 20 weeks, while his \"Greatest Hits\" album was the only album by a solo country performer to top the Billboard 200 for the entire 1980s, reaching the summit in late 1980."
+    ],
+    "generated_answer": "Kenny Rogers, along with Dolly Parton, sang \u201cIslands in the Stream,\u201d which held the record for the longest-running Number One single on all Billboard charts until it was surpassed by \u201cRolling Stone Magazine\u2019s\u201d second-best song of 2012.",
+    "degradation_mode": "k1",
+    "perplexity": 1.8940794467926025,
+    "mean_prob": 0.8835757970809937,
+    "min_prob": 9.728470251602062e-10,
+    "sds": 0.7668151259422302,
+    "hallucinated": null
+  },
+  {
+    "id": 98,
+    "question": "Are Donald Fagen and Lauren Laverne of the same nationality?",
+    "gold_answer": "no",
+    "context": [
+      "Lauren Cecilia Fisher (n\u00e9e Gofton, 28 April 1978), known professionally as Lauren Laverne, is an English radio DJ, model, television presenter, author, singer and comedian."
+    ],
+    "generated_answer": "No, Donald Fagen is an American musician, while Lauren Laverne is an English radio DJ and media personality.",
+    "degradation_mode": "k1",
+    "perplexity": 3.084986686706543,
+    "mean_prob": 0.7017120718955994,
+    "min_prob": 0.003172037424519658,
+    "sds": 0.8117525577545166,
+    "hallucinated": null
+  },
+  {
+    "id": 99,
+    "question": "One of the members of Dru Hill is nicknamed after which cartoon character?",
+    "gold_answer": "Woody Woodpecker",
+    "context": [
+      "Tamir \"Nokio\" Ruffin is an American singer, songwriter, dancer, producer, rapper.  He is best known as the founder of R&B group Dru Hill, serving as in-house producer and songwriter for the act.  He is also the lead singer of the Rock band Black Angel Down."
+    ],
+    "generated_answer": "Tamir Ruffin, known as \"Nokio,\" is one of the members of Dru Hill, and his nickname is derived from the cartoon character Mickey Mouse.",
+    "degradation_mode": "k1",
+    "perplexity": 2.735278367996216,
+    "mean_prob": 0.8171892166137695,
+    "min_prob": 6.016662013053065e-08,
+    "sds": 0.8810864090919495,
+    "hallucinated": null
+  }
+]

@@ -1,0 +1,1017 @@
+{
+  "summary": {
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "dataset": "hotpot",
+    "n_samples": 100,
+    "n_kept": 100,
+    "n_skipped": 0,
+    "seed": 42,
+    "elapsed_seconds": 66.34,
+    "param_ppl_median": 1.4905853867530823,
+    "param_ppl_mean": 1.5159559619426728,
+    "param_ppl_p10": 1.2276671051979064,
+    "param_ppl_p90": 1.8762027502059937
+  },
+  "records": [
+    {
+      "id": 0,
+      "ds_index": 4367,
+      "question": "VIVA Media AG changed it's name in 2004. What does their new acronym stand for?",
+      "gold_answer": "Gesellschaft mit beschr\u00e4nkter Haftung",
+      "parametric_answer": "VIVA Media AG changed its name to Vivendi Universal Games (VUG) in 2004.",
+      "parametric_perplexity": 1.778528094291687,
+      "parametric_mean_prob": 0.6940171122550964,
+      "parametric_min_prob": 0.04246548190712929
+    },
+    {
+      "id": 1,
+      "ds_index": 1867,
+      "question": "Which of Jonny Craig and Pete Doherty has been a member of more bands ?",
+      "gold_answer": "Jonny\" Craig",
+      "parametric_answer": "Pete Doherty has been a member of more bands, including The Libertines, Babyshambles, and Peter Doherty and the Puta Madres, among others.",
+      "parametric_perplexity": 1.4046014547348022,
+      "parametric_mean_prob": 0.7869240045547485,
+      "parametric_min_prob": 0.10357879847288132
+    },
+    {
+      "id": 2,
+      "ds_index": 3504,
+      "question": "Where was the first governor after the The Missouri Compromise from?",
+      "gold_answer": "Bath, Maine",
+      "parametric_answer": "The first governor after the Missouri Compromise was Alexander McNair, who served as the governor of Missouri from 1820 to 1824.",
+      "parametric_perplexity": 1.4244585037231445,
+      "parametric_mean_prob": 0.7693812251091003,
+      "parametric_min_prob": 0.17317116260528564
+    },
+    {
+      "id": 3,
+      "ds_index": 5015,
+      "question": "The creator of \"Wallace and Gromit\" also created what animation comedy that matched animated zoo animals with a soundtrack of people talking about their homes? ",
+      "gold_answer": "Creature Comforts",
+      "parametric_answer": "The creator of \"Wallace and Gromit\" is Nick Park. He also created \"Creature Comforts,\" a stop-motion animated series that features zoo animals talking about their homes.",
+      "parametric_perplexity": 1.5225940942764282,
+      "parametric_mean_prob": 0.743476390838623,
+      "parametric_min_prob": 0.06111984699964523
+    },
+    {
+      "id": 4,
+      "ds_index": 554,
+      "question": "Woman's Era and Naj are what kind of magazines?",
+      "gold_answer": "fortnightly women interest magazine",
+      "parametric_answer": "Woman's Era and Naj are Indian women's magazines.",
+      "parametric_perplexity": 1.1971180438995361,
+      "parametric_mean_prob": 0.8694778084754944,
+      "parametric_min_prob": 0.31289392709732056
+    },
+    {
+      "id": 5,
+      "ds_index": 6979,
+      "question": "The Rome Protocols were signed by three Prime Ministers one of which was assassinated as part of what?",
+      "gold_answer": "a failed coup attempt",
+      "parametric_answer": "The Rome Protocols were signed by the Prime Ministers of Greece, Turkey, and Bulgaria, one of which was Alexander Stamboliski of Bulgaria, who was assassinated in 1923 as part of a coup.",
+      "parametric_perplexity": 1.477060317993164,
+      "parametric_mean_prob": 0.7442440390586853,
+      "parametric_min_prob": 0.22368399798870087
+    },
+    {
+      "id": 6,
+      "ds_index": 2197,
+      "question": "Jaclyn Stapp is married to the former frontman of a band that disbanded in what year?",
+      "gold_answer": "2004",
+      "parametric_answer": "Jaclyn Stapp is married to Russell Brand's friend, but more likely, she is married to the former frontman of the band Creed, Scott Stapp, who disbanded Creed in 2004.",
+      "parametric_perplexity": 1.8755507469177246,
+      "parametric_mean_prob": 0.6477971076965332,
+      "parametric_min_prob": 0.04939879849553108
+    },
+    {
+      "id": 7,
+      "ds_index": 2942,
+      "question": " If You Ever Get Lonely was covered by what Lyric Street Records-affiliated band?",
+      "gold_answer": "Love and Theft",
+      "parametric_answer": "I couldn't find any information on a song called \"If You Ever Get Lonely\" being covered by a Lyric Street Records-affiliated band.",
+      "parametric_perplexity": 1.3055849075317383,
+      "parametric_mean_prob": 0.8127192854881287,
+      "parametric_min_prob": 0.26822566986083984
+    },
+    {
+      "id": 8,
+      "ds_index": 6378,
+      "question": "When was the  Argentine former footballer which  Dutch manager Ronald Koeman replaced in  2014\u201315 Southampton F.C. season born",
+      "gold_answer": "2 March 1972",
+      "parametric_answer": "Ronald Koeman replaced Mauricio Pochettino as the manager of Southampton F.C. in the 2014-15 season. Mauricio Pochettino was born on March 2, 1972.",
+      "parametric_perplexity": 1.239142656326294,
+      "parametric_mean_prob": 0.8533471822738647,
+      "parametric_min_prob": 0.13060347735881805
+    },
+    {
+      "id": 9,
+      "ds_index": 263,
+      "question": "Which character does this protagonist, who secretly loves and marries a member of the rival house, of William Shakespeare's tragedy that has a fictional character Benvolio slay?",
+      "gold_answer": "Tybalt",
+      "parametric_answer": "I'm not aware of any William Shakespeare tragedy with a character named Benvolio slaying another character. However, Benvolio is a character in Shakespeare's play \"Romeo and Juliet.\"",
+      "parametric_perplexity": 1.5093375444412231,
+      "parametric_mean_prob": 0.7307713627815247,
+      "parametric_min_prob": 0.1762942522764206
+    },
+    {
+      "id": 10,
+      "ds_index": 5283,
+      "question": "Stronger Together was used for the campaign comprised of the Vice Presidential candidate who was a Senator from what state?",
+      "gold_answer": "Virginia",
+      "parametric_answer": "The campaign \"Stronger Together\" was used for the 2016 presidential campaign of Hillary Clinton and her running mate, Tim Kaine, who was a Senator from Virginia.",
+      "parametric_perplexity": 1.301833987236023,
+      "parametric_mean_prob": 0.8036242723464966,
+      "parametric_min_prob": 0.3185078203678131
+    },
+    {
+      "id": 11,
+      "ds_index": 6994,
+      "question": "Are Darren Benjamin Shepherd and R\u00e9mi Lange both American?",
+      "gold_answer": "no",
+      "parametric_answer": "Darren Benjamin Shepherd is an American actor, but I couldn't find information on R\u00e9mi Lange's nationality.",
+      "parametric_perplexity": 2.026693105697632,
+      "parametric_mean_prob": 0.5856287479400635,
+      "parametric_min_prob": 0.09928233921527863
+    },
+    {
+      "id": 12,
+      "ds_index": 5777,
+      "question": "The head of the Foreign Relations Department of the Rastriya Janashakti Party holds a degree that can be abbreviated MS, M.S., or ScM, in what field?",
+      "gold_answer": "Engineering",
+      "parametric_answer": "The head of the Foreign Relations Department of the Rastriya Janashakti Party holds a degree in Master of Science, which can be abbreviated as MS, M.S., or ScM.",
+      "parametric_perplexity": 1.2402145862579346,
+      "parametric_mean_prob": 0.8636784553527832,
+      "parametric_min_prob": 0.13047370314598083
+    },
+    {
+      "id": 13,
+      "ds_index": 7323,
+      "question": "Lollipop Chainsaw featured Juliet Starling, who was voiced by a Canadian-American actress who has done voice roles for what Teen Titans spinoff series?",
+      "gold_answer": "Teen Titans Go!",
+      "parametric_answer": "The Canadian-American actress who voiced Juliet Starling in Lollipop Chainsaw is Rosario Dawson. Rosario Dawson also voiced Barbara Gordon in the animated series Young Justice.",
+      "parametric_perplexity": 1.6043928861618042,
+      "parametric_mean_prob": 0.7284061312675476,
+      "parametric_min_prob": 0.11624128371477127
+    },
+    {
+      "id": 14,
+      "ds_index": 6266,
+      "question": "What team was led to victory in 1939 by a two-time All-American basketball player nicknamed \"Scat\"?",
+      "gold_answer": "Oklahoma Sooners",
+      "parametric_answer": "The team led to victory in 1939 by a two-time All-American basketball player nicknamed \"Scat\" was the University of Kentucky Wildcats. The player's name was Ralph Beard, also known as \"Scat.\"",
+      "parametric_perplexity": 1.4012489318847656,
+      "parametric_mean_prob": 0.7744743227958679,
+      "parametric_min_prob": 0.17550896108150482
+    },
+    {
+      "id": 15,
+      "ds_index": 7168,
+      "question": "This expansion of the 2008 magazine article \"Is Google Making Us Stoopid?\" was a finalist for what award?",
+      "gold_answer": "Pulitzer Prize",
+      "parametric_answer": "The expansion of the 2008 magazine article \"Is Google Making Us Stoopid?\" was a finalist for the 2009 National Magazine Award.",
+      "parametric_perplexity": 1.2283310890197754,
+      "parametric_mean_prob": 0.8684550523757935,
+      "parametric_min_prob": 0.10242994129657745
+    },
+    {
+      "id": 16,
+      "ds_index": 6429,
+      "question": "What year did The Chronicle of Philanthropy's publishing overlap with Antic?",
+      "gold_answer": "1988",
+      "parametric_answer": "I cannot verify the overlap year of The Chronicle of Philanthropy and Antic.",
+      "parametric_perplexity": 1.6050827503204346,
+      "parametric_mean_prob": 0.7278496623039246,
+      "parametric_min_prob": 0.06921404600143433
+    },
+    {
+      "id": 17,
+      "ds_index": 5542,
+      "question": "The W. H. Shipman House is in what Hawaii county?",
+      "gold_answer": "Hawaii County",
+      "parametric_answer": "The W. H. Shipman House is located in Hawaii County, Hawaii.",
+      "parametric_perplexity": 1.243227243423462,
+      "parametric_mean_prob": 0.8359062671661377,
+      "parametric_min_prob": 0.37304210662841797
+    },
+    {
+      "id": 18,
+      "ds_index": 6226,
+      "question": "The trophy given to the winner of the college football game between University of Idaho Vandals and University of Montana Grizzlies is derived from which European culture?",
+      "gold_answer": "German",
+      "parametric_answer": "The trophy given to the winner of the college football game between the University of Idaho Vandals and the University of Montana Grizzlies is the Little Brown Stein, which is derived from German culture.",
+      "parametric_perplexity": 1.2582738399505615,
+      "parametric_mean_prob": 0.8495756387710571,
+      "parametric_min_prob": 0.1360292285680771
+    },
+    {
+      "id": 19,
+      "ds_index": 5464,
+      "question": "What stadium does the team who has Kent Baer as the defensive coordinator play its home games?",
+      "gold_answer": "Sam Boyd Stadium",
+      "parametric_answer": "I couldn't find any information on a well-known team with a defensive coordinator named Kent Baer.",
+      "parametric_perplexity": 1.7117650508880615,
+      "parametric_mean_prob": 0.7197067141532898,
+      "parametric_min_prob": 0.02000410109758377
+    },
+    {
+      "id": 20,
+      "ds_index": 4078,
+      "question": "Operation Cold Comfort was a failed raid by a special forces unit founded in what year?",
+      "gold_answer": "1941",
+      "parametric_answer": "Operation Cold Comfort was a failed raid by a special forces unit in 1944, during World War II.",
+      "parametric_perplexity": 1.6697666645050049,
+      "parametric_mean_prob": 0.6981191039085388,
+      "parametric_min_prob": 0.16333051025867462
+    },
+    {
+      "id": 21,
+      "ds_index": 2820,
+      "question": "The organization that Nicolae Titulescu served two terms as president was founded on what date?",
+      "gold_answer": "10 January 1920",
+      "parametric_answer": "The organization that Nicolae Titulescu served two terms as president was the League of Nations, which was founded on January 10, 1920.",
+      "parametric_perplexity": 1.2205572128295898,
+      "parametric_mean_prob": 0.8738566040992737,
+      "parametric_min_prob": 0.17336975038051605
+    },
+    {
+      "id": 22,
+      "ds_index": 251,
+      "question": "What is Opry Mills in Nashville, Tennessee?",
+      "gold_answer": "super-regional shopping mall",
+      "parametric_answer": "Opry Mills is an outlet and entertainment complex located in Nashville, Tennessee, featuring a variety of shops, restaurants, and attractions, including the Madame Tussauds wax museum and the Hollywood Wax Museum. It is situated near the Grand Ole Opry, a famous country music venue.",
+      "parametric_perplexity": 1.6946864128112793,
+      "parametric_mean_prob": 0.7326397895812988,
+      "parametric_min_prob": 0.0002478029055055231
+    },
+    {
+      "id": 23,
+      "ds_index": 6593,
+      "question": "Ed Oxenbould plays Tyler in a film directed by which famous director?",
+      "gold_answer": "M. Night Shyamalan",
+      "parametric_answer": "Ed Oxenbould plays Tyler in the film \"Paper Towns\" directed by Jake Schreier, however, he also played Tyler in the film \"Paper Towns\" is not correct as he played David in that film.",
+      "parametric_perplexity": 1.9737738370895386,
+      "parametric_mean_prob": 0.6165892481803894,
+      "parametric_min_prob": 0.006460924167186022
+    },
+    {
+      "id": 24,
+      "ds_index": 4690,
+      "question": "Sadok Sassi played for a national team that made its first World Cup in what year?",
+      "gold_answer": "1978",
+      "parametric_answer": "I couldn't find any information on a person named Sadok Sassi.",
+      "parametric_perplexity": 1.4913315773010254,
+      "parametric_mean_prob": 0.7735151052474976,
+      "parametric_min_prob": 0.06728819012641907
+    },
+    {
+      "id": 25,
+      "ds_index": 3149,
+      "question": "Otterington railway station was on a 393 mi major railway that linked Edinburgh to what city?",
+      "gold_answer": "London",
+      "parametric_answer": "I couldn't find any information on Otterington railway station.",
+      "parametric_perplexity": 1.4557149410247803,
+      "parametric_mean_prob": 0.7655295729637146,
+      "parametric_min_prob": 0.17528802156448364
+    },
+    {
+      "id": 26,
+      "ds_index": 4309,
+      "question": "Are both Coldplay and Pierre Bouvier from the same country?",
+      "gold_answer": "no",
+      "parametric_answer": "No, they are not from the same country. Coldplay is a British rock band from the United Kingdom, while Pierre Bouvier is a Canadian musician, best known as the lead vocalist of the band Sum 41.",
+      "parametric_perplexity": 1.2763898372650146,
+      "parametric_mean_prob": 0.8269910216331482,
+      "parametric_min_prob": 0.2287883460521698
+    },
+    {
+      "id": 27,
+      "ds_index": 7158,
+      "question": "This term about a playwright who lived from 1564-1616 presented what about his works? ",
+      "gold_answer": "chronological collection of critical quotations",
+      "parametric_answer": "The term \"Renaissance Man\" is often associated with William Shakespeare, who lived from 1564-1616, as it highlights his exceptional talents in various fields, including writing, acting, and poetry. His works, such as plays like \"Romeo and Juliet\" and \"Hamlet,\" showcased his mastery of language, drama, and storytelling.",
+      "parametric_perplexity": 1.9207918643951416,
+      "parametric_mean_prob": 0.673275351524353,
+      "parametric_min_prob": 0.006358151324093342
+    },
+    {
+      "id": 28,
+      "ds_index": 503,
+      "question": "What is the birthday of this Anglo-Irish actress, courtean, and mistress, who was the mother to the illegitimate daughter of King William IV?",
+      "gold_answer": "22 November",
+      "parametric_answer": "Dorothea Jordan was the Anglo-Irish actress, courtesan, and mistress. She was born on November 22, 1761.",
+      "parametric_perplexity": 1.507794976234436,
+      "parametric_mean_prob": 0.7842758297920227,
+      "parametric_min_prob": 0.039548952132463455
+    },
+    {
+      "id": 29,
+      "ds_index": 2402,
+      "question": "Kenneth L. Gile is the Chief Operating Officer of an airline with its head office in what airport?",
+      "gold_answer": "Dubai International Airport",
+      "parametric_answer": "I'm sorry, but I am unable to verify the information about Kenneth L. Gile.",
+      "parametric_perplexity": 1.6614292860031128,
+      "parametric_mean_prob": 0.7060176730155945,
+      "parametric_min_prob": 0.11127102375030518
+    },
+    {
+      "id": 30,
+      "ds_index": 3197,
+      "question": "In what state is the manufacturer of Bisquick headquartered?",
+      "gold_answer": "Minnesota",
+      "parametric_answer": "The manufacturer of Bisquick, General Mills, is headquartered in Minneapolis, Minnesota.",
+      "parametric_perplexity": 1.232846975326538,
+      "parametric_mean_prob": 0.8458884954452515,
+      "parametric_min_prob": 0.34223392605781555
+    },
+    {
+      "id": 31,
+      "ds_index": 6754,
+      "question": "In what year was the singer who popularized \"I'll Keep the Lovelight Burning\" born?",
+      "gold_answer": "1927",
+      "parametric_answer": "The singer who popularized \"I'll Keep the Lovelight Burning\" is Smokey Robinson, and he was born on February 19, 1940.",
+      "parametric_perplexity": 1.364787220954895,
+      "parametric_mean_prob": 0.8254671096801758,
+      "parametric_min_prob": 0.11216848343610764
+    },
+    {
+      "id": 32,
+      "ds_index": 3159,
+      "question": "In which movie the Stephanie Kay Panabaker was alongside with her elder sister Danielle Nicole Panabaker?",
+      "gold_answer": "\"Read It and Weep\" (2006)",
+      "parametric_answer": "The movie where Stephanie Kay Panabaker appeared alongside her elder sister Danielle Nicole Panabaker is \"Sky High\" (2005).",
+      "parametric_perplexity": 1.421952247619629,
+      "parametric_mean_prob": 0.7808960676193237,
+      "parametric_min_prob": 0.08509726822376251
+    },
+    {
+      "id": 33,
+      "ds_index": 3349,
+      "question": "Is Velvetpark or Shape magazine written more for a lesbian and queer-identified female readership?",
+      "gold_answer": "Velvetpark",
+      "parametric_answer": "Velvetpark is a magazine primarily focused on lesbian and queer women, with a strong emphasis on arts, culture, and lifestyle.",
+      "parametric_perplexity": 2.1944053173065186,
+      "parametric_mean_prob": 0.5609132051467896,
+      "parametric_min_prob": 0.0837109237909317
+    },
+    {
+      "id": 34,
+      "ds_index": 2850,
+      "question": "Which restaurant chain's headquarters is further north, Pizza Inn or Papa Gino's?",
+      "gold_answer": "Papa Gino's",
+      "parametric_answer": "Papa Gino's headquarters is located in Canton, Massachusetts, which is further north than Pizza Inn's headquarters in The Colony, Texas.",
+      "parametric_perplexity": 1.5187784433364868,
+      "parametric_mean_prob": 0.7544512152671814,
+      "parametric_min_prob": 0.15110482275485992
+    },
+    {
+      "id": 35,
+      "ds_index": 5641,
+      "question": "whats the famous bavagheet by arun date?",
+      "gold_answer": "Shukratara",
+      "parametric_answer": "I couldn't find any information on a famous \"bavagheet\" by Arun Date.",
+      "parametric_perplexity": 1.1618201732635498,
+      "parametric_mean_prob": 0.8862664103507996,
+      "parametric_min_prob": 0.4018752872943878
+    },
+    {
+      "id": 36,
+      "ds_index": 2879,
+      "question": "Grown-Ups starred the actor who was best known for which role on  \"'Allo 'Allo!\"?",
+      "gold_answer": "Captain Hans Geering",
+      "parametric_answer": "The actor best known for his role on \"'Allo 'Allo!\" was Gordon Kaye, who played the main character, Captain Georges Barrow.",
+      "parametric_perplexity": 1.7517458200454712,
+      "parametric_mean_prob": 0.6799842715263367,
+      "parametric_min_prob": 0.0939229428768158
+    },
+    {
+      "id": 37,
+      "ds_index": 3540,
+      "question": "who is a British physicist  and also a  British government's chief scientific adviser",
+      "gold_answer": "Frederick Alexander",
+      "parametric_answer": "Patrick Vallance is a British physician and the former Chief Scientific Adviser to the UK Government.",
+      "parametric_perplexity": 1.5040605068206787,
+      "parametric_mean_prob": 0.7356050610542297,
+      "parametric_min_prob": 0.15797951817512512
+    },
+    {
+      "id": 38,
+      "ds_index": 1061,
+      "question": "Howard Van Doren Shaw was the designer of which 1917 Progressive Era community? ",
+      "gold_answer": "Marktown",
+      "parametric_answer": "Howard Van Doren Shaw was the designer of the community of Park Ridge, Illinois, but more specifically, he is known for designing the community of Park Ridge's sister community, the 1917 community of Skokie's sister community, the community of  Park Ridge's sister community, the community of  Park Ridge's sister community, the community of  Park Ridge's sister community, the community of  Park Ridge's sister community, the community of  Park Ridge's sister community, the community of",
+      "parametric_perplexity": 1.763337254524231,
+      "parametric_mean_prob": 0.6650736331939697,
+      "parametric_min_prob": 0.04330896958708763
+    },
+    {
+      "id": 39,
+      "ds_index": 5664,
+      "question": "Which contest in California pays homage to an American novelist that won the Novel Prize in Literature in 1954?",
+      "gold_answer": "The Bad Hemingway Contest",
+      "parametric_answer": "The contest you are referring to is the Ernest Hemingway Prize, which pays homage to Ernest Hemingway, the American novelist who won the Nobel Prize in Literature in 1954.",
+      "parametric_perplexity": 1.4898391962051392,
+      "parametric_mean_prob": 0.778022825717926,
+      "parametric_min_prob": 0.09845880419015884
+    },
+    {
+      "id": 40,
+      "ds_index": 4617,
+      "question": "What is the subsidiary of the record company who released \"Love Incredible?\"",
+      "gold_answer": "Vivendi S.A.",
+      "parametric_answer": "\"Love Incredible\" is a song by Migos and Drake. The record company that released \"Love Incredible\" is Quality Control Music, a subsidiary of Motown Records.",
+      "parametric_perplexity": 1.63303804397583,
+      "parametric_mean_prob": 0.7440720796585083,
+      "parametric_min_prob": 0.0111570805311203
+    },
+    {
+      "id": 41,
+      "ds_index": 4597,
+      "question": "Beer Wars covers the differences between large corporate breweries, and small breweries, such as what brewery that is headquartered in Escondido, california?",
+      "gold_answer": "Stone Brewing",
+      "parametric_answer": "The brewery you're referring to is Stone Brewing, which is headquartered in Escondido, California. Stone Brewing is a well-known example of a craft brewery that has gained popularity for its unique beers and has expanded its operations beyond its small beginnings.",
+      "parametric_perplexity": 1.6504902839660645,
+      "parametric_mean_prob": 0.6908719539642334,
+      "parametric_min_prob": 0.1022130623459816
+    },
+    {
+      "id": 42,
+      "ds_index": 7187,
+      "question": "Who did Muhummad Ali fight next, in Houston, after the so-called Fight of the Century with Joe Frazier?",
+      "gold_answer": "Jimmy Ellis",
+      "parametric_answer": "After the Fight of the Century with Joe Frazier, Muhammad Ali fought Jerry Quarry in a non-title bout in Atlanta, but his next fight in Houston was against Floyd Patterson on November 22, 1972.",
+      "parametric_perplexity": 1.7414276599884033,
+      "parametric_mean_prob": 0.6692307591438293,
+      "parametric_min_prob": 0.07103415578603745
+    },
+    {
+      "id": 43,
+      "ds_index": 3309,
+      "question": "What is represented on the cover art of the studio album that includes the song \"Speed of Sound\"?",
+      "gold_answer": "Baudot code",
+      "parametric_answer": "The studio album that includes the song \"Speed of Sound\" is by Coldplay, and its cover art features a picture of a plane taking off.",
+      "parametric_perplexity": 1.6568715572357178,
+      "parametric_mean_prob": 0.7090789675712585,
+      "parametric_min_prob": 0.06745908409357071
+    },
+    {
+      "id": 44,
+      "ds_index": 2287,
+      "question": "Which professional tennis player was born first, Lucie Hradeck\u00e1 or Raffaella Reggi?",
+      "gold_answer": "Raffaella Reggi",
+      "parametric_answer": "Lucie Hradeck\u00e1 was born first, on May 21, 1985. Raffaella Reggi was born on February 1, 1965.",
+      "parametric_perplexity": 1.3238023519515991,
+      "parametric_mean_prob": 0.834900438785553,
+      "parametric_min_prob": 0.1614261418581009
+    },
+    {
+      "id": 45,
+      "ds_index": 230,
+      "question": "What building is opposite the ceremonial meeting place of the Accession Council in the United Kingdom?",
+      "gold_answer": "Mark Masons' Hall",
+      "parametric_answer": "The building opposite the ceremonial meeting place of the Accession Council in the United Kingdom is the Banqueting House.",
+      "parametric_perplexity": 1.0730541944503784,
+      "parametric_mean_prob": 0.9400855898857117,
+      "parametric_min_prob": 0.6081992983818054
+    },
+    {
+      "id": 46,
+      "ds_index": 318,
+      "question": "Are both Duke Energy and Affiliated Managers Group based in Massachusetts?",
+      "gold_answer": "no",
+      "parametric_answer": "No, Duke Energy is based in Charlotte, North Carolina, while Affiliated Managers Group (AMG) is based in Boston, Massachusetts, but its parent company, Affiliated Managers Group Inc. is based in Hamilton, Bermuda.",
+      "parametric_perplexity": 1.5644545555114746,
+      "parametric_mean_prob": 0.7286596894264221,
+      "parametric_min_prob": 0.14351800084114075
+    },
+    {
+      "id": 47,
+      "ds_index": 1042,
+      "question": "Janne Kyttanen has had work exhibited at which modern art museum in Amsterdam?",
+      "gold_answer": "Stedelijk Museum Amsterdam",
+      "parametric_answer": "Janne Kyttanen's work has been exhibited at the Stedelijk Museum in Amsterdam.",
+      "parametric_perplexity": 1.44179368019104,
+      "parametric_mean_prob": 0.8532668352127075,
+      "parametric_min_prob": 0.012950748205184937
+    },
+    {
+      "id": 48,
+      "ds_index": 5608,
+      "question": "What company did Rex Maughan aquire?",
+      "gold_answer": "Aloe Vera of America",
+      "parametric_answer": "Rex Maughan acquired Nu Skin Enterprises.",
+      "parametric_perplexity": 1.717179536819458,
+      "parametric_mean_prob": 0.736854076385498,
+      "parametric_min_prob": 0.048591531813144684
+    },
+    {
+      "id": 49,
+      "ds_index": 7322,
+      "question": "The role of \"Celene\" in the film \"Walk All over Me\" was played by an actress that voices what role in the \"Starcraft 2\" triolgy?",
+      "gold_answer": "Sarah Kerrigan",
+      "parametric_answer": "The role of \"Celene\" in the film \"Walk All over Me\" was played by Tatiana Maslany. Tatiana Maslany voices the role of Sarah Kerrigan in the \"Starcraft 2\" trilogy.",
+      "parametric_perplexity": 1.2970436811447144,
+      "parametric_mean_prob": 0.8424054980278015,
+      "parametric_min_prob": 0.12232355773448944
+    },
+    {
+      "id": 50,
+      "ds_index": 4526,
+      "question": "Which FC Barcelona signee was a contender for the Rookie of the Year Award when he played for the Timberwolves?",
+      "gold_answer": "Ricard Rubio i Vives",
+      "parametric_answer": "I'm not aware of any information about a FC Barcelona signee who played for the Timberwolves and was a contender for the Rookie of the Year Award.",
+      "parametric_perplexity": 1.2883354425430298,
+      "parametric_mean_prob": 0.8088343143463135,
+      "parametric_min_prob": 0.42913058400154114
+    },
+    {
+      "id": 51,
+      "ds_index": 4734,
+      "question": "Wolf and Sheep was screened at which 2016 film festival?",
+      "gold_answer": "69th Cannes Film Festival",
+      "parametric_answer": "Wolf and Sheep was screened at the 2016 Sundance Film Festival.",
+      "parametric_perplexity": 1.6021289825439453,
+      "parametric_mean_prob": 0.8237164616584778,
+      "parametric_min_prob": 0.008482600562274456
+    },
+    {
+      "id": 52,
+      "ds_index": 1941,
+      "question": "What is the first name of Jack Benny Binion's father?",
+      "gold_answer": "Lester",
+      "parametric_answer": "Homer P. Binion was the father of Jack Benny Binion.",
+      "parametric_perplexity": 1.8289207220077515,
+      "parametric_mean_prob": 0.6773198843002319,
+      "parametric_min_prob": 0.03787713497877121
+    },
+    {
+      "id": 53,
+      "ds_index": 4756,
+      "question": "Which episode of SpongeBob SquarePants aired first, The Clash of Triton or To SquarePants or Not to SquarePants?\"",
+      "gold_answer": "To SquarePants or Not to SquarePants",
+      "parametric_answer": "\"To SquarePants or Not to SquarePants\" is the series premiere of SpongeBob SquarePants, which aired on May 1, 1999.",
+      "parametric_perplexity": 1.246191382408142,
+      "parametric_mean_prob": 0.8539360165596008,
+      "parametric_min_prob": 0.20649313926696777
+    },
+    {
+      "id": 54,
+      "ds_index": 1078,
+      "question": "Are Ruggero Deodato from Italy, and Mexican Alejandro Springall, both film directors?",
+      "gold_answer": "yes",
+      "parametric_answer": "Ruggero Deodato is an Italian film director, known for his work in the horror genre. Alejandro Springall is a Mexican film director, but I couldn't find much information about him.",
+      "parametric_perplexity": 1.7563121318817139,
+      "parametric_mean_prob": 0.6476300954818726,
+      "parametric_min_prob": 0.1110071986913681
+    },
+    {
+      "id": 55,
+      "ds_index": 3977,
+      "question": "Which professional baseball player was born in 1984 and played as a rookie for the Los Angeles Dogers in 2007?",
+      "gold_answer": "Matthew Ryan Kemp",
+      "parametric_answer": "I couldn't find any information on a professional baseball player born in 1984 who played as a rookie for the Los Angeles Dodgers in 2007.",
+      "parametric_perplexity": 1.3089731931686401,
+      "parametric_mean_prob": 0.8286652565002441,
+      "parametric_min_prob": 0.08338356763124466
+    },
+    {
+      "id": 56,
+      "ds_index": 1511,
+      "question": "Who is the lead vocalist for Maroon 5's sixth studio album?",
+      "gold_answer": "Adam Levine",
+      "parametric_answer": "Adam Levine is the lead vocalist for Maroon 5. He is the primary vocalist and a founding member of the band.",
+      "parametric_perplexity": 1.6246062517166138,
+      "parametric_mean_prob": 0.7644185423851013,
+      "parametric_min_prob": 0.010981597937643528
+    },
+    {
+      "id": 57,
+      "ds_index": 3608,
+      "question": "Where is the company that distributed XXXTentacion's single \"Revenge\" based?",
+      "gold_answer": "San Francisco, California",
+      "parametric_answer": "I'm not aware of the specific company that distributed XXXTentacion's single \"Revenge.\"",
+      "parametric_perplexity": 1.7074066400527954,
+      "parametric_mean_prob": 0.7215710878372192,
+      "parametric_min_prob": 0.053248632699251175
+    },
+    {
+      "id": 58,
+      "ds_index": 5950,
+      "question": "\"Text Me Merry Christmas\" is a song performed by Kristen Bell and a group that originated at what univeristy?",
+      "gold_answer": "Indiana University",
+      "parametric_answer": "The song \"Text Me Merry Christmas\" is performed by Kristen Bell and Seth Rogen, and it originated at the University of Southern California (USC).",
+      "parametric_perplexity": 1.3142145872116089,
+      "parametric_mean_prob": 0.7963705658912659,
+      "parametric_min_prob": 0.2792968153953552
+    },
+    {
+      "id": 59,
+      "ds_index": 169,
+      "question": "This Celtic ruler who was born in AD 43 ruled southeastern Britain prior to conquest by which empire?",
+      "gold_answer": "Roman",
+      "parametric_answer": "The Celtic ruler you are referring to is likely Caratacus, but more likely it is Caratacus's contemporary, Togodumnus, or more likely, Caratacus's brother, Togodumnus's contemporary, and Caratacus's other brother, or possibly Caratacus's brother, Togodumnus's brother, Caratacus's brother, and Caratacus's other brother, Togodumnus's brother, Caratacus's brother,",
+      "parametric_perplexity": 1.882070779800415,
+      "parametric_mean_prob": 0.6296235918998718,
+      "parametric_min_prob": 0.10512293875217438
+    },
+    {
+      "id": 60,
+      "ds_index": 2922,
+      "question": "Which other film did one of the supporting cast in \"Sleepless in Seattle\" appear?",
+      "gold_answer": "\"Now and Then\" (1995)",
+      "parametric_answer": "One of the supporting cast members in \"Sleepless in Seattle\" appeared in the film \"You've Got Mail\".",
+      "parametric_perplexity": 1.3472084999084473,
+      "parametric_mean_prob": 0.8142915964126587,
+      "parametric_min_prob": 0.09763192385435104
+    },
+    {
+      "id": 61,
+      "ds_index": 6864,
+      "question": "Who is this American cartoonist, writer, producer, animator, and voice actor that worked with this multiple Shuster Award, Harvey Award and Eisner Award nominee and an Eisner Award\u2013winning comic book creator?",
+      "gold_answer": "Matt Groening",
+      "parametric_answer": "I'm sorry, but it seems like you forgot to include the name of the comic book creator in your question.",
+      "parametric_perplexity": 2.281858205795288,
+      "parametric_mean_prob": 0.6519650816917419,
+      "parametric_min_prob": 0.00021623156499117613
+    },
+    {
+      "id": 62,
+      "ds_index": 1790,
+      "question": "What creature of American folklore gained notoriety in 1964?",
+      "gold_answer": "Dewey Lake Monster",
+      "parametric_answer": "The creature of American folklore that gained notoriety in 1964 is Bigfoot, also known as Sasquatch.",
+      "parametric_perplexity": 1.0760444402694702,
+      "parametric_mean_prob": 0.9376161694526672,
+      "parametric_min_prob": 0.538912832736969
+    },
+    {
+      "id": 63,
+      "ds_index": 2569,
+      "question": "What CBS-affiliated station serves Pontotoc County, Oklahoma?",
+      "gold_answer": "KXII",
+      "parametric_answer": "I do not have information on the CBS-affiliated station that serves Pontotoc County, Oklahoma.",
+      "parametric_perplexity": 1.2812472581863403,
+      "parametric_mean_prob": 0.8232734799385071,
+      "parametric_min_prob": 0.31839534640312195
+    },
+    {
+      "id": 64,
+      "ds_index": 1608,
+      "question": "What is the mascot of the oldest private university in Georgia?",
+      "gold_answer": "The Bears",
+      "parametric_answer": "The mascot of the oldest private university in Georgia is the Pioneers, and it belongs to Oglethorpe University.",
+      "parametric_perplexity": 1.505025029182434,
+      "parametric_mean_prob": 0.7592290043830872,
+      "parametric_min_prob": 0.1214517280459404
+    },
+    {
+      "id": 65,
+      "ds_index": 4240,
+      "question": "Who directed the 1940 film in which John Arledge appeared?",
+      "gold_answer": "John Ford",
+      "parametric_answer": "I'm not aware of any information about a person named John Arledge. However, I found information about John Arlidge, but I couldn't find any information about a film in which he appeared in 1940.",
+      "parametric_perplexity": 1.8920905590057373,
+      "parametric_mean_prob": 0.599841296672821,
+      "parametric_min_prob": 0.15692932903766632
+    },
+    {
+      "id": 66,
+      "ds_index": 132,
+      "question": "Alice David is the voice of Lara Croft in a video game developed by which company ?",
+      "gold_answer": "Crystal Dynamics",
+      "parametric_answer": "I couldn't find any information on an Alice David being the voice of Lara Croft. However, the voice of Lara Croft in the 2013 video game \"Tomb Raider\" is Camilla Luddington, and in the 2023 video game \"Tomb Raider: Reloaded\" it is also Camilla Luddington.",
+      "parametric_perplexity": 1.5392073392868042,
+      "parametric_mean_prob": 0.7238683700561523,
+      "parametric_min_prob": 0.12659266591072083
+    },
+    {
+      "id": 67,
+      "ds_index": 1566,
+      "question": "Which German project recorded a song that featured vocals by a duo from Silverdale, England?",
+      "gold_answer": "Enigma",
+      "parametric_answer": "I'm not aware of any information about a specific German project that recorded a song with vocals by a duo from Silverdale, England.",
+      "parametric_perplexity": 1.3823987245559692,
+      "parametric_mean_prob": 0.7691001892089844,
+      "parametric_min_prob": 0.30536869168281555
+    },
+    {
+      "id": 68,
+      "ds_index": 2183,
+      "question": "Which facility was founded in Missouri, Discovery Zone or Valentino's?",
+      "gold_answer": "Discovery Zone",
+      "parametric_answer": "Discovery Zone was founded in Missouri.",
+      "parametric_perplexity": 1.3572276830673218,
+      "parametric_mean_prob": 0.7813329696655273,
+      "parametric_min_prob": 0.32346299290657043
+    },
+    {
+      "id": 69,
+      "ds_index": 5212,
+      "question": "What occupations do both Ian Hunter and Rob Thomas have?",
+      "gold_answer": "singer, songwriter",
+      "parametric_answer": "Ian Hunter and Rob Thomas are both musicians.",
+      "parametric_perplexity": 1.2753098011016846,
+      "parametric_mean_prob": 0.7994953989982605,
+      "parametric_min_prob": 0.576804518699646
+    },
+    {
+      "id": 70,
+      "ds_index": 1737,
+      "question": "Which services did Rock Nominees Ltd and  ISS A/S (Integrated Service Solutions) have in common?",
+      "gold_answer": "cleaning, catering and security",
+      "parametric_answer": "I'm sorry, I do not have information on what services Rock Nominees Ltd and ISS A/S (Integrated Service Solutions) have in common.",
+      "parametric_perplexity": 1.4154387712478638,
+      "parametric_mean_prob": 0.7839621901512146,
+      "parametric_min_prob": 0.09110387414693832
+    },
+    {
+      "id": 71,
+      "ds_index": 1543,
+      "question": "Which movie was filmed first \"The Guest\" or \"You're Next\"?",
+      "gold_answer": "You're Next",
+      "parametric_answer": "The movie \"The Guest\" was released in 2014, while \"You're Next\" was released in 2011. Therefore, \"You're Next\" was filmed first.",
+      "parametric_perplexity": 1.1836645603179932,
+      "parametric_mean_prob": 0.8783117532730103,
+      "parametric_min_prob": 0.2579737603664398
+    },
+    {
+      "id": 72,
+      "ds_index": 5865,
+      "question": "During what war were the Russia-United Kingdom relations in a state of rivalry after the abdication of Emperor Nicholas II? ",
+      "gold_answer": "the Cold War (1947\u201391)",
+      "parametric_answer": "The Russia-United Kingdom relations were in a state of rivalry during World War I.",
+      "parametric_perplexity": 1.6570637226104736,
+      "parametric_mean_prob": 0.829613208770752,
+      "parametric_min_prob": 0.0024595099966973066
+    },
+    {
+      "id": 73,
+      "ds_index": 5785,
+      "question": "Flower Alley was bred by the trainer who was killed at what Fayette County, Kentucky airport?",
+      "gold_answer": "Blue Grass Airport",
+      "parametric_answer": "I couldn't find any information about a trainer being killed at a Fayette County, Kentucky airport.",
+      "parametric_perplexity": 1.4027196168899536,
+      "parametric_mean_prob": 0.7667880058288574,
+      "parametric_min_prob": 0.21929967403411865
+    },
+    {
+      "id": 74,
+      "ds_index": 5976,
+      "question": "How many different schools does the university, in which Andrew J. Elliot is a professor of psychology, have?",
+      "gold_answer": "six",
+      "parametric_answer": "I'm sorry, but I am unable to verify the number of schools that Andrew J. Elliot is a professor of psychology at.",
+      "parametric_perplexity": 1.529411792755127,
+      "parametric_mean_prob": 0.7214008569717407,
+      "parametric_min_prob": 0.12585243582725525
+    },
+    {
+      "id": 75,
+      "ds_index": 2692,
+      "question": "Loughborough Students' Union serves the students at what public research university that has been a university since 1966, but the institution dates back to 1909?",
+      "gold_answer": "Loughborough University",
+      "parametric_answer": "The public research university served by Loughborough Students' Union is Loughborough University. Loughborough University was granted university status in 1966, but its roots date back to 1909 as the Loughborough Technical Institute.",
+      "parametric_perplexity": 1.401343584060669,
+      "parametric_mean_prob": 0.8107659220695496,
+      "parametric_min_prob": 0.08062716573476791
+    },
+    {
+      "id": 76,
+      "ds_index": 4563,
+      "question": "In what european city is a location of the college from which the woman known as Comic Book Girl 19 received her degree?",
+      "gold_answer": "Lacoste, France",
+      "parametric_answer": "I'm not aware of any information about a woman known as \"Comic Book Girl 19\" or her educational background.",
+      "parametric_perplexity": 1.5186985731124878,
+      "parametric_mean_prob": 0.7258531451225281,
+      "parametric_min_prob": 0.12818464636802673
+    },
+    {
+      "id": 77,
+      "ds_index": 468,
+      "question": "Kam Heskin plays Paige Morgan in a 2004 film directed by who?",
+      "gold_answer": "Martha Coolidge",
+      "parametric_answer": "The 2004 film is \"Raise Your Voice\". It was directed by Sean McNamara.",
+      "parametric_perplexity": 1.5396034717559814,
+      "parametric_mean_prob": 0.7353408932685852,
+      "parametric_min_prob": 0.1989183872938156
+    },
+    {
+      "id": 78,
+      "ds_index": 6210,
+      "question": "What was a series of battles during the Revolutionary War, for control of New York City and the state of New Jersey, fought on October 28, 1776 near White Plains, New York?",
+      "gold_answer": "New York and New Jersey campaign",
+      "parametric_answer": "The series of battles you are referring to is the Battle of White Plains, which was a series of battles during the Revolutionary War for control of New York City and the state of New Jersey. However, the main battle was actually fought on October 28, 1776, near White Plains, New York, but it was actually the Battle of Fort Washington and the Battle of White Plains occurred in the same time frame but were not the same battle.",
+      "parametric_perplexity": 1.7776055335998535,
+      "parametric_mean_prob": 0.6679153442382812,
+      "parametric_min_prob": 0.08144441992044449
+    },
+    {
+      "id": 79,
+      "ds_index": 2399,
+      "question": "In what year was the Sayrevill, New Jersey rock band that Frankie LaRocka played drums for formed?",
+      "gold_answer": "1983",
+      "parametric_answer": "I couldn't find any information on a New Jersey rock band called \"Sayrevill.\"",
+      "parametric_perplexity": 1.658185601234436,
+      "parametric_mean_prob": 0.718158483505249,
+      "parametric_min_prob": 0.0482945516705513
+    },
+    {
+      "id": 80,
+      "ds_index": 6733,
+      "question": "The series of novels that reference numerous locations and incorporates themes from multiple genres is titled what?",
+      "gold_answer": "The Dark Tower",
+      "parametric_answer": "The series of novels that reference numerous locations and incorporates themes from multiple genres is titled \"The Discworld\" by Terry Pratchett.",
+      "parametric_perplexity": 1.2216912508010864,
+      "parametric_mean_prob": 0.8663321137428284,
+      "parametric_min_prob": 0.22616897523403168
+    },
+    {
+      "id": 81,
+      "ds_index": 4159,
+      "question": "The 53rd National Hockey League All-Star Game took place at the indoor arena that was completed in what year?",
+      "gold_answer": "1998",
+      "parametric_answer": "The 53rd National Hockey League All-Star Game took place in 2002. The game was held at the Air Canada Centre in Toronto, Ontario, Canada, which was completed in 1999.",
+      "parametric_perplexity": 1.4063771963119507,
+      "parametric_mean_prob": 0.7805694937705994,
+      "parametric_min_prob": 0.140105202794075
+    },
+    {
+      "id": 82,
+      "ds_index": 7315,
+      "question": "Where does \u015aivar\u0101ma Swami conduct courses on Vaishnava Theology?",
+      "gold_answer": "in the village of Aldenham",
+      "parametric_answer": "I couldn't find any information on \u015aivar\u0101ma Swami.",
+      "parametric_perplexity": 1.4478157758712769,
+      "parametric_mean_prob": 0.8008068203926086,
+      "parametric_min_prob": 0.060067128390073776
+    },
+    {
+      "id": 83,
+      "ds_index": 6109,
+      "question": "What is the given name of the character depicted as Juliet Hulme in Heavenly Creatures?",
+      "gold_answer": "Anne Perry",
+      "parametric_answer": "The given name of the character depicted as Juliet Hulme in the film \"Heavenly Creatures\" is Pauline Parker.",
+      "parametric_perplexity": 1.14885413646698,
+      "parametric_mean_prob": 0.903262197971344,
+      "parametric_min_prob": 0.2391795516014099
+    },
+    {
+      "id": 84,
+      "ds_index": 7031,
+      "question": "In what state did this band form that is an American metalcore band, founded in mid-2009, and whose lead vocalist was Jerry Roush?",
+      "gold_answer": "California",
+      "parametric_answer": "I'm not aware of the specific band you are referring to.",
+      "parametric_perplexity": 2.1137735843658447,
+      "parametric_mean_prob": 0.5440292954444885,
+      "parametric_min_prob": 0.0977613776922226
+    },
+    {
+      "id": 85,
+      "ds_index": 4099,
+      "question": "Who wrote the book that inspired the name of the CD/DVD \"Here at the End of All Things\"?",
+      "gold_answer": "J. R. R. Tolkien",
+      "parametric_answer": "The book that inspired the name of the CD/DVD \"Here at the End of All Things\" is \"Here at the End of All Things: A Story of Christian Hope and Comfort in the Days of Doom\" by Charles Spurgeon.",
+      "parametric_perplexity": 1.376833438873291,
+      "parametric_mean_prob": 0.7948004603385925,
+      "parametric_min_prob": 0.11571531742811203
+    },
+    {
+      "id": 86,
+      "ds_index": 4094,
+      "question": "Where was the original line of the railroad William Howard worked for?",
+      "gold_answer": "the port of Baltimore west to Sandy Hook",
+      "parametric_answer": "I'm not aware of any information about a person named William Howard working for a railroad.",
+      "parametric_perplexity": 1.4368818998336792,
+      "parametric_mean_prob": 0.7294859886169434,
+      "parametric_min_prob": 0.26777616143226624
+    },
+    {
+      "id": 87,
+      "ds_index": 5926,
+      "question": "What band did Gator Country guitarist that co-wrote Bloody Reunion come from?",
+      "gold_answer": "Molly Hatchet",
+      "parametric_answer": "I couldn't find any information on a band called \"Gator Country\" or a song called \"Bloody Reunion\" that is associated with a well-known artist.",
+      "parametric_perplexity": 1.7072290182113647,
+      "parametric_mean_prob": 0.6805052757263184,
+      "parametric_min_prob": 0.0538192018866539
+    },
+    {
+      "id": 88,
+      "ds_index": 4545,
+      "question": "Jessica Jones is a television series created for Netflix, the second in the series of the shows that lead to \"The Defenders\" miniseries after what show released on Netflix earlier?",
+      "gold_answer": "Daredevil",
+      "parametric_answer": "Jessica Jones is a television series created for Netflix, the second in the series of the shows that lead to \"The Defenders\" miniseries after Daredevil.",
+      "parametric_perplexity": 1.1014529466629028,
+      "parametric_mean_prob": 0.9232507944107056,
+      "parametric_min_prob": 0.32539939880371094
+    },
+    {
+      "id": 89,
+      "ds_index": 996,
+      "question": "Which type of character is featured by the P.L. Travers's third book and last novel in the \"Mary Poppins\" series?",
+      "gold_answer": "fictional character",
+      "parametric_answer": "The character featured in P.L. Travers's third book and last novel in the \"Mary Poppins\" series is Mary's brother, George Banks's son, and Jane's brother, Michael Banks.",
+      "parametric_perplexity": 1.5199811458587646,
+      "parametric_mean_prob": 0.7238706946372986,
+      "parametric_min_prob": 0.18762989342212677
+    },
+    {
+      "id": 90,
+      "ds_index": 37,
+      "question": "The Livesey Hal War Memorial commemorates the fallen of which war, that had over 60 million casualties?",
+      "gold_answer": "World War II",
+      "parametric_answer": "The Livesey Hall War Memorial commemorates the fallen of World War I, which had over 37 million casualties. However, it's also possible that it commemorates World War II, which had over 50 million casualties, but more likely it commemorates World War I.",
+      "parametric_perplexity": 1.6815537214279175,
+      "parametric_mean_prob": 0.6830676198005676,
+      "parametric_min_prob": 0.1191885843873024
+    },
+    {
+      "id": 91,
+      "ds_index": 61,
+      "question": "What is the name of the executive producer of the film that has a score composed by Jerry Goldsmith?",
+      "gold_answer": "Ronald Shusett",
+      "parametric_answer": "I'm not able to identify the specific film you are referring to without more information.",
+      "parametric_perplexity": 2.010438919067383,
+      "parametric_mean_prob": 0.5755839347839355,
+      "parametric_min_prob": 0.1594671756029129
+    },
+    {
+      "id": 92,
+      "ds_index": 472,
+      "question": "Eric Ambler and Carol Shields are both best Known for what profession?",
+      "gold_answer": "author",
+      "parametric_answer": "Eric Ambler and Carol Shields are both best known for being novelists.",
+      "parametric_perplexity": 1.1124591827392578,
+      "parametric_mean_prob": 0.9104644060134888,
+      "parametric_min_prob": 0.550578236579895
+    },
+    {
+      "id": 93,
+      "ds_index": 101,
+      "question": "David Huntsinger has worked with this gospel singer born in the month of July?",
+      "gold_answer": "Larnelle Harris",
+      "parametric_answer": "I couldn't find any information about a gospel singer born in July who David Huntsinger has worked with.",
+      "parametric_perplexity": 1.4667414426803589,
+      "parametric_mean_prob": 0.7560672760009766,
+      "parametric_min_prob": 0.09850474447011948
+    },
+    {
+      "id": 94,
+      "ds_index": 3340,
+      "question": "What film adaptation do both Jerome Bernard and Ira Lewis have in common?",
+      "gold_answer": "Chinese Coffee",
+      "parametric_answer": "I couldn't find any information about a film adaptation that both Jerome Bernard and Ira Lewis have in common.",
+      "parametric_perplexity": 1.370896577835083,
+      "parametric_mean_prob": 0.7796710729598999,
+      "parametric_min_prob": 0.28084680438041687
+    },
+    {
+      "id": 95,
+      "ds_index": 4205,
+      "question": "The chicken is a type of dance pattern that is a change of pace of what dance?",
+      "gold_answer": "the Twist",
+      "parametric_answer": "The chicken is a type of dance pattern that is a change of pace of the Lindy Hop dance. It involves a sudden, energetic, and often comedic movement, typically characterized by a bounce or a hop.",
+      "parametric_perplexity": 2.1729485988616943,
+      "parametric_mean_prob": 0.6076075434684753,
+      "parametric_min_prob": 0.009977917186915874
+    },
+    {
+      "id": 96,
+      "ds_index": 6446,
+      "question": "What profession does John Lanchester and Alan Dean Foster have in common?",
+      "gold_answer": "novelist",
+      "parametric_answer": "John Lanchester and Alan Dean Foster are both authors.",
+      "parametric_perplexity": 1.2543693780899048,
+      "parametric_mean_prob": 0.8323619961738586,
+      "parametric_min_prob": 0.4174322485923767
+    },
+    {
+      "id": 97,
+      "ds_index": 3450,
+      "question": "Are both Lygodium or Maxillaria a genus of orchids?",
+      "gold_answer": "no",
+      "parametric_answer": "No, Lygodium is not a genus of orchids. Maxillaria is a genus of orchids, commonly known as the saddleback orchids.",
+      "parametric_perplexity": 1.790452241897583,
+      "parametric_mean_prob": 0.7257511615753174,
+      "parametric_min_prob": 0.014474274590611458
+    },
+    {
+      "id": 98,
+      "ds_index": 3734,
+      "question": "What city does Paul Clyne and David Soares have in common?",
+      "gold_answer": "New York",
+      "parametric_answer": "I couldn't find any information on a person named Paul Clyne. However, David Soares is the County Executive of Albany County in New York.",
+      "parametric_perplexity": 1.7011924982070923,
+      "parametric_mean_prob": 0.7044245004653931,
+      "parametric_min_prob": 0.04919283464550972
+    },
+    {
+      "id": 99,
+      "ds_index": 3317,
+      "question": "What giant silverware company was started as a religious Utopian group and was for many years run by Pierrepont Noyes?",
+      "gold_answer": "Oneida Limited",
+      "parametric_answer": "The Oneida Community was a giant silverware company that started as a religious Utopian group and was for many years run by Pierrepont Noyes.",
+      "parametric_perplexity": 1.2431352138519287,
+      "parametric_mean_prob": 0.8524864315986633,
+      "parametric_min_prob": 0.16835437715053558
+    }
+  ]
+}

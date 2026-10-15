@@ -1,0 +1,231 @@
+{
+  "judge_model": "claude-opus-4-6",
+  "voting": "conservative_double",
+  "max_concurrency": 20,
+  "cells": [
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/Qwen_Qwen2.5-14B-Instruct/hotpot/k1_s1.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/Qwen_Qwen2.5-14B-Instruct/hotpot/k1_s1.json",
+      "n": 100,
+      "n_hallucinated": 40,
+      "hall_rate": 0.4
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/Qwen_Qwen2.5-14B-Instruct/hotpot/k1_s2.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/Qwen_Qwen2.5-14B-Instruct/hotpot/k1_s2.json",
+      "n": 100,
+      "n_hallucinated": 51,
+      "hall_rate": 0.51
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/Qwen_Qwen2.5-14B-Instruct/hotpot/k1_s3.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/Qwen_Qwen2.5-14B-Instruct/hotpot/k1_s3.json",
+      "n": 100,
+      "n_hallucinated": 42,
+      "hall_rate": 0.42
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/Qwen_Qwen2.5-14B-Instruct/hotpot/k1_s4.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/Qwen_Qwen2.5-14B-Instruct/hotpot/k1_s4.json",
+      "n": 100,
+      "n_hallucinated": 41,
+      "hall_rate": 0.41
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/Qwen_Qwen2.5-14B-Instruct/squad/k1_s1.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/Qwen_Qwen2.5-14B-Instruct/squad/k1_s1.json",
+      "n": 100,
+      "n_hallucinated": 31,
+      "hall_rate": 0.31
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/Qwen_Qwen2.5-14B-Instruct/squad/k1_s2.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/Qwen_Qwen2.5-14B-Instruct/squad/k1_s2.json",
+      "n": 100,
+      "n_hallucinated": 30,
+      "hall_rate": 0.3
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/Qwen_Qwen2.5-14B-Instruct/squad/k1_s3.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/Qwen_Qwen2.5-14B-Instruct/squad/k1_s3.json",
+      "n": 100,
+      "n_hallucinated": 33,
+      "hall_rate": 0.33
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/Qwen_Qwen2.5-14B-Instruct/squad/k1_s4.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/Qwen_Qwen2.5-14B-Instruct/squad/k1_s4.json",
+      "n": 100,
+      "n_hallucinated": 28,
+      "hall_rate": 0.28
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/google_gemma-3-4b-it/hotpot/k1_s1.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/google_gemma-3-4b-it/hotpot/k1_s1.json",
+      "n": 100,
+      "n_hallucinated": 31,
+      "hall_rate": 0.31
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/google_gemma-3-4b-it/hotpot/k1_s2.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/google_gemma-3-4b-it/hotpot/k1_s2.json",
+      "n": 100,
+      "n_hallucinated": 41,
+      "hall_rate": 0.41
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/google_gemma-3-4b-it/hotpot/k1_s3.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/google_gemma-3-4b-it/hotpot/k1_s3.json",
+      "n": 100,
+      "n_hallucinated": 25,
+      "hall_rate": 0.25
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/google_gemma-3-4b-it/hotpot/k1_s4.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/google_gemma-3-4b-it/hotpot/k1_s4.json",
+      "n": 100,
+      "n_hallucinated": 37,
+      "hall_rate": 0.37
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/google_gemma-3-4b-it/squad/k1_s1.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/google_gemma-3-4b-it/squad/k1_s1.json",
+      "n": 100,
+      "n_hallucinated": 28,
+      "hall_rate": 0.28
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/google_gemma-3-4b-it/squad/k1_s2.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/google_gemma-3-4b-it/squad/k1_s2.json",
+      "n": 100,
+      "n_hallucinated": 34,
+      "hall_rate": 0.34
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/google_gemma-3-4b-it/squad/k1_s3.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/google_gemma-3-4b-it/squad/k1_s3.json",
+      "n": 100,
+      "n_hallucinated": 34,
+      "hall_rate": 0.34
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/google_gemma-3-4b-it/squad/k1_s4.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/google_gemma-3-4b-it/squad/k1_s4.json",
+      "n": 100,
+      "n_hallucinated": 25,
+      "hall_rate": 0.25
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/meta-llama_Llama-3.1-8B-Instruct/hotpot/k1_s1.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/meta-llama_Llama-3.1-8B-Instruct/hotpot/k1_s1.json",
+      "n": 100,
+      "n_hallucinated": 53,
+      "hall_rate": 0.53
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/meta-llama_Llama-3.1-8B-Instruct/hotpot/k1_s2.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/meta-llama_Llama-3.1-8B-Instruct/hotpot/k1_s2.json",
+      "n": 100,
+      "n_hallucinated": 66,
+      "hall_rate": 0.66
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/meta-llama_Llama-3.1-8B-Instruct/hotpot/k1_s3.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/meta-llama_Llama-3.1-8B-Instruct/hotpot/k1_s3.json",
+      "n": 100,
+      "n_hallucinated": 49,
+      "hall_rate": 0.49
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/meta-llama_Llama-3.1-8B-Instruct/hotpot/k1_s4.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/meta-llama_Llama-3.1-8B-Instruct/hotpot/k1_s4.json",
+      "n": 100,
+      "n_hallucinated": 51,
+      "hall_rate": 0.51
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/meta-llama_Llama-3.1-8B-Instruct/squad/k1_s1.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/meta-llama_Llama-3.1-8B-Instruct/squad/k1_s1.json",
+      "n": 100,
+      "n_hallucinated": 38,
+      "hall_rate": 0.38
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/meta-llama_Llama-3.1-8B-Instruct/squad/k1_s2.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/meta-llama_Llama-3.1-8B-Instruct/squad/k1_s2.json",
+      "n": 100,
+      "n_hallucinated": 43,
+      "hall_rate": 0.43
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/meta-llama_Llama-3.1-8B-Instruct/squad/k1_s3.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/meta-llama_Llama-3.1-8B-Instruct/squad/k1_s3.json",
+      "n": 100,
+      "n_hallucinated": 43,
+      "hall_rate": 0.43
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/meta-llama_Llama-3.1-8B-Instruct/squad/k1_s4.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/meta-llama_Llama-3.1-8B-Instruct/squad/k1_s4.json",
+      "n": 100,
+      "n_hallucinated": 40,
+      "hall_rate": 0.4
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/microsoft_Phi-3-mini-4k-instruct/hotpot/k1_s1.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/microsoft_Phi-3-mini-4k-instruct/hotpot/k1_s1.json",
+      "n": 100,
+      "n_hallucinated": 74,
+      "hall_rate": 0.74
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/microsoft_Phi-3-mini-4k-instruct/hotpot/k1_s2.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/microsoft_Phi-3-mini-4k-instruct/hotpot/k1_s2.json",
+      "n": 100,
+      "n_hallucinated": 81,
+      "hall_rate": 0.81
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/microsoft_Phi-3-mini-4k-instruct/hotpot/k1_s3.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/microsoft_Phi-3-mini-4k-instruct/hotpot/k1_s3.json",
+      "n": 100,
+      "n_hallucinated": 67,
+      "hall_rate": 0.67
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/microsoft_Phi-3-mini-4k-instruct/hotpot/k1_s4.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/microsoft_Phi-3-mini-4k-instruct/hotpot/k1_s4.json",
+      "n": 100,
+      "n_hallucinated": 76,
+      "hall_rate": 0.76
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/microsoft_Phi-3-mini-4k-instruct/squad/k1_s1.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/microsoft_Phi-3-mini-4k-instruct/squad/k1_s1.json",
+      "n": 100,
+      "n_hallucinated": 67,
+      "hall_rate": 0.67
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/microsoft_Phi-3-mini-4k-instruct/squad/k1_s2.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/microsoft_Phi-3-mini-4k-instruct/squad/k1_s2.json",
+      "n": 100,
+      "n_hallucinated": 72,
+      "hall_rate": 0.72
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/microsoft_Phi-3-mini-4k-instruct/squad/k1_s3.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/microsoft_Phi-3-mini-4k-instruct/squad/k1_s3.json",
+      "n": 100,
+      "n_hallucinated": 64,
+      "hall_rate": 0.64
+    },
+    {
+      "in_path": "analysis/multiseed_k1_results/multiseed_k1/microsoft_Phi-3-mini-4k-instruct/squad/k1_s4.json",
+      "out_path": "analysis/multiseed_k1_labeled_claude-opus-4-6/multiseed_k1/microsoft_Phi-3-mini-4k-instruct/squad/k1_s4.json",
+      "n": 100,
+      "n_hallucinated": 62,
+      "hall_rate": 0.62
+    }
+  ]
+}

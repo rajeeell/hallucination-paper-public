@@ -1,0 +1,19 @@
+Method,AUROC,Type,beats_sds,improvement
+All Uncertainty (no SDS),0.8877599999999999,Uncertainty,True,0.3819319999999998
+SDS + All Uncertainty,0.8872600000000002,Combined,True,0.3814320000000001
+SDS + Perplexity,0.8868,Combined,True,0.380972
+Perplexity,0.886714,Uncertainty,True,0.38088599999999995
+Min Prob (neg),0.81373,Uncertainty,True,0.3079019999999999
+Mean Entropy,0.812526,Uncertainty,True,0.3066979999999999
+SDS + Mean Entropy,0.81214,Combined,True,0.3063119999999999
+Entropy Std,0.811982,Uncertainty,True,0.3061539999999999
+SDS + Mean Prob,0.80242,Combined,True,0.29659199999999997
+Mean Prob (neg),0.802154,Uncertainty,True,0.296326
+Max Entropy,0.76077,Uncertainty,True,0.2549419999999999
+SDS + Max Entropy,0.76014,Combined,True,0.254312
+SDS + Min Prob,0.71716,Combined,True,0.21133199999999996
+UWD v3 (SDS / prob),0.7141,UWD,True,0.2082719999999999
+UWD v1 (SDS * entropy),0.688268,UWD,True,0.18243999999999994
+UWD v4 (SDS + log_ppl),0.6177360000000001,UWD,True,0.11190800000000001
+UWD v2 (SDS * ppl),0.606536,UWD,True,0.10070799999999991
+SDS Baseline,0.505828,Baseline,False,0.0

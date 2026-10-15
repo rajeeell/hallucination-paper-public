@@ -1,0 +1,126 @@
+{
+  "judge_model": "claude-opus-4-6",
+  "voting": "conservative_double",
+  "max_concurrency": 20,
+  "cells": [
+    {
+      "in_path": "analysis/vary_k_results/vary_k/Qwen_Qwen2.5-14B-Instruct/hotpot/vary_k_n100_k1.json",
+      "out_path": "analysis/vary_k_labeled_claude-opus-4-6/vary_k/Qwen_Qwen2.5-14B-Instruct/hotpot/vary_k_n100_k1.json",
+      "n": 100,
+      "n_hallucinated": 44,
+      "hall_rate": 0.44
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/Qwen_Qwen2.5-14B-Instruct/squad/vary_k_n100_k1.json",
+      "out_path": "analysis/vary_k_labeled_claude-opus-4-6/vary_k/Qwen_Qwen2.5-14B-Instruct/squad/vary_k_n100_k1.json",
+      "n": 100,
+      "n_hallucinated": 45,
+      "hall_rate": 0.45
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/Qwen_Qwen2.5-14B-Instruct/squad/vary_k_n100_k2.json",
+      "out_path": "analysis/vary_k_labeled_claude-opus-4-6/vary_k/Qwen_Qwen2.5-14B-Instruct/squad/vary_k_n100_k2.json",
+      "n": 100,
+      "n_hallucinated": 43,
+      "hall_rate": 0.43
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/Qwen_Qwen2.5-14B-Instruct/squad/vary_k_n100_k3.json",
+      "out_path": "analysis/vary_k_labeled_claude-opus-4-6/vary_k/Qwen_Qwen2.5-14B-Instruct/squad/vary_k_n100_k3.json",
+      "n": 100,
+      "n_hallucinated": 43,
+      "hall_rate": 0.43
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/Qwen_Qwen2.5-14B-Instruct/squad/vary_k_n100_k4.json",
+      "out_path": "analysis/vary_k_labeled_claude-opus-4-6/vary_k/Qwen_Qwen2.5-14B-Instruct/squad/vary_k_n100_k4.json",
+      "n": 100,
+      "n_hallucinated": 48,
+      "hall_rate": 0.48
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/google_gemma-3-4b-it/hotpot/vary_k_n100_k1.json",
+      "out_path": "analysis/vary_k_labeled_claude-opus-4-6/vary_k/google_gemma-3-4b-it/hotpot/vary_k_n100_k1.json",
+      "n": 100,
+      "n_hallucinated": 39,
+      "hall_rate": 0.39
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/google_gemma-3-4b-it/hotpot/vary_k_n100_k2.json",
+      "out_path": "analysis/vary_k_labeled_claude-opus-4-6/vary_k/google_gemma-3-4b-it/hotpot/vary_k_n100_k2.json",
+      "n": 100,
+      "n_hallucinated": 30,
+      "hall_rate": 0.3
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/google_gemma-3-4b-it/hotpot/vary_k_n100_k3.json",
+      "out_path": "analysis/vary_k_labeled_claude-opus-4-6/vary_k/google_gemma-3-4b-it/hotpot/vary_k_n100_k3.json",
+      "n": 100,
+      "n_hallucinated": 32,
+      "hall_rate": 0.32
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/google_gemma-3-4b-it/hotpot/vary_k_n100_k4.json",
+      "out_path": "analysis/vary_k_labeled_claude-opus-4-6/vary_k/google_gemma-3-4b-it/hotpot/vary_k_n100_k4.json",
+      "n": 100,
+      "n_hallucinated": 26,
+      "hall_rate": 0.26
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/google_gemma-3-4b-it/squad/vary_k_n100_k1.json",
+      "out_path": "analysis/vary_k_labeled_claude-opus-4-6/vary_k/google_gemma-3-4b-it/squad/vary_k_n100_k1.json",
+      "n": 100,
+      "n_hallucinated": 28,
+      "hall_rate": 0.28
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/meta-llama_Llama-3.1-8B-Instruct/hotpot/vary_k_n100_k1.json",
+      "out_path": "analysis/vary_k_labeled_claude-opus-4-6/vary_k/meta-llama_Llama-3.1-8B-Instruct/hotpot/vary_k_n100_k1.json",
+      "n": 100,
+      "n_hallucinated": 52,
+      "hall_rate": 0.52
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/meta-llama_Llama-3.1-8B-Instruct/hotpot/vary_k_n100_k2.json",
+      "out_path": "analysis/vary_k_labeled_claude-opus-4-6/vary_k/meta-llama_Llama-3.1-8B-Instruct/hotpot/vary_k_n100_k2.json",
+      "n": 100,
+      "n_hallucinated": 42,
+      "hall_rate": 0.42
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/meta-llama_Llama-3.1-8B-Instruct/hotpot/vary_k_n100_k3.json",
+      "out_path": "analysis/vary_k_labeled_claude-opus-4-6/vary_k/meta-llama_Llama-3.1-8B-Instruct/hotpot/vary_k_n100_k3.json",
+      "n": 100,
+      "n_hallucinated": 34,
+      "hall_rate": 0.34
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/meta-llama_Llama-3.1-8B-Instruct/hotpot/vary_k_n100_k4.json",
+      "out_path": "analysis/vary_k_labeled_claude-opus-4-6/vary_k/meta-llama_Llama-3.1-8B-Instruct/hotpot/vary_k_n100_k4.json",
+      "n": 100,
+      "n_hallucinated": 33,
+      "hall_rate": 0.33
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/meta-llama_Llama-3.1-8B-Instruct/squad/vary_k_n100_k1.json",
+      "out_path": "analysis/vary_k_labeled_claude-opus-4-6/vary_k/meta-llama_Llama-3.1-8B-Instruct/squad/vary_k_n100_k1.json",
+      "n": 100,
+      "n_hallucinated": 39,
+      "hall_rate": 0.39
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/microsoft_Phi-3-mini-4k-instruct/hotpot/vary_k_n100_k1.json",
+      "out_path": "analysis/vary_k_labeled_claude-opus-4-6/vary_k/microsoft_Phi-3-mini-4k-instruct/hotpot/vary_k_n100_k1.json",
+      "n": 100,
+      "n_hallucinated": 81,
+      "hall_rate": 0.81
+    },
+    {
+      "in_path": "analysis/vary_k_results/vary_k/microsoft_Phi-3-mini-4k-instruct/squad/vary_k_n100_k1.json",
+      "out_path": "analysis/vary_k_labeled_claude-opus-4-6/vary_k/microsoft_Phi-3-mini-4k-instruct/squad/vary_k_n100_k1.json",
+      "n": 100,
+      "n_hallucinated": 78,
+      "hall_rate": 0.78
+    }
+  ]
+}

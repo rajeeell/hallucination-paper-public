@@ -1,0 +1,16 @@
+# Optional GPU dependencies based on the Modal image recipe.
+# Saved-result tests cover requirements.txt; this GPU environment is untested.
+-r requirements.txt
+torch>=2.5,<3
+transformers>=4.50,<4.55
+accelerate>=1.0
+sentence-transformers>=3.0
+datasets>=2.20
+faiss-cpu
+huggingface-hub>=0.24
+python-dotenv
+tqdm
+bert-score
+lettucedetect
+seaborn
+# bitsandbytes is optional and depends on your platform/CUDA setup.

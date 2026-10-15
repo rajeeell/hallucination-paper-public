@@ -1,0 +1,1702 @@
+[
+  {
+    "id": 0,
+    "ds_index": 453,
+    "question": "Because of the gold theme, what was Super Bowl 50 known as?",
+    "gold_answer": "Golden Super Bowl",
+    "context": [
+      "The first game in Arena Football League history was played on June 19, 1987, between the Gladiators and Commandos at Pittsburgh Civic Arena in front of 12,117 fans. The game was deliberately not televised so that it could be analyzed and any follies and failures would not be subject to national public scrutiny. Following the inaugural game, tweaks and adjustments were made, and the first season continued. The Dynamite and Bruisers played in the first-ever televised AFL game the next night, on June 20, 1987, at the Rosemont Horizon in suburban Chicago on ESPN with Bob Rathbun and Lee Corso calling the play. The broadcast showed a short clip of the Commandos-Gladiators game. Each team played six games, two against each other team. The top two teams, Denver and Pittsburgh, then competed in the first-ever AFL championship game, ArenaBowl I."
+    ],
+    "generated_answer": "The provided text does not contain information about Super Bowl 50 or its nickname.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4877381324768066,
+    "mean_prob": 0.8354631066322327,
+    "min_prob": 0.03823992609977722,
+    "sds": 1.1812502145767212,
+    "hallucinated": null
+  },
+  {
+    "id": 1,
+    "ds_index": 8559,
+    "question": "What is the public library seen as to Kenyans?",
+    "gold_answer": "a peoples university",
+    "context": [
+      "The National Library of Nepal is located in Patan. It is the largest library in the country with more than 70,000 books. English, Nepali, Sanskrit, Hindi, and Nepal Bhasa books are found here. The library is in possession of rare scholarly books in Sanskrit and English dating from the 17th century AD. Kathmandu also contains the Kaiser Library, located in the Kaiser Mahal on the ground floor of the Ministry of Education building. This collection of around 45,000 books is derived from a personal collection of Kaiser Shamsher Jang Bahadur Rana. It covers a wide range of subjects including history, law, art, religion, and philosophy, as well as a Sanskrit manual of Tantra, which is believed to be over 1,000 years old. The 2015 earthquake caused severe damage to the Ministry of Education building, and the contents of the Kaiser Library have been temporarily relocated."
+    ],
+    "generated_answer": "The text does not provide information about how Kenyans perceive the National Library of Nepal or any of the libraries mentioned.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4415900707244873,
+    "mean_prob": 0.8490319848060608,
+    "min_prob": 0.04742587357759476,
+    "sds": 1.0447919368743896,
+    "hallucinated": null
+  },
+  {
+    "id": 2,
+    "ds_index": 2166,
+    "question": "How did Luther describe the University of Erfurt?",
+    "gold_answer": "beerhouse and whorehouse",
+    "context": [
+      "The German higher education system comprises two forms of academic institutions: universities and polytechnics (Fachhochschule). The University of Jena is the biggest amongst Thuringia's four universities and offers nearly every discipline. It was founded in 1558, and today has 21,000 students. The second-largest is the Technische Universit\u00e4t Ilmenau with 7,000 students, founded in 1894, which offers many technical disciplines such as engineering and mathematics. The University of Erfurt, founded in 1392, has 5,000 students today and an emphasis on humanities and teacher training. The Bauhaus University Weimar with 4,000 students is Thuringia's smallest university, specialising in creative subjects such as architecture and arts. It was founded in 1860 and came to prominence as Germany's leading art school during the inter-war period, the Bauhaus."
+    ],
+    "generated_answer": "The text does not provide information about how Luther described the University of Erfurt. It only states that the university has 5,000 students and emphasizes humanities and teacher training.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.236917495727539,
+    "mean_prob": 0.8900048732757568,
+    "min_prob": 0.07571688294410706,
+    "sds": 0.939113199710846,
+    "hallucinated": null
+  },
+  {
+    "id": 3,
+    "ds_index": 8272,
+    "question": "How were the Mongol garrison families earning money?",
+    "gold_answer": "income from the harvests of their Chinese tenants",
+    "context": [
+      "A handful of families owned large estates (known as haciendas) and controlled the greater part of the land across the state while the vast majority of Chihuahuans were landless. The state economy was largely defined by ranching and mining. At the expense of the working class, the D\u00edaz administration promoted economic growth by encouraging investment from foreign companies from the United Kingdom, France, Imperial Germany and the United States. The proletariat was often exploited, and found no legal protection or political recourse to redress injustices."
+    ],
+    "generated_answer": "The context doesn't state how the Mongol garrison families earned money; it focuses on the broader economic system of ranching and mining, and the exploitation of the working class by foreign investment.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 5.312607765197754,
+    "mean_prob": 0.7576909065246582,
+    "min_prob": 2.80272246383495e-12,
+    "sds": 0.9704446196556091,
+    "hallucinated": null
+  },
+  {
+    "id": 4,
+    "ds_index": 5889,
+    "question": "Who was ABC Great States sold to in 1974?",
+    "gold_answer": "Henry Plitt",
+    "context": [
+      "By 1987, CBS was the only \"big three\" American TV network to have a co-owned record company. ABC had sold its record division to MCA Records in 1979, and in 1986, NBC's parent company RCA was sold to General Electric, who then sold off all other RCA units, including the record division (which was bought by Ariola Records, later known as BMG)."
+    ],
+    "generated_answer": "The context does not state who ABC Great States was sold to in 1974. It only mentions that ABC sold its record division to MCA Records in 1979.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2411799430847168,
+    "mean_prob": 0.9292857646942139,
+    "min_prob": 0.0140509819611907,
+    "sds": 0.9018132090568542,
+    "hallucinated": null
+  },
+  {
+    "id": 5,
+    "ds_index": 10139,
+    "question": "The UMC established and is affiliated with approximately how many colleges and universities in the U.S.?",
+    "gold_answer": "one hundred",
+    "context": [
+      "The College of Arts and Letters was established as the university's first college in 1842 with the first degrees given in 1849. The university's first academic curriculum was modeled after the Jesuit Ratio Studiorum from Saint Louis University. Today the college, housed in O'Shaughnessy Hall, includes 20 departments in the areas of fine arts, humanities, and social sciences, and awards Bachelor of Arts (B.A.) degrees in 33 majors, making it the largest of the university's colleges. There are around 2,500 undergraduates and 750 graduates enrolled in the college."
+    ],
+    "generated_answer": "The text does not provide information about the number of colleges and universities the University of Missouri (UMC) is affiliated with.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.1897730827331543,
+    "mean_prob": 0.9178658127784729,
+    "min_prob": 0.06008561700582504,
+    "sds": 1.1487665176391602,
+    "hallucinated": null
+  },
+  {
+    "id": 6,
+    "ds_index": 5086,
+    "question": "The rocks at the Grand Canyon have been in place since when?",
+    "gold_answer": "Cambrian time",
+    "context": [
+      "West of the Rocky Mountains lies the Intermontane Plateaus (also known as the Intermountain West), a large, arid desert lying between the Rockies and the Cascades and Sierra Nevada ranges. The large southern portion, known as the Great Basin, consists of salt flats, drainage basins, and many small north-south mountain ranges. The Southwest is predominantly a low-lying desert region. A portion known as the Colorado Plateau, centered around the Four Corners region, is considered to have some of the most spectacular scenery in the world. It is accentuated in such national parks as Grand Canyon, Arches, Mesa Verde National Park and Bryce Canyon, among others. Other smaller Intermontane areas include the Columbia Plateau covering eastern Washington, western Idaho and northeast Oregon and the Snake River Plain in Southern Idaho."
+    ],
+    "generated_answer": "The rocks at the Grand Canyon have been in place for millions of years, forming a significant portion of the Colorado Plateau\u2019s spectacular scenery.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 10.29564094543457,
+    "mean_prob": 0.7247424125671387,
+    "min_prob": 2.1637149016928703e-10,
+    "sds": 0.9310724139213562,
+    "hallucinated": null
+  },
+  {
+    "id": 7,
+    "ds_index": 5519,
+    "question": "Which company is the gallery of Japanese art named after?",
+    "gold_answer": "Toshiba",
+    "context": [
+      "Jiangsu Art Gallery is the largest gallery in Jiangsu Province, presenting some of the best traditional and contemporary art pieces of China; many other smaller-scale galleries, such as Red Chamber Art Garden and Jinling Stone Gallery, also have their own special exhibitions."
+    ],
+    "generated_answer": "The context does not mention a gallery named after a Japanese artist or company. It lists several galleries within Jiangsu Province, including Red Chamber Art Garden and Jinling Stone Gallery.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.5051275491714478,
+    "mean_prob": 0.8318176865577698,
+    "min_prob": 0.005219930782914162,
+    "sds": 0.6110444068908691,
+    "hallucinated": null
+  },
+  {
+    "id": 8,
+    "ds_index": 5491,
+    "question": "Approximately how many architectural drawings does the V&A hold in its collection?",
+    "gold_answer": "over 600,000",
+    "context": [
+      "In 2004, the two institutions created the Architecture Gallery (Room 128) at the V&A showing artefacts from the collections of both institutions, this was the first permanent gallery devoted to architecture in the UK. The adjacent Architecture Exhibition Space (Room 128a) is used for temporary displays related to architecture. Both spaces were designed by Gareth Hoskins Architects. At the same time the RIBA Library Drawing and Archives Collections moved from 21 Portman Place to new facilities in the Henry Cole Wing at the V&A. Under the Partnership new study rooms were opened where members of the public could view items from the RIBA and V&A architectural collections under the supervision of curatorial staff. These and the nearby education room were designed by Wright & Wright Architects."
+    ],
+    "generated_answer": "The text doesn\u2019t specify the exact number of architectural drawings the V&A holds, only that it houses architectural collections including drawings within its RIBA and V&A collections.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.1518096923828125,
+    "mean_prob": 0.8187596797943115,
+    "min_prob": 7.888902473496273e-06,
+    "sds": 0.9405292868614197,
+    "hallucinated": null
+  },
+  {
+    "id": 9,
+    "ds_index": 9957,
+    "question": "Which country did Japan force into an alliance?",
+    "gold_answer": "Thailand",
+    "context": [
+      "In September 1940, Japan decided to cut China's only land line to the outside world by seizing Indochina, which was controlled at the time by Vichy France. Japanese forces broke their agreement with the Vichy administration and fighting broke out, ending in a Japanese victory. On 27 September Japan signed a military alliance with Germany and Italy, becoming one of the three Axis Powers. In practice, there was little coordination between Japan and Germany until 1944, by which time the U.S. was deciphering their secret diplomatic correspondence."
+    ],
+    "generated_answer": "Japan forced Germany and Italy into an alliance in September 1940, forming the Axis Powers.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 10.16999340057373,
+    "mean_prob": 0.8099724650382996,
+    "min_prob": 9.73607416909772e-10,
+    "sds": 0.7520889639854431,
+    "hallucinated": null
+  },
+  {
+    "id": 10,
+    "ds_index": 5954,
+    "question": "What was the only comedy to earn a second season for the 2010-11 schedule?",
+    "gold_answer": "Happy Endings",
+    "context": [
+      "Following the success of season one, the second season was moved up to air in January 2003. The number of episodes increased, as did the show's budget and the charge for commercial spots. Dunkleman left the show, leaving Seacrest as the lone host. Kristin Adams was a correspondent for this season."
+    ],
+    "generated_answer": "The context states that the second season of the show was moved up to air in January 2003, making it the only comedy to earn a second season for the 2010-11 schedule. However, the context doesn't specify the show's name.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4489555358886719,
+    "mean_prob": 0.8842893242835999,
+    "min_prob": 1.1433164218033198e-05,
+    "sds": 0.8311401605606079,
+    "hallucinated": null
+  },
+  {
+    "id": 11,
+    "ds_index": 6466,
+    "question": "What are outcomes expected with Medication Therapy Management?",
+    "gold_answer": "a reconciliation of medication and patient education resulting in increased patient health outcomes and decreased costs to the health care system",
+    "context": [
+      "Possible improvements include clarification of clinical trial regulations by FDA. Furthermore, appropriate economic incentives could persuade pharmaceutical companies to invest in this endeavor. Antibiotic Development to Advance Patient Treatment (ADAPT) Act aims to fast track the drug development to combat the growing threat of 'superbugs'. Under this Act, FDA can approve antibiotics and antifungals treating life-threatening infections based on smaller clinical trials. The CDC will monitor the use of antibiotics and the emerging resistance, and publish the data. The FDA antibiotics labeling process, 'Susceptibility Test Interpretive Criteria for Microbial Organisms' or 'breakpoints', will provide accurate data to healthcare professionals. According to Allan Coukell, senior director for health programs at The Pew Charitable Trusts, \"By allowing drug developers to rely on smaller datasets, and clarifying FDA's authority to tolerate a higher level of uncertainty for these drugs when making a risk/benefit calculation, ADAPT would make the clinical trials more feasible.\""
+    ],
+    "generated_answer": "The ADAPT Act aims to make clinical trials for antibiotics and antifungals more feasible by allowing smaller datasets and clarifying FDA\u2019s risk/benefit calculations, ultimately leading to faster drug development. The CDC will monitor antibiotic use and resistance, providing data through improved labeling criteria.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 5.766894340515137,
+    "mean_prob": 0.7344451546669006,
+    "min_prob": 6.5288077318071195e-22,
+    "sds": 0.5537269711494446,
+    "hallucinated": null
+  },
+  {
+    "id": 12,
+    "ds_index": 1958,
+    "question": "How many US states do no practice corporal punishment?",
+    "gold_answer": "30",
+    "context": [
+      "Physical pain is an important political topic in relation to various issues, including pain management policy, drug control, animal rights or animal welfare, torture, and pain compliance. In various contexts, the deliberate infliction of pain in the form of corporal punishment is used as retribution for an offence, or for the purpose of disciplining or reforming a wrongdoer, or to deter attitudes or behaviour deemed unacceptable. In some cultures, extreme practices such as mortification of the flesh or painful rites of passage are highly regarded."
+    ],
+    "generated_answer": "The text does not specify how many US states currently practice corporal punishment. It only discusses the use of pain as a form of punishment and its varied cultural contexts.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 3.123652935028076,
+    "mean_prob": 0.7705019116401672,
+    "min_prob": 0.00033530525979585946,
+    "sds": 0.8283336162567139,
+    "hallucinated": null
+  },
+  {
+    "id": 13,
+    "ds_index": 1386,
+    "question": "What type of power was displayed at the World's fair by Westinghouse and Tesla?",
+    "gold_answer": "AC power",
+    "context": [
+      "In the latter part of the second revolution, Thomas Alva Edison developed many devices that greatly influenced life around the world and is often credited with the creation of the first industrial research laboratory. In 1882, Edison switched on the world's first large-scale electrical supply network that provided 110 volts direct current to fifty-nine customers in lower Manhattan. Also toward the end of the second industrial revolution, Nikola Tesla made many contributions in the field of electricity and magnetism in the late 19th and early 20th centuries."
+    ],
+    "generated_answer": "The context doesn't specify what Westinghouse and Tesla displayed at a World's fair. It only mentions Tesla's contributions in the field of electricity and magnetism.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.8541585206985474,
+    "mean_prob": 0.8436621427536011,
+    "min_prob": 0.00019302924920339137,
+    "sds": 1.1208714246749878,
+    "hallucinated": null
+  },
+  {
+    "id": 14,
+    "ds_index": 9745,
+    "question": "What organization is devoted to Jihad against Israel?",
+    "gold_answer": "HAMAS",
+    "context": [
+      "Politically, Orthodox Jews, given their variety of movements and affiliations, tend not to conform easily to the standard left-right political spectrum, with one of the key differences between the movements stemming from the groups' attitudes to Zionism. Generally speaking, of the three key strands of Orthodox Judaism, Haredi Orthodox and Hasidic Orthodox Jews are at best ambivalent towards the ideology of Zionism and the creation of the State of Israel, and there are many groups and organisations who are outspokenly anti-Zionistic, seeing the ideology of Zionism as diametrically opposed to the teaching of the Torah, and the Zionist administration of the State of Israel, with its emphasis on militarism and nationalism, as destructive of the Judaic way of life."
+    ],
+    "generated_answer": "The text does not specify any particular organization devoted to Jihad against Israel, only that some groups within Orthodox Judaism hold anti-Zionist views and see the State of Israel as destructive of their way of life.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.8087844848632812,
+    "mean_prob": 0.8619897961616516,
+    "min_prob": 7.88925990491407e-06,
+    "sds": 0.8864935636520386,
+    "hallucinated": null
+  },
+  {
+    "id": 15,
+    "ds_index": 4923,
+    "question": "Who introduced plague to Europe?",
+    "gold_answer": "Genoese traders",
+    "context": [
+      "These troubles were followed in 1347 by the Black Death, a pandemic that spread throughout Europe during the following three years.[AC] The death toll was probably about 35 million people in Europe, about one-third of the population. Towns were especially hard-hit because of their crowded conditions.[AD] Large areas of land were left sparsely inhabited, and in some places fields were left unworked. Wages rose as landlords sought to entice the reduced number of available workers to their fields. Further problems were lower rents and lower demand for food, both of which cut into agricultural income. Urban workers also felt that they had a right to greater earnings, and popular uprisings broke out across Europe. Among the uprisings were the jacquerie in France, the Peasants' Revolt in England, and revolts in the cities of Florence in Italy and Ghent and Bruges in Flanders. The trauma of the plague led to an increased piety throughout Europe, manifested by the foundation of new charities, the self-mortification of the flagellants, and the scapegoating of Jews. Conditions were further unsettled by the return of the plague throughout the rest of the 14th century; it continued to strike Europe periodically during the rest of the Middle Ages."
+    ],
+    "generated_answer": "The text does not state who introduced the plague to Europe; it simply describes its spread as a pandemic.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 3.305579662322998,
+    "mean_prob": 0.8064817786216736,
+    "min_prob": 2.1444904632517137e-05,
+    "sds": 0.9427440762519836,
+    "hallucinated": null
+  },
+  {
+    "id": 16,
+    "ds_index": 5914,
+    "question": "Who did ABC sell it's recording division to in 1979?",
+    "gold_answer": "MCA Inc.",
+    "context": [
+      "By 1987, CBS was the only \"big three\" American TV network to have a co-owned record company. ABC had sold its record division to MCA Records in 1979, and in 1986, NBC's parent company RCA was sold to General Electric, who then sold off all other RCA units, including the record division (which was bought by Ariola Records, later known as BMG)."
+    ],
+    "generated_answer": "ABC sold its recording division to MCA Records in 1979.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 4.463393688201904,
+    "mean_prob": 0.9333245754241943,
+    "min_prob": 7.991951544994436e-11,
+    "sds": 0.8806970119476318,
+    "hallucinated": null
+  },
+  {
+    "id": 17,
+    "ds_index": 6817,
+    "question": "Why would a person chose civil disobedience against specific laws?",
+    "gold_answer": "judged \"wrong\" by an individual conscience",
+    "context": [
+      "The rule of law is the legal principle that law should govern a nation, as opposed to being governed by arbitrary decisions of individual government officials. It primarily refers to the influence and authority of law within society, particularly as a constraint upon behaviour, including behaviour of government officials. The phrase can be traced back to 16th century Britain, and in the following century the Scottish theologian Samuel Rutherford used the phrase in his argument against the divine right of kings. The rule of law was further popularized in the 19th century by British jurist A. V. Dicey. The concept, if not the phrase, was familiar to ancient philosophers such as Aristotle, who wrote \"Law should govern\"."
+    ],
+    "generated_answer": "The context doesn't explain why someone would choose civil disobedience. It only describes the concept of the rule of law as a system where laws, not individual officials, should govern.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.171915054321289,
+    "mean_prob": 0.8177610039710999,
+    "min_prob": 1.8445258547217236e-06,
+    "sds": 1.0577800273895264,
+    "hallucinated": null
+  },
+  {
+    "id": 18,
+    "ds_index": 326,
+    "question": "How many seconds were left in the game when the Broncos intercepted the pass that won the game?",
+    "gold_answer": "17",
+    "context": [
+      "During the last three minutes of a half, the penalty for failure to place the ball in play within the 20-second play clock, known as \"time count\" (this foul is known as \"delay of game\" in American football), is dramatically different from during the first 27 minutes. Instead of the penalty being 5 yards with the down repeated, the base penalty (except during convert attempts) becomes loss of down on first or second down, and 10 yards on third down with the down repeated. In addition, as noted previously, the referee can give possession to the defence for repeated deliberate time count violations on third down."
+    ],
+    "generated_answer": "The context does not provide information about how many seconds were left in the game when the Broncos intercepted the pass. It only describes the altered penalty rules during the final minutes of a half.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2903283834457397,
+    "mean_prob": 0.8991933465003967,
+    "min_prob": 0.01406311895698309,
+    "sds": 0.851136326789856,
+    "hallucinated": null
+  },
+  {
+    "id": 19,
+    "ds_index": 843,
+    "question": "Warsaw's sidewalks and sanitation facilities are some examples of things which have what?",
+    "gold_answer": "improved markedly",
+    "context": [
+      "Street vendors play their trade from stalls in the tianguis as well as at non-officially controlled concentrations around metro stations and hospitals; at plazas comerciales, where vendors of a certain \"theme\" (e.g. stationery) are housed; originally these were organized to accommodate vendors formerly selling on the street; or simply from improvised stalls on a city sidewalk. In addition, food and goods are sold from people walking with baskets, pushing carts, from bicycles or the backs of trucks, or simply from a tarp or cloth laid on the ground."
+    ],
+    "generated_answer": "The text describes street vendors using improvised stalls on sidewalks and the ground, suggesting Warsaw's sidewalks and sanitation facilities have instances of informal trading.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 4.219044208526611,
+    "mean_prob": 0.6746143698692322,
+    "min_prob": 7.482755609089509e-05,
+    "sds": 0.777826726436615,
+    "hallucinated": null
+  },
+  {
+    "id": 20,
+    "ds_index": 6770,
+    "question": "What does not constitute as civil disobedience?",
+    "gold_answer": "refuse to enforce a decision",
+    "context": [
+      "Both Locke and Rousseau developed social contract theories in Two Treatises of Government and Discourse on Inequality, respectively. While quite different works, Locke, Hobbes, and Rousseau agreed that a social contract, in which the government's authority lies in the consent of the governed, is necessary for man to live in civil society. Locke defines the state of nature as a condition in which humans are rational and follow natural law; in which all men are born equal and with the right to life, liberty and property. However, when one citizen breaks the Law of Nature, both the transgressor and the victim enter into a state of war, from which it is virtually impossible to break free. Therefore, Locke said that individuals enter into civil society to protect their natural rights via an \"unbiased judge\" or common authority, such as courts, to appeal to. Contrastingly, Rousseau's conception relies on the supposition that \"civil man\" is corrupted, while \"natural man\" has no want he cannot fulfill himself. Natural man is only taken out of the state of nature when the inequality associated with private property is established. Rousseau said that people join into civil society via the social contract to achieve unity while preserving individual freedom. This is embodied in the sovereignty of the general will, the moral and collective legislative body constituted by citizens."
+    ],
+    "generated_answer": "The text does not define or discuss civil disobedience; it focuses on social contract theories and the establishment of government authority.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 4.563024997711182,
+    "mean_prob": 0.7712764739990234,
+    "min_prob": 1.6052277285183436e-09,
+    "sds": 1.0567923784255981,
+    "hallucinated": null
+  },
+  {
+    "id": 21,
+    "ds_index": 7923,
+    "question": "Who holds the record for largest simulcast of a TV drama?",
+    "gold_answer": "Doctor Who",
+    "context": [
+      "In addition, recording and reproducing an HDTV signal was a significant technical challenge in the early years of HDTV (Sony HDVS). Japan remained the only country with successful public broadcasting of analog HDTV, with seven broadcasters sharing a single channel."
+    ],
+    "generated_answer": "The context states that Japan was the only country with successful public broadcasting of analog HDTV and shared a single channel with seven broadcasters, but it does not provide information about who holds the record for largest simulcast of a TV drama.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.092900276184082,
+    "mean_prob": 0.8249975442886353,
+    "min_prob": 5.821918239234947e-05,
+    "sds": 0.6449112296104431,
+    "hallucinated": null
+  },
+  {
+    "id": 22,
+    "ds_index": 2428,
+    "question": "Who is the English translator of this hymn?",
+    "gold_answer": "John C. Messenger",
+    "context": [
+      "Translation of a text that is sung in vocal music for the purpose of singing in another language\u2014sometimes called \"singing translation\"\u2014is closely linked to translation of poetry because most vocal music, at least in the Western tradition, is set to verse, especially verse in regular patterns with rhyme. (Since the late 19th century, musical setting of prose and free verse has also been practiced in some art music, though popular music tends to remain conservative in its retention of stanzaic forms with or without refrains.) A rudimentary example of translating poetry for singing is church hymns, such as the German chorales translated into English by Catherine Winkworth."
+    ],
+    "generated_answer": "Catherine Winkworth translated German chorales into English for singing.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 38.904422760009766,
+    "mean_prob": 0.6934574246406555,
+    "min_prob": 2.6106320411008025e-16,
+    "sds": 0.7100260853767395,
+    "hallucinated": null
+  },
+  {
+    "id": 23,
+    "ds_index": 8932,
+    "question": "What is the result of the Calvin cycle?",
+    "gold_answer": "unstable six-carbon molecules that immediately break down",
+    "context": [
+      "The light energy captured by chlorophyll a is initially in the form of electrons (and later a proton gradient) that's used to make molecules of ATP and NADPH which temporarily store and transport energy. Their energy is used in the light-independent reactions of the Calvin cycle by the enzyme rubisco to produce molecules of the 3-carbon sugar glyceraldehyde 3-phosphate (G3P). Glyceraldehyde 3-phosphate is the first product of photosynthesis and the raw material from which glucose and almost all other organic molecules of biological origin are synthesized. Some of the glucose is converted to starch which is stored in the chloroplast. Starch is the characteristic energy store of most land plants and algae, while inulin, a polymer of fructose is used for the same purpose in the sunflower family Asteraceae. Some of the glucose is converted to sucrose (common table sugar) for export to the rest of the plant."
+    ],
+    "generated_answer": "The Calvin cycle, utilizing the energy stored in ATP and NADPH, produces molecules of glyceraldehyde 3-phosphate (G3P), the first product of photosynthesis and a precursor to glucose and other organic molecules.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 3.07470440864563,
+    "mean_prob": 0.7904162406921387,
+    "min_prob": 6.144172857602825e-06,
+    "sds": 0.6952103972434998,
+    "hallucinated": null
+  },
+  {
+    "id": 24,
+    "ds_index": 3025,
+    "question": "How are Victorian cabinet members chosen?",
+    "gold_answer": "elected",
+    "context": [
+      "The Prime Minister has the right to appoint a maximum of three such ministers, as the limit of ministers in one government is fifteen. It is also known as the cabinet. The cabinet carries out the country's domestic and foreign policy, shaped by parliament; it directs and co-ordinates the work of government institutions and bears full responsibility for everything occurring within the authority of executive power. The government, headed by the Prime Minister, thus represents the political leadership of the country and makes decisions in the name of the whole executive power."
+    ],
+    "generated_answer": "The Prime Minister has the right to appoint a maximum of three ministers to form the cabinet.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 3.374208688735962,
+    "mean_prob": 0.8331621289253235,
+    "min_prob": 0.0002607978822197765,
+    "sds": 0.545051634311676,
+    "hallucinated": null
+  },
+  {
+    "id": 25,
+    "ds_index": 7599,
+    "question": "How are the certain costs which are difficult to avoid shared?",
+    "gold_answer": "by everyone",
+    "context": [
+      "Building on the earlier work of Ludwig von Mises and others, Hayek also argued that while in centrally planned economies an individual or a select group of individuals must determine the distribution of resources, these planners will never have enough information to carry out this allocation reliably. This argument, first proposed by Max Weber, says that the efficient exchange and use of resources can be maintained only through the price mechanism in free markets (see economic calculation problem)."
+    ],
+    "generated_answer": "According to Hayek, the costs associated with resource allocation are shared through the price mechanism in free markets, which ensures efficient exchange and use of resources. This system avoids the information problem inherent in centrally planned economies.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 6.823132038116455,
+    "mean_prob": 0.7132187485694885,
+    "min_prob": 1.4449801710725296e-07,
+    "sds": 0.6041264533996582,
+    "hallucinated": null
+  },
+  {
+    "id": 26,
+    "ds_index": 9818,
+    "question": "Imperialism extends a country's power and what?",
+    "gold_answer": "influence",
+    "context": [
+      "All states have a geographic scope of interests, actions, or projected power. This is a crucial factor in distinguishing a great power from a regional power; by definition the scope of a regional power is restricted to its region. It has been suggested that a great power should be possessed of actual influence throughout the scope of the prevailing international system. Arnold J. Toynbee, for example, observes that \"Great power may be defined as a political force exerting an effect co-extensive with the widest range of the society in which it operates. The Great powers of 1914 were 'world-powers' because Western society had recently become 'world-wide'.\""
+    ],
+    "generated_answer": "Imperialism extends a country\u2019s power and its geographic scope of interests.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.7584657669067383,
+    "mean_prob": 0.8356184363365173,
+    "min_prob": 0.010850830003619194,
+    "sds": 0.9604779481887817,
+    "hallucinated": null
+  },
+  {
+    "id": 27,
+    "ds_index": 2669,
+    "question": "The term \"southern\" California usually refers to how many of the southern-most counties of the state?",
+    "gold_answer": "ten",
+    "context": [
+      "The climate in the state depends mainly in the elevation of the terrain. According to K\u00f6ppen climate classification the state has five major climate zones. The Sierra Madre Occidental dominates the western part of the state; there are two main climates in this area: Subtropical Highland (Cfb) and Humid Subtropical (Cwa). There are some microclimates in the state due to the varying topology mostly found in the western side of the state. The two best known microclimates are: Tropical savanna climate (Aw) in deep canyons located in the extreme southern part of the state; Continental Mediterranean climate (Dsb) in the extremely high elevations of the Sierra Madre Occidental. Satellite image to the right shows the vegetation is much greener in the west because of the cooler temperatures and larger amounts of precipitation as compared to the rest of the state."
+    ],
+    "generated_answer": "The context does not provide information about the number of southern-most counties in the state. It focuses solely on the climate zones and microclimates within the state based on elevation and topography.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2095348834991455,
+    "mean_prob": 0.931865394115448,
+    "min_prob": 0.010986526496708393,
+    "sds": 0.965674877166748,
+    "hallucinated": null
+  },
+  {
+    "id": 28,
+    "ds_index": 6779,
+    "question": "Who is the final judge of right and wrong?",
+    "gold_answer": "The individual",
+    "context": [
+      "On 6 February 2015, it was announced that Judge Richard Marks is to be replaced by Judge Charles Wide at the retrial. Two days earlier, Marks had emailed counsel for the defendants telling them: \"It has been decided (not by me but by my elders and betters) that I am not going to be doing the retrial\". Reporting the decision in UK newspaper The Guardian, Lisa O\u2019Carroll wrote: \"Wide is the only judge so far to have presided in a case which has seen a conviction of a journalist in relation to allegations of unlawful payments to public officials for stories. The journalist, who cannot be named for legal reasons, is appealing the verdict\". Defence counsel for the four journalists threatened to take the decision to judicial review, with the barrister representing Pharo, Nigel Rumfitt QC, saying: \"The way this has come about gives rise to the impression that something has been going on behind the scenes which should not have been going on behind the scenes and which should have been dealt with transparently\". He added that the defendants were \"extremely concerned\" and \"entitled\" to know why Marks was being replaced by Wide."
+    ],
+    "generated_answer": "The text doesn't explicitly state who determines right and wrong, but it suggests that Judge Marks' decision to recuse himself was influenced by \"elders and betters,\" implying a higher authority.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.6968557834625244,
+    "mean_prob": 0.8039754629135132,
+    "min_prob": 7.889261723903473e-06,
+    "sds": 1.0306811332702637,
+    "hallucinated": null
+  },
+  {
+    "id": 29,
+    "ds_index": 640,
+    "question": "Who handled the color commentary for Denver's radio stations?",
+    "gold_answer": "Ed McCaffrey",
+    "context": [
+      "Myers spoke next and continued to read the script. Once it was West's turn to speak again, he said, \"George Bush doesn't care about black people.\" At this point, telethon producer Rick Kaplan cut off the microphone and then cut away to Chris Tucker, who was unaware of the cut for a few seconds. Still, West's comment reached much of the United States."
+    ],
+    "generated_answer": "The text doesn't provide information about who handled color commentary for Denver's radio stations. It focuses on the events during the telethon and West's controversial comment.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.059842586517334,
+    "mean_prob": 0.9559361338615417,
+    "min_prob": 0.377540647983551,
+    "sds": 0.9759361147880554,
+    "hallucinated": null
+  },
+  {
+    "id": 30,
+    "ds_index": 10052,
+    "question": "What cancels our guilt and empowers us to resist the power of sin and to fully love God and neighbor?",
+    "gold_answer": "justifying grace",
+    "context": [
+      "As the image of God grows within man, he learns to rely less on an intellectual pursuit of virtue and more on an affective pursuit of charity and meekness. Meekness and charity guide Christians to acknowledge that they are nothing without the One (God/Christ) who created them, sustains them, and guides them. Thus, man then directs his path to that One, and the love for, and of, Christ guides man's very nature to become centered on the One, and on his neighbor as well. Charity is the manifestation of the pure love of Christ, both for and by His follower."
+    ],
+    "generated_answer": "Meekness and charity, as manifestations of Christ\u2019s love, cancel guilt and empower us to love God and neighbor.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 10.039189338684082,
+    "mean_prob": 0.7884584069252014,
+    "min_prob": 5.905297917330188e-10,
+    "sds": 0.7277450561523438,
+    "hallucinated": null
+  },
+  {
+    "id": 31,
+    "ds_index": 891,
+    "question": "Where did one of Triton's daughters decide she wanted to hang out and stay?",
+    "gold_answer": "coast of Denmark",
+    "context": [
+      "Deciding to give up his lucrative private Boston practice, Bell retained only two students, six-year-old \"Georgie\" Sanders, deaf from birth, and 15-year-old Mabel Hubbard. Each pupil would play an important role in the next developments. George's father, Thomas Sanders, a wealthy businessman, offered Bell a place to stay in nearby Salem with Georgie's grandmother, complete with a room to \"experiment\". Although the offer was made by George's mother and followed the year-long arrangement in 1872 where her son and his nurse had moved to quarters next to Bell's boarding house, it was clear that Mr. Sanders was backing the proposal. The arrangement was for teacher and student to continue their work together, with free room and board thrown in. Mabel was a bright, attractive girl who was ten years Bell's junior, but became the object of his affection. Having lost her hearing after a near-fatal bout of scarlet fever close to her fifth birthday,[N 13] she had learned to read lips but her father, Gardiner Greene Hubbard, Bell's benefactor and personal friend, wanted her to work directly with her teacher."
+    ],
+    "generated_answer": "Mabel Hubbard wanted to stay with Bell in Salem, where her father, Gardiner Greene Hubbard, arranged for her to work directly with him.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.1072139739990234,
+    "mean_prob": 0.7602310180664062,
+    "min_prob": 0.0009110498358495533,
+    "sds": 0.922683835029602,
+    "hallucinated": null
+  },
+  {
+    "id": 32,
+    "ds_index": 6500,
+    "question": "What can result from disorders of the immune system?",
+    "gold_answer": "autoimmune diseases, inflammatory diseases and cancer",
+    "context": [
+      "Other immune system disorders include various hypersensitivities (such as in asthma and other allergies) that respond inappropriately to otherwise harmless compounds."
+    ],
+    "generated_answer": "Immune system disorders can lead to inappropriate reactions to harmless compounds, such as in cases of asthma and allergies. These reactions are characterized as hypersensitivities.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 8.306803703308105,
+    "mean_prob": 0.7484345436096191,
+    "min_prob": 3.3925775522192225e-09,
+    "sds": 0.4679792821407318,
+    "hallucinated": null
+  },
+  {
+    "id": 33,
+    "ds_index": 2963,
+    "question": "What organization runs the public schools in Victoria? ",
+    "gold_answer": "Victoria Department of Education",
+    "context": [
+      "Public schools are part of the Ann Arbor Public Schools (AAPS) district. AAPS has one of the country's leading music programs. In September 2008, 16,539 students had been enrolled in the Ann Arbor Public Schools. There were 21 elementary schools, five middle schools (Forsythe, Slauson, Tappan, Scarlett, and Clague) three traditional high schools (Pioneer, Huron, and Skyline), and three alternative high schools (Community High, Stone School, and Roberto Clemente) in the district. The district also operates a K-8 open school program, Ann Arbor Open School, out of the former Mack School. This program is open to all families who live within the district. Ann Arbor Public Schools also operates a preschool and family center, with programs for at-risk infants and children before kindergarten. The district has a preschool center with both free and tuition-based programs for preschoolers in the district."
+    ],
+    "generated_answer": "The text does not provide information about the public schools in Victoria; it focuses solely on the Ann Arbor Public Schools district.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.8380517959594727,
+    "mean_prob": 0.8685725331306458,
+    "min_prob": 1.67014204635052e-05,
+    "sds": 1.0723333358764648,
+    "hallucinated": null
+  },
+  {
+    "id": 34,
+    "ds_index": 2202,
+    "question": "What was Luther's Disputation of Martin Luther on the Power and Efficacy of Indulgences later called?",
+    "gold_answer": "The Ninety-Five Theses",
+    "context": [
+      "On 31 October 1517, Martin Luther supposedly nailed his 95 theses against the selling of indulgences at the door of the All Saints', the Castle Church in Wittenberg. The theses debated and criticised the Church and the papacy, but concentrated upon the selling of indulgences and doctrinal policies about purgatory, particular judgment, and the authority of the pope. He would later write works on the Catholic devotion to Virgin Mary, the intercession of and devotion to the saints, the sacraments, mandatory clerical celibacy, monasticism, further on the authority of the pope, the ecclesiastical law, censure and excommunication, the role of secular rulers in religious matters, the relationship between Christianity and the law, good works, and the sacraments."
+    ],
+    "generated_answer": "Luther\u2019s Disputation on the Power and Efficacy of Indulgences was famously nailed to the door of the All Saints\u2019 Church in Wittenberg on October 31, 1517. It primarily focused on criticizing the selling of indulgences and related Church practices.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.9708032608032227,
+    "mean_prob": 0.8217106461524963,
+    "min_prob": 1.4373209467066772e-07,
+    "sds": 0.6224515438079834,
+    "hallucinated": null
+  },
+  {
+    "id": 35,
+    "ds_index": 796,
+    "question": "How many total yards did Denver gain?",
+    "gold_answer": "194",
+    "context": [
+      "In 1984, each league had two divisions, East and West. The divisional winners met in a best-of-5 series to advance to the World Series, in a \"2\u20133\" format, first two games were played at the home of the team who did not have home field advantage. Then the last three games were played at the home of the team, with home field advantage. Thus the first two games were played at Wrigley Field and the next three at the home of their opponents, San Diego. A common and unfounded myth is that since Wrigley Field did not have lights at that time the National League decided to give the home field advantage to the winner of the NL West. In fact, home field advantage had rotated between the winners of the East and West since 1969 when the league expanded. In even numbered years, the NL West had home field advantage. In odd numbered years, the NL East had home field advantage. Since the NL East winners had had home field advantage in 1983, the NL West winners were entitled to it."
+    ],
+    "generated_answer": "The text does not provide information about how many yards Denver gained.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.8384745121002197,
+    "mean_prob": 0.8002811074256897,
+    "min_prob": 0.01098694372922182,
+    "sds": 1.1552163362503052,
+    "hallucinated": null
+  },
+  {
+    "id": 36,
+    "ds_index": 9363,
+    "question": "Why did natural sedimentation by the Rhine compensate the transgression bby the sea?",
+    "gold_answer": "Rates of sea-level rise",
+    "context": [
+      "Major European rivers flow from Switzerland, such as the Rhine, the Rhone, the Inn, the Ticino and the Po, all of which have headwaters in the Alps and flow into neighbouring countries, finally emptying into the North Sea, the Mediterranean Sea, the Adriatic Sea and the Black Sea. Other rivers such as the Danube have major tributaries flowing into them that originate in the Alps. The Rhone is second to the Nile as a freshwater source to the Mediterranean Sea; the river begins as glacial meltwater, flows into Lake Geneva, and from there to France where one of its uses is to cool nuclear power plants. The Rhine originates in a 30 square kilometre area in Switzerland and represents almost 60 percent of water exported from the country. Tributary valleys, some of which are complicated, channel water to the main valleys which can experience flooding during the snow melt season when rapid runoff causes debris torrents and swollen rivers."
+    ],
+    "generated_answer": "The text does not provide information about the Rhine compensating for sea transgression through sedimentation. It focuses on the river's origin, water export, and potential for flooding.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4750101566314697,
+    "mean_prob": 0.8564128279685974,
+    "min_prob": 0.013452139683067799,
+    "sds": 0.9122048020362854,
+    "hallucinated": null
+  },
+  {
+    "id": 37,
+    "ds_index": 9510,
+    "question": "How long does the Members Debate last?",
+    "gold_answer": "45 minutes",
+    "context": [
+      "Between 1892, when Harvard and Yale met in one of the first intercollegiate debates, and 1909, the year of the first Triangular Debate of Harvard, Yale, and Princeton, the rhetoric, symbolism, and metaphors used in athletics were used to frame these early debates. Debates were covered on front pages of college newspapers and emphasized in yearbooks, and team members even received the equivalent of athletic letters for their jackets. There even were rallies sending off the debating teams to matches. Yet, the debates never attained the broad appeal that athletics enjoyed. One reason may be that debates do not have a clear winner, as is the case in sports, and that scoring is subjective. In addition, with late 19th-century concerns about the impact of modern life on the human body, athletics offered hope that neither the individual nor the society was coming apart."
+    ],
+    "generated_answer": "The Members Debate lasted between 1892 and 1909.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2155187129974365,
+    "mean_prob": 0.9426965117454529,
+    "min_prob": 0.03662274405360222,
+    "sds": 0.9313217401504517,
+    "hallucinated": null
+  },
+  {
+    "id": 38,
+    "ds_index": 4598,
+    "question": "What does the euplokamis use the three types of movement for?",
+    "gold_answer": "capturing prey",
+    "context": [
+      "Many annelids move by peristalsis (waves of contraction and expansion that sweep along the body), or flex the body while using parapodia to crawl or swim. In these animals the septa enable the circular and longitudinal muscles to change the shape of individual segments, by making each segment a separate fluid-filled \"balloon\". However, the septa are often incomplete in annelids that are semi-sessile or that do not move by peristalsis or by movements of parapodia \u2013 for example some move by whipping movements of the body, some small marine species move by means of cilia (fine muscle-powered hairs) and some burrowers turn their pharynges (throats) inside out to penetrate the sea-floor and drag themselves into it."
+    ],
+    "generated_answer": "The annelids use the three types of movement \u2013 peristalsis, parapodia, and whipping/cilia/pharyngeal extrusion \u2013 to navigate and move in various environments, including crawling, swimming, burrowing, and maneuvering.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 3.9930951595306396,
+    "mean_prob": 0.7756147980690002,
+    "min_prob": 4.350667067129578e-19,
+    "sds": 0.6534547209739685,
+    "hallucinated": null
+  },
+  {
+    "id": 39,
+    "ds_index": 2928,
+    "question": "What party is strongest in Melbourne's affluent areas?",
+    "gold_answer": "Liberal Party",
+    "context": [
+      "Throughout their history, the Liberals have been in electoral terms largely the party of the middle class (whom Menzies, in the era of the party's formation called \"The forgotten people\"), though such class-based voting patterns are no longer as clear as they once were. In the 1970s a left-wing middle class emerged that no longer voted Liberal.[citation needed] One effect of this was the success of a breakaway party, the Australian Democrats, founded in 1977 by former Liberal minister Don Chipp and members of minor liberal parties; other members of the left-leaning section of the middle-class became Labor supporters.[citation needed] On the other hand, the Liberals have done increasingly well in recent years among socially conservative working-class voters.[citation needed]However the Liberal Party's key support base remains the upper-middle classes; 16 of the 20 richest federal electorates are held by the Liberals, most of which are safe seats. In country areas they either compete with or have a truce with the Nationals, depending on various factors."
+    ],
+    "generated_answer": "The Liberal Party is strongest in Melbourne\u2019s affluent areas, holding 16 of the 20 richest federal electorates.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.9196276664733887,
+    "mean_prob": 0.8813905119895935,
+    "min_prob": 1.8553888025962806e-07,
+    "sds": 0.8562494516372681,
+    "hallucinated": null
+  },
+  {
+    "id": 40,
+    "ds_index": 9233,
+    "question": "What happened to the ground water in the Rhine during the Rhine straightening program?",
+    "gold_answer": "fell significantly",
+    "context": [
+      "Major European rivers flow from Switzerland, such as the Rhine, the Rhone, the Inn, the Ticino and the Po, all of which have headwaters in the Alps and flow into neighbouring countries, finally emptying into the North Sea, the Mediterranean Sea, the Adriatic Sea and the Black Sea. Other rivers such as the Danube have major tributaries flowing into them that originate in the Alps. The Rhone is second to the Nile as a freshwater source to the Mediterranean Sea; the river begins as glacial meltwater, flows into Lake Geneva, and from there to France where one of its uses is to cool nuclear power plants. The Rhine originates in a 30 square kilometre area in Switzerland and represents almost 60 percent of water exported from the country. Tributary valleys, some of which are complicated, channel water to the main valleys which can experience flooding during the snow melt season when rapid runoff causes debris torrents and swollen rivers."
+    ],
+    "generated_answer": "The text does not provide information about what happened to groundwater during the Rhine straightening program. It focuses on the river's flow, tributaries, and potential for flooding.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3652927875518799,
+    "mean_prob": 0.9042959809303284,
+    "min_prob": 0.004070138093084097,
+    "sds": 1.016112208366394,
+    "hallucinated": null
+  },
+  {
+    "id": 41,
+    "ds_index": 4305,
+    "question": "In which case did the Court of Justice hold that a German court couldn't deny a Dutch building company the right to enforce a contract based in Germany?",
+    "gold_answer": "\u00dcberseering BV v Nordic Construction GmbH",
+    "context": [
+      "In the Netherlands, the Supreme Court of the Netherlands is the highest. Its decisions, known as \"arresten\", are absolutely final. The court is banned from testing legislation against the constitution, pursuant to the principle of the sovereignty of the States-General; the court can, however, test legislation against some treaties. Also, the ordinary courts in the Netherlands, including the Hoge Raad, do not deal with administrative law, which is dealt with in separate administrative courts, the highest of which is the Council of State (Raad van State)"
+    ],
+    "generated_answer": "The provided text does not contain information about a case where a German court denied a Dutch building company the right to enforce a contract. It only describes the structure and powers of the Dutch court system.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2023775577545166,
+    "mean_prob": 0.9006381630897522,
+    "min_prob": 0.04742587357759476,
+    "sds": 1.031904697418213,
+    "hallucinated": null
+  },
+  {
+    "id": 42,
+    "ds_index": 5075,
+    "question": "Where can the entire sedimentary sequence of the Grand Canyon be seen in less than the length of a meter?",
+    "gold_answer": "within the Maria Fold and Thrust Belt",
+    "context": [
+      "West of the Rocky Mountains lies the Intermontane Plateaus (also known as the Intermountain West), a large, arid desert lying between the Rockies and the Cascades and Sierra Nevada ranges. The large southern portion, known as the Great Basin, consists of salt flats, drainage basins, and many small north-south mountain ranges. The Southwest is predominantly a low-lying desert region. A portion known as the Colorado Plateau, centered around the Four Corners region, is considered to have some of the most spectacular scenery in the world. It is accentuated in such national parks as Grand Canyon, Arches, Mesa Verde National Park and Bryce Canyon, among others. Other smaller Intermontane areas include the Columbia Plateau covering eastern Washington, western Idaho and northeast Oregon and the Snake River Plain in Southern Idaho."
+    ],
+    "generated_answer": "The context states that the Colorado Plateau, centered around the Grand Canyon, is considered to have some of the world\u2019s most spectacular scenery and showcases a visible sedimentary sequence in a small area.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 5.023536682128906,
+    "mean_prob": 0.7150919437408447,
+    "min_prob": 2.4326354264303518e-08,
+    "sds": 0.7994001507759094,
+    "hallucinated": null
+  },
+  {
+    "id": 43,
+    "ds_index": 9135,
+    "question": "Where does the Rhine empty?",
+    "gold_answer": "North Sea",
+    "context": [
+      "Strasbourg is situated on the eastern border of France with Germany. This border is formed by the River Rhine, which also forms the eastern border of the modern city, facing across the river to the German town Kehl. The historic core of Strasbourg however lies on the Grande \u00cele in the River Ill, which here flows parallel to, and roughly 4 kilometres (2.5 mi) from, the Rhine. The natural courses of the two rivers eventually join some distance downstream of Strasbourg, although several artificial waterways now connect them within the city."
+    ],
+    "generated_answer": "The Rhine eventually empties downstream of Strasbourg, where it and the Ill River join.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 49.6123046875,
+    "mean_prob": 0.5503950715065002,
+    "min_prob": 1.0882912409790335e-12,
+    "sds": 0.5932977795600891,
+    "hallucinated": null
+  },
+  {
+    "id": 44,
+    "ds_index": 4904,
+    "question": "ableine was retired and the new platform is called ",
+    "gold_answer": "Internet2 officially retired Abilene and now refers to its new, higher capacity network as the Internet2 Network",
+    "context": [
+      "What's New was announced at Gamescom 2009 and was released on September 1, 2009, with PlayStation 3 system software 3.0. The feature was to replace the existing [Information Board], which displayed news from the PlayStation website associated with the user's region. The concept was developed further into a major PlayStation Network feature, which interacts with the [Status Indicator] to display a ticker of all content, excluding recently played content (currently in North America and Japan only)."
+    ],
+    "generated_answer": "The old Information Board was replaced by the PlayStation Network feature, which now displays a ticker of content excluding recently played games.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 20.033803939819336,
+    "mean_prob": 0.5494731068611145,
+    "min_prob": 1.5368645245317225e-09,
+    "sds": 0.7491438984870911,
+    "hallucinated": null
+  },
+  {
+    "id": 45,
+    "ds_index": 5271,
+    "question": "What is the largest independent library outside of London?",
+    "gold_answer": "The Literary and Philosophical Society of Newcastle",
+    "context": [
+      "The New York Public Library, which has the largest collection of any public library system in the United States, serves Manhattan, the Bronx, and Staten Island. Queens is served by the Queens Borough Public Library, the nation's second largest public library system, while the Brooklyn Public Library serves Brooklyn."
+    ],
+    "generated_answer": "The New York Public Library is the largest independent library outside of London, as it is the largest public library system in the United States.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.8717899322509766,
+    "mean_prob": 0.8173192143440247,
+    "min_prob": 0.0052195386961102486,
+    "sds": 0.6114822626113892,
+    "hallucinated": null
+  },
+  {
+    "id": 46,
+    "ds_index": 6105,
+    "question": "In which regions in particular did Genghis Khan's armies massacre civilians?",
+    "gold_answer": "Khwarezmian and Xia controlled lands",
+    "context": [
+      "In 1207, the Mongol ruler Genghis Khan (r. 1206\u20131227) conquered and subjugated the ethnic Tangut state of the Western Xia (1038\u20131227). In the same year, he established diplomatic relations with Tibet by sending envoys there. The conquest of the Western Xia alarmed Tibetan rulers, who decided to pay tribute to the Mongols. However, when they ceased to pay tribute after Genghis Khan's death, his successor \u00d6gedei Khan (r. 1229\u20131241) launched an invasion into Tibet."
+    ],
+    "generated_answer": "The text does not specify which regions Genghis Khan\u2019s armies massacred civilians; it only describes his conquests of the Western Xia and subsequent invasion of Tibet.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.6807475090026855,
+    "mean_prob": 0.7826878428459167,
+    "min_prob": 1.4446820273406047e-07,
+    "sds": 0.894335150718689,
+    "hallucinated": null
+  },
+  {
+    "id": 47,
+    "ds_index": 8935,
+    "question": "What is an alternate way to make starch?",
+    "gold_answer": "glucose monomers in the chloroplast can be linked together",
+    "context": [
+      "The basic ingredients of beer are water; a starch source, such as malted barley, able to be saccharified (converted to sugars) then fermented (converted into ethanol and carbon dioxide); a brewer's yeast to produce the fermentation; and a flavouring such as hops. A mixture of starch sources may be used, with a secondary starch source, such as maize (corn), rice or sugar, often being termed an adjunct, especially when used as a lower-cost substitute for malted barley. Less widely used starch sources include millet, sorghum and cassava root in Africa, and potato in Brazil, and agave in Mexico, among others. The amount of each starch source in a beer recipe is collectively called the grain bill."
+    ],
+    "generated_answer": "An alternate starch source, called an adjunct, can be used instead of malted barley, such as maize (corn), rice, or sugar. Other less common options include millet, sorghum, cassava root, and potato.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 3.8857617378234863,
+    "mean_prob": 0.7910098433494568,
+    "min_prob": 8.315280410897685e-07,
+    "sds": 0.617594301700592,
+    "hallucinated": null
+  },
+  {
+    "id": 48,
+    "ds_index": 6758,
+    "question": "Le grand concludes that an author's words offer only what they intended for them to imply regarding this type of terminology?",
+    "gold_answer": "specific",
+    "context": [
+      "and proliferation of hyphenated entities such as \"thing-in-itself\" (Immanuel Kant), \"things-as-interacted-by-us\" (Arthur Fine), \"table-of-commonsense\" and \"table-of-physics\" (Sir Arthur Eddington) which are \"warning signs\" for conceptual idealism according to Musgrave because they allegedly do not exist but only highlight the numerous ways in which people come to know the world. This argument does not take into account the issues pertaining to hermeneutics, especially at the backdrop of analytic philosophy. Musgrave criticized Richard Rorty and Postmodernist philosophy in general for confusion of use and mention."
+    ],
+    "generated_answer": "The text does not provide information about Le grand's conclusion regarding an author's intended implications of terminology. It focuses on Musgrave's critique of conceptual idealism and Rorty's philosophy.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.0642359256744385,
+    "mean_prob": 0.8322219848632812,
+    "min_prob": 0.0002608795475680381,
+    "sds": 0.8365800976753235,
+    "hallucinated": null
+  },
+  {
+    "id": 49,
+    "ds_index": 2736,
+    "question": "What is the population of the second largest city in California?",
+    "gold_answer": "1.3 million",
+    "context": [
+      "With an estimated population of 1,381,069 as of July 1, 2014, San Diego is the eighth-largest city in the United States and second-largest in California. It is part of the San Diego\u2013Tijuana conurbation, the second-largest transborder agglomeration between the US and a bordering country after Detroit\u2013Windsor, with a population of 4,922,723 people. San Diego is the birthplace of California and is known for its mild year-round climate, natural deep-water harbor, extensive beaches, long association with the United States Navy and recent emergence as a healthcare and biotechnology development center."
+    ],
+    "generated_answer": "San Diego is the second-largest city in California with an estimated population of 1,381,069 as of July 1, 2014.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.648513913154602,
+    "mean_prob": 0.9252564907073975,
+    "min_prob": 2.2595627342525404e-06,
+    "sds": 0.49885833263397217,
+    "hallucinated": null
+  },
+  {
+    "id": 50,
+    "ds_index": 7053,
+    "question": "In private schools, what language are classes taught in?",
+    "gold_answer": "English",
+    "context": [
+      "Spanish is currently the most widely taught non-English language in American secondary schools and of higher education. More than 1.4 million university students were enrolled in language courses in autumn of 2002 and Spanish is the most widely taught language in American colleges and universities with 53 percent of the total number of people enrolled, followed by French (14.4%), German (7.1%), Italian (4.5%), American Sign language (4.3%), Japanese (3.7%), and Chinese (2.4%) although the totals remain relatively small in relation to the total U.S population."
+    ],
+    "generated_answer": "The text doesn\u2019t specify which languages are taught in private schools. It primarily focuses on Spanish being the most popular language in secondary and higher education.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 3.6459102630615234,
+    "mean_prob": 0.7818366885185242,
+    "min_prob": 1.5128046371160053e-08,
+    "sds": 0.902452290058136,
+    "hallucinated": null
+  },
+  {
+    "id": 51,
+    "ds_index": 3385,
+    "question": "How many pounds of steam per kilowatt hour does the Energiprojekt AB engine use?",
+    "gold_answer": "8.8",
+    "context": [
+      "Energy production in Greece is dominated by the Public Power Corporation (known mostly by its acronym \u0394\u0395\u0397, or in English DEI). In 2009 DEI supplied for 85.6% of all energy demand in Greece, while the number fell to 77.3% in 2010. Almost half (48%) of DEI's power output is generated using lignite, a drop from the 51.6% in 2009. Another 12% comes from Hydroelectric power plants and another 20% from natural gas. Between 2009 and 2010, independent companies' energy production increased by 56%, from 2,709 Gigawatt hour in 2009 to 4,232 GWh in 2010."
+    ],
+    "generated_answer": "The text does not provide information about the steam usage of the Energiprojekt AB engine.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.0942904949188232,
+    "mean_prob": 0.93193119764328,
+    "min_prob": 0.4997270405292511,
+    "sds": 1.1994566917419434,
+    "hallucinated": null
+  },
+  {
+    "id": 52,
+    "ds_index": 5935,
+    "question": "What was Disney-ABC Domestic Television previously known as?",
+    "gold_answer": "Buena Vista Television",
+    "context": [
+      "BBC Television returned on 7 June 1946 at 15:00. Jasmine Bligh, one of the original announcers, made the first announcement, saying, 'Good afternoon everybody. How are you? Do you remember me, Jasmine Bligh?'. The Mickey Mouse cartoon of 1939 was repeated twenty minutes later.[unreliable source?] Alexandra Palace was the home base of the channel until the early 1950s when the majority of production moved into the newly acquired Lime Grove Studios.[original research?]"
+    ],
+    "generated_answer": "The context does not state what Disney-ABC Domestic Television was previously known as. It only describes the launch of BBC Television and some early broadcasting details.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.5984327793121338,
+    "mean_prob": 0.855144739151001,
+    "min_prob": 0.002472277730703354,
+    "sds": 1.044961929321289,
+    "hallucinated": null
+  },
+  {
+    "id": 53,
+    "ds_index": 6461,
+    "question": "Where might the doctor's self-interest be at odds with the patient's self-interest?",
+    "gold_answer": "in obtaining cost-effective medication and avoiding the unnecessary use of medication that may have side-effects",
+    "context": [
+      "Pain is the most common reason for physician consultation in most developed countries. It is a major symptom in many medical conditions, and can interfere with a person's quality of life and general functioning. Psychological factors such as social support, hypnotic suggestion, excitement, or distraction can significantly affect pain's intensity or unpleasantness. In some arguments put forth in physician-assisted suicide or euthanasia debates, pain has been used as an argument to permit terminally ill patients to end their lives."
+    ],
+    "generated_answer": "Doctors may prioritize ending a patient\u2019s suffering through assisted suicide or euthanasia due to pain, potentially conflicting with the patient\u2019s desire to live and receive palliative care.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 8.40313720703125,
+    "mean_prob": 0.5839937925338745,
+    "min_prob": 4.926520524861644e-09,
+    "sds": 0.8248149156570435,
+    "hallucinated": null
+  },
+  {
+    "id": 54,
+    "ds_index": 6116,
+    "question": "Who might Tem\u00fcjin have been named after?",
+    "gold_answer": "a Tatar chieftain, Tem\u00fcjin-\u00fcge, whom his father had just captured",
+    "context": [
+      "For example, the full name of Oda Nobunaga would be \"Oda Kazusanosuke Saburo Nobunaga\" (\u7e54\u7530\u4e0a\u7dcf\u4ecb\u4e09\u90ce\u4fe1\u9577), in which \"Oda\" is a clan or family name, \"Kazusanosuke\" is a title of vice-governor of Kazusa province, \"Saburo\" is a formal nickname (yobina), and \"Nobunaga\" is an adult name (nanori) given at genpuku, the coming of age ceremony. A man was addressed by his family name and his title, or by his yobina if he did not have a title. However, the nanori was a private name that could be used by only a very few, including the Emperor."
+    ],
+    "generated_answer": "The context states that a man\u2019s adult name (nanori) was a private name, like Nobunaga, and was typically only used by the Emperor. Therefore, Tem\u00fcjin might have been named after the Emperor.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.6179529428482056,
+    "mean_prob": 0.8155398368835449,
+    "min_prob": 0.0016939808847382665,
+    "sds": 0.8396322727203369,
+    "hallucinated": null
+  },
+  {
+    "id": 55,
+    "ds_index": 9672,
+    "question": "When did Maududi found the Jamaat-e-Islami party?",
+    "gold_answer": "1941",
+    "context": [
+      "The first Madressa established in North America, Al-Rashid Islamic Institute, was established in Cornwall, Ontario in 1983 and has graduates who are Hafiz (Quran) and Ulama. The seminary was established by Mazhar Alam under the direction of his teacher the leading Indian Tablighi scholar Muhammad Zakariya Kandhlawi and focuses on the traditional Hanafi school of thought and shuns Salafist / Wahabi teachings. Due to its proximity to the US border city of Messina the school has historically had a high ratio of US students. Their most prominent graduate Shaykh Muhammad Alshareef completed his Hifz in the early 1990s then went on to deviate from his traditional roots and form the Salafist organization the AlMaghrib Institute."
+    ],
+    "generated_answer": "The context does not provide information about when Maududi founded the Jamaat-e-Islami party.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.1743675470352173,
+    "mean_prob": 0.9412590265274048,
+    "min_prob": 0.047358009964227676,
+    "sds": 1.1930330991744995,
+    "hallucinated": null
+  },
+  {
+    "id": 56,
+    "ds_index": 8697,
+    "question": "What nationality was Konstantin Mereschkowski?",
+    "gold_answer": "Russian",
+    "context": [
+      "The rise of Hitler and other dictators in the 1930s forced numerous Catholic intellectuals to flee Europe; president John O'Hara brought many to Notre Dame. From Germany came Anton-Hermann Chroust (1907\u20131982) in classics and law, and Waldemar Gurian a German Catholic intellectual of Jewish descent. Positivism dominated American intellectual life in the 1920s onward but in marked contrast, Gurian received a German Catholic education and wrote his doctoral dissertation under Max Scheler. Ivan Me\u0161trovi\u0107 (1883\u20131962), a renowned sculptor, brought Croatian culture to campus, 1955\u201362. Yves Simon (1903\u201361), brought to ND in the 1940s the insights of French studies in the Aristotelian-Thomistic tradition of philosophy; his own teacher Jacques Maritain (1882\u201373) was a frequent visitor to campus."
+    ],
+    "generated_answer": "The text does not provide information about Konstantin Mereschkowski\u2019s nationality.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4512131214141846,
+    "mean_prob": 0.9043686985969543,
+    "min_prob": 0.006692841183394194,
+    "sds": 1.1637864112854004,
+    "hallucinated": null
+  },
+  {
+    "id": 57,
+    "ds_index": 6297,
+    "question": "What were the cultural origins of the engineers and technology adopted by the Mongol military?",
+    "gold_answer": "Muslim and Chinese",
+    "context": [
+      "The Columbia Encyclopedia distinguishes between the Yuan dynasty and the other Mongol Empire khanates of Ilkhanate, Chagatai Khanate and the Golden Horde. It describes the Yuan dynasty as \"A Mongol dynasty of China that ruled from 1271 to 1368, and a division of the great empire conquered by the Mongols. Founded by Kublai Khan, who adopted the Chinese dynastic name of Y\u00fcan in 1271.\" The Encyclopedia Americana describes the Yuan dynasty as \"the line of Mongol rulers in China\" and adds that the Mongols \"proclaimed a Chinese-style Y\u00fcan dynasty at Khanbaliq (Beijing).\" The Metropolitan Museum of Art writes that the Mongol rulers of the Yuan dynasty \"adopted Chinese political and cultural models; ruling from their capitals in Dadu, they assumed the role of Chinese emperors,\" although Tibetologist Thomas Laird dismissed the Yuan dynasty as a non-Chinese polity and plays down its Chinese characteristics. The Metropolitan Museum of Art also noted that in spite of the gradual assimilation of Yuan monarchs, the Mongol rulers largely ignored the literati and imposed harsh policies discriminating against southern Chinese. In his Kublai Khan: His Life and Times, Rossabi explains that Kublai \"created government institutions that either resembled or were the same as the traditional Chinese ones\", and he \"wished to signal to the Chinese that he intended to adopt the trappings and style of a Chinese ruler\"."
+    ],
+    "generated_answer": "The context does not provide information about the cultural origins of the engineers and technology adopted by the Mongol military. It focuses primarily on the Yuan dynasty\u2019s adoption of Chinese political and cultural models.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.5840851068496704,
+    "mean_prob": 0.8886962532997131,
+    "min_prob": 0.001377801294438541,
+    "sds": 0.8674355745315552,
+    "hallucinated": null
+  },
+  {
+    "id": 58,
+    "ds_index": 8428,
+    "question": "When did Kibaki and Odinga sing an agreement on the formation of government?",
+    "gold_answer": "28 February 2008",
+    "context": [
+      "Between 1346 and 1354, Tai Situ Changchub Gyaltsen toppled the Sakya and founded the Phagmodrupa Dynasty. The following 80 years saw the founding of the Gelug school (also known as Yellow Hats) by the disciples of Je Tsongkhapa, and the founding of the important Ganden, Drepung and Sera monasteries near Lhasa. However, internal strife within the dynasty and the strong localism of the various fiefs and political-religious factions led to a long series of internal conflicts. The minister family Rinpungpa, based in Tsang (West Central Tibet), dominated politics after 1435. In 1565 they were overthrown by the Tsangpa Dynasty of Shigatse which expanded its power in different directions of Tibet in the following decades and favoured the Karma Kagyu sect."
+    ],
+    "generated_answer": "This text does not contain information about Kibaki and Odinga or any agreement regarding government formation.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 4.266152858734131,
+    "mean_prob": 0.7680928707122803,
+    "min_prob": 5.3156384183239425e-08,
+    "sds": 1.1807059049606323,
+    "hallucinated": null
+  },
+  {
+    "id": 59,
+    "ds_index": 10566,
+    "question": "What is the kilogram-force sometimes reffered to as?",
+    "gold_answer": "kilopond",
+    "context": [
+      "The legal process to change the definition of the kilogram is already underway, but it had been decided that no final decision would be made before the next meeting of the General Conference on Weights and Measures in 2011. (For more detailed information, see kilogram definitions.) The Planck constant is a leading contender to form the basis of the new definition, although not the only one. Possible new definitions include \"the mass of a body at rest whose equivalent energy equals the energy of photons whose frequencies sum to 7050135639273999999\u2660135639274\u00d71042 Hz\", or simply \"the kilogram is defined so that the Planck constant equals 6966662606895999999\u26606.62606896\u00d710\u221234 J\u22c5s\"."
+    ],
+    "generated_answer": "The context does not provide information about what the kilogram-force is referred to as. It focuses on the ongoing process of redefining the kilogram based on the Planck constant.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.200256109237671,
+    "mean_prob": 0.9118605256080627,
+    "min_prob": 0.03732677549123764,
+    "sds": 0.6971758604049683,
+    "hallucinated": null
+  },
+  {
+    "id": 60,
+    "ds_index": 5008,
+    "question": "The black plague ravaged Europe for three years followed by what country?",
+    "gold_answer": "Russia",
+    "context": [
+      "These troubles were followed in 1347 by the Black Death, a pandemic that spread throughout Europe during the following three years.[AC] The death toll was probably about 35 million people in Europe, about one-third of the population. Towns were especially hard-hit because of their crowded conditions.[AD] Large areas of land were left sparsely inhabited, and in some places fields were left unworked. Wages rose as landlords sought to entice the reduced number of available workers to their fields. Further problems were lower rents and lower demand for food, both of which cut into agricultural income. Urban workers also felt that they had a right to greater earnings, and popular uprisings broke out across Europe. Among the uprisings were the jacquerie in France, the Peasants' Revolt in England, and revolts in the cities of Florence in Italy and Ghent and Bruges in Flanders. The trauma of the plague led to an increased piety throughout Europe, manifested by the foundation of new charities, the self-mortification of the flagellants, and the scapegoating of Jews. Conditions were further unsettled by the return of the plague throughout the rest of the 14th century; it continued to strike Europe periodically during the rest of the Middle Ages."
+    ],
+    "generated_answer": "The Black Death ravaged Europe for three years, followed by continued outbreaks throughout the rest of the 14th century in Europe.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.990076780319214,
+    "mean_prob": 0.8203896880149841,
+    "min_prob": 2.091369424306322e-05,
+    "sds": 0.8754100799560547,
+    "hallucinated": null
+  },
+  {
+    "id": 61,
+    "ds_index": 4587,
+    "question": "What is the main component of the aboral organ?",
+    "gold_answer": "a statocyst",
+    "context": [
+      "The remaining animals form a monophyletic group called the Bilateria. For the most part, they are bilaterally symmetric, and often have a specialized head with feeding and sensory organs. The body is triploblastic, i.e. all three germ layers are well-developed, and tissues form distinct organs. The digestive chamber has two openings, a mouth and an anus, and there is also an internal body cavity called a coelom or pseudocoelom. There are exceptions to each of these characteristics, however \u2014 for instance adult echinoderms are radially symmetric, and certain parasitic worms have extremely simplified body structures."
+    ],
+    "generated_answer": "The aboral organ, typically a head, is specialized for feeding and sensory functions in most bilaterians.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 69.34719848632812,
+    "mean_prob": 0.5963954925537109,
+    "min_prob": 2.293744045340964e-17,
+    "sds": 0.8308908939361572,
+    "hallucinated": null
+  },
+  {
+    "id": 62,
+    "ds_index": 5567,
+    "question": "In which year was the Salting Bequest made?",
+    "gold_answer": "1909",
+    "context": [
+      "Outstanding debts were also agreed and the company permitted to export 250 tons of saltpetre. Again in 1673, Banks successfully negotiated another contract for 700 tons of saltpetre at \u00a337,000 between the king and the company. So urgent was the need to supply the armed forces in the United Kingdom, America and elsewhere that the authorities sometimes turned a blind eye on the untaxed sales. One governor of the company was even reported as saying in 1864 that he would rather have the saltpetre made than the tax on salt."
+    ],
+    "generated_answer": "The context does not provide information about the \"Salting Bequest.\" It details agreements for the export of saltpetre to supply the armed forces.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.9343211650848389,
+    "mean_prob": 0.811845600605011,
+    "min_prob": 7.420925976475701e-05,
+    "sds": 0.8780353665351868,
+    "hallucinated": null
+  },
+  {
+    "id": 63,
+    "ds_index": 89,
+    "question": "Who was the main performer at this year's halftime show?",
+    "gold_answer": "Coldplay",
+    "context": [
+      "In 2012, Madonna performed at Super Bowl XLVI halftime show, visualized by Cirque Du Soleil and Jamie King and featured special guests LMFAO, Nicki Minaj, M.I.A. and Cee Lo Green. It became the then most-watched Super Bowl halftime show in history with 114 million viewers, higher than the game itself. It was also revealed that the singer had signed a three-album deal with Interscope Records, who would act as the distributor in partnership with her 360 deal with Live Nation. Her twelfth studio album, MDNA, was released in March 2012 and saw collaboration with various producers, most notably with William Orbit again and Martin Solveig. The album was well received by music critics, with Priya Elan from NME calling it \"a ridiculously enjoyable romp\", citing its \"psychotic, soul-bearing stuff\" as \"some of the most visceral stuff she's ever done.\" MDNA debuted at number one on the Billboard 200 and many other countries worldwide. Madonna surpassed Elvis Presley's record for the most number-one album by a solo artist in the UK. The lead single \"Give Me All Your Luvin'\", featuring guest vocals from Minaj and M.I.A., became Madonna's record-extending 38th top-ten hit on the Billboard Hot 100."
+    ],
+    "generated_answer": "Madonna was the main performer at the Super Bowl XLVI halftime show in 2012, featuring special guests LMFAO, Nicki Minaj, M.I.A., and Cee Lo Green.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.2876088619232178,
+    "mean_prob": 0.8925592303276062,
+    "min_prob": 3.059014090922574e-07,
+    "sds": 0.7971962094306946,
+    "hallucinated": null
+  },
+  {
+    "id": 64,
+    "ds_index": 7566,
+    "question": "What did a 1996 study by Perotti examine?",
+    "gold_answer": "channels through which inequality may affect economic growth",
+    "context": [
+      "In 1996\u20131997, a research study was conducted on a large population of middle age students in the Cherry Creek School District in Denver, Colorado, USA. The study showed that students who actively listen to classical music before studying had higher academic scores. The research further indicated that students who listened to the music prior to an examination also had positively elevated achievement scores. Students who listened to rock-and-roll or country had moderately lower scores. The study further indicated that students who used classical during the course of study had a significant leap in their academic performance; whereas, those who listened to other types of music had significantly lowered academic scores. The research was conducted over several schools within the Cherry Creek School District and was conducted through University of Colorado. This study is reflective of several recent studies (i.e. Mike Manthei and Steve N. Kelly of the University of Nebraska at Omaha; Donald A. Hodges and Debra S. O'Connell of the University of North Carolina at Greensboro; etc.) and others who had significant results through the discourse of their work."
+    ],
+    "generated_answer": "The 1996 study by Perotti examined the impact of listening to different music genres \u2013 classical, rock-and-roll, and country \u2013 on the academic performance of middle school students in the Cherry Creek School District. It found that classical music before studying and examinations led to higher scores, while other genres resulted in lower scores.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.7521799802780151,
+    "mean_prob": 0.9011610746383667,
+    "min_prob": 6.730734014581685e-08,
+    "sds": 0.6190949082374573,
+    "hallucinated": null
+  },
+  {
+    "id": 65,
+    "ds_index": 5315,
+    "question": "What famous 5.9-mile athletic event takes place annually in Newcastle in June?",
+    "gold_answer": "Blaydon Race",
+    "context": [
+      "Other major sporting events include Thoroughbred and Quarter horse racing circuits at Remington Park and numerous horse shows and equine events that take place at the state fairgrounds each year. There are numerous golf courses and country clubs spread around the city."
+    ],
+    "generated_answer": "The context does not provide information about a 5.9-mile athletic event in Newcastle. It only mentions horse racing, golf courses, and equine events.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.1716545820236206,
+    "mean_prob": 0.9156932234764099,
+    "min_prob": 0.11857442557811737,
+    "sds": 1.0131727457046509,
+    "hallucinated": null
+  },
+  {
+    "id": 66,
+    "ds_index": 5900,
+    "question": "What spinoff of Happy Days debuted in 1976?",
+    "gold_answer": "Laverne & Shirley",
+    "context": [
+      "During 1976, Queen played one of their most famous gigs, a free concert in Hyde Park, London. A concert organised by the entrepreneur Richard Branson, it set an attendance record with 150,000 people confirmed in the audience. On 1 December 1976, Queen were the intended guests on London's early evening Today programme, but they pulled out at the last-minute, which saw their late replacement on the show, EMI labelmate the Sex Pistols, give their seminal interview. During the A Day at the Races Tour in 1977, Queen performed sold-out shows at Madison Square Garden, New York, in February, and Earls Court, London, in June."
+    ],
+    "generated_answer": "The provided text does not contain information about any spinoffs of *Happy Days* that debuted in 1976.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3400280475616455,
+    "mean_prob": 0.8863285779953003,
+    "min_prob": 0.01664396934211254,
+    "sds": 1.2233409881591797,
+    "hallucinated": null
+  },
+  {
+    "id": 67,
+    "ds_index": 2611,
+    "question": "What was later discovered written by Luther?",
+    "gold_answer": "his last statement",
+    "context": [
+      "On 31 October 1517, Martin Luther supposedly nailed his 95 theses against the selling of indulgences at the door of the All Saints', the Castle Church in Wittenberg. The theses debated and criticised the Church and the papacy, but concentrated upon the selling of indulgences and doctrinal policies about purgatory, particular judgment, and the authority of the pope. He would later write works on the Catholic devotion to Virgin Mary, the intercession of and devotion to the saints, the sacraments, mandatory clerical celibacy, monasticism, further on the authority of the pope, the ecclesiastical law, censure and excommunication, the role of secular rulers in religious matters, the relationship between Christianity and the law, good works, and the sacraments."
+    ],
+    "generated_answer": "Later, Luther wrote works addressing Catholic devotion to the Virgin Mary, the saints, sacraments, and other theological and ecclesiastical issues.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 18.914691925048828,
+    "mean_prob": 0.6653655767440796,
+    "min_prob": 5.211392428705608e-10,
+    "sds": 0.7788967490196228,
+    "hallucinated": null
+  },
+  {
+    "id": 68,
+    "ds_index": 1907,
+    "question": "Who is taught at teacher's colleges?",
+    "gold_answer": "teachers",
+    "context": [
+      "Instruction is the facilitation of another's learning. Instructors in primary and secondary institutions are often called teachers, and they direct the education of students and might draw on many subjects like reading, writing, mathematics, science and history. Instructors in post-secondary institutions might be called teachers, instructors, or professors, depending on the type of institution; and they primarily teach only their specific discipline. Studies from the United States suggest that the quality of teachers is the single most important factor affecting student performance, and that countries which score highly on international tests have multiple policies in place to ensure that the teachers they employ are as effective as possible. With the passing of NCLB in the United States (No Child Left Behind), teachers must be highly qualified. A popular way to gauge teaching performance is to use student evaluations of teachers (SETS), but these evaluations have been criticized for being counterproductive to learning and inaccurate due to student bias."
+    ],
+    "generated_answer": "The text does not specify who is taught at teacher\u2019s colleges. It focuses on the role and importance of teachers in various educational settings.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.133114814758301,
+    "mean_prob": 0.8383378386497498,
+    "min_prob": 4.5386103010969236e-05,
+    "sds": 0.9882537722587585,
+    "hallucinated": null
+  },
+  {
+    "id": 69,
+    "ds_index": 3258,
+    "question": "What was the first true engine that was commercially successful?",
+    "gold_answer": "atmospheric engine",
+    "context": [
+      "Hydrogen was liquefied for the first time by James Dewar in 1898 by using regenerative cooling and his invention, the vacuum flask. He produced solid hydrogen the next year. Deuterium was discovered in December 1931 by Harold Urey, and tritium was prepared in 1934 by Ernest Rutherford, Mark Oliphant, and Paul Harteck. Heavy water, which consists of deuterium in the place of regular hydrogen, was discovered by Urey's group in 1932. Fran\u00e7ois Isaac de Rivaz built the first de Rivaz engine, an internal combustion engine powered by a mixture of hydrogen and oxygen in 1806. Edward Daniel Clarke invented the hydrogen gas blowpipe in 1819. The D\u00f6bereiner's lamp and limelight were invented in 1823."
+    ],
+    "generated_answer": "The first commercially successful engine powered by a mixture of hydrogen and oxygen was Fran\u00e7ois Isaac de Rivaz\u2019s de Rivaz engine, built in 1806.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.7443244457244873,
+    "mean_prob": 0.9074574708938599,
+    "min_prob": 6.999853141564927e-09,
+    "sds": 0.7417619228363037,
+    "hallucinated": null
+  },
+  {
+    "id": 70,
+    "ds_index": 6432,
+    "question": "What is an example of a controlled substance?",
+    "gold_answer": "Vicodin, generically known as hydrocodone",
+    "context": [
+      "Prior to the 20th century drugs were generally produced by small scale manufacturers with little regulatory control over manufacturing or claims of safety and efficacy. To the extent that such laws did exist, enforcement was lax. In the United States, increased regulation of vaccines and other biological drugs was spurred by tetanus outbreaks and deaths caused by the distribution of contaminated smallpox vaccine and diphtheria antitoxin. The Biologics Control Act of 1902 required that federal government grant premarket approval for every biological drug and for the process and facility producing such drugs. This was followed in 1906 by the Pure Food and Drugs Act, which forbade the interstate distribution of adulterated or misbranded foods and drugs. A drug was considered misbranded if it contained alcohol, morphine, opium, cocaine, or any of several other potentially dangerous or addictive drugs, and if its label failed to indicate the quantity or proportion of such drugs. The government's attempts to use the law to prosecute manufacturers for making unsupported claims of efficacy were undercut by a Supreme Court ruling restricting the federal government's enforcement powers to cases of incorrect specification of the drug's ingredients."
+    ],
+    "generated_answer": "According to the text, examples of controlled substances included alcohol, morphine, opium, and cocaine.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.0386537313461304,
+    "mean_prob": 0.9723416566848755,
+    "min_prob": 0.49830955266952515,
+    "sds": 1.0590883493423462,
+    "hallucinated": null
+  },
+  {
+    "id": 71,
+    "ds_index": 8649,
+    "question": "When did Singer dispute the graph at a Senate hearing?",
+    "gold_answer": "18 July 2000",
+    "context": [
+      "Towards the end of the season, Randy Jackson, the last remaining of the original judges, announced that he would no longer serve as a judge to pursue other business ventures. Both judges Mariah Carey and Nicki Minaj also decided to leave after one season to focus on their music careers."
+    ],
+    "generated_answer": "The context does not provide information about Singer disputing a graph at a Senate hearing. It only discusses the departures of judges Randy Jackson, Mariah Carey, and Nicki Minaj from a judging role.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.269710898399353,
+    "mean_prob": 0.8877201080322266,
+    "min_prob": 0.03732684999704361,
+    "sds": 0.9074065685272217,
+    "hallucinated": null
+  },
+  {
+    "id": 72,
+    "ds_index": 10224,
+    "question": "Where were populations centered in colonies?",
+    "gold_answer": "along the coast, the settlements were growing into the interior",
+    "context": [
+      "Because of its limited land area, Bermuda has had difficulty with over-population. In the first two centuries of settlement, it relied on steady human emigration to keep the population manageable.[citation needed] Before the American Revolution more than ten thousand Bermudians (over half of the total population through the years) gradually emigrated, primarily to the Southern United States. As Great Britain displaced Spain as the dominant European imperial power, it opened up more land for colonial development. A steady trickle of outward migration continued. With seafaring the only real industry in the early decades, by the end of the 18th century, at least a third of the island's manpower was at sea at any one time."
+    ],
+    "generated_answer": "Bermuda\u2019s population was initially centered on the island itself, but significant emigration occurred, primarily to the Southern United States, due to limited land and the need to manage population growth.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.8127176761627197,
+    "mean_prob": 0.7847674489021301,
+    "min_prob": 2.1480305179011339e-07,
+    "sds": 0.6753588318824768,
+    "hallucinated": null
+  },
+  {
+    "id": 73,
+    "ds_index": 938,
+    "question": "What army did Warsaw successfully defend itself against?",
+    "gold_answer": "the Red Army",
+    "context": [
+      "The Warsaw Treaty's organization was two-fold: the Political Consultative Committee handled political matters, and the Combined Command of Pact Armed Forces controlled the assigned multi-national forces, with headquarters in Warsaw, Poland. Furthermore, the Supreme Commander of the Unified Armed Forces of the Warsaw Treaty Organization which commands and controls all the military forces of the member countries was also a First Deputy Minister of Defense of the USSR, and the Chief of Combined Staff of the Unified Armed Forces of the Warsaw Treaty Organization was also a First Deputy Chief of the General Staff of the Armed Forces of the USSR. Therefore, although ostensibly an international collective security alliance, the USSR dominated the Warsaw Treaty armed forces."
+    ],
+    "generated_answer": "The Warsaw Treaty\u2019s armed forces were dominated by the USSR, suggesting Warsaw was primarily defended against potential threats from NATO and Western powers.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 3.3085103034973145,
+    "mean_prob": 0.7293778657913208,
+    "min_prob": 2.6031943889393006e-07,
+    "sds": 0.8450528979301453,
+    "hallucinated": null
+  },
+  {
+    "id": 74,
+    "ds_index": 6059,
+    "question": "After the merger between ABC and Capital Cities was completed, what was the resulting company known as?",
+    "gold_answer": "Capital Cities/ABC, Inc.",
+    "context": [
+      "The long-awaited takeover of Universal Pictures by MCA, Inc. happened in mid-1962 as part of the MCA-Decca Records merger. The company reverted in name to Universal Pictures. As a final gesture before leaving the talent agency business, virtually every MCA client was signed to a Universal contract. In 1964 MCA formed Universal City Studios, Inc., merging the motion pictures and television arms of Universal Pictures Company and Revue Productions (officially renamed as Universal Television in 1966). And so, with MCA in charge, Universal became a full-blown, A-film movie studio, with leading actors and directors under contract; offering slick, commercial films; and a studio tour subsidiary launched in 1964. Television production made up much of the studio's output, with Universal heavily committed, in particular, to deals with NBC (which later merged with Universal to form NBC Universal; see below) providing up to half of all prime time shows for several seasons. An innovation during this period championed by Universal was the made-for-television movie."
+    ],
+    "generated_answer": "The text does not provide information about a merger between ABC and Capital Cities. Instead, it details the evolution of Universal Studios following the MCA takeover and subsequent merger with NBC to form NBC Universal.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.8421592712402344,
+    "mean_prob": 0.7511946558952332,
+    "min_prob": 3.7266381696099415e-06,
+    "sds": 0.8876324892044067,
+    "hallucinated": null
+  },
+  {
+    "id": 75,
+    "ds_index": 9890,
+    "question": "What grew on a global scale as a result of imperialism?",
+    "gold_answer": "the world's economy",
+    "context": [
+      "European overseas expansion led to the rise of colonial empires, producing the Columbian Exchange. The combination of resource inflows from the New World and the Industrial Revolution of Great Britain, allowed a new economy based on manufacturing instead of subsistence agriculture."
+    ],
+    "generated_answer": "The Columbian Exchange, a global transfer of plants, animals, and diseases, grew on a global scale as a result of European imperialism. This exchange was fueled by the resources from the New World and the Industrial Revolution.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 8.96465015411377,
+    "mean_prob": 0.7537551522254944,
+    "min_prob": 3.3982678893096363e-09,
+    "sds": 0.6429125070571899,
+    "hallucinated": null
+  },
+  {
+    "id": 76,
+    "ds_index": 5130,
+    "question": "What was the memoir entitled which was submitted to the American Philosophical Society?",
+    "gold_answer": "Observations on the Geology of the United States explanatory of a Geological Map",
+    "context": [
+      "Raymond B. Bragg, the associate editor of The New Humanist, sought to consolidate the input of Leon Milton Birkhead, Charles Francis Potter, and several members of the Western Unitarian Conference. Bragg asked Roy Wood Sellars to draft a document based on this information which resulted in the publication of the Humanist Manifesto in 1933. Potter's book and the Manifesto became the cornerstones of modern humanism, the latter declaring a new religion by saying, \"any religion that can hope to be a synthesising and dynamic force for today must be shaped for the needs of this age. To establish such a religion is a major necessity of the present.\" It then presented 15 theses of humanism as foundational principles for this new religion."
+    ],
+    "generated_answer": "The text does not mention a memoir entitled by Roy Wood Sellars. It describes the creation of the Humanist Manifesto, drafted by Sellars based on input from several individuals.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.0224921703338623,
+    "mean_prob": 0.7569376230239868,
+    "min_prob": 0.0009105479693971574,
+    "sds": 0.8652645349502563,
+    "hallucinated": null
+  },
+  {
+    "id": 77,
+    "ds_index": 7316,
+    "question": "What else contributes to Jacksonville's summer storms other than land heating beside the water?",
+    "gold_answer": "high humidity",
+    "context": [
+      "In central portions of the U.S., tornadoes are more common than anywhere else on Earth and touch down most commonly in the spring and summer. Deadly and destructive hurricanes occur almost every year along the Atlantic seaboard and the Gulf of Mexico. The Appalachian region and the Midwest experience the worst floods, though virtually no area in the U.S. is immune to flooding. The Southwest has the worst droughts; one is thought to have lasted over 500 years and to have hurt Ancestral Pueblo peoples. The West is affected by large wildfires each year."
+    ],
+    "generated_answer": "The text doesn't provide information about Jacksonville's summer storms or what contributes to them besides land heating beside water. It focuses on broader weather patterns across the U.S.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.1411947011947632,
+    "mean_prob": 0.9368531107902527,
+    "min_prob": 0.04723860323429108,
+    "sds": 0.9885309338569641,
+    "hallucinated": null
+  },
+  {
+    "id": 78,
+    "ds_index": 7415,
+    "question": "What does lack of education lead directly to?",
+    "gold_answer": "lower incomes",
+    "context": [
+      "Lack of meaningful alternatives, such as affordable schools and quality education, according to ILO, is another major factor driving children to harmful labour. Children work because they have nothing better to do. Many communities, particularly rural areas where between 60\u201370% of child labour is prevalent, do not possess adequate school facilities. Even when schools are sometimes available, they are too far away, difficult to reach, unaffordable or the quality of education is so poor that parents wonder if going to school is really worth it."
+    ],
+    "generated_answer": "Lack of education leads children to engage in harmful labor due to the absence of better alternatives. It also contributes to the prevalence of child labor in communities lacking adequate school facilities and resources.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 5.141391754150391,
+    "mean_prob": 0.6827523708343506,
+    "min_prob": 2.876836333598476e-06,
+    "sds": 0.5392256379127502,
+    "hallucinated": null
+  },
+  {
+    "id": 79,
+    "ds_index": 7266,
+    "question": "After what battle did Union forces return to and occupy Jacksonville for the rest of the war?",
+    "gold_answer": "Battle of Olustee",
+    "context": [
+      "Three years later, as March 1865 ended, the Confederate capitol became indefensible. On March 25, Confederate General John B. Gordon's desperate attack on Fort Stedman east of Petersburg failed. On April 1, General Philip Sheridan, assigned to interdict the Southside Railroad, met brigades commanded by George Pickett at the Five Forks junction, smashing them, taking thousands of prisoners, and encouraging General Grant to order a general advance. When the Union Sixth Corps broke through Confederate lines on Boydton Plank Road south of Petersburg, Confederate casualties exceeded 5000, or about a tenth of Lee's defending army. General Lee then informed Jefferson Davis that he was about to evacuate Richmond."
+    ],
+    "generated_answer": "The text does not provide information about Union forces returning to and occupying Jacksonville.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3111834526062012,
+    "mean_prob": 0.9063579440116882,
+    "min_prob": 0.027598220854997635,
+    "sds": 1.211845874786377,
+    "hallucinated": null
+  },
+  {
+    "id": 80,
+    "ds_index": 1250,
+    "question": "In what year did Tesla's father die?",
+    "gold_answer": "1879",
+    "context": [
+      "In the latter part of the second revolution, Thomas Alva Edison developed many devices that greatly influenced life around the world and is often credited with the creation of the first industrial research laboratory. In 1882, Edison switched on the world's first large-scale electrical supply network that provided 110 volts direct current to fifty-nine customers in lower Manhattan. Also toward the end of the second industrial revolution, Nikola Tesla made many contributions in the field of electricity and magnetism in the late 19th and early 20th centuries."
+    ],
+    "generated_answer": "The text does not provide information about when Nikola Tesla's father died.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2254890203475952,
+    "mean_prob": 0.8944262862205505,
+    "min_prob": 0.1823778748512268,
+    "sds": 1.2149455547332764,
+    "hallucinated": null
+  },
+  {
+    "id": 81,
+    "ds_index": 7242,
+    "question": "What is the name of the French colony established in 1564?",
+    "gold_answer": "Fort Caroline",
+    "context": [
+      "No further attempts to establish English colonies in the Americas were made until well into the reign of Queen Elizabeth I, during the last decades of the 16th century. In the meantime the Protestant Reformation had turned England and Catholic Spain into implacable enemies . In 1562, the English Crown encouraged the privateers John Hawkins and Francis Drake to engage in slave-raiding attacks against Spanish and Portuguese ships off the coast of West Africa with the aim of breaking into the Atlantic trade system. This effort was rebuffed and later, as the Anglo-Spanish Wars intensified, Elizabeth I gave her blessing to further privateering raids against Spanish ports in the Americas and shipping that was returning across the Atlantic, laden with treasure from the New World. At the same time, influential writers such as Richard Hakluyt and John Dee (who was the first to use the term \"British Empire\") were beginning to press for the establishment of England's own empire. By this time, Spain had become the dominant power in the Americas and was exploring the Pacific ocean, Portugal had established trading posts and forts from the coasts of Africa and Brazil to China, and France had begun to settle the Saint Lawrence River area, later to become New France."
+    ],
+    "generated_answer": "The context does not state the name of a French colony established in 1564. It only mentions that France began to settle the Saint Lawrence River area, later to become New France.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3492491245269775,
+    "mean_prob": 0.9135659337043762,
+    "min_prob": 0.006676815915852785,
+    "sds": 0.9727376103401184,
+    "hallucinated": null
+  },
+  {
+    "id": 82,
+    "ds_index": 4530,
+    "question": "What promoted the growrth of Mnemiposis in the Black Sea?",
+    "gold_answer": "over-fishing and long-term environmental changes",
+    "context": [
+      "It is thought that annelids were originally animals with two separate sexes, which released ova and sperm into the water via their nephridia. The fertilized eggs develop into trochophore larvae, which live as plankton. Later they sink to the sea-floor and metamorphose into miniature adults: the part of the trochophore between the apical tuft and the prototroch becomes the prostomium (head); a small area round the trochophore's anus becomes the pygidium (tail-piece); a narrow band immediately in front of that becomes the growth zone that produces new segments; and the rest of the trochophore becomes the peristomium (the segment that contains the mouth)."
+    ],
+    "generated_answer": "The text does not provide information about the growth of *Mnemiposis* in the Black Sea. It describes the metamorphosis of annelid larvae into adult forms.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.469810962677002,
+    "mean_prob": 0.8442011475563049,
+    "min_prob": 0.01098694372922182,
+    "sds": 0.9039958119392395,
+    "hallucinated": null
+  },
+  {
+    "id": 83,
+    "ds_index": 8703,
+    "question": "What does 'gram-negative' mean?",
+    "gold_answer": "they have two cell membranes",
+    "context": [
+      "Gram-positive bacteria possess a thick cell wall containing many layers of peptidoglycan and teichoic acids. In contrast, gram-negative bacteria have a relatively thin cell wall consisting of a few layers of peptidoglycan surrounded by a second lipid membrane containing lipopolysaccharides and lipoproteins. Lipopolysaccharides, also called endotoxins, are composed of polysaccharides and lipid A that is responsible for much of the toxicity of gram-negative bacteria. Most bacteria have the gram-negative cell wall, and only the Firmicutes and Actinobacteria have the alternative gram-positive arrangement. These two groups were previously known as the low G+C and high G+C Gram-positive bacteria, respectively. These differences in structure can produce differences in antibiotic susceptibility; for instance, vancomycin can kill only gram-positive bacteria and is ineffective against gram-negative pathogens, such as Haemophilus influenzae or Pseudomonas aeruginosa. If the bacterial cell wall is entirely removed, it is called a protoplast, whereas if it is partially removed, it is called a spheroplast. \u03b2-Lactam antibiotics, such as penicillin, inhibit the formation of peptidoglycan cross-links in the bacterial cell wall. The enzyme lysozyme, found in human tears, also digests the cell wall of bacteria and is the body's main defense against eye infections."
+    ],
+    "generated_answer": "Gram-negative bacteria have a relatively thin cell wall with multiple layers of peptidoglycan, a second lipid membrane, and lipopolysaccharides (endotoxins).",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 12.632643699645996,
+    "mean_prob": 0.7971125841140747,
+    "min_prob": 3.0988098372042305e-12,
+    "sds": 0.49005210399627686,
+    "hallucinated": null
+  },
+  {
+    "id": 84,
+    "ds_index": 8318,
+    "question": "What Mongolian system did Kublai's government compromise with?",
+    "gold_answer": "patrimonial feudalism",
+    "context": [
+      "Tibet retained nominal power over religious and regional political affairs, while the Mongols managed a structural and administrative rule over the region, reinforced by the rare military intervention. This existed as a \"diarchic structure\" under the Yuan emperor, with power primarily in favor of the Mongols. Mongolian prince Khuden gained temporal power in Tibet in the 1240s and sponsored Sakya Pandita, whose seat became the capital of Tibet. Drog\u00f6n Ch\u00f6gyal Phagpa, Sakya Pandita's nephew became Imperial Preceptor of Kublai Khan, founder of the Yuan dynasty."
+    ],
+    "generated_answer": "Kublai Khan\u2019s government compromised with Tibet\u2019s existing \u201cdiarchic structure,\u201d which involved the Mongols managing administrative rule while Tibet retained nominal religious and political authority.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 3.6322109699249268,
+    "mean_prob": 0.7016376256942749,
+    "min_prob": 1.6697651517461054e-05,
+    "sds": 0.7327756881713867,
+    "hallucinated": null
+  },
+  {
+    "id": 85,
+    "ds_index": 6938,
+    "question": "What are some examples of undesirable end results of a project?",
+    "gold_answer": "structural collapse, cost overruns, and/or litigation",
+    "context": [
+      "In the days following the disaster, an international reconnaissance team of engineers was dispatched to the region to make a detailed preliminary survey of damaged buildings. Their findings show a variety of reasons why many constructions failed to withstand the earthquake."
+    ],
+    "generated_answer": "The context indicates that many constructions failed to withstand the earthquake, suggesting that some projects resulted in damaged or destroyed buildings.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 4.034116268157959,
+    "mean_prob": 0.727201521396637,
+    "min_prob": 5.828587381984107e-05,
+    "sds": 0.710875928401947,
+    "hallucinated": null
+  },
+  {
+    "id": 86,
+    "ds_index": 1777,
+    "question": "Difficulty in establishing a framework for complexity classes can be caused by what variable?",
+    "gold_answer": "complicated definitions",
+    "context": [
+      "The second approach to the problem took as its base the notion of class, and defines a set as a class which belongs to other classes, while a proper class is defined as a class which does not belong to other classes. Under the Zermelo\u2013Fraenkel approach, the axioms impede the construction of a set of all sets which do not belong to themselves. In contrast, under the von Neumann approach, the class of all sets which do not belong to themselves can be constructed, but it is a proper class and not a set."
+    ],
+    "generated_answer": "Difficulty in establishing a framework for complexity classes can be caused by the distinction between sets and proper classes, particularly the limitations imposed by Zermelo\u2013Fraenkel axioms versus the von Neumann approach.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 3.03999662399292,
+    "mean_prob": 0.8003584742546082,
+    "min_prob": 2.260185738123255e-06,
+    "sds": 0.7861971259117126,
+    "hallucinated": null
+  },
+  {
+    "id": 87,
+    "ds_index": 5140,
+    "question": "What county was Newcastle a part of until 1400?",
+    "gold_answer": "Northumberland",
+    "context": [
+      "The county was subject to significant boundary reform in 1974 that removed Liverpool and Manchester and most of their surrounding conurbations to form the metropolitan counties of Merseyside and Greater Manchester. The detached northern part of Lancashire in the Lake District, including the Furness Peninsula and Cartmel, was merged with Cumberland and Westmorland to form Cumbria. Lancashire lost 709 square miles of land to other counties, about two fifths of its original area, although it did gain some land from the West Riding of Yorkshire. Today the county borders Cumbria to the north, Greater Manchester and Merseyside to the south and North and West Yorkshire to the east; with a coastline on the Irish Sea to the west. The county palatine boundaries remain the same[clarification needed] with the Duke of Lancaster exercising sovereignty rights, including the appointment of lords lieutenant in Greater Manchester and Merseyside."
+    ],
+    "generated_answer": "The text does not provide information about Newcastle's historical county affiliation before 1400.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3797931671142578,
+    "mean_prob": 0.8899871110916138,
+    "min_prob": 0.029312126338481903,
+    "sds": 1.1420135498046875,
+    "hallucinated": null
+  },
+  {
+    "id": 88,
+    "ds_index": 1501,
+    "question": "Why did Tesla want funds from Morgan?",
+    "gold_answer": "to complete the construction of Wardenclyffe.",
+    "context": [
+      "During 1889, Thomas Edison had business interests in many electricity-related companies: Edison Lamp Company, a lamp manufacturer in East Newark, New Jersey; Edison Machine Works, a manufacturer of dynamos and large electric motors in Schenectady, New York; Bergmann & Company, a manufacturer of electric lighting fixtures, sockets, and other electric lighting devices; and Edison Electric Light Company, the patent-holding company and the financial arm backed by J.P. Morgan and the Vanderbilt family for Edison's lighting experiments. In 1889, Drexel, Morgan & Co., a company founded by J.P. Morgan and Anthony J. Drexel, financed Edison's research and helped merge those companies under one corporation to form Edison General Electric Company which was incorporated in New York on April 24, 1889. The new company also acquired Sprague Electric Railway & Motor Company in the same year."
+    ],
+    "generated_answer": "The text doesn't state why Tesla wanted funds from Morgan; it focuses on Edison's use of Morgan's financing to consolidate his electric companies.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 3.3844144344329834,
+    "mean_prob": 0.8238208889961243,
+    "min_prob": 1.1861101434362809e-08,
+    "sds": 1.0420833826065063,
+    "hallucinated": null
+  },
+  {
+    "id": 89,
+    "ds_index": 9340,
+    "question": "What period did the Rhine capture streams?",
+    "gold_answer": "Pliocene period",
+    "context": [
+      "Major European rivers flow from Switzerland, such as the Rhine, the Rhone, the Inn, the Ticino and the Po, all of which have headwaters in the Alps and flow into neighbouring countries, finally emptying into the North Sea, the Mediterranean Sea, the Adriatic Sea and the Black Sea. Other rivers such as the Danube have major tributaries flowing into them that originate in the Alps. The Rhone is second to the Nile as a freshwater source to the Mediterranean Sea; the river begins as glacial meltwater, flows into Lake Geneva, and from there to France where one of its uses is to cool nuclear power plants. The Rhine originates in a 30 square kilometre area in Switzerland and represents almost 60 percent of water exported from the country. Tributary valleys, some of which are complicated, channel water to the main valleys which can experience flooding during the snow melt season when rapid runoff causes debris torrents and swollen rivers."
+    ],
+    "generated_answer": "The Rhine captured streams during the snow melt season when rapid runoff caused debris torrents and swollen rivers.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.4375574588775635,
+    "mean_prob": 0.8879064321517944,
+    "min_prob": 2.7930673240916803e-06,
+    "sds": 0.7845786213874817,
+    "hallucinated": null
+  },
+  {
+    "id": 90,
+    "ds_index": 1948,
+    "question": "What was the usual type of school discipline?",
+    "gold_answer": "corporal punishment",
+    "context": [
+      "The primary responsibility for a boy's studies lies with his House Master, but he is assisted by an additional director of studies, known as a tutor. Classes, colloquially known as \"divs\" (divisions), are organised on a School basis; the classrooms are separate from the houses. New school buildings have appeared for teaching purposes every decade or so since New Schools, designed by Henry Woodyer and built 1861-3. Despite the introduction of modern technology, the external appearance and locations of many of the classrooms have remained unchanged for a long time."
+    ],
+    "generated_answer": "The text doesn't explicitly state the type of school discipline, but it highlights the traditional, enduring structure of the school with unchanged buildings and a focus on House Masters and tutors.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 3.2159781455993652,
+    "mean_prob": 0.7097460031509399,
+    "min_prob": 1.3709329778066603e-06,
+    "sds": 0.9109305739402771,
+    "hallucinated": null
+  },
+  {
+    "id": 91,
+    "ds_index": 2154,
+    "question": "To Luther, what were all baptized Christians considered to be?",
+    "gold_answer": "holy priesthood",
+    "context": [
+      "On 31 October 1517, Martin Luther supposedly nailed his 95 theses against the selling of indulgences at the door of the All Saints', the Castle Church in Wittenberg. The theses debated and criticised the Church and the papacy, but concentrated upon the selling of indulgences and doctrinal policies about purgatory, particular judgment, and the authority of the pope. He would later write works on the Catholic devotion to Virgin Mary, the intercession of and devotion to the saints, the sacraments, mandatory clerical celibacy, monasticism, further on the authority of the pope, the ecclesiastical law, censure and excommunication, the role of secular rulers in religious matters, the relationship between Christianity and the law, good works, and the sacraments."
+    ],
+    "generated_answer": "According to the text, Luther\u2019s writings critiqued various Church practices, including the Catholic devotion to the Virgin Mary, saints, and the pope, suggesting that Luther viewed all baptized Christians as subjects of these doctrines.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.9983112812042236,
+    "mean_prob": 0.7286245822906494,
+    "min_prob": 0.00020338743343017995,
+    "sds": 0.7932328581809998,
+    "hallucinated": null
+  },
+  {
+    "id": 92,
+    "ds_index": 3665,
+    "question": "What is the most likely effect of breathing oxygen?",
+    "gold_answer": "placebo",
+    "context": [
+      "Cold or oxygen-rich atmospheres can sustain life at pressures much lower than atmospheric, as long as the density of oxygen is similar to that of standard sea-level atmosphere. The colder air temperatures found at altitudes of up to 3 km generally compensate for the lower pressures there. Above this altitude, oxygen enrichment is necessary to prevent altitude sickness in humans that did not undergo prior acclimatization, and spacesuits are necessary to prevent ebullism above 19 km. Most spacesuits use only 20 kPa (150 Torr) of pure oxygen. This pressure is high enough to prevent ebullism, but decompression sickness and gas embolisms can still occur if decompression rates are not managed."
+    ],
+    "generated_answer": "Breathing high concentrations of oxygen, like 20 kPa in spacesuits, can lead to decompression sickness and gas embolisms if decompression isn't carefully managed.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.4347646236419678,
+    "mean_prob": 0.8133408427238464,
+    "min_prob": 2.067632294711075e-06,
+    "sds": 0.6872713565826416,
+    "hallucinated": null
+  },
+  {
+    "id": 93,
+    "ds_index": 4806,
+    "question": "Which city is planned to be a part of the California High Speed Rail?",
+    "gold_answer": "Fresno",
+    "context": [
+      "Miami's heavy-rail rapid transit system, Metrorail, is an elevated system comprising two lines and 23 stations on a 24.4-mile (39.3 km)-long line. Metrorail connects the urban western suburbs of Hialeah, Medley, and inner-city Miami with suburban The Roads, Coconut Grove, Coral Gables, South Miami and urban Kendall via the central business districts of Miami International Airport, the Civic Center, and Downtown. A free, elevated people mover, Metromover, operates 21 stations on three different lines in greater Downtown Miami, with a station at roughly every two blocks of Downtown and Brickell. Several expansion projects are being funded by a transit development sales tax surcharge throughout Miami-Dade County."
+    ],
+    "generated_answer": "The text does not provide information about the California High Speed Rail project.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3615964651107788,
+    "mean_prob": 0.859078049659729,
+    "min_prob": 0.04742587357759476,
+    "sds": 1.1983366012573242,
+    "hallucinated": null
+  },
+  {
+    "id": 94,
+    "ds_index": 3674,
+    "question": "In what process is the uptake from oxygen necessary?",
+    "gold_answer": "respiration",
+    "context": [
+      "Plants uptake essential elements from the soil through their roots and from the air (consisting of mainly nitrogen and oxygen) through their leaves. Green plants obtain their carbohydrate supply from the carbon dioxide in the air by the process of photosynthesis. Carbon and oxygen are absorbed from the air, while other nutrients are absorbed from the soil. Nutrient uptake in the soil is achieved by cation exchange, wherein root hairs pump hydrogen ions (H+) into the soil through proton pumps. These hydrogen ions displace cations attached to negatively charged soil particles so that the cations are available for uptake by the root. In the leaves, stomata open to take in carbon dioxide and expel oxygen. The carbon dioxide molecules are used as the carbon source in photosynthesis."
+    ],
+    "generated_answer": "The uptake of oxygen is necessary for photosynthesis, which occurs in the leaves of green plants.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 7.815909385681152,
+    "mean_prob": 0.7483620047569275,
+    "min_prob": 2.9023015031270916e-06,
+    "sds": 0.6908422708511353,
+    "hallucinated": null
+  },
+  {
+    "id": 95,
+    "ds_index": 10256,
+    "question": "Was was the plan for Langlades mission?",
+    "gold_answer": "punish the Miami people of Pickawillany for not following C\u00e9loron's orders to cease trading with the British",
+    "context": [
+      "When the war had begun, European public opinion heavily favored the Germans; many Italians attempted to sign up as volunteers at the Prussian embassy in Florence and a Prussian diplomat visited Giuseppe Garibaldi in Caprera. Bismarck's demand for the return of Alsace caused a dramatic shift in that sentiment in Italy, which was best exemplified by the reaction of Garibaldi soon after the revolution in Paris, who told the Movimento of Genoa on 7 September 1870 that \"Yesterday I said to you: war to the death to Bonaparte. Today I say to you: rescue the French Republic by every means.\" Garibaldi went to France and assumed command of the Army of the Vosges, with which he operated around Dijon till the end of the war."
+    ],
+    "generated_answer": "The context doesn\u2019t state Langlades mission, it focuses on Garibaldi\u2019s actions and shifting Italian public opinion regarding the war.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.942049980163574,
+    "mean_prob": 0.7241337299346924,
+    "min_prob": 0.0008563547162339091,
+    "sds": 0.9145330786705017,
+    "hallucinated": null
+  },
+  {
+    "id": 96,
+    "ds_index": 6647,
+    "question": "What is the complex \"two-signal\" activation of T cells referred to?",
+    "gold_answer": "histocompatibility",
+    "context": [
+      "In the mid-1950s, Frank Burnet, inspired by a suggestion made by Niels Jerne, formulated the clonal selection theory (CST) of immunity. On the basis of CST, Burnet developed a theory of how an immune response is triggered according to the self/nonself distinction: \"self\" constituents (constituents of the body) do not trigger destructive immune responses, while \"nonself\" entities (e.g., pathogens, an allograft) trigger a destructive immune response. The theory was later modified to reflect new discoveries regarding histocompatibility or the complex \"two-signal\" activation of T cells. The self/nonself theory of immunity and the self/nonself vocabulary have been criticized, but remain very influential."
+    ],
+    "generated_answer": "The complex \u201ctwo-signal\u201d activation of T cells was a later modification to the self/nonself theory of immunity, reflecting new discoveries about how T cells are activated.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.7742499113082886,
+    "mean_prob": 0.8736306428909302,
+    "min_prob": 9.173440048471093e-06,
+    "sds": 0.8475311994552612,
+    "hallucinated": null
+  },
+  {
+    "id": 97,
+    "ds_index": 5430,
+    "question": "What did the V&A present in July 1973 as part of its youth outreach programme?",
+    "gold_answer": "a rock concert",
+    "context": [
+      "Kerry was arrested on May 30, 1971, during a VVAW march to honor American POWs held captive by North Vietnam. The march was planned as a multi-day event from Concord to Boston, and while in Lexington, participants tried to camp on the village green. At 2:30 a.m., local and state police arrested 441 demonstrators, including Kerry, for trespassing. All were given the Miranda Warning and were hauled away on school buses to spend the night at the Lexington Public Works Garage. Kerry and the other protesters later paid a $5 fine, and were released. The mass arrests caused a community backlash and ended up giving positive coverage to the VVAW."
+    ],
+    "generated_answer": "The text does not provide information about what the VVAW presented in 1973 as part of its youth outreach program.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.6525003910064697,
+    "mean_prob": 0.8966492414474487,
+    "min_prob": 4.539786823443137e-05,
+    "sds": 1.1701363325119019,
+    "hallucinated": null
+  },
+  {
+    "id": 98,
+    "ds_index": 716,
+    "question": "Who punted the ball for Carolina?",
+    "gold_answer": "Brad Nortman",
+    "context": [
+      "On the field at the beginning of a play are two teams of 12 (unlike 11 in American football). The team in possession of the ball is the offence and the team defending is referred to as the defence. Play begins with a backwards pass through the legs (the snap) by a member of the offensive team, to another member of the offensive team. This is usually the quarterback or punter, but a \"direct snap\" to a running back is also not uncommon. If the quarterback or punter receives the ball, he may then do any of the following:"
+    ],
+    "generated_answer": "The context does not provide information about who punted the ball for Carolina. It only describes the initial play and the roles of the quarterback and punter.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.295419692993164,
+    "mean_prob": 0.9089648723602295,
+    "min_prob": 0.014061669819056988,
+    "sds": 0.9676063656806946,
+    "hallucinated": null
+  },
+  {
+    "id": 99,
+    "ds_index": 4973,
+    "question": "What is thought to have happened to the y. pestis that caused the black death?",
+    "gold_answer": "may no longer exist",
+    "context": [
+      "Bermuda's modern black population contains more than one demographic group. Although the number of residents born in Africa is very small, it has tripled between 2000 and 2010 (this group also includes non-blacks). The majority of blacks in Bermuda can be termed \"Bermudian blacks\", whose ancestry dates back centuries between the 17th century and the end of slavery in 1834, Bermuda's black population was self-sustaining, with its growth resulting largely from natural expansion. This contrasts to the enslaved blacks of the plantation colonies, who were subjected to conditions so harsh as to drop their birth rate below the death rate, and slaveholders in the United States and the West Indies found it necessary to continue importing more enslaved blacks from Africa until the end of slavery (the same had been true for the Native Americans that the Africans had replaced on the New World plantations). The indigenous populations of many West Indian islands, and much of the South-East of what is now the United States that had survived the 16th- and 17th-century epidemics of European-introduced diseases then became the victims of large-scale slave raiding, with much of the region completely depopulated. When the supply of indigenous slaves ran out, the slaveholders looked to Africa). The ancestry of Bermuda's black population is distinguished from that of the British West Indian black population in two ways: firstly, the higher degree of European and Native American admixture; secondly, the source of the African ancestry."
+    ],
+    "generated_answer": "The text does not provide information about what happened to *Y. pestis* or the Black Death. It focuses on the history of slavery and the demographics of Bermuda's black population.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2554292678833008,
+    "mean_prob": 0.9080812335014343,
+    "min_prob": 0.017668122425675392,
+    "sds": 0.9195547103881836,
+    "hallucinated": null
+  }
+]

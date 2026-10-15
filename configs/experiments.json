@@ -1,0 +1,101 @@
+{
+  "source": "Final published ICNLSP paper, Tables 1-4 and Section 3.2",
+  "models": [
+    {
+      "name": "Phi-3-mini",
+      "directory": "phi",
+      "model_id": "microsoft/Phi-3-mini-4k-instruct",
+      "slug": "microsoft_Phi-3-mini-4k-instruct"
+    },
+    {
+      "name": "Gemma-3-4B",
+      "directory": "gemma",
+      "model_id": "google/gemma-3-4b-it",
+      "slug": "google_gemma-3-4b-it"
+    },
+    {
+      "name": "Llama-3.1-8B",
+      "directory": "llama 8b",
+      "model_id": "meta-llama/Llama-3.1-8B-Instruct",
+      "slug": "meta-llama_Llama-3.1-8B-Instruct"
+    },
+    {
+      "name": "Qwen2.5-14B",
+      "directory": "qwen 14b",
+      "model_id": "Qwen/Qwen2.5-14B-Instruct",
+      "slug": "Qwen_Qwen2.5-14B-Instruct"
+    }
+  ],
+  "controlled_cells": [
+    {
+      "cell": "Phi-3-mini/hotpot",
+      "features": "phi/hotpot/tests/09/hotpot_phi3_uncertainty_results.pkl",
+      "n": 2208,
+      "published_ppl_auc": 0.811,
+      "published_combined_auc": 0.842
+    },
+    {
+      "cell": "Phi-3-mini/squad",
+      "features": "phi/squad/tests/09/hotpot_phi3_uncertainty_results.pkl",
+      "n": 1882,
+      "published_ppl_auc": 0.881,
+      "published_combined_auc": 0.859
+    },
+    {
+      "cell": "Gemma-3-4B/hotpot",
+      "features": "gemma/hotpot/tests/09/hotpot_phi3_uncertainty_results.pkl",
+      "n": 1414,
+      "published_ppl_auc": 0.908,
+      "published_combined_auc": 0.911
+    },
+    {
+      "cell": "Gemma-3-4B/squad",
+      "features": "gemma/squad/tests/09/hotpot_phi3_uncertainty_results.pkl",
+      "n": 1238,
+      "published_ppl_auc": 0.871,
+      "published_combined_auc": 0.868
+    },
+    {
+      "cell": "Llama-3.1-8B/hotpot",
+      "features": "llama 8b/hotpot/tests/09/hotpot_phi3_uncertainty_results.pkl",
+      "n": 774,
+      "published_ppl_auc": 0.883,
+      "published_combined_auc": 0.846
+    },
+    {
+      "cell": "Llama-3.1-8B/squad",
+      "features": "llama 8b/squad/tests/09/hotpot_phi3_uncertainty_results.pkl",
+      "n": 746,
+      "published_ppl_auc": 0.885,
+      "published_combined_auc": 0.869
+    },
+    {
+      "cell": "Qwen2.5-14B/hotpot",
+      "features": "qwen 14b/hotpot/tests/09/hotpot_phi3_uncertainty_results.pkl",
+      "n": 786,
+      "published_ppl_auc": 0.818,
+      "published_combined_auc": 0.824
+    },
+    {
+      "cell": "Qwen2.5-14B/squad",
+      "features": "qwen 14b/squad/tests/09/hotpot_phi3_uncertainty_results.pkl",
+      "n": 836,
+      "published_ppl_auc": 0.878,
+      "published_combined_auc": 0.878
+    }
+  ],
+  "natural_reversals": [
+    {
+      "cell": "Gemma-3-4B/hotpot",
+      "path": "gemma/hotpot/tests/12/super/natural_hallucination_test_k1_LLM_LABELED.json",
+      "published_auc": 0.285,
+      "unsupported": 71
+    },
+    {
+      "cell": "Qwen2.5-14B/squad",
+      "path": "qwen 14b/squad/tests/12/super/natural_hallucination_test_k1_LLM_LABELED.json",
+      "published_auc": 0.2,
+      "unsupported": 93
+    }
+  ]
+}

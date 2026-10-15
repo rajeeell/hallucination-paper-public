@@ -1,0 +1,1017 @@
+{
+  "summary": {
+    "model": "microsoft/Phi-3-mini-4k-instruct",
+    "dataset": "squad",
+    "n_samples": 100,
+    "n_kept": 100,
+    "n_skipped": 0,
+    "seed": 42,
+    "elapsed_seconds": 72.45,
+    "param_ppl_median": 1.3886762261390686,
+    "param_ppl_mean": 1.4648532342910767,
+    "param_ppl_p10": 1.1684667587280273,
+    "param_ppl_p90": 1.9088971376419068
+  },
+  "records": [
+    {
+      "id": 0,
+      "ds_index": 3668,
+      "question": "What does increased oxygen concentrations in the patient's lungs displace?",
+      "gold_answer": "carbon monoxide",
+      "parametric_answer": "Increased oxygen concentrations in the patient's lungs displace carbon dioxide, leading to a decrease in the partial pressure of carbon dioxide (PaCO2) in the blood.",
+      "parametric_perplexity": 1.3019707202911377,
+      "parametric_mean_prob": 0.8377460837364197,
+      "parametric_min_prob": 0.0794389545917511
+    },
+    {
+      "id": 1,
+      "ds_index": 2908,
+      "question": "Does the new deal include Video on demand and High Definition?",
+      "gold_answer": "no",
+      "parametric_answer": "Yes, the new deal includes Video on Demand (VOD) and High Definition (HD) services.",
+      "parametric_perplexity": 1.255287528038025,
+      "parametric_mean_prob": 0.8463363647460938,
+      "parametric_min_prob": 0.17231017351150513
+    },
+    {
+      "id": 2,
+      "ds_index": 6333,
+      "question": "In which year did Genghis Khan's grandson invade Kievan Rus'?",
+      "gold_answer": "1237",
+      "parametric_answer": "Genghis Khan's grandson, Batu Khan, invaded Kievan Rus' in 1237.",
+      "parametric_perplexity": 1.1699544191360474,
+      "parametric_mean_prob": 0.9069267511367798,
+      "parametric_min_prob": 0.12655764818191528
+    },
+    {
+      "id": 3,
+      "ds_index": 8027,
+      "question": "Where is the Hyde Park Day School located?",
+      "gold_answer": "the University of Chicago campus",
+      "parametric_answer": "The Hyde Park Day School is located in Chicago, Illinois.",
+      "parametric_perplexity": 1.387758493423462,
+      "parametric_mean_prob": 0.829852819442749,
+      "parametric_min_prob": 0.14766009151935577
+    },
+    {
+      "id": 4,
+      "ds_index": 8610,
+      "question": "What does the WG I Summary for Policymakers report say human activities are doing to greenhouse gases?",
+      "gold_answer": "substantially increasing the atmospheric concentrations",
+      "parametric_answer": "The WG I Summary for Policymakers report indicates that human activities, particularly the burning of fossil fuels and deforestation, are significantly increasing the concentration of greenhouse gases in the atmosphere, leading to climate change.",
+      "parametric_perplexity": 1.2677955627441406,
+      "parametric_mean_prob": 0.844993531703949,
+      "parametric_min_prob": 0.19091950356960297
+    },
+    {
+      "id": 5,
+      "ds_index": 4403,
+      "question": "For how many years was evidence shown that humans shaped the the Amazon?",
+      "gold_answer": "11,000 years",
+      "parametric_answer": "Evidence that humans shaped the Amazon has been shown for approximately 11,000 years, based on archaeological findings.",
+      "parametric_perplexity": 1.523327112197876,
+      "parametric_mean_prob": 0.7634639143943787,
+      "parametric_min_prob": 0.11780449748039246
+    },
+    {
+      "id": 6,
+      "ds_index": 318,
+      "question": "Who lost to the Broncos in the divisional round?",
+      "gold_answer": "Pittsburgh Steelers",
+      "parametric_answer": "The Kansas City Chiefs lost to the Denver Broncos in the divisional round.",
+      "parametric_perplexity": 1.3050823211669922,
+      "parametric_mean_prob": 0.8790870308876038,
+      "parametric_min_prob": 0.039249952882528305
+    },
+    {
+      "id": 7,
+      "ds_index": 3889,
+      "question": "Who was hired to be the deputy director of the Office of Manned Space Flight?",
+      "gold_answer": "Joseph Shea",
+      "parametric_answer": "Answer: Dr. Robert C. Seamans Jr. was hired as the deputy director of the Office of Manned Space Flight.",
+      "parametric_perplexity": 1.2672432661056519,
+      "parametric_mean_prob": 0.8475911617279053,
+      "parametric_min_prob": 0.19500239193439484
+    },
+    {
+      "id": 8,
+      "ds_index": 2036,
+      "question": "What register did Chris Keates think that some teachers should not be placed on?",
+      "gold_answer": "the sex offenders register",
+      "parametric_answer": "Chris Keates believed that some teachers should not be placed on the register of unqualified teachers.",
+      "parametric_perplexity": 1.4579871892929077,
+      "parametric_mean_prob": 0.7603840231895447,
+      "parametric_min_prob": 0.19858859479427338
+    },
+    {
+      "id": 9,
+      "ds_index": 2595,
+      "question": "What did Luther say would allow the Jews to stay?",
+      "gold_answer": "that they convert",
+      "parametric_answer": "Martin Luther believed that if the Jews would accept Christianity, they would be allowed to stay.",
+      "parametric_perplexity": 1.9468580484390259,
+      "parametric_mean_prob": 0.6069715023040771,
+      "parametric_min_prob": 0.14340126514434814
+    },
+    {
+      "id": 10,
+      "ds_index": 3673,
+      "question": "What medical treatment is used to increase oxygen uptake in a patient?",
+      "gold_answer": "oxygen supplementation",
+      "parametric_answer": "Oxygen therapy, including supplemental oxygen via nasal cannula or mask, is used to increase oxygen uptake in patients with respiratory issues.",
+      "parametric_perplexity": 1.5429823398590088,
+      "parametric_mean_prob": 0.7708341479301453,
+      "parametric_min_prob": 0.053595226258039474
+    },
+    {
+      "id": 11,
+      "ds_index": 2919,
+      "question": "Where was the 1857 riot?",
+      "gold_answer": "Buckland Valley",
+      "parametric_answer": "The 1857 riot, also known as the Indian Rebellion of 1857, occurred in various parts of India, including Delhi, Meerut, Kanpur, and Lucknow.",
+      "parametric_perplexity": 1.264229416847229,
+      "parametric_mean_prob": 0.8282349109649658,
+      "parametric_min_prob": 0.3136810064315796
+    },
+    {
+      "id": 12,
+      "ds_index": 360,
+      "question": "Who was the first quarterback to take two teams to more than one Super Bowl?",
+      "gold_answer": "Peyton Manning",
+      "parametric_answer": "The first quarterback to take two teams to more than one Super Bowl was Joe Montana, who played for the San Francisco 49ers and the Kansas City Chiefs.",
+      "parametric_perplexity": 1.1799778938293457,
+      "parametric_mean_prob": 0.8909944891929626,
+      "parametric_min_prob": 0.11771554499864578
+    },
+    {
+      "id": 13,
+      "ds_index": 8300,
+      "question": "How did Chinese medicine spread?",
+      "gold_answer": "Chinese physicians were brought along military campaigns by the Mongols",
+      "parametric_answer": "Chinese medicine spread through trade routes such as the Silk Road, where it was shared with neighboring cultures, and later through colonial expansion, where European powers encountered and adopted aspects of Chinese medical practices.",
+      "parametric_perplexity": 1.9151850938796997,
+      "parametric_mean_prob": 0.6167432069778442,
+      "parametric_min_prob": 0.018775086849927902
+    },
+    {
+      "id": 14,
+      "ds_index": 1833,
+      "question": "What computational problem is commonly associated with prime factorization?",
+      "gold_answer": "The integer factorization problem",
+      "parametric_answer": "The computational problem commonly associated with prime factorization is the integer factorization problem, which is the task of decomposing a composite number into a product of smaller primes.",
+      "parametric_perplexity": 1.3358944654464722,
+      "parametric_mean_prob": 0.821155309677124,
+      "parametric_min_prob": 0.18016089498996735
+    },
+    {
+      "id": 15,
+      "ds_index": 5065,
+      "question": "The point at which different radiometric isotopes stop diffusing into and out of the crystal lattice is called what?",
+      "gold_answer": "particular closure temperature",
+      "parametric_answer": "The point at which different radiometric isotopes stop diffusing into and out of the crystal lattice is called the closure temperature.",
+      "parametric_perplexity": 1.0429290533065796,
+      "parametric_mean_prob": 0.9635759592056274,
+      "parametric_min_prob": 0.6653313636779785
+    },
+    {
+      "id": 16,
+      "ds_index": 4525,
+      "question": "What is a trait of sequential hermaphrodites?",
+      "gold_answer": "the eggs and sperm mature at different times",
+      "parametric_answer": "Sequential hermaphrodites are organisms that can change their sex during their lifetime, typically in response to environmental or social cues.",
+      "parametric_perplexity": 1.278161644935608,
+      "parametric_mean_prob": 0.8207917809486389,
+      "parametric_min_prob": 0.2613029181957245
+    },
+    {
+      "id": 17,
+      "ds_index": 8036,
+      "question": "What lab does the university have a joint stake in? ",
+      "gold_answer": "Fermilab",
+      "parametric_answer": "The university has a joint stake in the Advanced Research Laboratory for Nanotechnology.",
+      "parametric_perplexity": 1.834073781967163,
+      "parametric_mean_prob": 0.6581728458404541,
+      "parametric_min_prob": 0.1254802793264389
+    },
+    {
+      "id": 18,
+      "ds_index": 10529,
+      "question": "What can be used to model tension forces?",
+      "gold_answer": "ideal strings",
+      "parametric_answer": "A spring can be used to model tension forces, as it demonstrates the relationship between force and extension in a linear fashion according to Hooke's Law.",
+      "parametric_perplexity": 1.6815024614334106,
+      "parametric_mean_prob": 0.704736590385437,
+      "parametric_min_prob": 0.08055989444255829
+    },
+    {
+      "id": 19,
+      "ds_index": 6772,
+      "question": "Civil Disobedience is mainly performed by what population group?",
+      "gold_answer": "private citizen",
+      "parametric_answer": "Civil Disobedience is mainly performed by activists and citizens who seek to protest against laws or policies they consider unjust or oppressive.",
+      "parametric_perplexity": 1.5598255395889282,
+      "parametric_mean_prob": 0.7152349948883057,
+      "parametric_min_prob": 0.09866558760404587
+    },
+    {
+      "id": 20,
+      "ds_index": 7773,
+      "question": "Who was the executive producer of the 2005 Doctor Who revival series?",
+      "gold_answer": "Russell T Davies",
+      "parametric_answer": "The executive producer of the 2005 Doctor Who revival series was Russell T Davies.",
+      "parametric_perplexity": 1.0733689069747925,
+      "parametric_mean_prob": 0.9468805193901062,
+      "parametric_min_prob": 0.39933764934539795
+    },
+    {
+      "id": 21,
+      "ds_index": 9547,
+      "question": "An MSP may introduce a bill as what?",
+      "gold_answer": "a private member",
+      "parametric_answer": "An MSP (Member of the Scottish Parliament) may introduce a bill as a Private Member's Bill.",
+      "parametric_perplexity": 1.1756147146224976,
+      "parametric_mean_prob": 0.888741672039032,
+      "parametric_min_prob": 0.22446401417255402
+    },
+    {
+      "id": 22,
+      "ds_index": 7168,
+      "question": "How much more land does the school own in Allston than Cambridge?",
+      "gold_answer": "approximately fifty percent",
+      "parametric_answer": "The school owns 1.2 acres more land in Allston than in Cambridge.",
+      "parametric_perplexity": 1.5391844511032104,
+      "parametric_mean_prob": 0.7376806139945984,
+      "parametric_min_prob": 0.1746675819158554
+    },
+    {
+      "id": 23,
+      "ds_index": 9641,
+      "question": "What did the non-Afghan veterans returning home have in addition to their prestige?",
+      "gold_answer": "considerable impact",
+      "parametric_answer": "Non-Afghan veterans returning home from service often had a sense of camaraderie and shared experiences, as well as the recognition and respect from their communities for their service and sacrifice.",
+      "parametric_perplexity": 1.7422679662704468,
+      "parametric_mean_prob": 0.6643481254577637,
+      "parametric_min_prob": 0.12825988233089447
+    },
+    {
+      "id": 24,
+      "ds_index": 4484,
+      "question": "In what year did the Amazon experience a drought that may have been more extreme than in 2005?",
+      "gold_answer": "2010",
+      "parametric_answer": "The Amazon experienced a drought in 2010 that was considered more extreme than the one in 2005.",
+      "parametric_perplexity": 1.2863225936889648,
+      "parametric_mean_prob": 0.8050868511199951,
+      "parametric_min_prob": 0.36425140500068665
+    },
+    {
+      "id": 25,
+      "ds_index": 4024,
+      "question": "What month and year was Apollo 13 launched?",
+      "gold_answer": "April 1970",
+      "parametric_answer": "Apollo 13 was launched on April 11, 1970.",
+      "parametric_perplexity": 1.1237564086914062,
+      "parametric_mean_prob": 0.9275742769241333,
+      "parametric_min_prob": 0.22296935319900513
+    },
+    {
+      "id": 26,
+      "ds_index": 927,
+      "question": "Why did Warsaw become the capital of the Commonwealth?",
+      "gold_answer": "Due to its central location",
+      "parametric_answer": "Warsaw became the capital of the Polish-Lithuanian Commonwealth due to its strategic location and the influence of the Polish nobility, who sought to centralize power and administration in the city.",
+      "parametric_perplexity": 1.7810121774673462,
+      "parametric_mean_prob": 0.6761547327041626,
+      "parametric_min_prob": 0.08990646153688431
+    },
+    {
+      "id": 27,
+      "ds_index": 9718,
+      "question": "How many Muslims came from around the world to fight in Afghanistan?",
+      "gold_answer": "16,000 to 35,000",
+      "parametric_answer": "The exact number of Muslims who came from around the world to fight in Afghanistan is difficult to determine, as it varied over time and included a mix of volunteers, fighters, and foreign fighters from different countries.",
+      "parametric_perplexity": 1.620667815208435,
+      "parametric_mean_prob": 0.7105229496955872,
+      "parametric_min_prob": 0.11510677635669708
+    },
+    {
+      "id": 28,
+      "ds_index": 10321,
+      "question": "What was the purpose of Loudoun's troops at Fort Henry?",
+      "gold_answer": "to distract Montcalm",
+      "parametric_answer": "Loudoun's troops at Fort Henry were positioned to defend against British forces and to control the strategic location of the Ohio River during the American Revolutionary War.",
+      "parametric_perplexity": 1.7723159790039062,
+      "parametric_mean_prob": 0.6755883693695068,
+      "parametric_min_prob": 0.12875044345855713
+    },
+    {
+      "id": 29,
+      "ds_index": 33,
+      "question": "What team did the Panthers defeat?",
+      "gold_answer": "Arizona Cardinals",
+      "parametric_answer": "The Panthers defeated the Falcons.",
+      "parametric_perplexity": 1.8028122186660767,
+      "parametric_mean_prob": 0.7076963782310486,
+      "parametric_min_prob": 0.06330760568380356
+    },
+    {
+      "id": 30,
+      "ds_index": 10309,
+      "question": "Who was appointed as second in command to Lor Loudoun in 1756?",
+      "gold_answer": "Major General James Abercrombie",
+      "parametric_answer": "William Johnson was appointed as second in command to Lor Loudoun in 1756.",
+      "parametric_perplexity": 1.3670477867126465,
+      "parametric_mean_prob": 0.853515625,
+      "parametric_min_prob": 0.03500296548008919
+    },
+    {
+      "id": 31,
+      "ds_index": 1217,
+      "question": "Where did the family move in 1862?",
+      "gold_answer": "Gospi\u0107, Austrian Empire",
+      "parametric_answer": "The family moved to California in 1862.",
+      "parametric_perplexity": 1.311058521270752,
+      "parametric_mean_prob": 0.8229420781135559,
+      "parametric_min_prob": 0.23168925940990448
+    },
+    {
+      "id": 32,
+      "ds_index": 8383,
+      "question": "Who build the major port city in Kenya?",
+      "gold_answer": "The Swahili",
+      "parametric_answer": "The major port city in Kenya, Mombasa, was originally built by the Arab traders in the 11th century.",
+      "parametric_perplexity": 1.3326894044876099,
+      "parametric_mean_prob": 0.7950209975242615,
+      "parametric_min_prob": 0.3320837914943695
+    },
+    {
+      "id": 33,
+      "ds_index": 6906,
+      "question": "What type of defense is sometimes used in court by protestors?",
+      "gold_answer": "competing harms defense",
+      "parametric_answer": "Protestors sometimes use the defense of necessity, claiming their illegal actions were justified to prevent greater harm.",
+      "parametric_perplexity": 2.095655918121338,
+      "parametric_mean_prob": 0.6495069861412048,
+      "parametric_min_prob": 0.010163044556975365
+    },
+    {
+      "id": 34,
+      "ds_index": 900,
+      "question": "When was Warsaw ranked as the 32nd most liveable city in the world?",
+      "gold_answer": "2012",
+      "parametric_answer": "Warsaw was ranked as the 32nd most liveable city in the world in 2019 by the Economist Intelligence Unit.",
+      "parametric_perplexity": 1.2337321043014526,
+      "parametric_mean_prob": 0.8660708665847778,
+      "parametric_min_prob": 0.10751127451658249
+    },
+    {
+      "id": 35,
+      "ds_index": 4023,
+      "question": "What was redesigned during the Apollo program being grounded during 1970?",
+      "gold_answer": "oxygen tank",
+      "parametric_answer": "The Apollo program's spacecraft, including the Command and Service Module (CSM) and the Lunar Module (LM), were redesigned during the Apollo 1 grounding in 1970.",
+      "parametric_perplexity": 1.4130370616912842,
+      "parametric_mean_prob": 0.7802892923355103,
+      "parametric_min_prob": 0.148477703332901
+    },
+    {
+      "id": 36,
+      "ds_index": 5809,
+      "question": "Where is the ABC four-note jingle still in use?",
+      "gold_answer": "ABC on Demand to the beginning of the ABC show",
+      "parametric_answer": "The ABC four-note jingle is still in use on the Australian Broadcasting Corporation (ABC) radio and television stations.",
+      "parametric_perplexity": 1.4587202072143555,
+      "parametric_mean_prob": 0.7742335200309753,
+      "parametric_min_prob": 0.11040540039539337
+    },
+    {
+      "id": 37,
+      "ds_index": 9987,
+      "question": "What was Isiah Bowman nick name, as known by the public.",
+      "gold_answer": "Wilson's geographer",
+      "parametric_answer": "Isiah Bowman was not widely known by a specific nickname in public circles.",
+      "parametric_perplexity": 1.6350927352905273,
+      "parametric_mean_prob": 0.6815180778503418,
+      "parametric_min_prob": 0.22873830795288086
+    },
+    {
+      "id": 38,
+      "ds_index": 101,
+      "question": "Which Super Bowl halftime show did Beyonc\u00e9 headline?",
+      "gold_answer": "Super Bowl XLVII",
+      "parametric_answer": "Beyonc\u00e9 headlined the Super Bowl LIII halftime show in 2019.",
+      "parametric_perplexity": 1.2286030054092407,
+      "parametric_mean_prob": 0.8643393516540527,
+      "parametric_min_prob": 0.24505983293056488
+    },
+    {
+      "id": 39,
+      "ds_index": 10015,
+      "question": "In 1735, who did John and Charles Wesley teach the gospel to in America?",
+      "gold_answer": "American Indians",
+      "parametric_answer": "John and Charles Wesley taught the gospel to the Moravians in America in 1735.",
+      "parametric_perplexity": 1.3368808031082153,
+      "parametric_mean_prob": 0.8254352807998657,
+      "parametric_min_prob": 0.15519480407238007
+    },
+    {
+      "id": 40,
+      "ds_index": 1010,
+      "question": "What had the number of people living in Warsaw declined to by 1945?",
+      "gold_answer": "420,000",
+      "parametric_answer": "By 1945, the number of people living in Warsaw had declined to approximately 400,000 due to the destruction caused by World War II.",
+      "parametric_perplexity": 1.1858155727386475,
+      "parametric_mean_prob": 0.8852229714393616,
+      "parametric_min_prob": 0.18416258692741394
+    },
+    {
+      "id": 41,
+      "ds_index": 5729,
+      "question": "What position did Mark Woods take on at the new American Broadcasting Company?",
+      "gold_answer": "president and CEO",
+      "parametric_answer": "Mark Woods became the President of the American Broadcasting Company (ABC).",
+      "parametric_perplexity": 1.6352719068527222,
+      "parametric_mean_prob": 0.714177668094635,
+      "parametric_min_prob": 0.1406288594007492
+    },
+    {
+      "id": 42,
+      "ds_index": 9370,
+      "question": "What country did the Rhine continue to rise during the holocene?",
+      "gold_answer": "Netherlands",
+      "parametric_answer": "The Rhine continued to rise during the Holocene in Germany.",
+      "parametric_perplexity": 1.2054035663604736,
+      "parametric_mean_prob": 0.8501887917518616,
+      "parametric_min_prob": 0.541366457939148
+    },
+    {
+      "id": 43,
+      "ds_index": 6200,
+      "question": "How many soldiers did Genghis Khan take with him to Khwarezmia?",
+      "gold_answer": "100,000",
+      "parametric_answer": "Genghis Khan's exact number of soldiers during the invasion of Khwarezmia is not precisely documented, but it is estimated that his forces numbered around 200,000 at the peak of his empire.",
+      "parametric_perplexity": 1.5706250667572021,
+      "parametric_mean_prob": 0.7113218307495117,
+      "parametric_min_prob": 0.14672231674194336
+    },
+    {
+      "id": 44,
+      "ds_index": 7557,
+      "question": "Why does unemployment harm growth?",
+      "gold_answer": "because it is a waste of resources",
+      "parametric_answer": "Unemployment harms growth because it represents a waste of resources and human capital, leading to lower consumer spending, reduced tax revenues, and increased government spending on social welfare, which collectively dampen economic activity.",
+      "parametric_perplexity": 1.7649338245391846,
+      "parametric_mean_prob": 0.6772903203964233,
+      "parametric_min_prob": 0.030380573123693466
+    },
+    {
+      "id": 45,
+      "ds_index": 1369,
+      "question": "Who was the War of Currents waged between? ",
+      "gold_answer": "Thomas Edison and George Westinghouse",
+      "parametric_answer": "The War of Currents was waged between Thomas Edison and George Westinghouse.",
+      "parametric_perplexity": 1.13062584400177,
+      "parametric_mean_prob": 0.8980140686035156,
+      "parametric_min_prob": 0.6085290312767029
+    },
+    {
+      "id": 46,
+      "ds_index": 8291,
+      "question": "What was the English name of Gou's calendar?",
+      "gold_answer": "Calendar for Fixing the Seasons",
+      "parametric_answer": "The English name of Gou's calendar is the \"Gregorian calendar.\"",
+      "parametric_perplexity": 1.3549816608428955,
+      "parametric_mean_prob": 0.7874911427497864,
+      "parametric_min_prob": 0.30707862973213196
+    },
+    {
+      "id": 47,
+      "ds_index": 7728,
+      "question": "What term is used to explain a change in the appearance of Doctor Who?",
+      "gold_answer": "regeneration",
+      "parametric_answer": "The term used to explain a change in the appearance of Doctor Who is \"regeneration.\"",
+      "parametric_perplexity": 1.0862550735473633,
+      "parametric_mean_prob": 0.9351493716239929,
+      "parametric_min_prob": 0.4204053580760956
+    },
+    {
+      "id": 48,
+      "ds_index": 4046,
+      "question": "Which NASA orbiter photographed evidence of each site on the moon that a manned Apollo mission landing occurred?",
+      "gold_answer": "Lunar Reconnaissance Orbiter",
+      "parametric_answer": "The Lunar Reconnaissance Orbiter (LRO) has photographed evidence of each site where a manned Apollo mission landed on the moon.",
+      "parametric_perplexity": 1.2796310186386108,
+      "parametric_mean_prob": 0.8615748882293701,
+      "parametric_min_prob": 0.1186428815126419
+    },
+    {
+      "id": 49,
+      "ds_index": 856,
+      "question": "How long was the Summer Theatre in operation?",
+      "gold_answer": "1870 to 1939",
+      "parametric_answer": "The Summer Theatre operated for 25 years, from 1950 to 1975.",
+      "parametric_perplexity": 1.5697808265686035,
+      "parametric_mean_prob": 0.7222579717636108,
+      "parametric_min_prob": 0.2539108097553253
+    },
+    {
+      "id": 50,
+      "ds_index": 10059,
+      "question": "What is a genuine love of God with heart, soul and mind?",
+      "gold_answer": "Christian Perfection",
+      "parametric_answer": "True love of God encompasses a deep, heartfelt devotion, a soul that seeks a profound connection, and a mind that understands and reflects upon divine teachings.",
+      "parametric_perplexity": 2.129464626312256,
+      "parametric_mean_prob": 0.6134779453277588,
+      "parametric_min_prob": 0.013684718869626522
+    },
+    {
+      "id": 51,
+      "ds_index": 8854,
+      "question": "What shape are pyrenoids?",
+      "gold_answer": "roughly spherical",
+      "parametric_answer": "Pyrenoids are typically spherical or ovoid in shape.",
+      "parametric_perplexity": 1.317873477935791,
+      "parametric_mean_prob": 0.8008387684822083,
+      "parametric_min_prob": 0.35440781712532043
+    },
+    {
+      "id": 52,
+      "ds_index": 1145,
+      "question": "What continent are the Canarian Islands off the coast of?",
+      "gold_answer": "Africa",
+      "parametric_answer": "The Canarian Islands are off the coast of Europe.",
+      "parametric_perplexity": 1.1874958276748657,
+      "parametric_mean_prob": 0.8646058440208435,
+      "parametric_min_prob": 0.4082283675670624
+    },
+    {
+      "id": 53,
+      "ds_index": 4606,
+      "question": "What do the auricles do?",
+      "gold_answer": "help direct microscopic prey toward the mouth",
+      "parametric_answer": "The auricles, also known as atrioventricular valves, are structures in the heart that prevent backflow of blood from the ventricles to the atria during ventricular contraction.",
+      "parametric_perplexity": 1.3146543502807617,
+      "parametric_mean_prob": 0.8259127140045166,
+      "parametric_min_prob": 0.2025541365146637
+    },
+    {
+      "id": 54,
+      "ds_index": 4253,
+      "question": "Which articles state that the member states' rights to deliver public services may not be obstructed?",
+      "gold_answer": "Articles 106 and 107",
+      "parametric_answer": "Article 18 of the Treaty on the Functioning of the European Union (TFEU) states that the Union shall respect the powers of the member states to deliver public services.",
+      "parametric_perplexity": 1.3266468048095703,
+      "parametric_mean_prob": 0.8048316240310669,
+      "parametric_min_prob": 0.17464132606983185
+    },
+    {
+      "id": 55,
+      "ds_index": 952,
+      "question": "What building was a gift from the Soviet Union?",
+      "gold_answer": "Palace of Culture and Science",
+      "parametric_answer": "The Hall of Nations in the United Nations headquarters in New York City was a gift from the Soviet Union.",
+      "parametric_perplexity": 1.9555476903915405,
+      "parametric_mean_prob": 0.7126574516296387,
+      "parametric_min_prob": 0.00379545777104795
+    },
+    {
+      "id": 56,
+      "ds_index": 5768,
+      "question": "For what league does ABC broadcast games on Christmas day?",
+      "gold_answer": "NBA",
+      "parametric_answer": "ABC broadcasts NFL games on Christmas Day.",
+      "parametric_perplexity": 1.4617477655410767,
+      "parametric_mean_prob": 0.7375810742378235,
+      "parametric_min_prob": 0.2651745676994324
+    },
+    {
+      "id": 57,
+      "ds_index": 4626,
+      "question": "How are eggs and sperm released?",
+      "gold_answer": "via pores in the epidermis",
+      "parametric_answer": "Eggs are released during ovulation, which typically occurs once a month, while sperm are released during ejaculation, which can happen multiple times a day during a man's fertile period.",
+      "parametric_perplexity": 1.4747402667999268,
+      "parametric_mean_prob": 0.7431492805480957,
+      "parametric_min_prob": 0.08324431627988815
+    },
+    {
+      "id": 58,
+      "ds_index": 9995,
+      "question": "The Ottoman empire controlled territory on three continents, Africa, Asia and which other?",
+      "gold_answer": "Europe",
+      "parametric_answer": "Europe.",
+      "parametric_perplexity": 2.497480630874634,
+      "parametric_mean_prob": 0.519421398639679,
+      "parametric_min_prob": 0.18855038285255432
+    },
+    {
+      "id": 59,
+      "ds_index": 2492,
+      "question": "Which group did not agree to sign these agreements?",
+      "gold_answer": "The Swiss cities",
+      "parametric_answer": "The group that did not agree to sign these agreements was the Native American tribes, as they were often excluded from treaties and agreements that affected their lands and rights.",
+      "parametric_perplexity": 1.7556853294372559,
+      "parametric_mean_prob": 0.6721417903900146,
+      "parametric_min_prob": 0.07703309506177902
+    },
+    {
+      "id": 60,
+      "ds_index": 367,
+      "question": "Who was the #2 pick in the 2011 NFL Draft?",
+      "gold_answer": "Von Miller",
+      "parametric_answer": "The #2 pick in the 2011 NFL Draft was Wisconsin Badgers quarterback Russell Wilson, who was selected by the Seattle Seahawks.",
+      "parametric_perplexity": 1.2582640647888184,
+      "parametric_mean_prob": 0.8804745078086853,
+      "parametric_min_prob": 0.029604723677039146
+    },
+    {
+      "id": 61,
+      "ds_index": 10055,
+      "question": "What did John Wesley originally call the experience of conversion?",
+      "gold_answer": "New Birth",
+      "parametric_answer": "John Wesley originally called the experience of conversion \"new birth.\"",
+      "parametric_perplexity": 1.2475699186325073,
+      "parametric_mean_prob": 0.8448333144187927,
+      "parametric_min_prob": 0.3607252240180969
+    },
+    {
+      "id": 62,
+      "ds_index": 39,
+      "question": "Who was this season's NFL MVP?",
+      "gold_answer": "Cam Newton",
+      "parametric_answer": "The 2022 NFL MVP was Patrick Mahomes.",
+      "parametric_perplexity": 1.4470703601837158,
+      "parametric_mean_prob": 0.7727521061897278,
+      "parametric_min_prob": 0.17710156738758087
+    },
+    {
+      "id": 63,
+      "ds_index": 5874,
+      "question": "For which ABC Movie of the Week film did Steven Spielberg first gain success?",
+      "gold_answer": "Duel",
+      "parametric_answer": "Steven Spielberg first gained success with the ABC Movie of the Week film \"Duel\" in 1971.",
+      "parametric_perplexity": 1.1550778150558472,
+      "parametric_mean_prob": 0.8849407434463501,
+      "parametric_min_prob": 0.381744921207428
+    },
+    {
+      "id": 64,
+      "ds_index": 3973,
+      "question": "What was a plugs-out test done to simulate on the LC-34?",
+      "gold_answer": "launch countdown",
+      "parametric_answer": "A plugs-out test on the LC-34 was done to simulate the computer's ability to operate independently of its power source, ensuring that it could maintain functionality during a power outage.",
+      "parametric_perplexity": 1.7307279109954834,
+      "parametric_mean_prob": 0.6696361899375916,
+      "parametric_min_prob": 0.1016950011253357
+    },
+    {
+      "id": 65,
+      "ds_index": 9324,
+      "question": "What is the term for closing off rivers that are no longer connected?",
+      "gold_answer": "dammed",
+      "parametric_answer": "The term for closing off rivers that are no longer connected is \"riverine disconnection.\"",
+      "parametric_perplexity": 1.3729535341262817,
+      "parametric_mean_prob": 0.8073245286941528,
+      "parametric_min_prob": 0.14288310706615448
+    },
+    {
+      "id": 66,
+      "ds_index": 7328,
+      "question": "How many of Jacksonville's city residents are younger than 18?",
+      "gold_answer": "23.9%",
+      "parametric_answer": "To answer this question, one would need to access the most recent demographic data from Jacksonville's city statistics or census information. The exact number can vary over time due to population changes.",
+      "parametric_perplexity": 1.8678135871887207,
+      "parametric_mean_prob": 0.6321059465408325,
+      "parametric_min_prob": 0.015820525586605072
+    },
+    {
+      "id": 67,
+      "ds_index": 5066,
+      "question": "What type of ratios are used in geochronologic and thermochronologic studies?",
+      "gold_answer": "isotope ratios of radioactive elements",
+      "parametric_answer": "Geochronologic and thermochronologic studies often use isotopic ratios, such as uranium-lead (U-Pb), potassium-argon (K-Ar), and rubidium-strontium (Rb-Sr), to determine the ages of rocks and minerals.",
+      "parametric_perplexity": 1.2226158380508423,
+      "parametric_mean_prob": 0.8702588081359863,
+      "parametric_min_prob": 0.09761790931224823
+    },
+    {
+      "id": 68,
+      "ds_index": 9049,
+      "question": "What organization offers monetary awards for identifying primes with at least 100 million digits?",
+      "gold_answer": "The Electronic Frontier Foundation",
+      "parametric_answer": "The Great Internet Mersenne Prime Search (GIMPS) offers monetary awards for identifying Mersenne primes with at least 100 million digits.",
+      "parametric_perplexity": 1.1065796613693237,
+      "parametric_mean_prob": 0.9295664429664612,
+      "parametric_min_prob": 0.3087923228740692
+    },
+    {
+      "id": 69,
+      "ds_index": 1692,
+      "question": "What is the name given to the input string of a computational problem?",
+      "gold_answer": "problem instance",
+      "parametric_answer": "The name given to the input string of a computational problem is typically referred to as the \"input data\" or simply \"input.\"",
+      "parametric_perplexity": 1.2493277788162231,
+      "parametric_mean_prob": 0.8607119917869568,
+      "parametric_min_prob": 0.11323702335357666
+    },
+    {
+      "id": 70,
+      "ds_index": 8732,
+      "question": "What differs about secondary chloroplasts' membranes?",
+      "gold_answer": "additional membranes outside of the original two",
+      "parametric_answer": "Secondary chloroplasts have a double membrane structure, which includes an outer and an inner membrane, differing from primary chloroplasts that are surrounded by a single membrane.",
+      "parametric_perplexity": 1.689391851425171,
+      "parametric_mean_prob": 0.7044587135314941,
+      "parametric_min_prob": 0.05298134684562683
+    },
+    {
+      "id": 71,
+      "ds_index": 346,
+      "question": "How old was Peyton Manning when he played in Super Bowl 50?",
+      "gold_answer": "39",
+      "parametric_answer": "Peyton Manning was 39 years old when he played in Super Bowl 50.",
+      "parametric_perplexity": 1.1020848751068115,
+      "parametric_mean_prob": 0.9322723150253296,
+      "parametric_min_prob": 0.31877759099006653
+    },
+    {
+      "id": 72,
+      "ds_index": 8772,
+      "question": "Where does the diatom endosymbiont store starch?",
+      "gold_answer": "granules in the dinophyte host's cytoplasm",
+      "parametric_answer": "The diatom endosymbiont stores starch within its chloroplasts, specifically in the starch granules found in the chloroplast stroma.",
+      "parametric_perplexity": 1.388134241104126,
+      "parametric_mean_prob": 0.7849701642990112,
+      "parametric_min_prob": 0.12530983984470367
+    },
+    {
+      "id": 73,
+      "ds_index": 562,
+      "question": "What service did Verizon customers need to use to stream the game on their smartphones?",
+      "gold_answer": "NFL Mobile",
+      "parametric_answer": "Verizon customers needed to use the Verizon Fios app to stream the game on their smartphones.",
+      "parametric_perplexity": 1.47706937789917,
+      "parametric_mean_prob": 0.7927191257476807,
+      "parametric_min_prob": 0.05657272785902023
+    },
+    {
+      "id": 74,
+      "ds_index": 7930,
+      "question": "What publication called Doctor Who \"The Greatest UK Science Fiction Series Ever\"?",
+      "gold_answer": "SFX magazine",
+      "parametric_answer": "The publication that called Doctor Who \"The Greatest UK Science Fiction Series Ever\" was \"The Guardian.\"",
+      "parametric_perplexity": 1.3503128290176392,
+      "parametric_mean_prob": 0.8086934685707092,
+      "parametric_min_prob": 0.2180091142654419
+    },
+    {
+      "id": 75,
+      "ds_index": 10412,
+      "question": "What offers a conceptual definition of force?",
+      "gold_answer": "Newtonian mechanics",
+      "parametric_answer": "Force is defined conceptually as any interaction that, when unopposed, will change the motion of an object. It can be described by Newton's second law of motion, which states that force equals mass times acceleration (F=ma).",
+      "parametric_perplexity": 1.4014179706573486,
+      "parametric_mean_prob": 0.8044604659080505,
+      "parametric_min_prob": 0.09218544512987137
+    },
+    {
+      "id": 76,
+      "ds_index": 9353,
+      "question": "What stretched across middle Europe in the last ice age?",
+      "gold_answer": "tundra",
+      "parametric_answer": "The last ice age saw the expansion of massive ice sheets and glaciers across middle Europe, significantly altering the landscape.",
+      "parametric_perplexity": 2.0047411918640137,
+      "parametric_mean_prob": 0.6444891095161438,
+      "parametric_min_prob": 0.058333635330200195
+    },
+    {
+      "id": 77,
+      "ds_index": 8303,
+      "question": "What was huihui?",
+      "gold_answer": "Muslim medicine",
+      "parametric_answer": "Huihui refers to a term used historically to describe Chinese people or individuals of Chinese descent.",
+      "parametric_perplexity": 1.9189757108688354,
+      "parametric_mean_prob": 0.5924233198165894,
+      "parametric_min_prob": 0.13776738941669464
+    },
+    {
+      "id": 78,
+      "ds_index": 5491,
+      "question": "Approximately how many architectural drawings does the V&A hold in its collection?",
+      "gold_answer": "over 600,000",
+      "parametric_answer": "The V&A holds approximately 150,000 architectural drawings in its collection.",
+      "parametric_perplexity": 1.364789605140686,
+      "parametric_mean_prob": 0.8031226992607117,
+      "parametric_min_prob": 0.19334344565868378
+    },
+    {
+      "id": 79,
+      "ds_index": 35,
+      "question": "Who did the Panthers beat in the NFC Championship Game?",
+      "gold_answer": "Arizona Cardinals",
+      "parametric_answer": "The Carolina Panthers beat the Seattle Seahawks in the NFC Championship Game.",
+      "parametric_perplexity": 1.1329257488250732,
+      "parametric_mean_prob": 0.9036693572998047,
+      "parametric_min_prob": 0.45968714356422424
+    },
+    {
+      "id": 80,
+      "ds_index": 6208,
+      "question": "Which town's massacre did Genghis Khan order in retribution for the treatment of his envoys?",
+      "gold_answer": "Otrar",
+      "parametric_answer": "Genghis Khan ordered the massacre of the city of Nishapur in 1258 as retribution for the execution of his emissaries.",
+      "parametric_perplexity": 1.4029178619384766,
+      "parametric_mean_prob": 0.7796122431755066,
+      "parametric_min_prob": 0.17917241156101227
+    },
+    {
+      "id": 81,
+      "ds_index": 2184,
+      "question": "What lesson did Johann von Staupitz teach Luther  repentance was?",
+      "gold_answer": "a change of heart",
+      "parametric_answer": "Johann von Staupitz taught Luther that repentance was a process of the heart, not merely a legalistic change of behavior.",
+      "parametric_perplexity": 1.9081984758377075,
+      "parametric_mean_prob": 0.6469628214836121,
+      "parametric_min_prob": 0.030475394800305367
+    },
+    {
+      "id": 82,
+      "ds_index": 1350,
+      "question": "Who edited Electrical World magazine?",
+      "gold_answer": "Thomas Commerford Martin",
+      "parametric_answer": "The question does not provide enough information to identify a specific editor. Electrical World magazine has had multiple editors over its history.",
+      "parametric_perplexity": 2.1453871726989746,
+      "parametric_mean_prob": 0.5838711261749268,
+      "parametric_min_prob": 0.017538337036967278
+    },
+    {
+      "id": 83,
+      "ds_index": 10227,
+      "question": "Where did Iroquois Confederation control?",
+      "gold_answer": "present-day Upstate New York and the Ohio Country",
+      "parametric_answer": "The Iroquois Confederation, also known as the Haudenosaunee or Six Nations, historically controlled territories in what is now upstate New York, parts of Pennsylvania, and areas around the Great Lakes.",
+      "parametric_perplexity": 1.3852437734603882,
+      "parametric_mean_prob": 0.8108067512512207,
+      "parametric_min_prob": 0.08376913517713547
+    },
+    {
+      "id": 84,
+      "ds_index": 2588,
+      "question": "How did Luther's writings sound as he became less healthy?",
+      "gold_answer": "harsher",
+      "parametric_answer": "As Luther's health declined, his writings became more passionate and urgent, reflecting his increasing concern for the spiritual well-being of his followers and the need for reform within the Church.",
+      "parametric_perplexity": 1.6132686138153076,
+      "parametric_mean_prob": 0.6959156394004822,
+      "parametric_min_prob": 0.10760094970464706
+    },
+    {
+      "id": 85,
+      "ds_index": 5206,
+      "question": "What's the climate like in Newcastle?",
+      "gold_answer": "oceanic",
+      "parametric_answer": "Newcastle has a temperate oceanic climate, characterized by cool summers and mild winters with moderate rainfall throughout the year.",
+      "parametric_perplexity": 1.3896318674087524,
+      "parametric_mean_prob": 0.8089607954025269,
+      "parametric_min_prob": 0.09877362102270126
+    },
+    {
+      "id": 86,
+      "ds_index": 3703,
+      "question": "What is the most feared condition that divers want to avoid?",
+      "gold_answer": "Acute oxygen toxicity",
+      "parametric_answer": "The most feared condition that divers want to avoid is decompression sickness, also known as \"the bends.\"",
+      "parametric_perplexity": 1.0831272602081299,
+      "parametric_mean_prob": 0.9349343180656433,
+      "parametric_min_prob": 0.5255162119865417
+    },
+    {
+      "id": 87,
+      "ds_index": 3207,
+      "question": "Other theories of the word's origin can be generally classed as what?",
+      "gold_answer": "double or triple non-French linguistic origins",
+      "parametric_answer": "Other theories of the word's origin can be generally classed as etymological speculations or linguistic hypotheses.",
+      "parametric_perplexity": 1.2755769491195679,
+      "parametric_mean_prob": 0.8343372344970703,
+      "parametric_min_prob": 0.22869040071964264
+    },
+    {
+      "id": 88,
+      "ds_index": 2737,
+      "question": "How many cities in southern California have over 200,000 residents?",
+      "gold_answer": "twelve",
+      "parametric_answer": "As of my knowledge cutoff in 2023, there are several cities in southern California with populations over 200,000 residents. Exact numbers can vary based on the latest census data, but cities like Los Angeles, San Diego, and San Jose are among those with populations exceeding this threshold.",
+      "parametric_perplexity": 1.526350975036621,
+      "parametric_mean_prob": 0.7446174621582031,
+      "parametric_min_prob": 0.018775921314954758
+    },
+    {
+      "id": 89,
+      "ds_index": 6077,
+      "question": "What kind of programs can be credited for ABC's success in the late 1950s?",
+      "gold_answer": "westerns and detective series",
+      "parametric_answer": "ABC's success in the late 1950s can be credited to its innovative anthology series, which included groundbreaking shows like \"Playhouse 90\" and \"The Twilight Zone,\" as well as the popular sitcom \"I Love Lucy.\"",
+      "parametric_perplexity": 1.5406110286712646,
+      "parametric_mean_prob": 0.7634036540985107,
+      "parametric_min_prob": 0.05665423348546028
+    },
+    {
+      "id": 90,
+      "ds_index": 8918,
+      "question": "What is the process of changing light into chemical energy?",
+      "gold_answer": "photosynthesis",
+      "parametric_answer": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy, storing it in the bonds of glucose molecules.",
+      "parametric_perplexity": 1.2610055208206177,
+      "parametric_mean_prob": 0.856772780418396,
+      "parametric_min_prob": 0.13560529053211212
+    },
+    {
+      "id": 91,
+      "ds_index": 4934,
+      "question": "When had the plague reached Alexandria?",
+      "gold_answer": "autumn 1347",
+      "parametric_answer": "The plague, known as the Antonine Plague, reached Alexandria around AD 165-180.",
+      "parametric_perplexity": 1.4012278318405151,
+      "parametric_mean_prob": 0.7780166268348694,
+      "parametric_min_prob": 0.1945703625679016
+    },
+    {
+      "id": 92,
+      "ds_index": 6346,
+      "question": "What are alternate English spelling of Genghis?",
+      "gold_answer": "Chinghiz, Chinghis, and Chingiz",
+      "parametric_answer": "The alternate English spellings of \"Genghis\" include \"Jenghis\" and \"Jenghiz.\"",
+      "parametric_perplexity": 1.3788082599639893,
+      "parametric_mean_prob": 0.769101083278656,
+      "parametric_min_prob": 0.3245830833911896
+    },
+    {
+      "id": 93,
+      "ds_index": 7432,
+      "question": "What did the increase in skilled workers lead to?",
+      "gold_answer": "a decrease in the price of skilled labor",
+      "parametric_answer": "The increase in skilled workers led to a significant boost in productivity and innovation within industries.",
+      "parametric_perplexity": 1.4689891338348389,
+      "parametric_mean_prob": 0.7564622759819031,
+      "parametric_min_prob": 0.14246812462806702
+    },
+    {
+      "id": 94,
+      "ds_index": 2664,
+      "question": "Other than the desert city why do many locals and tourists frequent southern California?",
+      "gold_answer": "beaches",
+      "parametric_answer": "Southern California is popular for its diverse climate, beautiful beaches, vibrant entertainment industry, and cultural attractions such as Hollywood and the San Diego Zoo.",
+      "parametric_perplexity": 1.9475666284561157,
+      "parametric_mean_prob": 0.6373935341835022,
+      "parametric_min_prob": 0.10158052295446396
+    },
+    {
+      "id": 95,
+      "ds_index": 960,
+      "question": "How many miles east of Berlin is Warsaw?",
+      "gold_answer": "325",
+      "parametric_answer": "Warsaw is approximately 200 miles east of Berlin.",
+      "parametric_perplexity": 1.5465242862701416,
+      "parametric_mean_prob": 0.7679853439331055,
+      "parametric_min_prob": 0.12772774696350098
+    },
+    {
+      "id": 96,
+      "ds_index": 6620,
+      "question": "Lots of tumor cells have fewer of what type of molecule on their surface?",
+      "gold_answer": "MHC class I molecules",
+      "parametric_answer": "Lots of tumor cells have fewer MHC (major histocompatibility complex) molecules on their surface.",
+      "parametric_perplexity": 1.2457818984985352,
+      "parametric_mean_prob": 0.8767698407173157,
+      "parametric_min_prob": 0.14800697565078735
+    },
+    {
+      "id": 97,
+      "ds_index": 9787,
+      "question": "What does the Islamic State lack from the international community?",
+      "gold_answer": "recognition",
+      "parametric_answer": "The Islamic State lacks legitimate recognition and support from the international community.",
+      "parametric_perplexity": 1.3892182111740112,
+      "parametric_mean_prob": 0.7674758434295654,
+      "parametric_min_prob": 0.2708798050880432
+    },
+    {
+      "id": 98,
+      "ds_index": 9759,
+      "question": "When was al-Nimeiry overthrown?",
+      "gold_answer": "1985",
+      "parametric_answer": "Idi Amin overthrew Milton Obote in 1971, but it was Saddam Hussein who overthrew Ahmed Hassan al-Bakr in 1968. Al-Nimeiry was overthrown in 1985 by a coup led by General Abdul Salaam Arif.",
+      "parametric_perplexity": 1.561583399772644,
+      "parametric_mean_prob": 0.7670753002166748,
+      "parametric_min_prob": 0.021606510505080223
+    },
+    {
+      "id": 99,
+      "ds_index": 9029,
+      "question": "How many divisions are required to verify the primality of the number 37?",
+      "gold_answer": "only three divisions",
+      "parametric_answer": "To verify the primality of the number 37, only one division is required, which is by 37 itself. If the result is 1, then 37 is prime.",
+      "parametric_perplexity": 1.473932147026062,
+      "parametric_mean_prob": 0.7387629747390747,
+      "parametric_min_prob": 0.10338511317968369
+    }
+  ]
+}

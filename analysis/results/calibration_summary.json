@@ -1,0 +1,10 @@
+{
+  "mean_ppl_ECE": 0.07236175815713126,
+  "mean_sdsunc_ECE": 0.03517624874318674,
+  "mean_ppl_Brier": 0.18705294175025217,
+  "mean_sdsunc_Brier": 0.14993507698723652,
+  "max_ppl_ECE": 0.2480610748436454,
+  "max_sdsunc_ECE": 0.056167234837816396,
+  "cells_with_95pct_thresh_achievable": 8,
+  "median_recall_at_95pct_PPL_thresh": 0.36844266254468166
+}

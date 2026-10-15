@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 0,
+    "ds_index": 2515,
+    "question": "Which Canadian artist is credited with first coming up with the title of Various Positions?",
+    "gold_answer": "Leonard Cohen",
+    "context": [
+      "Canadian music genres identifies musical sounds as belonging to a particular category and type of music that can be distinguished from other types of music made by Canadians.  The music of Canada has reflected the multi-cultural influences that have shaped the country.  First Nations people, the French, the British, the Americans and many others nationalities have all made unique contributions to the musical genres of Canada.  During the swing boom of the late 1930s and early 1940s, Canada produced such notable bandleaders as Ellis McLintock, Bert Niosi, Jimmy Davidson, and Mart Kenney.  In the 1940s, Bert Niosi and Oscar Peterson became widely known.  Canada has also produced a number of respected classical music ensembles, including the Montreal Symphony Orchestra and the Toronto Symphony Orchestra.  Canadian rock describes a wide and diverse variety of music produced by Canadians, with the most notable Canadian rock band being Rush, who currently place fifth behind The Beatles, The Rolling Stones, KISS and Aerosmith for the most consecutive gold and platinum albums by a rock band.  The Canadian hip hop scene was first established in the 1980s.  Some of the most well known Canadian rappers and hip-hop artists include Drake and Maestro Fresh-Wes."
+    ],
+    "generated_answer": "The answer to the question is not directly provided in the given context. However, it is known that the title \"Various Positions\" is associated with the Canadian musician Leonard Cohen.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6818163394927979,
+    "mean_prob": 0.6554967164993286,
+    "min_prob": 0.11036430299282074,
+    "sds": 1.1966215372085571,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 1,
+    "ds_index": 7242,
+    "question": "Which American main title designer designed sequences for the founder of the Sundance Film Festival?",
+    "gold_answer": "Wayne Fitzgerald",
+    "context": [
+      "The Sundance Film Festival, a program of the Sundance Institute, is a film festival that takes place annually in Park City, Utah.  With over 46,660 attendees in 2016, it is the largest independent film festival in the United States.  Held in January in Park City and Salt Lake City, Utah, as well as at the Sundance Resort, the festival is a showcase for new work from American and international independent filmmakers.  The festival comprises competitive sections for American and international dramatic and documentary films, both feature films and short films, and a group of out-of-competition sections, including NEXT, New Frontier, Spotlight, Midnight, Premieres and Documentary Premieres.  The 2017 Sundance Film Festival took place from January 19 to January 29, 2017."
+    ],
+    "generated_answer": "I couldn't find information about the American main title designer who designed sequences for the founder of the Sundance Film Festival.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4641504287719727,
+    "mean_prob": 0.7910968661308289,
+    "min_prob": 0.06874629110097885,
+    "sds": 1.0361347198486328,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 2,
+    "ds_index": 525,
+    "question": "Are Chlidanthus and Maianthemum both flowering plants?",
+    "gold_answer": "yes",
+    "context": [
+      "Chlidanthus is a genus that consists of 10 species of tender bulbs from tropical South America, mostly natives to the Andes.  The botanical name comes from the Greek, meaning \"delicate flower\".  The plants have large spherical bulbs with gray-green, strap-shaped leaves 30cm long arising from the base.  In late spring to early summer, clusters of 3-4 large, strong citrus-scented fragrant, funnel-shaped flowers 10-13cm long held terminally on stalks 25cm high, colored in yellow, pink or red."
+    ],
+    "generated_answer": "Yes, both Chlidanthus and Maianthemum are flowering plants.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.0669448375701904,
+    "mean_prob": 0.9496850967407227,
+    "min_prob": 0.47242575883865356,
+    "sds": 0.8954659700393677,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 3,
+    "ds_index": 5739,
+    "question": "Jet Airways is the second largest airlien after a low cost airline located in which city ?",
+    "gold_answer": "Gurgaon",
+    "context": [
+      "Jet Airways (Hindi: \u091c\u0947\u091f \u090f\u092f\u0930\u0935\u0947\u091c , \"Jet Eyaravej\") is a major Indian international airline based in Mumbai.  In July 2017, it was the second largest airline in India after IndiGo with an 18.2% passenger market share.  It operates over 300 flights daily to 68 destinations worldwide from its main hub at Chhatrapati Shivaji International Airport and secondary hubs at Amsterdam Airport Schiphol, Chennai International Airport, Indira Gandhi International Airport, Kempegowda International Airport and Netaji Subhas Chandra Bose International Airport."
+    ],
+    "generated_answer": "IndiGo, a low-cost airline, is located in the city of Gurgaon, but its main hub is at Indira Gandhi International Airport in Delhi.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6255053281784058,
+    "mean_prob": 0.6955424547195435,
+    "min_prob": 0.14329682290554047,
+    "sds": 0.827599823474884,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 4,
+    "ds_index": 4642,
+    "question": "What type of building does Jim Bartels and \u02bbIolani Palace have in common?",
+    "gold_answer": "museum",
+    "context": [
+      "Henry James \"Jim\" Nape Bartels (July 25, 1945 \u2013 April 20, 2003) was a Hawaiian museum curator and historian, who was the curator of \u02bbIolani Palace and later Washington Place."
+    ],
+    "generated_answer": "Jim Bartels and \u02bbIolani Palace have in common that they are both associated with museums, with Jim Bartels being a curator and \u02bbIolani Palace being a museum.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.316794514656067,
+    "mean_prob": 0.8172587156295776,
+    "min_prob": 0.1456541270017624,
+    "sds": 0.7337315082550049,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 5,
+    "ds_index": 5679,
+    "question": "What country is the Selun located in?",
+    "gold_answer": "Switzerland",
+    "context": [
+      "Jujuy (] ) is a province of Argentina, located in the extreme northwest of the country, at the borders with Chile and Bolivia.  The only neighboring Argentine province is Salta to the east and south."
+    ],
+    "generated_answer": "The country where the Selun is located is not specified in the given context. However, based on the provided information, the Selun is likely to be located in Argentina, as Jujuy is a province of Argentina.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.8256185054779053,
+    "mean_prob": 0.6380544304847717,
+    "min_prob": 0.07272650301456451,
+    "sds": 0.6707930564880371,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 6,
+    "ds_index": 2417,
+    "question": "Hamilton Wanderers AFC has a former player that is vice captain for what team?",
+    "gold_answer": "New Zealand national team",
+    "context": [
+      "Joseph Mark \"Joe\" Jacobson (born 17 November 1986) is a Welsh professional footballer for Wycombe Wanderers.  He is the former captain of the Wales U21 team, and is also a former captain of the Cardiff City reserve team."
+    ],
+    "generated_answer": "I couldn't find any information about a team called Hamilton Wanderers AFC. However, based on the given context, Joe Jacobson is a former player for Cardiff City, and he was the captain of their reserve team.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5860588550567627,
+    "mean_prob": 0.707344114780426,
+    "min_prob": 0.04803178831934929,
+    "sds": 0.8398393988609314,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 7,
+    "ds_index": 3784,
+    "question": "Summer Holiday starred what actor who won  a BAFTA in 1954>",
+    "gold_answer": "David Kossoff",
+    "context": [
+      "Summer Holiday is a British CinemaScope and Technicolor musical film featuring singer Cliff Richard.  The film was directed by Peter Yates (his debut), produced by Kenneth Harper.  The original screenplay was written by Peter Myers and Ronald Cass (who also wrote most of the song numbers and lyrics).  The cast includes Lauri Peters, Melvyn Hayes, Teddy Green, Jeremy Bulloch, Una Stubbs, Pamela Hart, Jacqueline Daryl, Lionel Murton, Madge Ryan, David Kossoff, Nicholas Phipps, Ron Moody and The Shadows.  Herbert Ross choreographed the musical numbers."
+    ],
+    "generated_answer": "Ron Moody won a BAFTA in 1954, but not for Summer Holiday.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6500781774520874,
+    "mean_prob": 0.7049269676208496,
+    "min_prob": 0.08854705095291138,
+    "sds": 1.0750585794448853,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 8,
+    "ds_index": 7235,
+    "question": "What statistical area is the suburban city that houses the Charles Hosmer Morse Museum of American Art?",
+    "gold_answer": "Orlando\u2013Kissimmee\u2013Sanford",
+    "context": [
+      "The Charles Dickens Museum is an author's house museum at 48 Doughty Street in Holborn, London Borough of Camden.  It occupies a typical Georgian terraced house which was Charles Dickens's home from 25 March 1837 (a year after his marriage) to December 1839."
+    ],
+    "generated_answer": "There is no information provided about the Charles Hosmer Morse Museum of American Art in the context.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.424182415008545,
+    "mean_prob": 0.7545536160469055,
+    "min_prob": 0.25828486680984497,
+    "sds": 1.0663321018218994,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 9,
+    "ds_index": 497,
+    "question": "What edition of tennis' US Open was the 2017 US Open when Petra Kvitova was a quarterfinalist?",
+    "gold_answer": "137th",
+    "context": [
+      "The 2017 US Open was the 137th edition of tennis' US Open and the fourth and final Grand Slam event of the year.  It was held on outdoor hard courts at the USTA Billie Jean King National Tennis Center in New York City.  Experimental rules featured in qualifying for the main draw as well as in the junior, wheelchair and exhibition events."
+    ],
+    "generated_answer": "The 2017 US Open was the 137th edition of tennis' US Open. Petra Kvitova was a quarterfinalist in this edition.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3595246076583862,
+    "mean_prob": 0.8360956311225891,
+    "min_prob": 0.022386597469449043,
+    "sds": 0.6547679305076599,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 10,
+    "ds_index": 6176,
+    "question": "What is the nickname of this American retired airline captain celebrated for his water landing with Jeffrey Skiles, after a bird strike and being unable to reach an airport?",
+    "gold_answer": "Sully",
+    "context": [
+      "Chesley Burnett \"Sully\" Sullenberger III (born 1951) is an American retired airline captain celebrated for the January 15, 2009 water landing of US Airways Flight 1549 in the Hudson River off Manhattan after the plane was disabled by striking a flock of Canada geese immediately after takeoff; all 155 people aboard survived.  Sullenberger is an international speaker on airline safety and has helped develop new protocols for airline safety.  He served as the co-chairman, along with First Officer Jeffrey Skiles, of the EAA's Young Eagles youth introduction-to-aviation program from 2009 to 2013.  He retired from US Airways after 30 years as a commercial pilot on March 3, 2010.  In May of the following year, Sullenberger was hired by CBS News as an Aviation and Safety Expert."
+    ],
+    "generated_answer": "The American retired airline captain's nickname is \"Sully.\"",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4256340265274048,
+    "mean_prob": 0.7987436652183533,
+    "min_prob": 0.10009565949440002,
+    "sds": 0.975136399269104,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 11,
+    "ds_index": 1079,
+    "question": "How many venues was in the complex at which Night of Joy was held? ",
+    "gold_answer": "9 venues",
+    "context": [
+      "City of Joy is a 1992 French-British drama film directed by Roland Joff\u00e9, with a screenplay by Mark Medoff.  It is based upon the novel of the same name by Dominique Lapierre, which looks at poverty in then-modern India, specifically life in the slums.  The film stars Patrick Swayze, Om Puri and Shabana Azmi."
+    ],
+    "generated_answer": "There is no information about a \"Night of Joy\" event in the context provided. The film is actually called \"City of Joy\" and it is based on a novel of the same name.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6121329069137573,
+    "mean_prob": 0.6804103255271912,
+    "min_prob": 0.21782338619232178,
+    "sds": 0.8121213316917419,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 12,
+    "ds_index": 2684,
+    "question": "Who achieved more academically, Andrea Martin or Mark Hoplamazian? ",
+    "gold_answer": "Mark S. Hoplamazian",
+    "context": [
+      "Andrea Martin (born 1947) is an American actress and comedian"
+    ],
+    "generated_answer": "I'm unable to verify information on Mark Hoplamazian's academic achievements.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.7076674699783325,
+    "mean_prob": 0.6785097122192383,
+    "min_prob": 0.10744284093379974,
+    "sds": 1.373795986175537,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 13,
+    "ds_index": 6150,
+    "question": "Who directed a 2005 supernatural horror film starring an actress who appeared in The Patriot and Kill Your Darlings",
+    "gold_answer": "Stephen T. Kay",
+    "context": [
+      "Kill Your Darlings is a 2006 film directed by Bj\u00f6rne Larson and written by Bj\u00f6rne Larson and Johan Sandstr\u00f6m.  In an interview with Svenska Dagbladet, Larson said that the film is based on a real event in his life when he met a seemingly nice man at an internet cafe in Los Angeles who ended up leaving Larson bound and restrained in a desert.  The film features a cast of many of the most popular contemporary Swedish actors (Fares Fares, father and son Stellan and Alexander Skarsg\u00e5rd, and Andreas Wilson from Oscar-nominated \"Evil\") and some less famous U.S. actors Julie Benz and Greg Germann, and Canadian Lolita Davidovitch."
+    ],
+    "generated_answer": "The answer is not clear from the given context. However, one possible answer is that the director could be Roland Emmerich, who directed the 2005 supernatural horror film \"The Cave\" starring Julie Benz, who also appeared in \"Kill Your Darlings\" and \"The Patriot\".",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.7676194906234741,
+    "mean_prob": 0.6578081250190735,
+    "min_prob": 0.059567924588918686,
+    "sds": 1.0555189847946167,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 14,
+    "ds_index": 7237,
+    "question": "When was the host of the Los Angeles talk radio program Religion on the Line born?",
+    "gold_answer": "August 2, 1948",
+    "context": [
+      "Religion on the Line is the name of a number of local talk radio programs, where a variety of clergy members discuss religious and other topics.  On WABC in New York, it is hosted by Rabbi Joseph Potasnik and Deacon Kevin McCormack.  On KCMO in Kansas City, it is hosted by Reverend Robert Lee Hill, Chancellor George M. Noonan, and Rabbi Emeritus Michael Zedek.  On KABC in Los Angeles, it was hosted by Dennis Prager."
+    ],
+    "generated_answer": "Unfortunately, the information provided does not include the birth date of Dennis Prager, the host of the Los Angeles talk radio program Religion on the Line.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3908066749572754,
+    "mean_prob": 0.7766258120536804,
+    "min_prob": 0.11334855854511261,
+    "sds": 1.0561660528182983,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 15,
+    "ds_index": 1028,
+    "question": "Where is the transportation company that owns Talbot based in?",
+    "gold_answer": "Montreal",
+    "context": [
+      "Talbots is an American specialty retailer and direct marketer of women's clothing, shoes and fashion accessories."
+    ],
+    "generated_answer": "I'm not aware of any information that suggests Talbots has a transportation company as its parent or owner. However, Talbots is owned by Sycamore Partners, a private equity firm based in New York City.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.471224069595337,
+    "mean_prob": 0.7232427597045898,
+    "min_prob": 0.31647536158561707,
+    "sds": 0.7790629267692566,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 16,
+    "ds_index": 2008,
+    "question": "God Is Not Great is by a journalist which due to his actions made him what?",
+    "gold_answer": "both a lauded intellectual and a controversial public figure",
+    "context": [
+      "\"Is God Dead?\"  was an April 8, 1966, cover story for the news magazine \"Time\".  A previous article, from October 1965, had investigated a trend among 1960s theologians to write God out of the field of theology.  The 1966 article looked in greater depth at the problems facing modern theologians, in making God relevant to an increasingly secular society.  Modern science had eliminated the need for religion to explain the natural world, and God took up less and less space in people's daily lives.  The ideas of various scholars were brought in, including the application of contemporary philosophy to the field of theology, and a more personal, individual approach to religion."
+    ],
+    "generated_answer": "God Is Not Great is a book by Christopher Hitchens, a journalist and author, and his actions made him an atheist.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.7422316074371338,
+    "mean_prob": 0.6983665227890015,
+    "min_prob": 0.03249065577983856,
+    "sds": 1.100096583366394,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 17,
+    "ds_index": 5785,
+    "question": "Flower Alley was bred by the trainer who was killed at what Fayette County, Kentucky airport?",
+    "gold_answer": "Blue Grass Airport",
+    "context": [
+      "Flower Alley (foaled May 7, 2002) is an American Thoroughbred racehorse.  He was bred at Bona Terra Farms by George Brunacini, who was killed in the August 27, 2006, crash of Comair Flight 5191 at Blue Grass Airport in Lexington, Kentucky."
+    ],
+    "generated_answer": "Flower Alley was bred by George Brunacini, who was killed at Blue Grass Airport in Lexington, Kentucky.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3414711952209473,
+    "mean_prob": 0.8451024889945984,
+    "min_prob": 0.029927633702754974,
+    "sds": 0.636857271194458,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 18,
+    "ds_index": 1106,
+    "question": "Which Captain launched the attack which led to more casualties than any other incident in the war fought between the settlers of the nascent colony of New Netherland and the native Lenape population?",
+    "gold_answer": "Captain John Underhill",
+    "context": [
+      "Kieft's War, also known as the Wappinger War, was a conflict (1643\u20131645) between settlers of the nascent colony of New Netherland and the native Lenape population in what would later become the New York metropolitan area of the United States.  It is named for Director-General of New Netherland Willem Kieft, who had ordered an attack without approval of his advisory council and against the wishes of the colonists.  Dutch soldiers attacked Lenape camps and massacred the native inhabitants, which encouraged unification among the regional Algonquian tribes against the Dutch, and precipitated waves of attacks on both sides.  This was one of the earliest conflicts between Native Americans and European settlers.  Displeased with Kieft, the Dutch West India Company recalled him and he died while returning to the Netherlands.  Peter Stuyvesant succeeded him in New Netherland.  Because of the continuing threat by the Algonquians, numerous Dutch settlers returned to the Netherlands, and growth of the colony slowed."
+    ],
+    "generated_answer": "The question does not specify which captain launched the attack. However, it mentions that Dutch soldiers, under the orders of Director-General Willem Kieft, attacked Lenape camps and massacred the native inhabitants, leading to a significant escalation of the conflict.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4846925735473633,
+    "mean_prob": 0.7483029365539551,
+    "min_prob": 0.149724543094635,
+    "sds": 0.8476108312606812,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 19,
+    "ds_index": 4515,
+    "question": "When was the Russian composer who composed \"Prisoner of the Caucasus\" born? ",
+    "gold_answer": "[O.S. 6 January] 1835",
+    "context": [
+      "Prisoner of the Mountains (Russian: \u041a\u0430\u0432\u043a\u0430\u0437\u0441\u043a\u0438\u0439 \u043f\u043b\u0435\u043d\u043d\u0438\u043a , \"Kavkazskiy plennik\"), also known as Prisoner of the Caucasus, is a 1996 Russian war drama film directed by Sergei Bodrov and written by Bodrov, Arif Aliyev and Boris Giller.  The film is based on the Caucasian War-era short story \"The Prisoner in the Caucasus\" by the classic Russian writer Leo Tolstoy."
+    ],
+    "generated_answer": "There is no information about a Russian composer composing \"Prisoner of the Caucasus\". The film \"Prisoner of the Mountains\" is based on a short story by Leo Tolstoy, a Russian writer, not a composer.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4164270162582397,
+    "mean_prob": 0.7739889621734619,
+    "min_prob": 0.13903920352458954,
+    "sds": 0.5857097506523132,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 20,
+    "ds_index": 4102,
+    "question": "What city did the musician whose debut album shares its title with the 1959 Alfred Hitchcock hail from?",
+    "gold_answer": "Chicago, IL",
+    "context": [
+      "The music score for Alfred Hitchcock's 1958 film \"Vertigo\" was composed by Bernard Herrmann between 3 January and 19 February 1958.  The recordings were made in London and Vienna, with orchestra conducted by Muir Mathieson.  A musicians' strike had prevented the score from being recorded in Los Angeles with Herrmann conducting."
+    ],
+    "generated_answer": "I'm not able to verify the city of origin for the musician whose debut album shares its title with the 1959 Alfred Hitchcock film.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5625227689743042,
+    "mean_prob": 0.720658540725708,
+    "min_prob": 0.11867464333772659,
+    "sds": 0.954872727394104,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 21,
+    "ds_index": 1015,
+    "question": "What was the other Los Angeles team that the 1999 Clippers top draft pick played for and won two championships with?",
+    "gold_answer": "Los Angeles Lakers",
+    "context": [
+      "The 1999\u20132000 NBA season was the Clippers' 30th season in the National Basketball Association, and their 16th season in Los Angeles.  During the offseason, the Clippers acquired Derek Anderson from the Cleveland Cavaliers, and began playing in their new arena, the Staples Center.  The Clippers are co-tenants with their crosstown rival, the Los Angeles Lakers.  The team continued to struggle under head coach Chris Ford, as he was replaced with interim Jim Todd after 45 games, while Troy Hudson was released as the team signed free agent Jeff McInnis.  However, the Clippers then suffered a 17-game losing streak in the final two months of the season, finishing last place in the Pacific Division with a league worst record of 15\u201367.  Top draft pick Lamar Odom provided a bright spot as he averaged a solid 16.6 points per game, and made the All-Rookie First Team."
+    ],
+    "generated_answer": "The other Los Angeles team that the 1999 Clippers top draft pick, Lamar Odom, played for was the Los Angeles Lakers. He won two NBA championships with the Lakers in 2009 and 2010.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2847322225570679,
+    "mean_prob": 0.84149169921875,
+    "min_prob": 0.07901982218027115,
+    "sds": 0.9221789240837097,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 22,
+    "ds_index": 5208,
+    "question": "The Van cat's eyes have what feline form of complete heterochromia, a condition that occurs in some other animals?",
+    "gold_answer": "odd-eyed",
+    "context": [
+      "The Turkish Van is a semi-long-haired breed of domestic cat, which was developed in the United Kingdom from a selection of cats obtained from various cities of modern Turkey, especially Southeast Turkey.  The breed is rare, and is distinguished by the Van pattern (named for the breed), where the colour is restricted to the head and the tail, and the rest of the cat is white; this is due to the expression of the piebald white spotting gene, a type of partial leucism.  A Turkish Van may have blue or amber eyes, or be odd-eyed (having one eye of each colour).  The breed has been claimed to be descended from the landrace of usually all-white Van cats (Turkish: \"Van kedisi\" ), mostly found near Lake Van, though one of the two original breeders' own writings indicate clearly that none of the breed's foundation cats came from the Van area, which has historically been in Armenia."
+    ],
+    "generated_answer": "The Turkish Van cat's eyes can have blue or amber eyes, or be odd-eyed, which is a form of complete heterochromia iridum, a condition where one eye has two different colors.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5735666751861572,
+    "mean_prob": 0.7044016718864441,
+    "min_prob": 0.1487046629190445,
+    "sds": 0.7344565391540527,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 23,
+    "ds_index": 3954,
+    "question": "Who was the head coach of the Georgia Tech football team that finished the regular season with the same record as the 1981 team?",
+    "gold_answer": "Bill Lewis",
+    "context": [
+      "The 1980 Georgia Tech Yellow Jackets football team represented the Georgia Institute of Technology during the 1980 NCAA Division I-A football season.  The Yellow Jackets were led by first-year head coach Bill Curry, and played their home games at Grant Field in Atlanta, Georgia.  Georgia Tech struggled mightily under Curry, finishing with one of the worst records in Georgia Tech history with 1 win, 9 losses, and 1 tie.  A major highlight was achieved, however, when the Yellow Jackets produced a 3\u20133 tie against the number one team in the country, the undefeated Notre Dame Fighting Irish."
+    ],
+    "generated_answer": "The head coach of the Georgia Tech football team that finished the regular season with the same record as the 1981 team was Bill Curry. The 1981 team also finished with 3 wins, 8 losses, and 1 tie.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2822130918502808,
+    "mean_prob": 0.8231082558631897,
+    "min_prob": 0.10000143945217133,
+    "sds": 0.730159342288971,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 24,
+    "ds_index": 5330,
+    "question": "Katrina Ross starred in \"The Singing Nun\" with who as the title role?",
+    "gold_answer": "Debbie Reynolds",
+    "context": [
+      "The Singing Nun is a 1966 American semi-biographical film about the life of Jeanine Deckers, a nun who recorded the chart-topping hit song \"Dominique\".  It starred Debbie Reynolds in the title role.  The film also stars Ricardo Montalb\u00e1n, Katharine Ross, Chad Everett, and Ed Sullivan as himself.  It was Henry Koster's final directing job."
+    ],
+    "generated_answer": "Katharine Ross starred in \"The Singing Nun\" with Debbie Reynolds as the title role.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.0570026636123657,
+    "mean_prob": 0.9551196098327637,
+    "min_prob": 0.5179059505462646,
+    "sds": 0.7515754699707031,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 25,
+    "ds_index": 2352,
+    "question": " Afonwen is situated just under four miles from what road also known as the North Wales Expressway",
+    "gold_answer": "A55",
+    "context": [
+      "Afonwen (] ; Welsh: \"Afon-wen\" ) is a town in Flintshire, Wales.  It is situated just under four miles from the A55 North Wales Expressway and on the A541 Mold-Denbigh road.  At the 2001 Census, the population of Afonwen was included into the civil parish of Caerwys and was 1,319, with a total ward population of 2,496."
+    ],
+    "generated_answer": "Afonwen is situated just under four miles from the A55 North Wales Expressway.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.7177834510803223,
+    "mean_prob": 0.8777206540107727,
+    "min_prob": 0.00037949488614685833,
+    "sds": 0.6943404078483582,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 26,
+    "ds_index": 6627,
+    "question": "Were Stanley Kubrick and Elio Petri from different countries?",
+    "gold_answer": "yes",
+    "context": [
+      "Elio Petri (29 January 1929 \u2013 10 November 1982) was an Italian political filmmaker."
+    ],
+    "generated_answer": "Yes, Stanley Kubrick was from the United States, while Elio Petri was from Italy.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3069490194320679,
+    "mean_prob": 0.8292460441589355,
+    "min_prob": 0.21627508103847504,
+    "sds": 0.9115113019943237,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 27,
+    "ds_index": 3911,
+    "question": "In which country did Ahmed Khader Al-Muwallad win a gold medal?",
+    "gold_answer": "Ashgabat, Turkmenistan",
+    "context": [
+      "Fahad Mosaed Al-Muwallad (Arabic: \u0641\u0647\u062f \u0627\u0644\u0645\u0648\u0644\u062f\u200e \u200e , born 14 September 1994 in Jeddah) is a Saudi professional footballer who plays for Al-Ittihad.  He started his professional career with Al-Ittihad when he was only 16 years old against Al-Raed.  On 31 July, he scored the second goal for Saudi Arabia against Croatia in the 2011 U-20 World Cup in Colombia.  In 2012, he entered the field in the last 10 minutes and scored the winning goal against Guangzhou Evergrande F.C. to qualify with his team to Asian Champions League Semifinals.  He was chosen as King Cup of Champions MVP.  with Saudi Arabia, he scored the winning goal against China in Asian Cup qualifications.  Fahad Al-Muwallad is one of the most promising and fastest players in Asia."
+    ],
+    "generated_answer": "There is no information about Ahmed Khader Al-Muwallad in the given context. The text mentions Fahad Mosaed Al-Muwallad, not Ahmed Khader Al-Muwallad.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2374018430709839,
+    "mean_prob": 0.8553553819656372,
+    "min_prob": 0.24217627942562103,
+    "sds": 0.9473817944526672,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 28,
+    "ds_index": 158,
+    "question": "What football club plays in the area between the old tool gates: Brook Bar and Trafford bar?",
+    "gold_answer": "Manchester United",
+    "context": [
+      "Millwall Football Club ( ) is a professional football club in Bermondsey, South East London, England.  The team competes in The Championship, the second tier of English football.  Founded as Millwall Rovers in 1885, the club has retained its name despite having last played in the Millwall area of the Isle of Dogs in 1910.  From then until 1993 the club played at what is now called The Old Den in New Cross, before moving to its current home stadium nearby, called The Den.  The traditional club crest is a lion rampant, referred to in the team's nickname \"The Lions\".  Millwall's traditional kit consists of blue shirts, white shorts and blue socks."
+    ],
+    "generated_answer": "I can't answer that question based on the context provided.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.8965976238250732,
+    "mean_prob": 0.5915578007698059,
+    "min_prob": 0.25076034665107727,
+    "sds": 1.4305285215377808,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 29,
+    "ds_index": 7185,
+    "question": "What is Old Orchard Shopping Center currently called?",
+    "gold_answer": "Westfield Old Orchard",
+    "context": [
+      "Westfield Old Orchard, formerly Old Orchard Shopping Center, is a shopping mall in the Chicago metropolitan area.  It is located in Skokie, Illinois."
+    ],
+    "generated_answer": "Westfield Old Orchard is the current name of the shopping mall, previously known as Old Orchard Shopping Center.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6492338180541992,
+    "mean_prob": 0.8101588487625122,
+    "min_prob": 0.0033381166867911816,
+    "sds": 0.5449824333190918,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 30,
+    "ds_index": 3687,
+    "question": "What movie did actress Irene Jacob complete before the American action crime thriller film directed by Stuart Bird?",
+    "gold_answer": "Beyond the Clouds",
+    "context": [
+      "Irene in Time is a 2009 American independent film directed by Henry Jaglom.  It marked the second collaboration between director Jaglom and actress Tanna Frederick, who also starred in \"Hollywood Dreams\", Jaglom's 2006 film.  \"Irene\" also starred Victoria Tennant, Lanre Idewu, and Andrea Marcovicci."
+    ],
+    "generated_answer": "I couldn't find any information about an American action crime thriller film directed by Stuart Bird that Irene Jacob was in.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3562663793563843,
+    "mean_prob": 0.78598952293396,
+    "min_prob": 0.3072577714920044,
+    "sds": 0.9710094928741455,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 31,
+    "ds_index": 4007,
+    "question": "Where did King James reign during Samuel Parker's time as a Bishop of Oxford?",
+    "gold_answer": "James II and VII (14 October 1633 \u2013 16 September 1701) was King of England",
+    "context": [
+      "John Thomas James (1786 \u2013 1828) was a Church of England bishop.  He was bishop of Calcutta from 1827 to 1828.  He also wrote travel and art books."
+    ],
+    "generated_answer": "I can't find any information about a King James or Samuel Parker's time as a Bishop of Oxford.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.8711707592010498,
+    "mean_prob": 0.6419451832771301,
+    "min_prob": 0.090519979596138,
+    "sds": 0.8547086119651794,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 32,
+    "ds_index": 2086,
+    "question": "The album \"Mr. 12 String Guitar\" features a singer that hosted a variety show from 1969 to 1972 on what newtork?",
+    "gold_answer": "CBS",
+    "context": [
+      "The Nashville String Band is the 1969 debut album by The Nashville String Band.  The band consisted of Chet Atkins and Homer and Jethro.  Atkins produced many of Homer and Jethro's later RCA albums and they in turn performed on a number of his."
+    ],
+    "generated_answer": "The singer on the album \"Mr. 12 String Guitar\" is Chet Atkins, who hosted the \"Pop! Goes the Country\" variety show on the NBC network from 1969 to 1972.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.620830774307251,
+    "mean_prob": 0.729444146156311,
+    "min_prob": 0.048355408012866974,
+    "sds": 0.8933467864990234,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 33,
+    "ds_index": 577,
+    "question": "At which university did the notable psychoanalyst associated with the University of Chicago serve most of his career as a professor of psychiatry?",
+    "gold_answer": "University of New York Upstate",
+    "context": [
+      "The Chicago Institute for Psychoanalysis is a center for psychoanalytic research, training, and education that is located on Michigan Avenue in downtown Chicago.  The institute provides professional training in the theory and practice of psychoanalysis and psychotherapy.  It was founded in 1932 by Franz Alexander, a pioneer in psychosomatic medicine at the Berlin Psychoanalytic Institute, who moved to Chicago at the invitation of Robert Maynard Hutchins, then president of the University of Chicago.  Notable psychoanalysts that have been associated with the institute include Karl Menninger, Karen Horney, Thomas Szasz, Therese Benedek, Hedda Bolgar, Roy Grinker, Maxwell Gitelson, Louis Shapiro, Heinz Kohut, Arnold Goldberg, Jerome Kavka, Frank Summers, and Michael Franz Basch."
+    ],
+    "generated_answer": "The notable psychoanalyst associated with the University of Chicago, Karl Menninger, served most of his career as a professor of psychiatry at the Menninger Clinic in Topeka, Kansas, but also had a connection to the University of Kansas.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4389177560806274,
+    "mean_prob": 0.7794111371040344,
+    "min_prob": 0.08639317750930786,
+    "sds": 0.814618706703186,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 34,
+    "ds_index": 6231,
+    "question": "Which film was was made first The Young Black Stallion or Wild Hearts Can't Be Broken?",
+    "gold_answer": "Wild Hearts Can\u2019t Be Broken",
+    "context": [
+      "Wild Hearts Can\u2019t Be Broken is a 1991 drama film about Sonora Webster Carver, a rider of diving horses, starring Gabrielle Anwar as Carver alongside Michael Schoeffling and Cliff Robertson.  It is based on events in her life as told in her memoir \"A Girl and Five Brave Horses\"."
+    ],
+    "generated_answer": "The Young Black Stallion was released in 1979, while Wild Hearts Can't Be Broken was released in 1991, making The Young Black Stallion the earlier film.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3272759914398193,
+    "mean_prob": 0.836706280708313,
+    "min_prob": 0.05295050889253616,
+    "sds": 0.8069164752960205,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 35,
+    "ds_index": 4450,
+    "question": "Which of the cities of Dujiangyan City and Ezhou has the larger population according to their latest census ?",
+    "gold_answer": "Ezhou",
+    "context": [
+      "Dujiangyan () is a county-level city, a subdivision of Chengdu, the capital of Sichuan Province, People's Republic of China.  Its north-west region forms a border with sourthern Ngawa Tibetan and Qiang Autonomous Prefecture.  It has an area of 1208 km2 and had a population of 600,000 in 2003."
+    ],
+    "generated_answer": "I couldn't find any information about the population of Ezhou. However, I can tell you that the population of Dujiangyan City in 2003 was 600,000.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.55662202835083,
+    "mean_prob": 0.7341054677963257,
+    "min_prob": 0.026952480897307396,
+    "sds": 0.9023241996765137,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 36,
+    "ds_index": 6345,
+    "question": "Where did the military engagements that Captain Lewis Cunningham Broadus served during take place?",
+    "gold_answer": "Mexico-United States border region",
+    "context": [
+      "Lieutenant Colonel Alfred Austell Cunningham (March 8, 1882 \u2013 May 27, 1939) was a United States Marine Corps officer who became the first Marine Corps aviator and the first Director of Marine Corps Aviation.  His military career included service in the Spanish\u2013American War, World War I, and U.S. operations in the Caribbean during the 1920s."
+    ],
+    "generated_answer": "I can't answer that question because the provided context does not mention a Captain Lewis Cunningham Broadus. It mentions Lieutenant Colonel Alfred Austell Cunningham.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.7439805269241333,
+    "mean_prob": 0.658707857131958,
+    "min_prob": 0.14109522104263306,
+    "sds": 0.867803692817688,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 37,
+    "ds_index": 7244,
+    "question": "The 2017 Los Angeles Chargers season was the first season under which coach that began his professional coaching career with the Denver Broncos in 2000?",
+    "gold_answer": "Anthony Lynn",
+    "context": [
+      "The 2017 Los Angeles Chargers season is the franchise's 48th season in the National Football League (NFL), the 58th overall and the first under head coach Anthony Lynn.  It will also be the Chargers' first season in Los Angeles since their inaugural 1960 season, when they were in the AFL, as the team exercised its option to move to the city and join the Los Angeles Rams on January 12, 2017.  The 2017 season will be the first of three seasons played at StubHub Center prior to the new stadium being completed."
+    ],
+    "generated_answer": "The 2017 Los Angeles Chargers season was the first season under head coach Anthony Lynn. Anthony Lynn began his professional coaching career with the Denver Broncos in 2000.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2086693048477173,
+    "mean_prob": 0.8757306337356567,
+    "min_prob": 0.21791715919971466,
+    "sds": 0.7509459257125854,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 38,
+    "ds_index": 3163,
+    "question": "Ralf D. Bode is best known for his work on a film starring who as Loretta?",
+    "gold_answer": "Sissy Spacek",
+    "context": [
+      "Mary Loretta \"Mariette\" Hartley (born June 21, 1940) is an American character actress."
+    ],
+    "generated_answer": "I couldn't find any information on a film starring Mariette Hartley and Ralf D. Bode.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.409794807434082,
+    "mean_prob": 0.7680404186248779,
+    "min_prob": 0.26869702339172363,
+    "sds": 0.982231855392456,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 39,
+    "ds_index": 1214,
+    "question": "Jullian Allen a Brittish-American Illustrator had some of his Illustration published appear in Queen magazine. In 1970 the magazines name was changed to Harper's and Queen. What is the name of the magazine now ?",
+    "gold_answer": "Harper's Bazaar",
+    "context": [
+      "Queen (originally The Queen) magazine was a British society publication established by Samuel Beeton in 1861.  In 1958, the magazine was sold to Jocelyn Stevens, who dropped the prefix \"\"The\"\" and used it as his vehicle to represent the younger side of the British Establishment, sometimes referred to as the \"Chelsea Set\" under the editorial direction of Beatrix Miller.  In 1964 the magazine gave birth to Radio Caroline, the first daytime commercial pirate radio station serving London, England.  Stevens sold \"Queen\" in 1968.  From 1970 the new publication became known as Harper's & Queen until the name \"Queen\" was dropped from the masthead.  It is now known as \"Harper's Bazaar\"."
+    ],
+    "generated_answer": "The magazine is now known as \"Harper's Bazaar\".",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2181326150894165,
+    "mean_prob": 0.8569010496139526,
+    "min_prob": 0.35801276564598083,
+    "sds": 0.9499474167823792,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 40,
+    "ds_index": 6116,
+    "question": "What was the nationality and profession of the person responsible for the concept of a dimensionless number in physics and engineering?",
+    "gold_answer": "French mathematician and physicist",
+    "context": [
+      "In dimensional analysis, a dimensionless quantity is a quantity to which no physical dimension is applicable.  It is also known as a bare number or a quantity of dimension one.  Dimensionless quantities are widely used in many fields, such as mathematics, physics, engineering, and economics.  By contrast, examples of quantities with dimensions are length, time, and speed, which are measured in dimensional units, such as metre, second and metre per second."
+    ],
+    "generated_answer": "Unfortunately, the context does not provide information about the person responsible for the concept of a dimensionless number in physics and engineering.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2945019006729126,
+    "mean_prob": 0.8093248009681702,
+    "min_prob": 0.3770389258861542,
+    "sds": 0.747560441493988,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 41,
+    "ds_index": 5656,
+    "question": "Which is farther north, Steel Venom or Wicked Twister?",
+    "gold_answer": "Wicked Twister",
+    "context": [
+      "Steel Venom is a steel Inverted Impulse roller coaster located at Valleyfair in Minnesota.  It reaches a maximum height of 185 feet (56 m) and a top speed of 68\u00a0mph (109\u00a0km/h).  It is similar to the \"Wicked Twister\" roller coaster at Cedar Point, but has only one vertical spiral, as opposed to Wicked Twister with two vertical spirals, but it is identical to Possessed at Dorney Park & Wildwater Kingdom excepting to be shorter and it is similar to at Six Flags Great America."
+    ],
+    "generated_answer": "Since Valleyfair is located in Minnesota and Cedar Point is located in Ohio, Steel Venom is farther north than Wicked Twister.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3940179347991943,
+    "mean_prob": 0.8010059595108032,
+    "min_prob": 0.14380525052547455,
+    "sds": 0.7981129288673401,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 42,
+    "ds_index": 3950,
+    "question": "Nguy\u1ec5n V\u0103n Tr\u1ed7i tried to assassinate a future ambassador from which US state ?",
+    "gold_answer": "Massachusetts",
+    "context": [
+      "Nguy\u1ec5n V\u0103n Tr\u1ed7i (1 February 1940 \u2013 15 October 1964) was a Vi\u1ec7t Minh (National Liberation Front) bomber.  He gained notoriety after being captured by South Vietnamese forces while trying to assassinate United States Secretary of Defense Robert McNamara and future ambassador Henry Cabot Lodge Jr. who were visiting South Vietnam in May 1963."
+    ],
+    "generated_answer": "Massachusetts, as Henry Cabot Lodge Jr. was from Massachusetts.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3342890739440918,
+    "mean_prob": 0.8005857467651367,
+    "min_prob": 0.2106548249721527,
+    "sds": 1.2510509490966797,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 43,
+    "ds_index": 4571,
+    "question": "Who was born first, Marino Girolami or Daniel Myrick?",
+    "gold_answer": "Marino Girolami",
+    "context": [
+      "Marino Girolami (1 February 1914 \u2013 20 February 1994) was an Italian film director who gained a cult following for his horror movies like \"Zombie Holocaust\".  He was the father of the Italian filmmaker Enzo G. Castellari and the actor Ennio Girolami."
+    ],
+    "generated_answer": "Marino Girolami was born first, on 1 February 1914. Daniel Myrick's birthdate is not provided in the context, but he was born in 1961.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.676963210105896,
+    "mean_prob": 0.7301641702651978,
+    "min_prob": 0.01145263947546482,
+    "sds": 0.9962587356567383,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 44,
+    "ds_index": 4006,
+    "question": "David Thewlis had a performance in the film Macbeth as which father of Malcolm and Donalbain?",
+    "gold_answer": "King Duncan",
+    "context": [
+      "Donalbain is a character in William Shakespeare's \"Macbeth\" (c. 1603\u20131607).  He is the younger son of King Duncan and brother to Malcolm, the heir to the throne.  Donalbain flees to Ireland after the murder of his father for refuge."
+    ],
+    "generated_answer": "David Thewlis played the role of Macduff in the 2015 film adaptation of Macbeth, not a father to Malcolm and Donalbain. However, the role of King Duncan, the father of Malcolm and Donalbain, was played by Anthony Hopkins in the 2015 film adaptation of Macbeth.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4163446426391602,
+    "mean_prob": 0.7900058627128601,
+    "min_prob": 0.03189503028988838,
+    "sds": 0.6871199607849121,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 45,
+    "ds_index": 2617,
+    "question": "What classical music written by a Russian composer did Sia heavily sample?",
+    "gold_answer": "Montagues and Capulets",
+    "context": [
+      "The following is a list of compositions by Russian composer Mily Balakirev.  All are for solo piano unless otherwise indicated."
+    ],
+    "generated_answer": "I couldn't find any information on Sia sampling a composition by Mily Balakirev.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4455769062042236,
+    "mean_prob": 0.744362473487854,
+    "min_prob": 0.2952146530151367,
+    "sds": 0.9803150296211243,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 46,
+    "ds_index": 5032,
+    "question": "What is the legal name of Johnny Campbell's hometown?",
+    "gold_answer": "Londonderry",
+    "context": [
+      "David Joseph Campbell (born 6 August 1973, Adelaide, South Australia) is an Australian singer, stage performer and television presenter.  He has performed and recorded many different genres of music from rock to classics.  He is the son of rock and soul singer Jimmy Barnes."
+    ],
+    "generated_answer": "I can't verify the legal name of Johnny Campbell's hometown.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.696353793144226,
+    "mean_prob": 0.6561113595962524,
+    "min_prob": 0.19801642000675201,
+    "sds": 0.9746898412704468,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 47,
+    "ds_index": 5266,
+    "question": "In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?",
+    "gold_answer": "1945",
+    "context": [
+      "The 1998 South Carolina Gamecocks football team represented the University of South Carolina in the Southeastern Conference (SEC) during the 1998 NCAA Division I-A football season.  The Gamecocks were led by head coach Brad Scott and played their home games in Williams-Brice Stadium in Columbia, South Carolina.  Scott was fired following the end of the season, but was quickly hired as an assistant coach by Clemson.  Lou Holtz was subsequently hired as South Carolina's new head coach."
+    ],
+    "generated_answer": "The question contains a contradiction, as the context provided is about the 1998 South Carolina Gamecocks football team, not the 2007 team. However, based on the information given, the coach who was hired as South Carolina's new head coach after the 1998 season was Lou Holtz.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6773804426193237,
+    "mean_prob": 0.7035428285598755,
+    "min_prob": 0.07381300628185272,
+    "sds": 0.6710226535797119,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 48,
+    "ds_index": 6108,
+    "question": "What  profession did Mike Robbie's father practice?",
+    "gold_answer": "an American attorney",
+    "context": [
+      "Mike Robbie ( Born April 5, 1943 ), is a former General Manager of the Miami Dolphins and the son of the late Joe Robbie, former owner of the team."
+    ],
+    "generated_answer": "Mike Robbie's father, Joe Robbie, was a businessman and the owner of the Miami Dolphins.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3719277381896973,
+    "mean_prob": 0.8095877170562744,
+    "min_prob": 0.0789421871304512,
+    "sds": 0.4222123324871063,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 49,
+    "ds_index": 4377,
+    "question": "The Zapruder film shows President John F. Kennedy's motorcade as it passed through a plaza that was named aNational Historic Landmark in what year? ",
+    "gold_answer": "1993",
+    "context": [
+      "Clearly seen in the Zapruder film at the start of the assassination wearing a white, hooded coat and a red skirt, while she trotted in the Dealey Plaza grass located to the presidential limousine's left, she runs southwestward and parallel with the limousine, which she faces for a short time when the limousine is to her direct right."
+    ],
+    "generated_answer": "The Dealey Plaza was designated as a National Historic Landmark in 1993.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2379721403121948,
+    "mean_prob": 0.8359484076499939,
+    "min_prob": 0.46774688363075256,
+    "sds": 1.25423264503479,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 50,
+    "ds_index": 2685,
+    "question": "What's the common ingredient to a Gimlet and Pink Gin?",
+    "gold_answer": "Plymouth Gin",
+    "context": [
+      "The gimlet (pronounced with a hard 'g') is a cocktail made of gin and lime juice.  A 1928 description of the drink was: \"gin, a spot of lime, and soda\".  The description in the 1953 Raymond Chandler novel \"The Long Goodbye\" stated that \"a real gimlet is half gin and half Rose's lime juice and nothing else\".  This is in line with the proportions suggested by \"The Savoy Cocktail Book\" (1930) which specifies one half Plymouth Gin and one half Rose's Lime Juice Cordial.  However, modern tastes are less sweet, and generally provide for at least two parts gin to one part of the lime and other non alcoholic elements (see recipes below)."
+    ],
+    "generated_answer": "Gin is the common ingredient to a Gimlet and Pink Gin.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.1927502155303955,
+    "mean_prob": 0.8689307570457458,
+    "min_prob": 0.32924824953079224,
+    "sds": 0.8071677684783936,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 51,
+    "ds_index": 1225,
+    "question": "What type of structure does 277 Park Avenue and 126 Madison Avenue have in common?",
+    "gold_answer": "building",
+    "context": [
+      "277 Park Avenue is an office building in the Midtown Manhattan neighborhood of New York City.  It stands on the east side of Park Avenue between East 47th and 48th Streets; it is 687 ft tall, with 50 floors."
+    ],
+    "generated_answer": "277 Park Avenue and 126 Madison Avenue are both office buildings in Midtown Manhattan.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4546420574188232,
+    "mean_prob": 0.7752600312232971,
+    "min_prob": 0.1729753613471985,
+    "sds": 0.5728156566619873,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 52,
+    "ds_index": 784,
+    "question": "What literary style describes the 1968 book that features a 1939 international Harvester school bus?",
+    "gold_answer": "the growing literary style called New Journalism",
+    "context": [
+      "\"That Bus Is Another World\" is a horror short story written by Stephen King and first published in the August 2014 edition of \"Esquire\".  It was later collected in his 2015 short story collection \"The Bazaar of Bad Dreams\"."
+    ],
+    "generated_answer": "The literary style that describes the 1968 book featuring a 1939 International Harvester school bus is likely Magical Realism, but more specifically, it is likely a work of Horror or a blend of Horror and Magical Realism.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.8837604522705078,
+    "mean_prob": 0.6500164866447449,
+    "min_prob": 0.013858512043952942,
+    "sds": 0.9190323352813721,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 53,
+    "ds_index": 624,
+    "question": "Who was born first, Samantha Cristoforetti or Jean-Loup Chr\u00e9tien",
+    "gold_answer": "Jean-Loup Jacques Marie Chr\u00e9tien",
+    "context": [
+      "George Peter John Criscuola was born in Brooklyn, New York, the oldest of five children of Loretta and Joseph Criscuola.  His father's family came from Scafati, Salerno, Italy.  He grew up in the Williamsburg section of Brooklyn.  He was a childhood friend of Jerry Nolan, who would later find success as the drummer for the New York Dolls."
+    ],
+    "generated_answer": "I'm not able to find information on the birth order of Samantha Cristoforetti and Jean-Loup Chr\u00e9tien.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.7025048732757568,
+    "mean_prob": 0.7046510577201843,
+    "min_prob": 0.04277438670396805,
+    "sds": 1.05857253074646,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 54,
+    "ds_index": 6137,
+    "question": "What novel about a murderer inspired Till Lindemann's music?",
+    "gold_answer": "Perfume",
+    "context": [
+      "Program music or programme music is a type of art music that attempts to musically render an extra-musical narrative.  The narrative itself might be offered to the audience in the form of program notes, inviting imaginative correlations with the music.  A classic example is Hector Berlioz's \"Symphonie fantastique\", which relates a drug-induced series of morbid fantasies concerning the unrequited love of a sensitive poet involving murder, execution, and the torments of Hell.  The genre culminates in the symphonic works of Richard Strauss that include narrations of the adventures of \"Don Quixote\", \"TillEulenspiegel\", the composer's domestic life, and an interpretation of Nietzsche's philosophy of the Superman.  Following Strauss, the genre declined and new works with explicitly narrative content are rare.  Nevertheless the genre continues to exert an influence on film music, especially where this draws upon the techniques of late romantic music."
+    ],
+    "generated_answer": "The novel that inspired Richard Strauss's \"Till Eulenspiegel\" is not directly related to a specific novel about a murderer. However, the character of Till Eulenspiegel is based on a medieval German folk hero and trickster figure from a series of stories by the German poet and novelist Till Eulenspiegel, but the character is not a murderer.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.9626545906066895,
+    "mean_prob": 0.6153512597084045,
+    "min_prob": 0.0722699910402298,
+    "sds": 1.003692865371704,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 55,
+    "ds_index": 6807,
+    "question": "Which magazine was first published earlier, The Chronicle of Philanthropy or Skeptic?",
+    "gold_answer": "The Chronicle of Philanthropy",
+    "context": [
+      "Philanthropy is a quarterly magazine published by the Philanthropy Roundtable.  First published as a newsletter in 1987, \"Philanthropy\" became a glossy magazine in 1996.  The magazine's primary focus is philanthropy, with a special interest in donor intent and philanthropic freedom.  The magazine is headquartered in Washington, D.C."
+    ],
+    "generated_answer": "There is no information provided about \"The Chronicle of Philanthropy\" or \"Skeptic\" in the context.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.441418170928955,
+    "mean_prob": 0.7771546244621277,
+    "min_prob": 0.08158829808235168,
+    "sds": 0.967892050743103,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 56,
+    "ds_index": 4274,
+    "question": "What car did the German rally driver, who won victories for Fiat, Opel, Lancia, and Audi drive?",
+    "gold_answer": "The Lancia Rally",
+    "context": [
+      "Opel Rally Team was an auto racing team by German car manufacturer Opel.  It competed at the World Rally Championship from 1982 to 1990.  Walter R\u00f6hrl won the drivers championship in 1982 with Opel."
+    ],
+    "generated_answer": "The German rally driver who won victories for Fiat, Opel, Lancia, and Audi is Walter R\u00f6hrl.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.1160573959350586,
+    "mean_prob": 0.9173650741577148,
+    "min_prob": 0.3979129493236542,
+    "sds": 0.7076603770256042,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 57,
+    "ds_index": 6494,
+    "question": "William Bromley-Davenport held political office under the Prime Minister who was of which party?",
+    "gold_answer": "Conservative",
+    "context": [
+      "Arthur Henry Bromley-Davenport (29 October 1867 \u2013 15 December 1946), better known as A. Bromley Davenport, was an English actor born in Baginton, Warwickshire, England, UK."
+    ],
+    "generated_answer": "I couldn't find any information about a William Bromley-Davenport holding political office. However, I can tell you that A. Bromley Davenport, the actor, was born into the Bromley-Davenport family, who were a prominent family in England.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6888525485992432,
+    "mean_prob": 0.663753092288971,
+    "min_prob": 0.16188934445381165,
+    "sds": 0.6455261707305908,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 58,
+    "ds_index": 387,
+    "question": "Dead but Rising was a song by the Danish band fomed in what city in 2001?",
+    "gold_answer": "Copenhagen",
+    "context": [
+      "F.O.D. is a Belgian punk rock band known for its catchy melodies.  A reviewer on \"Disagreement.net\", an established music e-zine from Luxembourg, writes that while F.O.D. doesn't reinvent punk rock, the band 'distinguishes itself from the competition because of the incredible vocal harmonies'.  Dutch independent record label Suburban Records refers to the band as a 'household name in the Belgian punk rock scene', with a 'great live reputation'."
+    ],
+    "generated_answer": "Unfortunately, the provided context does not mention the Danish band \"Dead but Rising\" or its formation city.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6024216413497925,
+    "mean_prob": 0.6768693923950195,
+    "min_prob": 0.2157844752073288,
+    "sds": 1.1254143714904785,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 59,
+    "ds_index": 6561,
+    "question": "What is the name of the director from a country which has only one-tenth of its historical boundaries?",
+    "gold_answer": "Serhiy Paradzhanov",
+    "context": [
+      "This is a list of Directors, appointed by the Dutch West India Company, of the 17th century Dutch province of New Netherland (\"Nieuw-Nederland\" in Dutch) in North America.  Only the last, Peter Stuyvesant, held the title of Director General.  As the colony grew, citizens advisory boards - known as the Twelve Men, Eight Men, and Nine Men - exerted more influence on the director and thus affairs of province."
+    ],
+    "generated_answer": "The director from a country with only one-tenth of its historical boundaries is Peter Stuyvesant, who was the Director General of New Netherland. The country is the Netherlands, which has lost territory over the centuries, leaving it with only one-tenth of its original historical boundaries.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.7667347192764282,
+    "mean_prob": 0.6786169409751892,
+    "min_prob": 0.032957904040813446,
+    "sds": 0.7235453128814697,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 60,
+    "ds_index": 861,
+    "question": "The Black Belly of the Tarantula starred an actress who married what former member of the Beatles?",
+    "gold_answer": "Ringo Starr",
+    "context": [
+      "Astrid Kirchherr (born 20 May 1938) is a German photographer and artist and is well known for her association with the Beatles (along with her friends Klaus Voormann and J\u00fcrgen Vollmer), and her photographs of the band's original members \u2013 John Lennon, Paul McCartney, George Harrison, Stuart Sutcliffe and Pete Best \u2013 during their early days in Hamburg."
+    ],
+    "generated_answer": "The Black Belly of the Tarantula starred Daniela Igliozzi, who married Klaus Voormann, a friend and photographer of the Beatles.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.8726177215576172,
+    "mean_prob": 0.6397583484649658,
+    "min_prob": 0.062248893082141876,
+    "sds": 1.0106943845748901,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 61,
+    "ds_index": 4220,
+    "question": "Blues to the Bush is an album by The Who that can still be found on what e-commerce platform that was founded in 1995?",
+    "gold_answer": "eBay Inc.",
+    "context": [
+      "Blues to the Bush is a live album by The Who recorded at the House of Blues in Chicago on 12 and 13 November 1999, and at the Empire Theatre, Shepherd's Bush on 22 and 23 December 1999.  It was sold exclusively from the now defunct MusicMaker.com, though it can still be found on torrent sites and second hand markets such as EBay."
+    ],
+    "generated_answer": "Blues to the Bush is an album by The Who that can still be found on eBay.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5017225742340088,
+    "mean_prob": 0.857506513595581,
+    "min_prob": 0.0035503203980624676,
+    "sds": 0.5358262658119202,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 62,
+    "ds_index": 7022,
+    "question": "\"Up There Down There\" is a rock song written by an american guitarist who married a fellow rock musician by the name of what?",
+    "gold_answer": "Patti Smith",
+    "context": [
+      "\"Up There Down There\" is a rock song written by Patti Smith and Fred \"Sonic\" Smith.  It was released as the third single from Patti Smith's 1988 album \"Dream of Life\"."
+    ],
+    "generated_answer": "\"Up There Down There\" is a rock song written by Patti Smith and her husband, Fred \"Sonic\" Smith.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2806766033172607,
+    "mean_prob": 0.8809038400650024,
+    "min_prob": 0.020749693736433983,
+    "sds": 0.38174691796302795,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 63,
+    "ds_index": 3891,
+    "question": "Which Oxford University graduate did Midge Mackenzie interview in \"Women Talking\"?",
+    "gold_answer": "Kate Millett",
+    "context": [
+      "Susan Brison is Professor of Philosophy and Eunice and Julian Cohen Professor for the Study of Ethics and Human Values at Dartmouth College, where she also teaches in the Program in Women's, Gender, and Sexuality Studies.  For the 2016-17 academic year, she is the Laurance S. Rockefeller Visiting Professor for Distinguished Teaching at Princeton University.  She has also held visiting appointments at New York University, Tufts University, and Princeton University.  Brison's work has succeeded in increasing the amount of attention that philosophy, as a field, pays to issues of rape and domestic violence."
+    ],
+    "generated_answer": "There is no information in the provided context about Midge Mackenzie interviewing an Oxford University graduate in \"Women Talking\".",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.353360652923584,
+    "mean_prob": 0.7861749529838562,
+    "min_prob": 0.27477651834487915,
+    "sds": 1.0846145153045654,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 64,
+    "ds_index": 789,
+    "question": "What is the name of the daughter of the Irish entertainer in the girl band Maxi, Dick and Twink?",
+    "gold_answer": "Chlo\u00eb Alexandra Adele Emily Agnew",
+    "context": [
+      "Samantha Juste (born Sandra Slater; 31 May 1944 \u2013 5 February 2014) became known on British television in the mid-1960s as the \"disc girl\" on the BBC\u2019s \"Top of the Pops\".  In 1968 she married Micky Dolenz of the Monkees.  Their daughter is actress Ami Dolenz."
+    ],
+    "generated_answer": "I don't have information about the daughter of the Irish entertainer in the girl band Maxi, Dick and Twink.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4036575555801392,
+    "mean_prob": 0.7766140699386597,
+    "min_prob": 0.12342624366283417,
+    "sds": 1.005294680595398,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 65,
+    "ds_index": 3842,
+    "question": "Which composer was born later, Gaetano Donizetti or William Walton?",
+    "gold_answer": "William Turner Walton",
+    "context": [
+      "This is a list of the operas by the Italian composer Gaetano Donizetti (1797\u20131848)."
+    ],
+    "generated_answer": "Gaetano Donizetti was born in 1797, while William Walton was born in 1902, making William Walton the composer who was born later.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4136641025543213,
+    "mean_prob": 0.8339225053787231,
+    "min_prob": 0.02001112326979637,
+    "sds": 0.931495726108551,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 66,
+    "ds_index": 5669,
+    "question": "Were Dee Dee Ramone and Ben Weasel ever in the same band?",
+    "gold_answer": "no",
+    "context": [
+      "Douglas Glenn Colvin (September 18, 1951 \u2013 June 5, 2002), known professionally as Dee Dee Ramone, was a German-American musician, singer and songwriter best known as founding member, songwriter, bassist and occasional lead vocalist for the punk rock band the Ramones."
+    ],
+    "generated_answer": "There is no information available that suggests Dee Dee Ramone and Ben Weasel were in the same band.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3932749032974243,
+    "mean_prob": 0.7880288362503052,
+    "min_prob": 0.18500441312789917,
+    "sds": 0.8428529500961304,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 67,
+    "ds_index": 537,
+    "question": "Jack Alfred Evans played with a football club team that is based in what city in Australia?",
+    "gold_answer": "Melbourne",
+    "context": [
+      "Jack Evans (28 March 1891 \u2013 22 October 1966) was an Australian rules footballer who played with Melbourne in the Victorian Football League (VFL).  Evans' football career was interrupted by serving in World War I.  He served in the Army and was a sergeant when awarded the Military Medal in 1918."
+    ],
+    "generated_answer": "Jack Evans played with Melbourne in the Victorian Football League (VFL), which is based in Melbourne, the capital city of Victoria, Australia.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4866633415222168,
+    "mean_prob": 0.7927057147026062,
+    "min_prob": 0.00693353870883584,
+    "sds": 0.5188989043235779,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 68,
+    "ds_index": 1319,
+    "question": "Which city is the home of the character that might be based on John Capozzi?",
+    "gold_answer": "Baltimore",
+    "context": [
+      "Capatch was born in York, Pennsylvania to Jean and Harold Capatch.  He grew up in the small town of Dallastown, Pennsylvania where his father owned and operated a barber shop.  He is a 1983 graduate of Dallastown Area High School.  After high school he attended York College of Pennsylvania.  He began his stand-up career in Baltimore, Maryland at the Charm City comedy club."
+    ],
+    "generated_answer": "The character might be based on John Capozzi, but the text actually refers to John Capatch. However, based on the information provided, the city associated with John Capatch's early stand-up career is Baltimore, Maryland.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.646016001701355,
+    "mean_prob": 0.675665557384491,
+    "min_prob": 0.2638187110424042,
+    "sds": 0.9147902131080627,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 69,
+    "ds_index": 4356,
+    "question": "Where is the American hip hop group, that released the song \"RedEye to Paris\", from?",
+    "gold_answer": "Flatbush section of Brooklyn, New York City",
+    "context": [
+      "On the Track is debut album from Leon Redbone, released on Warner Bros.  Records in 1975 and reissued on CD in 1988.  It peaked at #87 on the \"Billboard\" Pop Albums charts."
+    ],
+    "generated_answer": "I'm not aware of any information about an American hip hop group releasing a song called \"RedEye to Paris\".",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3406345844268799,
+    "mean_prob": 0.7937677502632141,
+    "min_prob": 0.19857078790664673,
+    "sds": 1.021618366241455,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 70,
+    "ds_index": 3491,
+    "question": "What organization does Sandra Pizzarello and Doctorate have in common?",
+    "gold_answer": "University",
+    "context": [
+      "Shirley M. Collado is a psychology professor and president of Ithaca College."
+    ],
+    "generated_answer": "I couldn't find any information about Sandra Pizzarello.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.407102108001709,
+    "mean_prob": 0.771340012550354,
+    "min_prob": 0.2753317654132843,
+    "sds": 1.1289769411087036,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 71,
+    "ds_index": 5110,
+    "question": "What novel imagines the true story of a character based on a novel by Mark Twain first published in 1884?",
+    "gold_answer": "Shohola Falls",
+    "context": [
+      "Samuel Langhorne Clemens (November 30, 1835 \u2013 April 21, 1910), better known by his pen name Mark Twain, was an American writer, humorist, entrepreneur, publisher, and lecturer.  Among his novels are \"The Adventures of Tom Sawyer\" (1876) and its sequel, the \"Adventures of Huckleberry Finn\" (1885), the latter often called \"The Great American Novel\"."
+    ],
+    "generated_answer": "The novel \"The Adventures of Tom Sawyer\" was first published in 1876, not 1884. However, I believe you are referring to \"The Adventures of Huckleberry Finn\", which was first published in 1885.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4510267972946167,
+    "mean_prob": 0.7420902252197266,
+    "min_prob": 0.2493596076965332,
+    "sds": 0.7165593504905701,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 72,
+    "ds_index": 6654,
+    "question": "Which guitar brand was endorsed by the band centered by Ann and Nancy Wilson?",
+    "gold_answer": "Kramer Guitars",
+    "context": [
+      "Guitar Player is an American popular magazine for guitarists, founded in 1967 in San Jose, California, United States.  It contains articles, interviews, reviews and lessons of an eclectic collection of artists, genres and products.  It has been in print since late 1967.  The magazine is currently edited by Michael Molenda.  \"Guitar Player\" is a part of the Music Player Network."
+    ],
+    "generated_answer": "Heart, the band centered by Ann and Nancy Wilson, was endorsed by Fender guitars.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4319331645965576,
+    "mean_prob": 0.7743901610374451,
+    "min_prob": 0.13187475502490997,
+    "sds": 1.0720800161361694,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 73,
+    "ds_index": 4385,
+    "question": "The Church of St Peter in Pertenhall, Bedfordshire, England was added to this register on 13 July 1964.",
+    "gold_answer": "Statutory List of Buildings of Special Architectural or Historic Interest",
+    "context": [
+      "St Peter's Church is in the village of Quernmore, Lancashire, England.  It is an active Anglican parish church in the deanery of Lancaster and Morecambe, the archdeaconry of Lancaster, and the diocese of Blackburn.  Its benefice is united with those of St Mark, Dolphinholme, and Christ Church, Over Wyresdale.  The church is recorded in the National Heritage List for England as a designated Grade\u00a0II listed building.  It stands in a relatively isolated position about 1 mi to the north of the village and 2.5 mi to the east of the city of Lancaster."
+    ],
+    "generated_answer": "There is no information provided about the Church of St Peter in Pertenhall, Bedfordshire, England being added to a register.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3812631368637085,
+    "mean_prob": 0.7914391756057739,
+    "min_prob": 0.2004680037498474,
+    "sds": 0.9080935120582581,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 74,
+    "ds_index": 2293,
+    "question": "What is the birthdate of this King of Italy, claiming thrones of Ethiopia and Albania and father of Princess Yolanda of Savoy?",
+    "gold_answer": "11 November 1869",
+    "context": [
+      "Princess Yolanda of Savoy (1 June 1901 \u2013 16 October 1986) was the eldest daughter of King Victor Emmanuel III of Italy and his wife Queen Elena of Montenegro, and the sister of Umberto II, the last king of Italy."
+    ],
+    "generated_answer": "King Victor Emmanuel III of Italy was born on November 11, 1869. He was the father of Princess Yolanda of Savoy.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3851629495620728,
+    "mean_prob": 0.8099591732025146,
+    "min_prob": 0.09352709352970123,
+    "sds": 0.7348271608352661,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 75,
+    "ds_index": 196,
+    "question": "What director worked with Vikram Bhatt on a film starring actors Rajneesh Duggal and Adah Sharma?",
+    "gold_answer": "Tinu Suresh Desai",
+    "context": [
+      "Vikramadithyan is a 2014 Malayalam coming of age drama film co-produced and directed by Lal Jose.  The film stars Dulquer Salmaan, Unni Mukundan and Namitha Pramod in the lead roles, while Anoop Menon, Lena, Santhosh Keezhatoor and Joy Mathew appear in supporting roles and Nivin Pauly appears in a guest role.  The screenplay is by Iqbal Kuttippuram, while Jomon T. John handles the cinematography.  The music is composed by Bijibal.  The film was released on 25 July 2014."
+    ],
+    "generated_answer": "There is no information provided that suggests Vikramadithyan is related to Vikram Bhatt. Vikram Bhatt is a different film director.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.7086591720581055,
+    "mean_prob": 0.6755275726318359,
+    "min_prob": 0.20358945429325104,
+    "sds": 0.8259961605072021,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 76,
+    "ds_index": 6703,
+    "question": "Which restaurant was founded first, Papa Murphy's or Gino's Pizza and Spaghetti?",
+    "gold_answer": "Gino's Pizza and Spaghetti",
+    "context": [
+      "Papa Murphy's, a business based in Vancouver, Washington, United States, is a take-and-bake pizza company.  It began in 1995 as the merger of two take-and-bake pizza companies: Papa Aldo's Pizza (founded in 1981) and Murphy's Pizza (founded in 1981).  The company and its franchisees operate more than 1,300 outlets in the United States and Canada.  Papa Murphy's is the fifth-largest pizza chain in the United States."
+    ],
+    "generated_answer": "There is no information about Gino's Pizza and Spaghetti in the provided context, so it's impossible to determine which restaurant was founded first.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5167542695999146,
+    "mean_prob": 0.7554194927215576,
+    "min_prob": 0.10875740647315979,
+    "sds": 1.0227253437042236,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 77,
+    "ds_index": 2020,
+    "question": "What mine was operated by Royal Oak Mines at at earlier date, Kemess Mine or Colomac Mine?",
+    "gold_answer": "The Colomac Mine",
+    "context": [
+      "The Colomac Mine was a privately owned and operated open pit gold mine located 220\u00a0km northwest of Yellowknife in the Northwest Territories in Canada .  The Colomac mine operated between 1990\u20131992, and 1994\u20131997.  It was operated by Neptune Resources Limited that had little success in making a profit during its operation.  In 1994, the mine had reopened under Royal Oak Mines Inc.  Both Neptune Resources and Royal Oak Mines where both owned and operated by Peggy Witte.  Due to low gold prices and high cost of mining, Royal Oak Mines was forced into bankruptcy.  The Federal Government of Canada became owners of the mine, along with the related environmental issues.  A major cleanup effort is under way to prevent the mine from polluting the environment, but this might be too late at this stage.  This mine is now owned and controlled by the Indigenous and Northern Affairs department of the Federal government, while Public Works and Government services is the current contracting authority."
+    ],
+    "generated_answer": "The Colomac Mine was operated by Royal Oak Mines at an earlier date.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2777469158172607,
+    "mean_prob": 0.8331941366195679,
+    "min_prob": 0.2967541813850403,
+    "sds": 0.7122894525527954,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 78,
+    "ds_index": 1536,
+    "question": "What technique does Cam Clarke and Akira have in common?",
+    "gold_answer": "animation",
+    "context": [
+      "Kurosawa's Way (French: Kurosawa, la voie ) is a 2011 French documentary directed and written by Catherine Cadou.  The film features 11 major filmmakers from Asia, America and Europe as they discuss how the films of Japanese director Akira Kurosawa influenced them."
+    ],
+    "generated_answer": "I couldn't find any information about a person named Cam Clarke being featured in the documentary \"Kurosawa's Way.\" However, I found information about a person named Cam Clarke, an American voice actor, but no information about him being featured in the documentary.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.7801839113235474,
+    "mean_prob": 0.6392657160758972,
+    "min_prob": 0.15612351894378662,
+    "sds": 0.8807907104492188,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 79,
+    "ds_index": 6964,
+    "question": "When was the British economic historian who established \"The Economic History Review\" born? ",
+    "gold_answer": "9 January 18898",
+    "context": [
+      "The Economic History Review is a peer-reviewed history journal published quarterly by Wiley-Blackwell on behalf of the Economic History Society.  It was established in 1927 by Eileen Power and is edited by Phillipp Schofield, Sara Horrell, and Jaime Reis.  Its first editors were E. Lipson and R. H. Tawney and other previous editors include M. M. Postan, H. J. Habbakuk, Max Hartwell (1960\u201368), Christopher Dyer and Jane Humphries."
+    ],
+    "generated_answer": "Unfortunately, the context does not provide the birth date of Eileen Power, the founder of \"The Economic History Review\".",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5491396188735962,
+    "mean_prob": 0.7036073207855225,
+    "min_prob": 0.22198116779327393,
+    "sds": 0.8929819464683533,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 80,
+    "ds_index": 7331,
+    "question": "Which South African anti-apartheid archbishop was part of the actions against the ruling National Party government?",
+    "gold_answer": "Desmond Mpilo Tutu",
+    "context": [
+      "Desmond Mpilo Tutu {'1': \", '2': \", '3': 'OMSG CH GCStJ', '4': \"} (born 7 October 1931) is a South African anti-apartheid and social rights activist and Anglican bishop.  He was the first black Archbishop of Cape Town and bishop of the Church of the Province of Southern Africa (now the Anglican Church of Southern Africa)."
+    ],
+    "generated_answer": "Desmond Mpilo Tutu was a South African anti-apartheid and social rights activist and Anglican bishop who was part of the actions against the ruling National Party government.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.1642146110534668,
+    "mean_prob": 0.9017831087112427,
+    "min_prob": 0.19720055162906647,
+    "sds": 0.48088857531547546,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 81,
+    "ds_index": 5897,
+    "question": "What US city between New York and Quebec Canada was the most effected during the Taconic orogeny?",
+    "gold_answer": "New England",
+    "context": [
+      "The Taconic orogeny was a mountain building period that ended 440 million years ago and affected most of modern-day New England.  A great mountain chain formed from eastern Canada down through what is now the Piedmont off the East coast of the United States.  As the mountain chain eroded in the Silurian and Devonian periods, sediments from the mountain chain spread throughout the present-day Appalachians and midcontinental North America."
+    ],
+    "generated_answer": "The Taconic orogeny primarily affected the eastern part of North America, including the area now occupied by modern-day New England. Cities in this region, such as Albany, New York, were significantly impacted by the mountain building event.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.9687740802764893,
+    "mean_prob": 0.6381134986877441,
+    "min_prob": 0.003124609123915434,
+    "sds": 0.6726651787757874,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 82,
+    "ds_index": 2565,
+    "question": "What band in the \"Art Wave\" scene is based in Glasgow?",
+    "gold_answer": "Franz Ferdinand",
+    "context": [
+      "1990s were an indie rock three-piece band from Glasgow, Scotland."
+    ],
+    "generated_answer": "I couldn't find any information about a band called \"1990s\" being part of the \"Art Wave\" scene. However, I found that the band \"1990s\" is indeed from Glasgow, Scotland, and they are associated with the \"Art Wave\" scene.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5781365633010864,
+    "mean_prob": 0.6955168843269348,
+    "min_prob": 0.14561288058757782,
+    "sds": 0.8077978491783142,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 83,
+    "ds_index": 599,
+    "question": "When was the American actor, film director which  Dana Brunetti is the president of his company born ",
+    "gold_answer": "July 26, 1959",
+    "context": [
+      "Dana Brunetti (born June 11, 1973) is an American film producer and social networking entrepreneur.  He is the president of Kevin Spacey's production company, Trigger Street Productions.  In 2016, he became the president of Relativity Media with Kevin Spacey taking on a chairman position."
+    ],
+    "generated_answer": "Dana Brunetti is the president of Kevin Spacey's production company, Trigger Street Productions. Kevin Spacey was born on July 26, 1959.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2702821493148804,
+    "mean_prob": 0.8963441848754883,
+    "min_prob": 0.022543909028172493,
+    "sds": 0.5020450949668884,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 84,
+    "ds_index": 269,
+    "question": "Which composer created Night Ferry first performed in 2012 at Symphony Center in Chicago?",
+    "gold_answer": "Anna Clyne",
+    "context": [
+      "Night music is a musical style of the Hungarian composer B\u00e9la Bart\u00f3k which he used mostly in slow movements of multi-movement ensemble or orchestra compositions in his mature period.  It is characterized by \"eerie dissonances providing a backdrop to sounds of nature and lonely melodies.\""
+    ],
+    "generated_answer": "I couldn't find any information about a work called \"Night Ferry\" by B\u00e9la Bart\u00f3k.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.5148382186889648,
+    "mean_prob": 0.7522974610328674,
+    "min_prob": 0.1360374242067337,
+    "sds": 0.9199957251548767,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 85,
+    "ds_index": 1326,
+    "question": "What is the occupation of the father of the actor that plays Will Graham on teh series \"Hannibal\"?",
+    "gold_answer": "Philosophy professor",
+    "context": [
+      "Hannibal is an American psychological thriller\u2013horror television series developed by Bryan Fuller for NBC.  The series is based on characters and elements appearing in Thomas Harris' novels \"Red Dragon\" and \"Hannibal\", with focus on the relationship between FBI special investigator Will Graham (Hugh Dancy) and Dr. Hannibal Lecter (Mads Mikkelsen), a forensic psychiatrist destined to become Graham's most cunning enemy."
+    ],
+    "generated_answer": "The actor who plays Will Graham in the series \"Hannibal\" is Hugh Dancy. Hugh Dancy's father, Jonathan Dancy, is a British actor.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3753620386123657,
+    "mean_prob": 0.8148988485336304,
+    "min_prob": 0.06163620203733444,
+    "sds": 0.732591986656189,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 86,
+    "ds_index": 927,
+    "question": "Electronic Attack Squadron 138 is a type of which American carrier-based electronic warfare aircraft, a specialized version of the two-seat F/A-18F Super Hornet?",
+    "gold_answer": "Boeing EA-18G Growler",
+    "context": [
+      "Electronic Attack Squadron 209 (VAQ-209) is a United States Navy Reserve electronic attack squadron.  Known as the \"Star Warriors\", the squadron flies the EA-18G Growler carrier-based electronic warfare jet aircraft.  Based at Naval Air Station Whidbey Island, WA, it is assigned to the Tactical Support Wing."
+    ],
+    "generated_answer": "Electronic Attack Squadron 138 is a type of EA-6B Prowler, a specialized electronic warfare aircraft.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.7338815927505493,
+    "mean_prob": 0.7237321734428406,
+    "min_prob": 0.00996590405702591,
+    "sds": 0.8330425024032593,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 87,
+    "ds_index": 7072,
+    "question": "Who directed the film Leigha Kayleen Hancock is best known for?",
+    "gold_answer": "Gary Ross",
+    "context": [
+      "Leigha Kayleen Hancock (born June 7, 1986) is an American stunt actress best known for her role as the District 7 female tribute in \"The Hunger Games\"."
+    ],
+    "generated_answer": "Leigha Kayleen Hancock is best known for her role in \"The Hunger Games\", which was directed by Gary Ross.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.8470267057418823,
+    "mean_prob": 0.824934184551239,
+    "min_prob": 4.378760058898479e-05,
+    "sds": 0.5207066535949707,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 88,
+    "ds_index": 7186,
+    "question": "Which tropical storm has been present in the Central Pacific Ocean but not in the western north Pacific Ocean?",
+    "gold_answer": "Ana",
+    "context": [
+      "A Pacific hurricane is a mature tropical cyclone that develops within the eastern and central Pacific Ocean to the east of 180\u00b0W, north of the equator.  For tropical cyclone warning purposes, the northern Pacific is divided into three regions: the eastern (North America to 140\u00b0W), central (140\u00b0W to 180\u00b0), and western (180\u00b0 to 100\u00b0E), while the southern Pacific is divided into 2 sections, the Australian region (90E to 160\u00b0E), the southern Pacific basin between (160\u00b0E to 120\u00b0W).  Identical phenomena in the western north Pacific are called typhoons.  This separation between the two basins has a practical convenience, however, as tropical cyclones rarely form in the central north Pacific and few cross the dateline."
+    ],
+    "generated_answer": "A tropical storm present in the Central Pacific Ocean but not in the western north Pacific Ocean would be a hurricane.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.403059482574463,
+    "mean_prob": 0.8040270209312439,
+    "min_prob": 0.05393072962760925,
+    "sds": 0.695679247379303,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 89,
+    "ds_index": 7252,
+    "question": "Which song did Eminem and Rihanna collaborate on after their other collaboration song in studio album \"Unapologetic?\"",
+    "gold_answer": "The Monster",
+    "context": [
+      "Unapologetic is the seventh studio album by Barbadian singer Rihanna.  It was released on November 19, 2012, by Def Jam Recordings and SRP Records.  It was recorded between June and November 2012, during promotion of her sixth album, \"Talk That Talk\" (2011).  As executive producer, Rihanna enlisted previous collaborators The-Dream, David Guetta, Chase & Status, and StarGate to work alongside new collaborators such as Parker Ighile, Mike Will Made-It, and Labrinth.  \"Unapologetic\" is mainly a pop, dubstep and R&B album that incorporates elements of hip hop, EDM and reggae in its production, similar to the sound of her previous albums \"Talk That Talk\" and \"Rated R\" (2009)."
+    ],
+    "generated_answer": "There is no information in the provided context about Eminem collaborating with Rihanna on a song in the studio album \"Unapologetic.\"",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3321696519851685,
+    "mean_prob": 0.7891472578048706,
+    "min_prob": 0.3370878994464874,
+    "sds": 0.8861294984817505,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 90,
+    "ds_index": 6403,
+    "question": "What characteristics do Rosario Castellanos and Arthur Hailey  share?",
+    "gold_answer": "poet and author.",
+    "context": [
+      "Rosario Castellanos Figueroa (] ; 25 May 1925 \u2013 7 August 1974) was a Mexican poet and author.  Along with the other members of the Generation of 1950 (the poets who wrote following the Second World War, influenced by C\u00e9sar Vallejo and others), she was one of Mexico's most important literary voices in the last century.  Throughout her life, she wrote eloquently about issues of cultural and gender oppression, and her work has influenced feminist theory and cultural studies.  Though she died young, she opened the door of Mexican literature to women, and left a legacy that still resonates today."
+    ],
+    "generated_answer": "There is no information provided in the context about Arthur Hailey, so it is not possible to determine what characteristics they share.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6385886669158936,
+    "mean_prob": 0.6835439205169678,
+    "min_prob": 0.140603706240654,
+    "sds": 1.2930692434310913,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 91,
+    "ds_index": 1264,
+    "question": "\"Heropanti\" star Kriti Sanon appears in the remix video for a song from what Bollywood film?",
+    "gold_answer": "Agent Vinod",
+    "context": [
+      "Kriti Sanon (born 27July 1990) is an Indian model and film actress who appears in Hindi and Telugu films.  After beginning with modelling, she made her acting debut with Sukumar's Telugu psychological thriller film \"\".  Her first Bollywood film was Sabbir Khan's romantic action drama \"Heropanti\", for which she won the Filmfare Award for Best Female Debut.  In 2015, Sanon starred in the successful romantic action comedy \"Dilwale\"."
+    ],
+    "generated_answer": "Kriti Sanon appears in the remix video for a song from the Bollywood film \"Heropanti\" is not correct as the question is asking for a different film. However, the information about the film \"Heropanti\" is given in the context.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 2.0566062927246094,
+    "mean_prob": 0.6287078261375427,
+    "min_prob": 0.003820747369900346,
+    "sds": 0.8051758408546448,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 92,
+    "ds_index": 2928,
+    "question": "Chuck Berry House was where the 1957 hit single that reached what ranking on the R&B singles chart was composed?",
+    "gold_answer": "number 8",
+    "context": [
+      "Chuck Berry's Golden Hits is an studio album by Chuck Berry, released in 1967 by Mercury Records, his first for that label.  It consists of new recordings of songs he had recorded for Chess Records and one new song.  The re-recordings were performed with faster tempos and recorded in stereo.  While the rest of Berry's albums for Mercury rest in obscurity, \"Golden Hits\" is still available."
+    ],
+    "generated_answer": "The 1957 hit single \"Chuck Berry House\" is not mentioned in the context. However, it seems like you are referring to \"Johnny B. Goode\" or \"Chuck Berry House\" is not a song by Chuck Berry.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.9327210187911987,
+    "mean_prob": 0.6079432368278503,
+    "min_prob": 0.10076235979795456,
+    "sds": 0.9095800518989563,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 93,
+    "ds_index": 4504,
+    "question": "Which group of people in West Africa with significant populations in Ghana, Ivory Coast, Liberia and Sierra Leone use the Ida?",
+    "gold_answer": "The Yoruba",
+    "context": [
+      "Ivoirians in the United Kingdom or Ivorian British (French: \"Ivoiriens au Royaume-Uni\" ) are one of the country's smallest African immigrant groups, consisting of no more than 10,000 individuals.  The group includes people born in C\u00f4te d'Ivoire who have migrated to the United Kingdom, as well as their British-born descendants.  However typically speaking the group could also include British African-Caribbeans of C\u00f4te d'Ivoire origin as a result of the Atlantic slave trade."
+    ],
+    "generated_answer": "The group of people in West Africa with significant populations in Ghana, Ivory Coast, Liberia, and Sierra Leone who use the Ida language are the Mandinka people.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2412515878677368,
+    "mean_prob": 0.8436598181724548,
+    "min_prob": 0.24056848883628845,
+    "sds": 0.9841665029525757,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 94,
+    "ds_index": 3291,
+    "question": "The man who currently serves as the wide receivers coach for the Dallas Cowboys used to coach at what college?",
+    "gold_answer": "Louisiana Tech",
+    "context": [
+      "Jason Calvin Garrett (born March 28, 1966) is an American football head coach of the Dallas Cowboys of the National Football League (NFL).  Garrett was the offensive coordinator and assistant head coach of the Cowboys before being promoted to interim head coach after the firing of Wade Phillips on November 8, 2010.  He is a former professional American football quarterback in the National Football League for the Dallas Cowboys, New York Giants, Tampa Bay Buccaneers and Miami Dolphins.  He played college football at Princeton University."
+    ],
+    "generated_answer": "Jason Garrett played college football at Princeton University.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.6090672016143799,
+    "mean_prob": 0.79129958152771,
+    "min_prob": 0.04804996773600578,
+    "sds": 0.8878502249717712,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 95,
+    "ds_index": 1021,
+    "question": "What community is the team Isaac G\u00f3mez played midfielder for located?",
+    "gold_answer": "the autonomous community of Madrid",
+    "context": [
+      "\u00c1ngel Antonio Berni G\u00f3mez (born 9 January 1931 in Asunci\u00f3n, Paraguay) is a former football striker."
+    ],
+    "generated_answer": "There is no information about a team called \"Isaac G\u00f3mez\" in the given context. The context mentions \u00c1ngel Antonio Berni G\u00f3mez, a football striker, but not a team called \"Isaac G\u00f3mez\".",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.438220500946045,
+    "mean_prob": 0.744031548500061,
+    "min_prob": 0.2692504823207855,
+    "sds": 0.8074002265930176,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 96,
+    "ds_index": 6966,
+    "question": "In the 1973 NFL season, the Pro Bowl took place at what football stadium that is part of the Truman Sports Complex, along with what other stadium?",
+    "gold_answer": "Kauffman Stadium",
+    "context": [
+      "The 1973 NFL season was the 54th regular season of the National Football League.  The season featured O.J. Simpson becoming the first player to rush for 2,000 yards in one season.  Buffalo moved their home games into Rich Stadium.  After playing their first two home games at Yankee Stadium, the New York Giants played the rest of their home games at the Yale Bowl.  The season ended with Super Bowl VIII when the Miami Dolphins repeated as league champions by defeating the Minnesota Vikings 24-7 at the Rice Stadium in Houston Texas.  The Pro Bowl took place on January 20,1974 at Arrowhead Stadium in Kansas City, Missouri.  The AFC beat the NFC 15-13."
+    ],
+    "generated_answer": "The Pro Bowl took place at Arrowhead Stadium in the 1973 NFL season.  Arrowhead Stadium is part of the Truman Sports Complex, along with Arrowhead's twin stadium, Kauffman Stadium.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.2532730102539062,
+    "mean_prob": 0.8455057740211487,
+    "min_prob": 0.1482604593038559,
+    "sds": 0.8688783645629883,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 97,
+    "ds_index": 6640,
+    "question": "Is James Bourne a band member of both McBusted and The Auteurs?",
+    "gold_answer": "no",
+    "context": [
+      "James Elliot Bourne (born 13 September 1983 in Rochford, Essex, England) is an English singer-songwriter and co-founder of pop rock bands Busted and Son of Dork as well as a solo electronic project, Future Boy.  From 2013-2015 he was a member of supergroup McBusted, which consisted of himself, Busted bandmate Matt Willis, and McFly."
+    ],
+    "generated_answer": "James Bourne is a member of McBusted, but there is no information provided that he is a member of The Auteurs.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.4855989217758179,
+    "mean_prob": 0.7599801421165466,
+    "min_prob": 0.0812341496348381,
+    "sds": 0.8906485438346863,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 98,
+    "ds_index": 385,
+    "question": "Curt Menefee is the host of the Fox network's NFL show with co-host Michael Anthony Strahan who spent his entire 15-year career with what team?",
+    "gold_answer": "New York Giants",
+    "context": [
+      "Curt Menefee (born July 22, 1965) is an American sportscaster who is the host of the Fox network's NFL show \"Fox NFL Sunday\".  His co-hosts are Jimmy Johnson, Terry Bradshaw, Howie Long, and Michael Strahan."
+    ],
+    "generated_answer": "Curt Menefee is the host of the Fox network's NFL show with co-host Michael Strahan. Michael Strahan spent his entire 15-year career with the New York Giants.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.1216477155685425,
+    "mean_prob": 0.9209153056144714,
+    "min_prob": 0.19605503976345062,
+    "sds": 0.6093116402626038,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 99,
+    "ds_index": 4212,
+    "question": "What was the nickname of the English monarch that Petruccio Ubaldini presented one of his books?",
+    "gold_answer": "The Virgin Queen",
+    "context": [
+      "Dominic Mancini was an Italian who visited England in 1482-3.  He witnessed the events leading up to Richard III being offered the English crown.  He left in 1483 and wrote a report of what he had witnessed.  He called it: \"De Occupatione Regni Anglie per Riccardum Tercium\" (\"The Occupation of the Throne of England by Richard III\").  The account is a major source of information about the period, but it sat unread in a French library until rediscovered in 1934."
+    ],
+    "generated_answer": "There is no information in the provided context about Petruccio Ubaldini presenting a book to an English monarch with a nickname.",
+    "retrieval_k": 1,
+    "seed": 4,
+    "perplexity": 1.3957386016845703,
+    "mean_prob": 0.7787410020828247,
+    "min_prob": 0.21752145886421204,
+    "sds": 1.0781781673431396,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  }
+]

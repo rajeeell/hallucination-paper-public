@@ -1,0 +1,1702 @@
+[
+  {
+    "id": 0,
+    "ds_index": 2170,
+    "question": "Which drink is larger, the Apple-Kneel or the Flaming volcano?",
+    "gold_answer": "The flaming volcano",
+    "context": [
+      "The flaming volcano is a large tropical group cocktail made of rum, brandy, pineapple juice, orange juice, almond syrup, and sometimes other ingredients.  It is usually a multi-user drink, served to a group in a special, ritual vessel known as a volcano bowl, which is a decorative ceramic bowl (typically of about 32 USoz capacity) designed with a rising central hub feature usually resembling a crude volcano cone.  The cone includes a second, much smaller central pit or \"crater\" which is partially filled with rum or other flammable high-alcohol liquor.  The \"crater\" liquor is then ignited, creating a mild volcanic ambience with its central blue flame."
+    ],
+    "generated_answer": "There is no information about the Apple-Kneel drink in the given context.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3783742189407349,
+    "mean_prob": 0.7622102499008179,
+    "min_prob": 0.397599458694458,
+    "sds": 1.2073670625686646,
+    "hallucinated": null
+  },
+  {
+    "id": 1,
+    "ds_index": 3311,
+    "question": "Which team did Joe Buck's father broadcast for?",
+    "gold_answer": "St. Louis Cardinals",
+    "context": [
+      "Robert \u201cBob\u201d Buck (1938 \u2013 January 22, 1996), was an American sportscaster and sports director.  He was the younger brother of late St. Louis Cardinals radio broadcaster Jack Buck, and was the uncle of national television sportscaster Joe Buck."
+    ],
+    "generated_answer": "Joe Buck's father, Jack Buck, broadcast for the St. Louis Cardinals.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2713655233383179,
+    "mean_prob": 0.8565568923950195,
+    "min_prob": 0.1689983606338501,
+    "sds": 0.6189324259757996,
+    "hallucinated": null
+  },
+  {
+    "id": 2,
+    "ds_index": 953,
+    "question": "What year was the song that some critics compared to \"Fading\" released? ",
+    "gold_answer": "2008",
+    "context": [
+      "\"Faded\" is a song by Norwegian record producer and DJ Alan Walker.  The release of the single was originally set to be on 25 November 2015, but was delayed to 3 December.  The song was highly successful, peaking in the top ten in most of the countries it charted in, and reached the summit in more than ten."
+    ],
+    "generated_answer": "Unfortunately, the context does not provide information about a song called \"Fading\" that critics compared to \"Faded\".",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.5494462251663208,
+    "mean_prob": 0.7008630633354187,
+    "min_prob": 0.2802426517009735,
+    "sds": 0.697484016418457,
+    "hallucinated": null
+  },
+  {
+    "id": 3,
+    "ds_index": 2367,
+    "question": "Where does the region where Jews supported by Kolel Chibas Jerusalem are from get its name?",
+    "gold_answer": "the medieval city of Halych",
+    "context": [
+      "The Bar Kokhba revolt (Hebrew: \u05de\u05e8\u05d3 \u05d1\u05e8 \u05db\u05d5\u05db\u05d1\u05d0\u200e ; \"Mered Bar Kokhba\") was a rebellion of the Jews of the Roman province of Judea, led by Simon bar Kokhba, against the Roman Empire.  Fought circa 132\u2013136 CE, it was the last of three major Jewish\u2013Roman wars, so it is also known as The Third Jewish\u2013Roman War or The Third Jewish Revolt.  Some historians also refer to it as the Second Revolt of Judea, not counting the Kitos War (115\u2013117 CE), which had only marginally been fought in Judea."
+    ],
+    "generated_answer": "The region where Jews supported by Kolel Chibas Jerusalem are from is Judea.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3359472751617432,
+    "mean_prob": 0.7899311184883118,
+    "min_prob": 0.3386968672275543,
+    "sds": 0.9421533942222595,
+    "hallucinated": null
+  },
+  {
+    "id": 4,
+    "ds_index": 4217,
+    "question": "Which conference is the team for which Justin Bannan played college football currently a member of?",
+    "gold_answer": "Pac-12 Conference",
+    "context": [
+      "Justin Alaric Holiday (born April 5, 1989) is an American professional basketball player for the Chicago Bulls of the National Basketball Association (NBA).  He played college basketball for the University of Washington.  He won an NBA championship in 2015 as a member of the Golden State Warriors."
+    ],
+    "generated_answer": "There is no information about Justin Holiday playing college football. The context mentions he played college basketball for the University of Washington.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.6550836563110352,
+    "mean_prob": 0.7148166298866272,
+    "min_prob": 0.10005627572536469,
+    "sds": 0.7983930706977844,
+    "hallucinated": null
+  },
+  {
+    "id": 5,
+    "ds_index": 4123,
+    "question": "What player mentioned in \"The Breaks of the Game\" was inducted into the Naismith Memorial Basketball Hall of Fame on May 10, 1993?",
+    "gold_answer": "Bill Walton",
+    "context": [
+      "This is a list of members of the FIBA Hall of Fame (for personalities associated with the sport of basketball).  For the members of the Naismith Memorial Basketball Hall of Fame, see List of members of the Naismith Memorial Basketball Hall of Fame."
+    ],
+    "generated_answer": "The answer cannot be determined from the given context as it only mentions the FIBA Hall of Fame. However, \"The Breaks of the Game\" is a novel by David Halberstam that features the Boston Celtics of the 1970s. \n\nA possible answer could be John Havlicek, a player from the Boston Celtics, who was inducted into the Naismith Memorial Basketball Hall of Fame on May 10, 1994, not 1993.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.5853232145309448,
+    "mean_prob": 0.7247695922851562,
+    "min_prob": 0.070851169526577,
+    "sds": 0.9758626222610474,
+    "hallucinated": null
+  },
+  {
+    "id": 6,
+    "ds_index": 7028,
+    "question": "Which mountain is taller, Gasherbrum II or Langtang Ri?",
+    "gold_answer": "Gasherbrum II",
+    "context": [
+      "Gasherbrum II (Urdu: \u200e ); surveyed as K4, is the 13th highest mountain in the world at 8035 m above sea level.  It is the third-highest peak of the Gasherbrum massif, and is located in the Karakoram, on the border between Gilgit\u2013Baltistan province, Pakistan, and Xinjiang, China.  The mountain was first climbed on July 7, 1956, by an Austrian expedition which included Fritz Moravec, Josef Larch, and Hans Willenpart."
+    ],
+    "generated_answer": "There is not enough information to compare Gasherbrum II to Langtang Ri, as Langtang Ri's height is not mentioned in the given context.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.5526762008666992,
+    "mean_prob": 0.7687736749649048,
+    "min_prob": 0.07824867218732834,
+    "sds": 0.9765018820762634,
+    "hallucinated": null
+  },
+  {
+    "id": 7,
+    "ds_index": 1352,
+    "question": "What county is Ron Teachworth from?",
+    "gold_answer": "Oakland County",
+    "context": [
+      "Niall James Collins (born 30 March 1973) is an Irish Fianna F\u00e1il politician and a Teachta D\u00e1la (TD) for the Limerick County constituency, upon being elected at the 2016 general election.  He previously sat as a Teachta D\u00e1la (TD) for the Limerick constituency from 2011 to 2016 and Limerick West from 2007 to 2011."
+    ],
+    "generated_answer": "There is no information about a person named Ron Teachworth in the given context. The context mentions Niall James Collins, an Irish politician from Limerick County.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4163891077041626,
+    "mean_prob": 0.7701134085655212,
+    "min_prob": 0.09549049288034439,
+    "sds": 0.9232208728790283,
+    "hallucinated": null
+  },
+  {
+    "id": 8,
+    "ds_index": 2882,
+    "question": "In which year was this historic diner in Albany, New York built, which also was a filming location for major portions of Ironweed?",
+    "gold_answer": "1941",
+    "context": [
+      "Miss Albany Diner (formerly known as Lil's Diner) is a historic diner in Albany, New York, built in 1941 and located at 893 Broadway, one of the oldest streets in Albany.  Used as a set for the 1987 film \"Ironweed\", which starred Jack Nicholson and Meryl Streep, it was added to the U.S. National Register of Historic Places in 2000."
+    ],
+    "generated_answer": "The historic diner, Miss Albany Diner, was built in 1941 and was a filming location for the 1987 film \"Ironweed\".",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2488526105880737,
+    "mean_prob": 0.8437536358833313,
+    "min_prob": 0.22778430581092834,
+    "sds": 0.6136241555213928,
+    "hallucinated": null
+  },
+  {
+    "id": 9,
+    "ds_index": 6942,
+    "question": "The Distribution of Industry act was passed by a man who was prime minister when? ",
+    "gold_answer": "1945 to 1951",
+    "context": [
+      "The Water Industry Act 1991 (c. 56) is an Act of the United Kingdom Parliament consolidating previous enactments relating to the water supply and the provision of wastewater services in England and Wales.  It further implemented recommendations of the Law Commission."
+    ],
+    "generated_answer": "The Water Industry Act 1991 was passed during the premiership of John Major.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.437883734703064,
+    "mean_prob": 0.7787743806838989,
+    "min_prob": 0.223941370844841,
+    "sds": 0.760499119758606,
+    "hallucinated": null
+  },
+  {
+    "id": 10,
+    "ds_index": 1585,
+    "question": "What country does Washington Dulles International Airport and Baltimore\u2013Washington metropolitan area have in common?",
+    "gold_answer": "United States",
+    "context": [
+      "Washington Dulles International Airport (IATA: IAD,\u00a0ICAO: KIAD,\u00a0FAA LID: IAD) is an international airport in Loudoun and Fairfax counties in Virginia, United States, 26 miles (42\u00a0km) west of downtown Washington, D.C. The airport serves the Baltimore\u2013Washington metropolitan area, centered on the District of Columbia.  The airport is named after John Foster Dulles, the 52nd Secretary of State who served under President Dwight D. Eisenhower.  The Dulles main terminal is a well-known landmark designed by Eero Saarinen.  Operated by the Metropolitan Washington Airports Authority, Dulles Airport occupies 13,000 acres (52.6\u00a0km) straddling the Loudoun-Fairfax line.  Most of the airport is in the unincorporated community of Dulles, in Loudoun County, with a small portion in the unincorporated community of Chantilly in Fairfax County."
+    ],
+    "generated_answer": "Washington Dulles International Airport and the Baltimore\u2013Washington metropolitan area are both located in the United States.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3403680324554443,
+    "mean_prob": 0.8823637962341309,
+    "min_prob": 0.017208077013492584,
+    "sds": 0.6185542345046997,
+    "hallucinated": null
+  },
+  {
+    "id": 11,
+    "ds_index": 3863,
+    "question": "What wrestling team is Mathew Thomas Rehwoldt a part of?",
+    "gold_answer": "The Vaudevillains",
+    "context": [
+      "Matthew Thomas Rehwoldt (born October 7, 1987) is an American professional wrestler.  He is signed to WWE, where he performs on the SmackDown brand under the ring name Aiden English."
+    ],
+    "generated_answer": "Matthew Thomas Rehwoldt, also known as Aiden English, is a part of the WWE.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4898699522018433,
+    "mean_prob": 0.7778577208518982,
+    "min_prob": 0.04672453925013542,
+    "sds": 0.3287096321582794,
+    "hallucinated": null
+  },
+  {
+    "id": 12,
+    "ds_index": 4909,
+    "question": "Who directed the film in which Catherine Ann \"Kate\" Bosworth made her debut?",
+    "gold_answer": "Robert Redford",
+    "context": [
+      "Catherine & Co. (original French: Catherine et Cie aka Catherine et Compagnie) is a 1975 French/Italian adult themed comedy film directed by Michel Boisrond, co-written by Catherine Breillat and L\u00e9o L. Fuchs, and starring Jane Birkin, Patrick Dewaere, Jean-Pierre Aumont, and Vittorio Caprioli."
+    ],
+    "generated_answer": "The film you are referring to is not the one described in the context. Catherine Ann \"Kate\" Bosworth made her debut in the 2002 film \"Blue Crush\".",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.6843260526657104,
+    "mean_prob": 0.6901738047599792,
+    "min_prob": 0.11522679775953293,
+    "sds": 1.0610285997390747,
+    "hallucinated": null
+  },
+  {
+    "id": 13,
+    "ds_index": 2379,
+    "question": "Does Il trovatore have less acts than La rondine",
+    "gold_answer": "no",
+    "context": [
+      "Il trovatore (] ; Italian for \"The Troubadour\") is an opera in four acts by Giuseppe Verdi to an Italian libretto largely written by Salvadore Cammarano, based on the play \"El trovador\" (1836) by Antonio Garc\u00eda Guti\u00e9rrez.  It was Guti\u00e9rrez's most successful play, one which Verdi scholar Julian Budden describes as \"a high flown, sprawling melodrama flamboyantly defiant of the Aristotelian unities, packed with all manner of fantastic and bizarre incident.\""
+    ],
+    "generated_answer": "Il trovatore has 4 acts, whereas La rondine, another opera by Giuseppe Verdi, has 3 acts.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3881921768188477,
+    "mean_prob": 0.8032824993133545,
+    "min_prob": 0.1706935167312622,
+    "sds": 0.79671311378479,
+    "hallucinated": null
+  },
+  {
+    "id": 14,
+    "ds_index": 261,
+    "question": "Patrick Kennedy is known for his collections of Irish  folktales from a province situated in which part of Ireland ?",
+    "gold_answer": "the east of Ireland",
+    "context": [
+      "Irish stew is an Irish dish of meat and vegetables."
+    ],
+    "generated_answer": "I'm not aware of any information about Patrick Kennedy collecting Irish folktales. However, I do know that W.B. Yeats collected Irish folktales from the province of Connacht.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.5302897691726685,
+    "mean_prob": 0.7093235850334167,
+    "min_prob": 0.2796006202697754,
+    "sds": 1.0183351039886475,
+    "hallucinated": null
+  },
+  {
+    "id": 15,
+    "ds_index": 1571,
+    "question": "Steve Uzelac played football for which league located in Preston, Lancashire?",
+    "gold_answer": "North End Football Club",
+    "context": [
+      "Steven \"Steve\" Sanders (born 2 June 1978 in Halifax) is an English former professional footballer who played in the Football League as a full back for Doncaster Rovers.  He began his career with Huddersfield Town, but never played in the league.  After Doncaster he joined Lincoln City, but again never played league football, and then went on to play non-league football for Boreham Wood, Harrogate Town, Guiseley, Liversedge, Chelmsford City, Maidenhead United and Kingstonian."
+    ],
+    "generated_answer": "There is no information in the given context about Steve Uzelac playing football for a league in Preston, Lancashire.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3120347261428833,
+    "mean_prob": 0.7992215156555176,
+    "min_prob": 0.39555102586746216,
+    "sds": 1.0144705772399902,
+    "hallucinated": null
+  },
+  {
+    "id": 16,
+    "ds_index": 6690,
+    "question": "Dulce Maria Garc\u00eda Rivas took part in a \"Mask vs. Hair\" match with which female wrestler at Guerra de Titanes?",
+    "gold_answer": "Faby Apache",
+    "context": [
+      "Dulce Maria Garc\u00eda Rivas (born September 20, 1982) is a Mexican \"Luchadora\" \"enmascarada\", or masked female professional wrestler, and professional boxer who is better known by the ring name Sexy Star.  She is best known for her work in Lucha Libre AAA Worldwide (AAA), where she is a three-time AAA Reina de Reinas Champion, while also being a former one-time AAA World Mixed Tag Team Champion.  She previously wrestled under the name Dulce Poly and held both the FILL Women's Championship and the FILL Mixed Tag Team Championship under that name.  She worked for Lucha Underground, where she was a former Lucha Underground Champion and Gift of the Gods Champion.  She is the first woman to win the Lucha Underground Championship."
+    ],
+    "generated_answer": "I cannot verify which female wrestler Dulce Maria Garc\u00eda Rivas (Sexy Star) had a \"Mask vs. Hair\" match with at Guerra de Titanes.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3206017017364502,
+    "mean_prob": 0.8235645890235901,
+    "min_prob": 0.18365591764450073,
+    "sds": 0.8336237072944641,
+    "hallucinated": null
+  },
+  {
+    "id": 17,
+    "ds_index": 6958,
+    "question": "Are both John Corabi and David Byrne musicians?",
+    "gold_answer": "yes",
+    "context": [
+      "David Byrne ( ; born 14 May 1952) is a Scottish-born American musician who was the founding member, principal songwriter, and lead singer and guitarist of the American new wave band Talking Heads, active between 1975 and 1991.  Byrne is a multi-instrumentalist and is known for his distinctive voice."
+    ],
+    "generated_answer": "Yes, both John Corabi and David Byrne are musicians.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.0151127576828003,
+    "mean_prob": 0.9853579998016357,
+    "min_prob": 0.9280716180801392,
+    "sds": 0.9389963746070862,
+    "hallucinated": null
+  },
+  {
+    "id": 18,
+    "ds_index": 4403,
+    "question": "Which singer has been in more music bands, Michael Crafter or Martin Degville?",
+    "gold_answer": "Michael Crafter",
+    "context": [
+      "Michael Crafter is an Australian musician, singer-songwriter and entertainment manager.  His music career began as lead vocalist for I Killed the Prom Queen.  He is the vocalist of Confession, and former vocalist of Carpathian and Bury Your Dead.  Crafter runs a clothing apparel business, Mistake Clothing."
+    ],
+    "generated_answer": "I couldn't find any information on Martin Degville. However, based on the given context, Michael Crafter has been in multiple bands, including I Killed the Prom Queen, Confession, Carpathian, and Bury Your Dead.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.372353196144104,
+    "mean_prob": 0.7885918021202087,
+    "min_prob": 0.22225669026374817,
+    "sds": 0.8520516753196716,
+    "hallucinated": null
+  },
+  {
+    "id": 19,
+    "ds_index": 1620,
+    "question": "Michael J. Hunter replaced the lawyer who became the administrator of which agency?",
+    "gold_answer": "EPA",
+    "context": [
+      "Michael J. Hunter (born July 2, 1956) is an American politician from the state of Oklahoma.  Hunter served as the Secretary of State of Oklahoma from 1999 to 2002, having been appointed by Governor of Oklahoma Frank Keating.  On November 1, 2016, he appointed to the same post by Governor Mary Fallin.  He also serves as Special Counsel to the Governor.  On February 20, 2017, Hunter was appointed Attorney General of Oklahoma, replacing Scott Pruitt who was confirmed as the Administrator of the Environmental Protection Agency three days earlier on February 17."
+    ],
+    "generated_answer": "Michael J. Hunter replaced Scott Pruitt, who became the Administrator of the Environmental Protection Agency (EPA).",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.1227543354034424,
+    "mean_prob": 0.9112528562545776,
+    "min_prob": 0.3604695200920105,
+    "sds": 0.821475625038147,
+    "hallucinated": null
+  },
+  {
+    "id": 20,
+    "ds_index": 1111,
+    "question": "What was the last date the creator of  the NOI was seen by Elijah Muhammad?",
+    "gold_answer": "last seen in 1933",
+    "context": [
+      "Elijah Muhammad (born Elijah Robert Poole; October 7, 1897 \u2013 February 25, 1975) was a black-American religious leader, who led the Nation of Islam (NOI) from 1934 until his death in 1975.  He was a mentor to Malcolm X, Louis Farrakhan, Muhammad Ali, as well as his own son, Warith Deen Mohammed."
+    ],
+    "generated_answer": "The last date Elijah Muhammad was seen by others was February 25, 1975, the day of his death.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4750875234603882,
+    "mean_prob": 0.740749180316925,
+    "min_prob": 0.2251976579427719,
+    "sds": 0.8998367786407471,
+    "hallucinated": null
+  },
+  {
+    "id": 21,
+    "ds_index": 6576,
+    "question": "What team was formed in 1996 that starred players like Robert Parish?",
+    "gold_answer": "50 Greatest Players in National Basketball Association History",
+    "context": [
+      "The 2013 Robert Morris Colonials football team represented Robert Morris University in the 2013 NCAA Division I FCS football season.  They were led by 20th-year head coach Joe Walton and played their home games at Joe Walton Stadium.  They were a member of the Northeast Conference.  They finished the season 5\u20136, 3\u20133 in NEC play to finish in a three way tie for third place.  Head coach Joe Walton retired at the end of the season."
+    ],
+    "generated_answer": "I'm not able to find any information that links the 2013 Robert Morris Colonials football team to a team formed in 1996 that starred Robert Parish.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4506001472473145,
+    "mean_prob": 0.7419338822364807,
+    "min_prob": 0.2282991260290146,
+    "sds": 0.7148950099945068,
+    "hallucinated": null
+  },
+  {
+    "id": 22,
+    "ds_index": 4571,
+    "question": "Who was born first, Marino Girolami or Daniel Myrick?",
+    "gold_answer": "Marino Girolami",
+    "context": [
+      "Marino Girolami (1 February 1914 \u2013 20 February 1994) was an Italian film director who gained a cult following for his horror movies like \"Zombie Holocaust\".  He was the father of the Italian filmmaker Enzo G. Castellari and the actor Ennio Girolami."
+    ],
+    "generated_answer": "Marino Girolami was born first, on 1 February 1914. Daniel Myrick's birthdate is not provided in the context, but he is known to be an American film director, best known for co-directing the horror film \"The Blair Witch Project\".",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.5874720811843872,
+    "mean_prob": 0.7358789443969727,
+    "min_prob": 0.01145263947546482,
+    "sds": 0.9566594958305359,
+    "hallucinated": null
+  },
+  {
+    "id": 23,
+    "ds_index": 5667,
+    "question": "Where are Abbey Clancy and Peter Crouch from?",
+    "gold_answer": "England",
+    "context": [
+      "Sean Thomas Clancy (born 16 September 1987) is an English footballer who plays as either a left back or left midfielder.  He is the brother of model Abbey Clancy, who is married to fellow footballer Peter Crouch."
+    ],
+    "generated_answer": "Unfortunately, the provided context does not mention the place of origin for Abbey Clancy and Peter Crouch.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4229669570922852,
+    "mean_prob": 0.7695082426071167,
+    "min_prob": 0.19443461298942566,
+    "sds": 1.0013182163238525,
+    "hallucinated": null
+  },
+  {
+    "id": 24,
+    "ds_index": 2227,
+    "question": "Matt Doheny lost his primary race to what current youngest woman ever elected to Congress?",
+    "gold_answer": "Elise Stefanik",
+    "context": [
+      "Matt Doheny is an American businessman, lawyer, and politician.  He was a Republican candidate for the United States Congress in New York State in 2010 and 2012, losing narrowly on both occasions to Democrat Bill Owens.  In 2014, he ran in the Republican primary for New York's 21st congressional district.  Doheny lost the primary to Elise Stefanik, who subsequently went on to win the general election."
+    ],
+    "generated_answer": "Matt Doheny lost his primary race to Elise Stefanik, who is the youngest woman ever elected to Congress.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2643932104110718,
+    "mean_prob": 0.8445547223091125,
+    "min_prob": 0.16741503775119781,
+    "sds": 0.8039476275444031,
+    "hallucinated": null
+  },
+  {
+    "id": 25,
+    "ds_index": 6975,
+    "question": "Les Patterson Saves the World was a comedy film starring the author of which autobiography?",
+    "gold_answer": "My Gorgeous Life",
+    "context": [
+      "The Man Who Saved the World is a 2014 feature-length Danish documentary film by film maker Peter Anthony about Stanislav Petrov, a former lieutenant colonel of the Soviet Air Defence Forces and his role in preventing the 1983 Soviet nuclear false alarm incident from leading to nuclear holocaust."
+    ],
+    "generated_answer": "The answer is Les Patterson Saves the World was a comedy film starring John Cleese, who is the author of the autobiography \"Furry Little Pebbles\".",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.920785903930664,
+    "mean_prob": 0.5905858874320984,
+    "min_prob": 0.15082038938999176,
+    "sds": 1.0271884202957153,
+    "hallucinated": null
+  },
+  {
+    "id": 26,
+    "ds_index": 1959,
+    "question": "What type of development, currently existing in Pasay, is currently being considered for malls such as one in M.A. Roxas Avenue in Clark Freeport, Angeles City in Pampanga Philippines?",
+    "gold_answer": "SM Lifestyle Cities",
+    "context": [
+      "Farmers Plaza is a shopping mall located in Araneta Center, Cubao, Quezon City.  The mall is Araneta Centre\u2019s gateway to EDSA.  renovated and expanded in 1999, the five-level complex is the first ever commercial condominium in the Philippines.  Farmers Plaza offers 60,400 square metres of retail space occupied by cheap merchandise outlets.  The mall consists of 5-levels with a mix of international and local shops, dining outlets and entertainment facilities, The mall features over 230 stores anchored by Rustan\u2019s Xpresslane, National Bookstore, Handyman, Mercury Drug & Value Point.  It is directly linked to the MRT-3 station.  The mall is located along Metro Manila\u2019s 2 busiest thoroughfares: EDSA and Aurora Boulevard.  The mall is connected to the near Araneta Coliseum and Gateway Mall by a footbridge."
+    ],
+    "generated_answer": "Based on the context, the type of development being considered is a commercial condominium.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.716637372970581,
+    "mean_prob": 0.6555641889572144,
+    "min_prob": 0.12376239895820618,
+    "sds": 1.2394542694091797,
+    "hallucinated": null
+  },
+  {
+    "id": 27,
+    "ds_index": 2668,
+    "question": "Who was born first, Teru or Mike Shinoda?",
+    "gold_answer": "Teruhiko",
+    "context": [
+      "Teruhiko Kobashi (\u5c0f\u6a4b\u3000\u7167\u5f66 , Kobashi Teruhiko , born June 8, 1971 in Hakodate, Hokkaid\u014d) , better known by his stagename TERU, is a Japanese singer and musician.  He is best known as vocalist of the rock band GLAY, for which he was initially the drummer."
+    ],
+    "generated_answer": "Teru was born on June 8, 1971. Mike Shinoda, the drummer of Linkin Park, was born on February 16, 1977, so Teru was born first.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.464156985282898,
+    "mean_prob": 0.8019334077835083,
+    "min_prob": 0.032544270157814026,
+    "sds": 0.8926698565483093,
+    "hallucinated": null
+  },
+  {
+    "id": 28,
+    "ds_index": 2064,
+    "question": "Who was born first, Steve Hogarth or Donnie Munro?",
+    "gold_answer": "Donnie Munro",
+    "context": [
+      "Donnie Munro (Donaidh Rothach) (born 2 August 1953) is a Scottish musician, and former lead singer of the band Runrig."
+    ],
+    "generated_answer": "I couldn't find any information on a person named Steve Hogarth being mentioned in the context provided. However, I can tell you that Donnie Munro was born on 2 August 1953.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4515783786773682,
+    "mean_prob": 0.7599397301673889,
+    "min_prob": 0.10571666061878204,
+    "sds": 1.0157581567764282,
+    "hallucinated": null
+  },
+  {
+    "id": 29,
+    "ds_index": 6422,
+    "question": "Which Genre of Television did Charles Quinton Murphy act for?",
+    "gold_answer": "Comedy",
+    "context": [
+      "Charles Quinton Murphy (July 12, 1959 \u2013 April 12, 2017) was an American actor, comedian, and writer.  Murphy was best known as a writer and cast member of the Comedy Central sketch-comedy series \"Chappelle's Show\".  He was the older brother of comedian Eddie Murphy."
+    ],
+    "generated_answer": "Charles Quinton Murphy was a cast member of a sketch-comedy series, specifically on Comedy Central. He worked in the genre of Sketch Comedy.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.145345449447632,
+    "mean_prob": 0.625533938407898,
+    "min_prob": 0.019006509333848953,
+    "sds": 0.7266337871551514,
+    "hallucinated": null
+  },
+  {
+    "id": 30,
+    "ds_index": 3200,
+    "question": "Women's soccer star Caprice Dydasco plays for Newcastle Jets FC based in what nation?",
+    "gold_answer": "Australia",
+    "context": [
+      "The Newcastle Jets FC, also known as the Newcastle Jets Women, is an Australian football (soccer) team.  Founded in 2008, it is the affiliated women's team of Newcastle Jets.  The team competes in the country's premier women's soccer competition, the W-League, under licence from Football Federation Australia."
+    ],
+    "generated_answer": "Caprice Dydasco plays for Newcastle Jets FC in Australia.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.714571952819824,
+    "mean_prob": 0.8515888452529907,
+    "min_prob": 8.810093277134001e-06,
+    "sds": 1.0748835802078247,
+    "hallucinated": null
+  },
+  {
+    "id": 31,
+    "ds_index": 3952,
+    "question": "What is the net worth of the founder of Intel Corporation as of 2016?",
+    "gold_answer": "7.3 billion",
+    "context": [
+      "Gordon Earle Moore ( ; born January 3, 1929) is an American businessman, co-founder and chairman emeritus of Intel Corporation, and the author of Moore's law.  As of January 2016, his net worth is $7.3 billion."
+    ],
+    "generated_answer": "As of January 2016, Gordon Earle Moore's net worth is $7.3 billion.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2090014219284058,
+    "mean_prob": 0.9006286859512329,
+    "min_prob": 0.13883399963378906,
+    "sds": 0.5557500720024109,
+    "hallucinated": null
+  },
+  {
+    "id": 32,
+    "ds_index": 7019,
+    "question": "Which director was also a writer, Noel M. Smith or Reza Parsa?",
+    "gold_answer": "Noel Mason Smith",
+    "context": [
+      "Reza Parsa is a Swedish film director.  At the age of 22 he was admitted to the 4-year directing program at the National Film School of Denmark (1991\u201395) and directed the most award winning (11 awards) graduation film, \"Never (Gr\u00e4nsen)\", in the history of the school."
+    ],
+    "generated_answer": "Reza Parsa was also a writer, as he directed the award-winning graduation film \"Never (Gr\u00e4nsen)\".",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.661912441253662,
+    "mean_prob": 0.711371898651123,
+    "min_prob": 0.0532233752310276,
+    "sds": 0.42294737696647644,
+    "hallucinated": null
+  },
+  {
+    "id": 33,
+    "ds_index": 5584,
+    "question": "Professor A. Selvanathan is a professor at a university that is public or private ?",
+    "gold_answer": "public",
+    "context": [
+      "Steven Seidman (born October 17, 1948) is a sociologist, currently professor at State University of New York at Albany.  He is a social theorist working the areas of social theory, culture, sexuality, comparative sociology, theory of democracy, nationalism and globalization.  He received his A.B. the State University of New York at Brockport in 1972, his A.M. from the New School for Social Research in 1977 and his PhD from the University of Virginia in 1980.  After earning his doctorate he taught as assistant professor at New Mexico State University from 1980 to 1983 before starting his current tenure at SUNY Albany, where he became associate professor in 1986 and full professor in 1992.  To date his books have been translated into French, Chinese, Korean, Romanian, Persian, Turkish and Spanish:"
+    ],
+    "generated_answer": "The university where Professor Steven Seidman is a professor is public, specifically the State University of New York at Albany.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.6782677173614502,
+    "mean_prob": 0.7118937969207764,
+    "min_prob": 0.042442258447408676,
+    "sds": 0.6481136679649353,
+    "hallucinated": null
+  },
+  {
+    "id": 34,
+    "ds_index": 7220,
+    "question": "The eldest daughter of Princess Louise of Denmark and Norway was the wife of a king whose motto was what?",
+    "gold_answer": "God and the just cause",
+    "context": [
+      "Princess Louise of Denmark (\"Louise Caroline Josephine Sophie Thyra Olga\") (17 February 1875 \u2013 4 April 1906) was a Danish princess, the third child and oldest daughter of Frederick VIII of Denmark and his wife, Princess Louise of Sweden and Norway."
+    ],
+    "generated_answer": "Unfortunately, I can't verify the motto of the king who was the husband of the eldest daughter of Princess Louise of Denmark.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.7295242547988892,
+    "mean_prob": 0.6952612996101379,
+    "min_prob": 0.06445244699716568,
+    "sds": 0.8574418425559998,
+    "hallucinated": null
+  },
+  {
+    "id": 35,
+    "ds_index": 4431,
+    "question": "Was the documentary labeled \"The River\"have the same reasoning to be made as the documentary labeled \"Crazy English?\"",
+    "gold_answer": "no",
+    "context": [
+      "The River is a 1938 short documentary film which shows the importance of the Mississippi River to the United States, and how farming and timber practices had caused topsoil to be swept down the river and into the Gulf of Mexico, leading to catastrophic floods and impoverishing farmers.  It ends by briefly describing how the Tennessee Valley Authority project was beginning to reverse these problems."
+    ],
+    "generated_answer": "No, the documentary labeled \"The River\" and \"Crazy English\" likely have different reasoning behind their titles. \"The River\" is a documentary about the importance of the Mississippi River and its environmental impact, whereas \"Crazy English\" is likely a film about English language learning or teaching.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.6866859197616577,
+    "mean_prob": 0.6775376796722412,
+    "min_prob": 0.11883309483528137,
+    "sds": 0.9876524209976196,
+    "hallucinated": null
+  },
+  {
+    "id": 36,
+    "ds_index": 1008,
+    "question": "Were The Bomb and Rolling Papers released in the same year?",
+    "gold_answer": "yes",
+    "context": [
+      "The Explosion were a punk rock band from Boston, Massachusetts.  On February 13, 2007, the band announced that they had left Virgin Records, and on April 30, 2007, that they were to split up.  On June 5, the band announced plans for two last shows in Philadelphia, and New York."
+    ],
+    "generated_answer": "The Bomb was released in 2003, and Rolling Papers was released in 2005. Therefore, The Bomb and Rolling Papers were not released in the same year.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.54922354221344,
+    "mean_prob": 0.7719093561172485,
+    "min_prob": 0.06088336557149887,
+    "sds": 1.0248833894729614,
+    "hallucinated": null
+  },
+  {
+    "id": 37,
+    "ds_index": 4605,
+    "question": "What position did the 2004 World Series of Poker gold bracelet holder have in the 2011 Epic Poker League?",
+    "gold_answer": "Commissioner",
+    "context": [
+      "The Epic Poker League was a series of poker tournaments which took place in 2011, organised by Federated Sports + Gaming.  Former World Series of Poker commissioner Jeffrey Pollack served as Executive Chairman, professional poker player Annie Duke was Commissioner, and Matt Savage was Tournament Director.  The three events held took place at the Palms Casino Resort in Las Vegas, Nevada.  Season One received television coverage on CBS and Velocity Network."
+    ],
+    "generated_answer": "Annie Duke, the 2002 World Series of Poker gold bracelet holder, was the Commissioner of the 2011 Epic Poker League.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.292233943939209,
+    "mean_prob": 0.8151626586914062,
+    "min_prob": 0.26640671491622925,
+    "sds": 0.7198526859283447,
+    "hallucinated": null
+  },
+  {
+    "id": 38,
+    "ds_index": 41,
+    "question": "Where is the company that Sachin Warrier worked for as a software engineer headquartered? ",
+    "gold_answer": "Mumbai",
+    "context": [
+      "Sachin Warrier is a playback singer and composer in the Malayalam cinema industry from Kerala.  He became notable with the song \"Muthuchippi Poloru\" from the film Thattathin Marayathu.  He made his debut with the movie Malarvaadi Arts Club.  He was working as a software engineer in Tata Consultancy Services in Kochi.  Later he resigned from the job to concentrate more on music.  His latest work is as a composer for the movie Aanandam."
+    ],
+    "generated_answer": "Tata Consultancy Services (TCS) is headquartered in Mumbai, India.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.1724600791931152,
+    "mean_prob": 0.8730621337890625,
+    "min_prob": 0.43236681818962097,
+    "sds": 1.2217473983764648,
+    "hallucinated": null
+  },
+  {
+    "id": 39,
+    "ds_index": 7186,
+    "question": "Which tropical storm has been present in the Central Pacific Ocean but not in the western north Pacific Ocean?",
+    "gold_answer": "Ana",
+    "context": [
+      "A Pacific hurricane is a mature tropical cyclone that develops within the eastern and central Pacific Ocean to the east of 180\u00b0W, north of the equator.  For tropical cyclone warning purposes, the northern Pacific is divided into three regions: the eastern (North America to 140\u00b0W), central (140\u00b0W to 180\u00b0), and western (180\u00b0 to 100\u00b0E), while the southern Pacific is divided into 2 sections, the Australian region (90E to 160\u00b0E), the southern Pacific basin between (160\u00b0E to 120\u00b0W).  Identical phenomena in the western north Pacific are called typhoons.  This separation between the two basins has a practical convenience, however, as tropical cyclones rarely form in the central north Pacific and few cross the dateline."
+    ],
+    "generated_answer": "A tropical storm present in the Central Pacific Ocean but not in the western north Pacific Ocean is a hurricane.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.418787956237793,
+    "mean_prob": 0.8066808581352234,
+    "min_prob": 0.05393072962760925,
+    "sds": 0.6567094326019287,
+    "hallucinated": null
+  },
+  {
+    "id": 40,
+    "ds_index": 7250,
+    "question": "Giselle Cossard was known as Mother Giselle of what type of diety?",
+    "gold_answer": "major water deity",
+    "context": [
+      "Giselle Cossard Binon Omindarewa, (31 May 1923, Tangier - 21 January 2016, Duke of Caxias), M\u00e3e-de-santo of Candombl\u00e9 of Rio de Janeiro, was a French Brazilian anthropologist and writer.  She was also known as Mother Giselle of Yemoja, Daughter of Saint John of Gom\u00e9ia, Initiated for the Orisha Yemoja."
+    ],
+    "generated_answer": "Giselle Cossard was known as Mother Giselle of Yemoja, an Orisha.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4211517572402954,
+    "mean_prob": 0.8684611916542053,
+    "min_prob": 0.015491410158574581,
+    "sds": 0.5229343175888062,
+    "hallucinated": null
+  },
+  {
+    "id": 41,
+    "ds_index": 1129,
+    "question": "Polk County Florida's second most populated city is home to which mall?",
+    "gold_answer": "Winter Haven Mall",
+    "context": [
+      "Polk County is located in the State of Florida.  The county population was 602,095, as of the 2010 census.  Its county seat is Bartow, and its largest city is Lakeland."
+    ],
+    "generated_answer": "The second most populated city in Polk County, Florida, is Lakeland.  Lakeland is home to the Lakeland Square Mall.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3847160339355469,
+    "mean_prob": 0.8067226409912109,
+    "min_prob": 0.048744216561317444,
+    "sds": 0.712841808795929,
+    "hallucinated": null
+  },
+  {
+    "id": 42,
+    "ds_index": 5916,
+    "question": "Alexander Young, also known as George Alexander, is the uncle to which Scottish musician who replaced Malcolm Young in the band AC/DC in 2014?",
+    "gold_answer": "Stephen Crawford Young",
+    "context": [
+      "Alexander Young (28 December 1938 \u2013 4 August 1997), also known as George Alexander, was a Scottish singer, songwriter, saxophonist, bassist, guitarist and session musician.  He is an elder brother of George Young, the rhythm guitarist and founding member of the Easybeats, as well as Malcolm and Angus Young, founding members of the Australian hard rock band AC/DC, and the younger brother of Stephen Young, the father of Stevie Young, who was also a member of AC/DC."
+    ],
+    "generated_answer": "Stevie Young is the son of Alexander Young's brother, Stephen Young, making Stevie Young Alexander's nephew.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.6934820413589478,
+    "mean_prob": 0.66644287109375,
+    "min_prob": 0.13162779808044434,
+    "sds": 0.8298260569572449,
+    "hallucinated": null
+  },
+  {
+    "id": 43,
+    "ds_index": 240,
+    "question": "What arcade game is named after the only player in major league history to have a 0.300 batting average for 7 consecutive seasons?",
+    "gold_answer": "a pinball machine",
+    "context": [
+      "The 100 Inning Game is an annual charity fundraising event.  It was founded by the Boston Men's Baseball League, the largest amateur baseball league in New England, in 2004 to raise funds to support Curt's Pitch for ALS, a charitable organization started by former Boston Red Sox pitcher, Curt Schilling.  The organization supports the fight against amyotrophic lateral sclerosis.  This game holds the current world record for the longest exhibition baseball game ever played."
+    ],
+    "generated_answer": "The arcade game named after the player with a 0.300 batting average for 7 consecutive seasons is \"Ted Williams.\"",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4669687747955322,
+    "mean_prob": 0.7606873512268066,
+    "min_prob": 0.23198871314525604,
+    "sds": 1.0609848499298096,
+    "hallucinated": null
+  },
+  {
+    "id": 44,
+    "ds_index": 1711,
+    "question": "What years was the auto racing series held that was followed on by the 2016 Blancpain GT Series Sprint Cup?",
+    "gold_answer": "2010 to 2012",
+    "context": [
+      "The 2017 Blancpain GT Series Sprint Cup was the fifth season of the Blancpain GT Series Sprint Cup following on from the demise of the SRO Group's FIA GT1 World Championship (an auto racing series for grand tourer cars), the fourth with the designation of Blancpain Sprint Series or Blancpain GT Series Sprint Cup."
+    ],
+    "generated_answer": "The auto racing series that was followed on by the 2017 Blancpain GT Series Sprint Cup was the FIA GT1 World Championship.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.1107490062713623,
+    "mean_prob": 0.911034882068634,
+    "min_prob": 0.5119174718856812,
+    "sds": 0.5300929546356201,
+    "hallucinated": null
+  },
+  {
+    "id": 45,
+    "ds_index": 3654,
+    "question": "How many total staff (including part-time, flexible, and fixed contract staff) does the broadcaster, who released HyperNormalisation, employ?",
+    "gold_answer": "35,402",
+    "context": [
+      "The British Broadcasting Corporation (BBC) is a British public service broadcaster with its headquarters at Broadcasting House in London.  The BBC is the world's oldest national broadcasting organisation and the largest broadcaster in the world by number of employees.  It employs over 20,950 staff in total, 16,672 of whom are in public sector broadcasting.  The total number of staff is 35,402 when part-time, flexible, and fixed contract staff are included."
+    ],
+    "generated_answer": "The BBC employs a total of 35,402 staff, including part-time, flexible, and fixed contract staff. This number includes 20,950 full-time staff and 14,452 part-time, flexible, and fixed contract staff.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.439835786819458,
+    "mean_prob": 0.8185444474220276,
+    "min_prob": 0.002180161653086543,
+    "sds": 0.7109925150871277,
+    "hallucinated": null
+  },
+  {
+    "id": 46,
+    "ds_index": 3908,
+    "question": "The Hindmarsh Stadium is sponsored by a brewery that sold how many liters of beer in 2013 ?",
+    "gold_answer": "69.7 million litres",
+    "context": [
+      "The Hindmarsh Stadium (currently known as the Coopers Stadium due to sponsorship from the Adelaide-based Coopers Brewery) is a multi-purpose stadium located in Adelaide, South Australia.  It is the home of the Australian A-League team, Adelaide United."
+    ],
+    "generated_answer": "I'm unable to verify the exact liters of beer sold by Coopers Brewery in 2013.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.6074687242507935,
+    "mean_prob": 0.7369382381439209,
+    "min_prob": 0.11657418310642242,
+    "sds": 1.2496192455291748,
+    "hallucinated": null
+  },
+  {
+    "id": 47,
+    "ds_index": 4939,
+    "question": "Where is the American Hockey League, that Dan Frawley played in, located?",
+    "gold_answer": "United States and Canada",
+    "context": [
+      "Daniel Patrick Frawley (born 8 September 1963) is a former Australian rules footballer and football commentator with Fox Sports.  He previously coached the Richmond Football Club between 2000 and 2004.  He is the nephew of Collingwood player Des Tuddenham and the uncle of current Hawthorn Football Club player James Frawley.  Frawley currently serves at the St Kilda Football Club as a specialist defence coach on a part-time basis."
+    ],
+    "generated_answer": "There is no information in the given context about Dan Frawley playing in the American Hockey League.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2152215242385864,
+    "mean_prob": 0.8543335199356079,
+    "min_prob": 0.375053733587265,
+    "sds": 0.9530196189880371,
+    "hallucinated": null
+  },
+  {
+    "id": 48,
+    "ds_index": 3134,
+    "question": "Knockout song was from which album of Lil Wayne on Cash Money Records ?",
+    "gold_answer": "Rebirth",
+    "context": [
+      "Dwayne Michael Carter, Jr. (born September 27, 1982), known professionally as Lil Wayne, is an American hip hop recording artist.  In 1991, at the age of nine, Lil Wayne joined Cash Money Records as the youngest member of the label, and half of the duo The B.G.'z, alongside fellow New Orleans-based rapper Lil' Doogie.  In 1996, Lil Wayne joined the southern hip hop group Hot Boys, with his Cash Money label-mates Juvenile, Young Turk and Lil' Doogie (who now goes by B.G.).  Hot Boys debuted with \"Get It How U Live! \", that same year.  Most of the group's success came with their platinum-selling album \"Guerrilla Warfare\" (1999) and the 1999 single \"Bling Bling\".  Along with being the flagship artist of Cash Money Records, Lil Wayne is also the Chief Executive Officer (CEO) of his own label imprint, Young Money Entertainment, which he founded in 2005."
+    ],
+    "generated_answer": "The song \"Bling Bling\" was from the album \"Guerrilla Warfare\" (1999).",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3151719570159912,
+    "mean_prob": 0.8110012412071228,
+    "min_prob": 0.30966368317604065,
+    "sds": 1.2027873992919922,
+    "hallucinated": null
+  },
+  {
+    "id": 49,
+    "ds_index": 3767,
+    "question": "Which season did the UCF Knights represent at an American metropolitan public research university in Orlando, Florida?",
+    "gold_answer": "2010 NCAA Division",
+    "context": [
+      "The 2013 UCF Knights football team represented the University of Central Florida in the 2013 NCAA Division I FBS football season.  The Knights were members of the American Athletic Conference (The American), and played their home games at Bright House Networks Stadium on UCF's main campus in Orlando, Florida.  The Knights were led by head coach George O'Leary, who was in his tenth season with the team."
+    ],
+    "generated_answer": "The UCF Knights represented the 2013 season at the University of Central Florida, an American metropolitan public research university in Orlando, Florida.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2413674592971802,
+    "mean_prob": 0.8540759086608887,
+    "min_prob": 0.19546808302402496,
+    "sds": 0.5195650458335876,
+    "hallucinated": null
+  },
+  {
+    "id": 50,
+    "ds_index": 702,
+    "question": "What was the location of the execution of Roger David Casement, the Irish Nationalist who made made efforts during World War I to gain German military aid for the 1916 Easter Rising that sought to gain Irish independence?",
+    "gold_answer": "Casement's Fort",
+    "context": [
+      "Michael O'Hanrahan (Irish: \"Miche\u00e1l \u00d3 hAnnrachain\" ; 16 January 1877 \u2013 4 May 1916) was an Irish rebel who was executed for his active role in the 1916 Easter Rising."
+    ],
+    "generated_answer": "The execution of Roger Casement took place at Pentonville Prison in London, England, on August 3, 1916.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4489070177078247,
+    "mean_prob": 0.7629600167274475,
+    "min_prob": 0.1894494742155075,
+    "sds": 1.14190673828125,
+    "hallucinated": null
+  },
+  {
+    "id": 51,
+    "ds_index": 5153,
+    "question": "FC Barcelona ambassador Ronaldinho won what French award in addition to FIFA World Player of the Year?",
+    "gold_answer": "Ballon d'Or",
+    "context": [
+      "The 2004-05 season saw F\u00fatbol Club Barcelona end their six-year wait for the La Liga title, having not won the league or, indeed, any trophy since the 1998\u201399 season and thus La Liga trophy returned in Barcelona's trophy room.  Having finished second in La Liga the previous season, Barcelona once again competed in the UEFA Champions League as well as the Copa del Rey.  The squad was restructured significantly following the retirement of key players Luis Enrique and Marc Overmars, as well as the return of Edgar Davids to Juventus and first team regulars Patrick Kluivert and Phillip Cocu moving onto new clubs.  Ronaldinho's and new signing Samuel Eto'o's performances won them places in FIFPro's XI of 2004\u201305.  Ronaldinho was later named FIFA World Player of the Year for 2005 for the second time in succession and with the highest points total ever; Eto'o came third.  This season was also notable for the debut of Lionel Messi."
+    ],
+    "generated_answer": "The answer is not explicitly stated in the given context. However, it is mentioned that Ronaldinho was named FIFA World Player of the Year for the second time in succession.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.500717043876648,
+    "mean_prob": 0.7349086403846741,
+    "min_prob": 0.20670489966869354,
+    "sds": 0.9294142127037048,
+    "hallucinated": null
+  },
+  {
+    "id": 52,
+    "ds_index": 6831,
+    "question": "Where is the home of the common party princess voiced by Idina Menzel?",
+    "gold_answer": "Arendelle",
+    "context": [
+      "Idina Kim Menzel ( ; born Idina Kim Mentzel; May 30, 1971) is an American actress, singer, and songwriter."
+    ],
+    "generated_answer": "The home of the common party princess voiced by Idina Menzel is Arendelle, from the Disney movie \"Frozen\".",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4988744258880615,
+    "mean_prob": 0.7554049491882324,
+    "min_prob": 0.16412080824375153,
+    "sds": 1.090397596359253,
+    "hallucinated": null
+  },
+  {
+    "id": 53,
+    "ds_index": 5910,
+    "question": "Egremont Castle is located in what market town, civil parish, and two electoral wards in the Borough of Copeland in Cumbria, England?",
+    "gold_answer": "Egremont",
+    "context": [
+      "Egremont is a market town, civil parish and two electoral wards (North and South) in the Borough of Copeland in Cumbria, England, 5 mi south of Whitehaven and on the River Ehen.  Historically in Cumberland, the town, which lies at the foot of Uldale Valley and Dent Fell, has a long industrial heritage including dyeing, weaving and iron ore mining.  It had a population of 7,444 in 2001, increasing to 8,194 at the 2011 Census."
+    ],
+    "generated_answer": "Egremont Castle is located in the market town, civil parish, and two electoral wards of Egremont in the Borough of Copeland in Cumbria, England.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.0831832885742188,
+    "mean_prob": 0.9387379884719849,
+    "min_prob": 0.4093223512172699,
+    "sds": 0.6456992030143738,
+    "hallucinated": null
+  },
+  {
+    "id": 54,
+    "ds_index": 6951,
+    "question": "Drachen Fire was a roller coaster located behind which suspended coaster at Busch Gardens Williamsburg?",
+    "gold_answer": "Big Bad Wolf",
+    "context": [
+      "Drachen Fire was a steel roller coaster located at Busch Gardens Williamsburg, in Williamsburg, Virginia.  Operating from 1992 until 1998, the roller coaster was manufactured by Arrow Dynamics.  It featured electric-blue track and silver supports, and was located in the Oktoberfest portion of the park, behind the Big Bad Wolf and Das Festhaus.  The tagline for the ride was \"Feel the Heat.\"  The ride had three separate trains, featuring seven cars each, with each car holding passengers arranged two by two.  The cars were red, with grey seats, and featured red trim lights illuminated the trains at night.  Upon opening, the ride featured a 150 foot tall lift hill, six inversions, and a zero-gravity camel-back hump element.  The ride was shut down in the middle of the 1998 season following a history of low ridership, and complaints of roughness."
+    ],
+    "generated_answer": "The Big Bad Wolf was the suspended coaster located behind Drachen Fire at Busch Gardens Williamsburg.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.430213212966919,
+    "mean_prob": 0.780671238899231,
+    "min_prob": 0.08197751641273499,
+    "sds": 0.7924461960792542,
+    "hallucinated": null
+  },
+  {
+    "id": 55,
+    "ds_index": 3933,
+    "question": "On what river is the city where Stade 24 Novembre is located situated on?",
+    "gold_answer": "the Congo River",
+    "context": [
+      "Stade de France \u2013 Saint-Denis is a railway station serving Saint-Denis, a northern suburb of Paris in Seine-Saint-Denis department, France.  It is situated near the Stade de France, on the RER D suburban railway line.  It is situated on the Paris\u2013Lille railway."
+    ],
+    "generated_answer": "I can't answer that question because it is based on a piece of information that is not provided in the given context.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.1546905040740967,
+    "mean_prob": 0.5552670955657959,
+    "min_prob": 0.14595313370227814,
+    "sds": 1.4226632118225098,
+    "hallucinated": null
+  },
+  {
+    "id": 56,
+    "ds_index": 5932,
+    "question": "The chairman of Westfield Corporation has a son who holds a Bachelor's degree in what?",
+    "gold_answer": "Bachelor of Commerce",
+    "context": [
+      "Westfield Corporation is an Australian-based British-American shopping centre company with retail destinations in England and the United States.  It was created in June 2014 when Westfield Group separated its Australian and New Zealand businesses from its international operations."
+    ],
+    "generated_answer": "Unfortunately, the provided context does not mention the chairman of Westfield Corporation or their son's educational background.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3423914909362793,
+    "mean_prob": 0.7777395844459534,
+    "min_prob": 0.3562926948070526,
+    "sds": 0.9517698884010315,
+    "hallucinated": null
+  },
+  {
+    "id": 57,
+    "ds_index": 4631,
+    "question": "Which singer is in the duo Sugarland, Jennifer Nettles or Roger Taylor?",
+    "gold_answer": "Jennifer Nettles",
+    "context": [
+      "Sugarland is an American country music duo consisting of singer-songwriters Jennifer Nettles (lead vocals) and Kristian Bush (vocals, mandolin, acoustic guitar, and harmonica).  Sugarland was founded in 2002 by Kristen Hall with Bush and became a trio after hiring Jennifer Nettles as lead vocalist."
+    ],
+    "generated_answer": "Jennifer Nettles is a singer in the duo Sugarland. Roger Taylor is not mentioned as a member of Sugarland.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4258004426956177,
+    "mean_prob": 0.7615405321121216,
+    "min_prob": 0.21815644204616547,
+    "sds": 0.6705644130706787,
+    "hallucinated": null
+  },
+  {
+    "id": 58,
+    "ds_index": 3532,
+    "question": "Which California band, whose debut album Adrenaline appeared in 1995, has been referred to as \"the Radiohead of metal\"?",
+    "gold_answer": "Deftones",
+    "context": [
+      "California Metal, the first of five compilation albums released by Regency Records in the late eighties, was designed primarily to showcase the talents of the numerous unsigned Christian metal bands that had arrived on the scene following the success of Stryper.  \"California Metal\" was quickly followed by \"California Metal Volume II\" (1988), \"East Coast Metal\" (1988), \"Underground Metal\" (1989) and \"Underground Metal 2\" (1989).  As a bonus, another album released by Regency along the preceding metal line was \"Classic Metal\" (1990).  As far as the title \"\"California Metal\"\" implies, all of the artists participating on the project come from the state of music in question and bring a variety of metal styles ranging from classic metal, melodic metal, speed metal and commercial hard rock to it.  What makes \"California Metal\" such a noteworthy release, nevertheless, is the fact it introduced several bands that in time would become household names in the growing Christian rock, hard rock and metal music communities: \"Gardian\" (soon to correctly rename itself as \"Guardian\"), Deliverance and Neon Cross.  Other artists participating on the project include Barren Cross (who debuted the previous year with its Star Song release \"Rock For The King\") and Mastedon which is the studio project of former Kansas vocalist John Elefante and his brother Dino.  Hero was the only band appearing on the album not to go on and make a name for itself."
+    ],
+    "generated_answer": "The band referred to as \"the Radiohead of metal\" is not explicitly stated in the given context, however, it is likely referring to Deliverance.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.8674384355545044,
+    "mean_prob": 0.633171796798706,
+    "min_prob": 0.09835504740476608,
+    "sds": 1.017776370048523,
+    "hallucinated": null
+  },
+  {
+    "id": 59,
+    "ds_index": 371,
+    "question": "What country does Eric A. Sykes and Eccles, Greater Manchester have ion common?",
+    "gold_answer": "England",
+    "context": [
+      "Eccles (/\u02c8\u025bk\u0259lz/; pop.  38,756 (2011)) is a town in Greater Manchester, England, 2.7 mi west of Salford and 3.7 mi west of Manchester city centre, between the M602 motorway to the north and the Manchester Ship Canal to the south."
+    ],
+    "generated_answer": "They both have a connection to England.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.271530866622925,
+    "mean_prob": 0.5386094450950623,
+    "min_prob": 0.13089773058891296,
+    "sds": 1.2493672370910645,
+    "hallucinated": null
+  },
+  {
+    "id": 60,
+    "ds_index": 6888,
+    "question": "The subject of the biography \"Name Dropper\" was born in what year?",
+    "gold_answer": "1961",
+    "context": [
+      "Frank Girardot (born 1961, Detroit, Michigan) is an American author, journalist, victim advocate, and radio host.  He is best known for \"Name Dropper\" his biography of serial imposter Christian Gerhartsreiter.  He is CEO of Pegasus Communications, LLC and the former editor and columnist of the San Gabriel Valley News Group."
+    ],
+    "generated_answer": "Christian Gerhartsreiter, the subject of Frank Girardot's biography \"Name Dropper\", was born in 1961.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2810819149017334,
+    "mean_prob": 0.856669008731842,
+    "min_prob": 0.07314138859510422,
+    "sds": 0.5637207627296448,
+    "hallucinated": null
+  },
+  {
+    "id": 61,
+    "ds_index": 3869,
+    "question": "What actor iin the 1999 remake of \"The Mummy\" appears in Drool?",
+    "gold_answer": "Oded Fehr",
+    "context": [
+      "The Mummy Returns is a 2001 American action-adventure fantasy film written and directed by Stephen Sommers, starring Brendan Fraser, Rachel Weisz, John Hannah, Arnold Vosloo, Oded Fehr, Patricia Vel\u00e1squez, and Dwayne \"The Rock\" Johnson.  The film is a sequel to the 1999 film \"The Mummy\"."
+    ],
+    "generated_answer": "The actor from the 1999 remake of \"The Mummy\" who appears in \"Drool\" is Arnold Vosloo.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3726093769073486,
+    "mean_prob": 0.8001728653907776,
+    "min_prob": 0.15274515748023987,
+    "sds": 0.9696276783943176,
+    "hallucinated": null
+  },
+  {
+    "id": 62,
+    "ds_index": 6355,
+    "question": "Pajottenland has historically provided beers that include are fermented through yeasts native to what valley?",
+    "gold_answer": "Zenne",
+    "context": [
+      "American wild ale generally refers to beers brewed in America using yeast or bacteria in addition to \"Saccharomyces cerevisiae\" for fermentation.  Such beers may be similar to traditional beers such as Lambic and Oud bruin, and are typically fermented using a strain of \"brettanomyces\" for part or all of the fermentation.  The use of brettanomyces can result in a \"funky\" flavor profile.  Examples include Jolly Pumpkin Perseguidor, Avery 15 and Brabant, Ommegang Ommegeddon."
+    ],
+    "generated_answer": "Pajottenland has historically provided beers that include are fermented through yeasts native to the Lambic valley.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.442674160003662,
+    "mean_prob": 0.8126919269561768,
+    "min_prob": 0.09800580143928528,
+    "sds": 0.8770069479942322,
+    "hallucinated": null
+  },
+  {
+    "id": 63,
+    "ds_index": 4713,
+    "question": "What is the name of the role that Cleo Demetriou played in the series So Awkward ? ",
+    "gold_answer": "Lily Hampton",
+    "context": [
+      "Carlo Buccirosso (1 May 1954 in Naples, Italy) is an Italian actor, film director and comedian best known for his roles in Il divo (2008), Un'estate ai Caraibi (2009) and Un ciclone in famiglia (2006-2008), The Great Beauty (2013)."
+    ],
+    "generated_answer": "I can't answer that question as it is not related to the provided context about Carlo Buccirosso.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.5636523962020874,
+    "mean_prob": 0.7075269818305969,
+    "min_prob": 0.21852514147758484,
+    "sds": 0.9578206539154053,
+    "hallucinated": null
+  },
+  {
+    "id": 64,
+    "ds_index": 1192,
+    "question": "Which canal began operating first, the Carondelet Canal or the Miami and Erie Canal?",
+    "gold_answer": "Carondelet Canal",
+    "context": [
+      "The Miami and Erie Canal was a canal in Ohio that ran about 274 mi ; it was constructed from Cincinnati to Toledo to create a water route from the Ohio River to Lake Erie.  Construction on the canal began in 1825 and was completed in 1845 at a cost to the state government of $8,062,680.07.  At its peak, it included 19 aqueducts, three guard locks, 103 canal locks, multiple feeder canals, and a few man-made water reservoirs.  The canal climbed 395 ft above Lake Erie and 513 ft above the Ohio River to reach a topographical peak called the Loramie Summit, which extended 19 mi between New Bremen, Ohio to lock 1-S in Lockington, north of Piqua, Ohio.  Boats up to 80 feet long were towed along the canal by mules, horses, or oxen walking on a prepared towpath along the bank, at a rate of four to five miles per hour."
+    ],
+    "generated_answer": "There is no mention of the Carondelet Canal in the provided context. The Miami and Erie Canal began operating in 1845 after its completion.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.5839375257492065,
+    "mean_prob": 0.7443223595619202,
+    "min_prob": 0.04573696106672287,
+    "sds": 0.9149913787841797,
+    "hallucinated": null
+  },
+  {
+    "id": 65,
+    "ds_index": 4567,
+    "question": "Which group did Masta Kill released Selling My Soul under?",
+    "gold_answer": "Wu-Tang Clan",
+    "context": [
+      "Jamel Irief (born Elgin Turner; August 18, 1969), better known by his stage name Masta Killa, is an American rapper and member of the Wu-Tang Clan.  Though one of the lesser-known members of the group (he was featured on only one track on their 1993 debut album \"Enter the Wu-Tang (36 Chambers)\"), he has been prolific on Clan group albums and solo projects since the mid-1990s.  He released his debut album \"No Said Date\" in 2004 to positive reviews, and has since released three additional albums."
+    ],
+    "generated_answer": "Masta Killa released \"Selling My Soul\" under the Wu-Tang Clan.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.5642694234848022,
+    "mean_prob": 0.8238487839698792,
+    "min_prob": 0.005454883445054293,
+    "sds": 0.8181989192962646,
+    "hallucinated": null
+  },
+  {
+    "id": 66,
+    "ds_index": 7058,
+    "question": "Which is a black-and-white film, Flying Padre or Inside Job?",
+    "gold_answer": "Flying Padre",
+    "context": [
+      "Flying Padre is a 1951 short subject black-and-white documentary film.  It is the second film directed by Stanley Kubrick.  The film is nine minutes long."
+    ],
+    "generated_answer": "Flying Padre is a black-and-white film. There is no information provided about Inside Job being related to Flying Padre or Stanley Kubrick.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.8098379373550415,
+    "mean_prob": 0.7003470659255981,
+    "min_prob": 0.011202113702893257,
+    "sds": 0.702610194683075,
+    "hallucinated": null
+  },
+  {
+    "id": 67,
+    "ds_index": 751,
+    "question": "Of which band was the singer who released the record I Get Weak once a member ?",
+    "gold_answer": "The Go-Go's,",
+    "context": [
+      "\"I Get Weak\" is a pop song written by Diane Warren and produced by Rick Nowels for Belinda Carlisle's second album \"Heaven on Earth\".  The song reached number 2 in the US, behind Rick Astley's \"Never Gonna Give You Up\", and number 10 in the UK in 1988."
+    ],
+    "generated_answer": "The singer who released the record \"I Get Weak\" was Belinda Carlisle, who was a member of the band The Go-Go's.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.1707770824432373,
+    "mean_prob": 0.8764793872833252,
+    "min_prob": 0.43071234226226807,
+    "sds": 0.6485263109207153,
+    "hallucinated": null
+  },
+  {
+    "id": 68,
+    "ds_index": 5531,
+    "question": "Steve Denton and Albert Costa are both tennis players, which one began playing at the age if five?",
+    "gold_answer": "Costa",
+    "context": [
+      "Steve Denton (born September 5, 1956, in Kingsville, Texas) is a former professional tennis player for the ATP Tour.  He is currently the head men's tennis coach at Texas A&M University."
+    ],
+    "generated_answer": "There is no information provided in the context about Albert Costa's age when he began playing tennis.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.5311640501022339,
+    "mean_prob": 0.7030519843101501,
+    "min_prob": 0.25328290462493896,
+    "sds": 1.1871798038482666,
+    "hallucinated": null
+  },
+  {
+    "id": 69,
+    "ds_index": 2485,
+    "question": "Who is the mother of Mary, Crown Princess of Denmark's husband?",
+    "gold_answer": "Queen Margrethe II",
+    "context": [
+      "Mary, Crown Princess of Denmark, Countess of Monpezat, {'1': \", '2': \", '3': 'R.E.', '4': \"} (Mary Elizabeth; \"n\u00e9e\" Donaldson; born 5 February 1972) is the wife of Frederik, Crown Prince of Denmark.  Frederik is the heir apparent to the throne, which means that should Frederik succeed, she will automatically become Queen of Denmark."
+    ],
+    "generated_answer": "Mary, Crown Princess of Denmark's husband, Frederik, Crown Prince of Denmark, is the son of Queen Margrethe II of Denmark and Prince Henrik of Denmark.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2439002990722656,
+    "mean_prob": 0.8551895022392273,
+    "min_prob": 0.13767775893211365,
+    "sds": 0.5765950083732605,
+    "hallucinated": null
+  },
+  {
+    "id": 70,
+    "ds_index": 7337,
+    "question": "Which 2003 action-adventure platforming video game was written by Reid Harrison?",
+    "gold_answer": "Tak and the Power of Juju",
+    "context": [
+      "Adventure!  is a pulp action role-playing game originally printed by White Wolf Game Studio, the third and last book in the Trinity Universe line of games.  The game, printed in black and white on pulp-like sepia paper to resemble a period piece, was conceived as a one-book game line, and was never supported by official supplements.  Despite having a vocal fanbase, the Trinity Universe line was discontinued shortly after the game's publication; a d20 system version was released in 2004.  In 2002, \"Adventure!\"  won the Origins Award for \"Best Role-Playing Game of 2001\".  Onyx Path Publishing has recently acquired the rights to the Trinity Universe and has announced its intention to release a new edition of \"Adventure!\""
+    ],
+    "generated_answer": "I'm not able to find any information about a 2003 action-adventure platforming video game written by Reid Harrison.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2794175148010254,
+    "mean_prob": 0.8204458355903625,
+    "min_prob": 0.3094959259033203,
+    "sds": 0.9939180612564087,
+    "hallucinated": null
+  },
+  {
+    "id": 71,
+    "ds_index": 2712,
+    "question": "The company that created the Data Universal Numbering System has a database that contains how many business records?",
+    "gold_answer": "265 million",
+    "context": [
+      "A numbered company is a corporation, most commonly found in Canada, given a generic name based on its sequentially-assigned corporation number.  For instance, an entity incorporated under the Canada Business Corporations Act and assigned the corporation number 1234567 would be entitled to register \"1234567 Canada Inc.\" as its legal name.  Similarly, in Australia, a company assigned the Australian Company Number 123 456 789 upon registration can have its legal name as \"123 456 789 Pty Ltd\"."
+    ],
+    "generated_answer": "The company that created the Data Universal Numbering System (DUNS) is Dun & Bradstreet. Dun & Bradstreet has a database that contains over 260 million business records.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2803955078125,
+    "mean_prob": 0.8426274061203003,
+    "min_prob": 0.18630246818065643,
+    "sds": 1.037053108215332,
+    "hallucinated": null
+  },
+  {
+    "id": 72,
+    "ds_index": 4966,
+    "question": "What year did the father of Willem van Oldenbarnevelt die?",
+    "gold_answer": "1619",
+    "context": [
+      "Adriaen van de Velde (bapt.  30 November 1636, Amsterdambur.  21 January 1672, Amsterdam), was a Dutch animal and landscape painter, son of Willem van de Velde the Elder and brother of Willem van de Velde the Younger, the marine painter."
+    ],
+    "generated_answer": "There is no information in the provided context about the year the father of Willem van Oldenbarnevelt died. However, the context does mention the father of Adriaen van de Velde, Willem van de Velde the Elder.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.400937795639038,
+    "mean_prob": 0.784908652305603,
+    "min_prob": 0.0951458066701889,
+    "sds": 0.7383829951286316,
+    "hallucinated": null
+  },
+  {
+    "id": 73,
+    "ds_index": 3042,
+    "question": "which American actress, singer, and songwriter too the tour of  I Stand tour ",
+    "gold_answer": "Idina Kim Menzel",
+    "context": [
+      "The I Am Tour was the third headlining concert tour by the British singer and songwriter Leona Lewis.  It was launched in support of her fifth studio album, \"I Am\" (2015).  The tour was announced on 11 September 2015 with a run of fourteen dates across Great Britain.  It began on 21 February 2016 at the Liverpool Empire Theatre and concluded on 11 March 2016 at the Plymouth Pavilions.  The leg also included two nights at the London Palladium.  The English singer-songwriter Philippa Hanna served as the support act, and the English singer-songwriter Joss Stone joined Lewis on stage as a special guest for the final show of the tour to perform a cover of \"Sisters Are Doin' It for Themselves\" by Eurythmics and Aretha Franklin."
+    ],
+    "generated_answer": "There is no information provided in the given context about an American actress, singer, and songwriter taking the I Am Tour.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4066270589828491,
+    "mean_prob": 0.7658179402351379,
+    "min_prob": 0.2367420792579651,
+    "sds": 0.9615893959999084,
+    "hallucinated": null
+  },
+  {
+    "id": 74,
+    "ds_index": 1786,
+    "question": "Chandgi Ram won a gold medal in 1970 in a continental multi-sport event held at which city ?",
+    "gold_answer": "Bangkok",
+    "context": [
+      "The Judo competition at the 1972 Summer Olympics was the return of the sport following its absence at the 1968 Summer Olympics in Mexico City.  Medals were awarded in six weight classes, and competition was restricted to men only.  Among the highlights was Willem Ruska of the Netherlands winning gold medals in both the heavyweight and open class competition, becoming the first judoka to win two olympic gold medals."
+    ],
+    "generated_answer": "I cannot verify the information about Chandgi Ram winning a gold medal in 1970.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.641560673713684,
+    "mean_prob": 0.7024907469749451,
+    "min_prob": 0.19325046241283417,
+    "sds": 0.9758643507957458,
+    "hallucinated": null
+  },
+  {
+    "id": 75,
+    "ds_index": 2815,
+    "question": "What actor from Northern Ireland born in 1983 starred in Whole Lotta Sole?",
+    "gold_answer": "Martin \"Marty\" McCann",
+    "context": [
+      "Michael Legge (born 11 December 1978) is a Northern Irish actor."
+    ],
+    "generated_answer": "I couldn't find any information about a Northern Irish actor born in 1983 starring in Whole Lotta Sole.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3134806156158447,
+    "mean_prob": 0.8130940794944763,
+    "min_prob": 0.2143668383359909,
+    "sds": 0.8955591917037964,
+    "hallucinated": null
+  },
+  {
+    "id": 76,
+    "ds_index": 2404,
+    "question": "Mr. & Mrs. Mxyzptlk is an episode of the superhero TV series that originally aired on what network?",
+    "gold_answer": "CBS",
+    "context": [
+      "The Famous Adventures of Mr. Magoo is an American adult animated sitcom, produced by United Productions of America, which aired for one season (1964 \u20131965) on the NBC network (usually on Sundays from 6:30-7:00PM Eastern).  The television series was based on the original cartoon of the same name, with Jim Backus reprising the voice over of the role he did on TV: while doing this show, he continued with the prime time show \"Gilligan's Island\"."
+    ],
+    "generated_answer": "I couldn't find any information that Mr. & Mrs. Mxyzptlk is an episode of The Famous Adventures of Mr. Magoo.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3241651058197021,
+    "mean_prob": 0.8380164504051208,
+    "min_prob": 0.09716887772083282,
+    "sds": 0.8206332325935364,
+    "hallucinated": null
+  },
+  {
+    "id": 77,
+    "ds_index": 5419,
+    "question": "What is the birthplace of the musician responsible for creating The Motion Makes Me Last?",
+    "gold_answer": "Tennessee",
+    "context": [
+      "She trained Make Music For Me, a thoroughbred horse which finished fourth in the 2010 Kentucky Derby.  Make Music For Me is known to have late speed which he used to move up from twentieth place.  This ability to close (late speed) was displayed earlier in the year in winning the 2010 Pasadena Stakes at Santa Anita Racetrack."
+    ],
+    "generated_answer": "I can't find any information about a musician responsible for creating \"The Motion Makes Me Last\" or a connection between the musician and the context provided.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.9555716514587402,
+    "mean_prob": 0.5909024477005005,
+    "min_prob": 0.14638498425483704,
+    "sds": 1.0267014503479004,
+    "hallucinated": null
+  },
+  {
+    "id": 78,
+    "ds_index": 2023,
+    "question": "In addition to the best known comic servant from Commedia dell'arte, who else is featured in La Surprise de l'amour?",
+    "gold_answer": "Columbine",
+    "context": [
+      "Harlequin ( ; Italian: \"Arlecchino\" ] , French: \"Arlequin\" ] , Old French \"Harlequin\") is the best-known of the \"zanni\" or comic servant characters from the Italian \"Commedia dell'arte\".  The role is traditionally believed to have been introduced by Zan Ganassa in the late 16th century, and was definitively popularized by the Italian actor Tristano Martinelli in Paris in 1584\u20131585 and became a stock character after Martinelli's death in 1630."
+    ],
+    "generated_answer": "The context does not mention La Surprise de l'amour, but it does mention the character of Tristano Martinelli.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.952978253364563,
+    "mean_prob": 0.6159668564796448,
+    "min_prob": 0.1527983546257019,
+    "sds": 1.061250925064087,
+    "hallucinated": null
+  },
+  {
+    "id": 79,
+    "ds_index": 6075,
+    "question": "Which super bowl that took place at the Miami Dolphins home stadium, featured the San Francisco 49ers defeating the San Diego Chargers?",
+    "gold_answer": "Super Bowl XXIX",
+    "context": [
+      "Super Bowl XIX was an American football game between the American Football Conference (AFC) champion Miami Dolphins and the National Football Conference (NFC) champion San Francisco 49ers to decide the National Football League (NFL) champion for the 1984 season.  The 49ers defeated the Dolphins by the score of 38\u201316, to win their second Super Bowl.  The game was played on January 20, 1985, at Stanford Stadium, on the campus of Stanford University in Stanford, California, a suburb of Silicon Valley within the San Francisco Bay Area."
+    ],
+    "generated_answer": "There is no information provided in the context that matches the question.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.8395791053771973,
+    "mean_prob": 0.6241815090179443,
+    "min_prob": 0.10554589331150055,
+    "sds": 1.3741599321365356,
+    "hallucinated": null
+  },
+  {
+    "id": 80,
+    "ds_index": 1123,
+    "question": "Who built the diesel railcars operated by the publicly owned corporation that provided suburban train, tram and bus services in Adelaide, South Australia starting in July 1994?",
+    "gold_answer": "Comeng and Clyde Engineering",
+    "context": [
+      "The 2000/2100 class were a class of diesel railcars operated by Adelaide Metro.  They were built by Comeng, Granville in 1979-1980."
+    ],
+    "generated_answer": "The 2000/2100 class diesel railcars were built by Comeng, Granville in 1979-1980. However, the question asks about the railcars operated by Adelaide Metro, which was established in 1994.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3729586601257324,
+    "mean_prob": 0.7982510328292847,
+    "min_prob": 0.2050362527370453,
+    "sds": 0.456229031085968,
+    "hallucinated": null
+  },
+  {
+    "id": 81,
+    "ds_index": 5270,
+    "question": "Which band, A Silent Film or The Frames, has more members?",
+    "gold_answer": "The Frames",
+    "context": [
+      "The Frames are an Irish band based in Dublin.  Founded in 1990 by Glen Hansard, the band has been influential in the Dublin rock music scene.  The group has released six albums.  In addition to Hansard, the band's current lineup includes original member Colm Mac Con Iomaire, Joe Doyle, Rob Bochnik and Graham Hopkins."
+    ],
+    "generated_answer": "The Frames have more members than A Silent Film, as The Frames have at least 4 members, while A Silent Film typically has 3 members.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.9224764108657837,
+    "mean_prob": 0.6259069442749023,
+    "min_prob": 0.10614439845085144,
+    "sds": 1.0551941394805908,
+    "hallucinated": null
+  },
+  {
+    "id": 82,
+    "ds_index": 5850,
+    "question": "Charles Haughey held what position when he dissolved the list of members who were elected to the lower house of the Oireachtas of Ireland on 25 May 1989?",
+    "gold_answer": "Taoiseach of Ireland",
+    "context": [
+      "Des O'Hagan (29 March 1934 - 5 May 2015) was a prominent member of the Workers' Party of Ireland and was a founding member of the Northern Ireland Civil Rights Association."
+    ],
+    "generated_answer": "I couldn't find any information that links Charles Haughey dissolving the list of members who were elected to the lower house of the Oireachtas of Ireland on 25 May 1989.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.296146035194397,
+    "mean_prob": 0.8400490880012512,
+    "min_prob": 0.10699240118265152,
+    "sds": 0.960658848285675,
+    "hallucinated": null
+  },
+  {
+    "id": 83,
+    "ds_index": 2150,
+    "question": "What professionn does Stanley Kwan and Ken Hughes have in common?",
+    "gold_answer": "director",
+    "context": [
+      "Stanley Kwan (; born October 9, 1957) is a Hong Kong Second Wave Hong Kong film director and producer."
+    ],
+    "generated_answer": "Stanley Kwan and Ken Hughes are both film directors.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4252288341522217,
+    "mean_prob": 0.8045306205749512,
+    "min_prob": 0.1118905171751976,
+    "sds": 0.7280438542366028,
+    "hallucinated": null
+  },
+  {
+    "id": 84,
+    "ds_index": 642,
+    "question": "E! Hollywood Hold'em was hosted by a poker player of what nationality?",
+    "gold_answer": "Irish",
+    "context": [
+      "E! Hollywood Hold'em is a poker television program.  It aired in 2005 on the E! television network.  The show featured young celebrities (including co-executive producer Laura Prepon and brothers Chris and Danny Masterson) hosting single table Texas hold em tournaments at their homes.  The winner of each tournament pocketed $10,000.  Professional poker player Phil Laak served as host and dealer, offering occasional tips to the players and home viewers."
+    ],
+    "generated_answer": "Phil Laak, the host and dealer of E! Hollywood Hold'em, is an American poker player.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.239006757736206,
+    "mean_prob": 0.8447872400283813,
+    "min_prob": 0.29692038893699646,
+    "sds": 0.6962808966636658,
+    "hallucinated": null
+  },
+  {
+    "id": 85,
+    "ds_index": 6905,
+    "question": "\"The Parasite\" is a kind of text that has how many words?",
+    "gold_answer": "between 7,500 and 40,000",
+    "context": [
+      "Parasite is a 1982 science fiction horror film produced and directed by Charles Band.  The film is set in a dystopian, post-apocalyptic future in which the United States has been taken over by a criminal organization who unwittingly create an uncontrollable deadly parasite and set it loose on the population.  The film received negative reviews from film critics, who viewed it as a poorly written B-movie with unconvincing special effects.  The film is notable in that it features actress Demi Moore in her first major film role."
+    ],
+    "generated_answer": "The text about \"The Parasite\" is a paragraph with approximately 96 words.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 2.045511245727539,
+    "mean_prob": 0.6223371624946594,
+    "min_prob": 0.09767522662878036,
+    "sds": 0.9817246794700623,
+    "hallucinated": null
+  },
+  {
+    "id": 86,
+    "ds_index": 1619,
+    "question": "Where's Officer Tuba? is a comedy film that stars which Hong Kong-based actress?",
+    "gold_answer": "Joey Wong Cho-Yee",
+    "context": [
+      "Where's Officer Tuba?  is a 1986 Hong Kong action comedy film directed by Philip Chan and Ricky Lau and starring Sammo Hung, David Chiang, Jacky Cheung and Joey Wong.  The film was later remade as \"Look Out, Officer! \" in 1990 which starred Stephen Chow."
+    ],
+    "generated_answer": "Where's Officer Tuba? is a comedy film that stars Joey Wong, a Hong Kong-based actress.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.1658166646957397,
+    "mean_prob": 0.9226741790771484,
+    "min_prob": 0.08640603721141815,
+    "sds": 0.5281001925468445,
+    "hallucinated": null
+  },
+  {
+    "id": 87,
+    "ds_index": 5741,
+    "question": "When did the 2005 Ladbrokes.com World Darts Championship begin?",
+    "gold_answer": "the day after Christmas Day",
+    "context": [
+      "The 2005 Stan James World Matchplay was the 12th staging of the major darts tournament by the Professional Darts Corporation.  It was held at the Winter Gardens, Blackpool between July 24 and July 30, 2005."
+    ],
+    "generated_answer": "There is no information provided about the 2005 Ladbrokes.com World Darts Championship in the given context.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.432535171508789,
+    "mean_prob": 0.7874581813812256,
+    "min_prob": 0.10378377139568329,
+    "sds": 0.8138387799263,
+    "hallucinated": null
+  },
+  {
+    "id": 88,
+    "ds_index": 715,
+    "question": "Into Dust is a song by the alternative rock band formed in which city?",
+    "gold_answer": "Santa Monica, California",
+    "context": [
+      "Come to Dust is a Post Trip Hop album by UK band Second Person."
+    ],
+    "generated_answer": "I couldn't find any information on the city where the alternative rock band formed, as the context only mentions a UK band named Second Person with an album called Come to Dust.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.883130431175232,
+    "mean_prob": 0.6107384562492371,
+    "min_prob": 0.11090180277824402,
+    "sds": 0.7935212850570679,
+    "hallucinated": null
+  },
+  {
+    "id": 89,
+    "ds_index": 4414,
+    "question": " Park Seo-joon is best known for his role in a series that premiered on what month and day?",
+    "gold_answer": "May 22",
+    "context": [
+      "Joon Park (born Bak Jun-hyeong, Hangul:\u00a0\ubc15\uc900\ud615 ; born July 20, 1969) is a Korean-American singer and actor based in South Korea.  As a singer, he is best known as the leader and rapper of the Korean pop group g.o.d."
+    ],
+    "generated_answer": "I can't find any information about a person named Park Seo-joon being associated with the provided context.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.926922082901001,
+    "mean_prob": 0.6240940093994141,
+    "min_prob": 0.10389790683984756,
+    "sds": 0.8846170902252197,
+    "hallucinated": null
+  },
+  {
+    "id": 90,
+    "ds_index": 4473,
+    "question": "Which river flows next to the German town where the music project \"I Drink My Coffee Alone\" by Alex Gazin originates from?",
+    "gold_answer": "Moselle",
+    "context": [
+      "The Song of the Rivers (German: Das Lied der Str\u00f6me ) is a 1954 documentary film production by the East Germany's Deutsche Film-Aktiengesellschaft (DEFA).  Dutch filmmaker Joris Ivens was the leading director.  The sprawling film celebrates international workers movements along six major rivers: the Volga, Mississippi, Ganges, Nile, Amazon and the Yangtze.  Shot in many countries by different film crews, and later edited by Ivens, Song of the Rivers begins with a lyrical montage of landscapes and laborers and proceeds to glorify labor and modern industrial machinery.  The musical score is by Dmitri Shostakovich, with lyrics written by Berthold Brecht, and songs performed by German communism's star Ernst Busch and famous American actor, singer and activist Paul Robeson who also narrates.  Song of the Rivers is an ode to \"international solidarity\"."
+    ],
+    "generated_answer": "There is no information in the provided context about the river flowing next to the German town where the music project \"I Drink My Coffee Alone\" by Alex Gazin originates from. The context only discusses the documentary film \"The Song of the Rivers\" and its content.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2966296672821045,
+    "mean_prob": 0.8160985708236694,
+    "min_prob": 0.179181769490242,
+    "sds": 0.8574728965759277,
+    "hallucinated": null
+  },
+  {
+    "id": 91,
+    "ds_index": 1783,
+    "question": "What did the main character in Unbroken do in the Olympics?",
+    "gold_answer": "Olympic distance runner",
+    "context": [
+      "Maximilian Reinelt (born 24 August 1988) is a German rower.  He was part of the team that won the gold medal in the men's eight competition at the 2012 Summer Olympics in London.  At the 2016 Summer Olympics in Rio de Janeiro, he competed as part of Germany's men's eight team which won the silver medal."
+    ],
+    "generated_answer": "There is no information about the main character in Unbroken participating in the Olympics in the given context. The context only mentions Maximilian Reinelt, a German rower, and his Olympic achievements.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4076420068740845,
+    "mean_prob": 0.7627953886985779,
+    "min_prob": 0.2105126827955246,
+    "sds": 0.8004463911056519,
+    "hallucinated": null
+  },
+  {
+    "id": 92,
+    "ds_index": 6497,
+    "question": "Were Rosario Castellanos and Lucy Maud Montgomery both authors?",
+    "gold_answer": "yes",
+    "context": [
+      "Rea Wilmshurst (August 10, 1941 \u2013 March 22, 1996) graduated from the University of Toronto with a degree in English in 1970.  She went on to edit eight volumes of Lucy Maud Montgomery's previously unknown short stories and publish them through McClelland & Stewart.  In 1985, she published a bibliography of Montgomery's short stories, poems, and articles.  Wilmshurst was also an editorial assistant for the projects that compiled the Collected Works of John Stuart Mill and the Collected Works of Samuel Taylor Coleridge."
+    ],
+    "generated_answer": "No, they were not both authors mentioned in the context. Lucy Maud Montgomery was an author, while Rosario Castellanos is not mentioned in the context.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.5321787595748901,
+    "mean_prob": 0.7175965309143066,
+    "min_prob": 0.13517412543296814,
+    "sds": 0.9423198699951172,
+    "hallucinated": null
+  },
+  {
+    "id": 93,
+    "ds_index": 517,
+    "question": "Which avant-garde Japanese composer studied with John Cage and wrote Music for Electric Metronomes?",
+    "gold_answer": "Toshi Ichiyanagi",
+    "context": [
+      "John Milton Cage Jr. (September 5, 1912 \u2013 August 12, 1992) was an American composer, music theorist, writer, philosopher, and artist.  A pioneer of indeterminacy in music, electroacoustic music, and non-standard use of musical instruments, Cage was one of the leading figures of the post-war avant-garde.  Critics have lauded him as one of the most influential composers of the 20th century.  He was also instrumental in the development of modern dance, mostly through his association with choreographer Merce Cunningham, who was also Cage's romantic partner for most of their lives."
+    ],
+    "generated_answer": "The answer is not specified in the given context. However, based on general knowledge, the Japanese composer who studied with John Cage and wrote \"Music for Electric Metronomes\" is likely Takehisa Kosugi.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.5227742195129395,
+    "mean_prob": 0.742747962474823,
+    "min_prob": 0.07721631228923798,
+    "sds": 1.0511659383773804,
+    "hallucinated": null
+  },
+  {
+    "id": 94,
+    "ds_index": 1970,
+    "question": "Rafael de Souza Pereira is a defensive midfielder for what organization that is the top level of the Mexican football league system?",
+    "gold_answer": "Liga MX",
+    "context": [
+      "Miguel Fernando Pereira Rodrigues (born 16 March 1993 in F\u00e1tima) is a Portuguese footballer who plays for Greek club Panetolikos F.C. as a central defender."
+    ],
+    "generated_answer": "I couldn't find any information about a footballer named Rafael de Souza Pereira. However, I can tell you that the top level of the Mexican football league system is Liga MX, which is the top division of Mexican football.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.3664804697036743,
+    "mean_prob": 0.7776739001274109,
+    "min_prob": 0.2067941278219223,
+    "sds": 0.8215095400810242,
+    "hallucinated": null
+  },
+  {
+    "id": 95,
+    "ds_index": 575,
+    "question": "The 2011 La Manga Cup was won by Viking, who beat which Norwegian football club from the town of Kristiansand, currently playing in Tippeligaen having been promoted from Adeccoligaen in 2012?",
+    "gold_answer": "IK Start",
+    "context": [
+      "The 2013 season was Troms\u00f8's 11th consecutive year in Tippeligaen, and their 27th season in the top flight of Norwegian football, a run that came to an end as they were relegated to the Adeccoligaen after finishing 15th.  They also participated in the 2013 Norwegian Football Cup, reaching the Fourth Round before defeat to Rosenborg.  They also played in the 2013\u201314 UEFA Europa League, reaching the Group Stage before finishing bottom behind Tottenham Hotspur, Anzhi Makhachkala and Sheriff Tiraspol.  It was their first season under the management of Agnar Christensen, but he was replaced by Steinar Nilsen on 1 October 2013."
+    ],
+    "generated_answer": "The answer is not related to the provided context. The 2011 La Manga Cup was won by Viking, who beat Start.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.9286421537399292,
+    "mean_prob": 0.617010772228241,
+    "min_prob": 0.1347290426492691,
+    "sds": 1.1268599033355713,
+    "hallucinated": null
+  },
+  {
+    "id": 96,
+    "ds_index": 1333,
+    "question": "Umi-a-Liloa inherited authority of a kind which is a belief in what?",
+    "gold_answer": "belief in many deities and spirits",
+    "context": [
+      "\u02bbUmi-a-L\u012bloa (fifteenth century) was a ruling ali'i-ai-moku (district high chief of Hawai'i) who inherited religious authority of Hawai'i from his father, High Chief Liloa, whose line is traced, unbroken to Hawaiian \"creation\".  His mother was Akahi.  She was of a lesser line of chiefs who Liloa had fallen in love with when he discovered her bathing in a river.  He became Chief after the death of his half-brother H\u0101kau, who inherited the lands of his father to rule.  Umi-a-Liloa was considered a just ruler, religious and the first to unite almost all of the Big Island.  The legend of Umi is one of the most popular hero sagas in Hawaiian history.  While there is probably embellishment to the story, as many sagas do, a portion of historic accuracy remains."
+    ],
+    "generated_answer": "Umi-a-Liloa inherited religious authority of Hawai'i from his father, High Chief Liloa, which is a belief in the Hawaiian creation myth.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4023301601409912,
+    "mean_prob": 0.7803009152412415,
+    "min_prob": 0.13657896220684052,
+    "sds": 0.5012567639350891,
+    "hallucinated": null
+  },
+  {
+    "id": 97,
+    "ds_index": 281,
+    "question": "The English actor Kris Marshall played which character in the highly rated comedy-drama television series \"Death in Paradise\"?",
+    "gold_answer": "DI Humphrey Goodman",
+    "context": [
+      "Death in Paradise is a British-French crime comedy-drama television series created by Robert Thorogood, starring Ben Miller (series 1\u20133), Kris Marshall (series 3\u20136) & Ardal O'Hanlon (series 6\u2013present).  The programme is a joint UK and French production filmed on the French Caribbean island of Guadeloupe and broadcast on BBC One in the United Kingdom and France 2 in France.  \"Death in Paradise\" has enjoyed high ratings, leading to repeated renewals.  A sixth series began broadcasting on 5 January 2017 and aired its finale on 23 February, with the subsequent DVD release occurring three days later on 27 February 2017.  The show will return in 2018 for a seventh series."
+    ],
+    "generated_answer": "Kris Marshall played the role of Humphrey Goodman in the series \"Death in Paradise\".",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.4208543300628662,
+    "mean_prob": 0.7680042386054993,
+    "min_prob": 0.24571877717971802,
+    "sds": 0.9288309812545776,
+    "hallucinated": null
+  },
+  {
+    "id": 98,
+    "ds_index": 2656,
+    "question": "The 249th episode of \"The Simpsons\" was aired on what date?",
+    "gold_answer": "November 1, 2000",
+    "context": [
+      "\"The Simpsons\"' nineteenth season originally aired on the Fox network between September 23, 2007 and May 18, 2008."
+    ],
+    "generated_answer": "The 249th episode of \"The Simpsons\" was aired on April 13, 2008.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.7694981098175049,
+    "mean_prob": 0.7017407417297363,
+    "min_prob": 0.07931115478277206,
+    "sds": 0.5965760350227356,
+    "hallucinated": null
+  },
+  {
+    "id": 99,
+    "ds_index": 1826,
+    "question": "In what city was the second bowl game to air on all the \"big four\" television networks played?",
+    "gold_answer": "Miami",
+    "context": [
+      "The 2007 Tostitos Fiesta Bowl was a college football bowl game played as part of the 2006\u20132007 Bowl Championship Series (BCS) of the 2006 NCAA Division I FBS football season.  The game was played on January 1, 2007 at its new venue, the University of Phoenix Stadium in Glendale, Arizona.  The matchup pitted the Big 12 champion No. 8 Oklahoma Sooners against the WAC champion No. 9 Boise State Broncos.  The contest was televised on Fox.  With this broadcast, the Fiesta Bowl became the first bowl game to air on all the \"big four\" television networks (ABC, CBS, Fox and NBC) \u2013 the Orange Bowl became the second, the following night."
+    ],
+    "generated_answer": "The Orange Bowl was the second bowl game to air on all the \"big four\" television networks, and it was played the following night after the 2007 Tostitos Fiesta Bowl.",
+    "retrieval_k": 1,
+    "seed": 3,
+    "perplexity": 1.2565423250198364,
+    "mean_prob": 0.8409810066223145,
+    "min_prob": 0.30980876088142395,
+    "sds": 0.5434209108352661,
+    "hallucinated": null
+  }
+]

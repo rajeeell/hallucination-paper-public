@@ -1,0 +1,1702 @@
+[
+  {
+    "id": 0,
+    "ds_index": 6147,
+    "question": "What tribe did Toghrul lead?",
+    "gold_answer": "the Keraites",
+    "context": [
+      "The Hephthalites (or Ephthalites), also known as the White Huns, were a nomadic confederation in Central Asia during the late antiquity period. The White Huns established themselves in modern-day Afghanistan by the first half of the 5th century. Led by the Hun military leader Toramana, they overran the northern region of Pakistan and North India. Toramana's son Mihirakula, a Saivite Hindu, moved up to near Pataliputra to the east and Gwalior to the central India. Hiuen Tsiang narrates Mihirakula's merciless persecution of Buddhists and destruction of monasteries, though the description is disputed as far as the authenticity is concerned. The Huns were defeated by the Indian kings Yasodharman of Malwa and Narasimhagupta in the 6th century. Some of them were driven out of India and others were assimilated in the Indian society."
+    ],
+    "generated_answer": "There is no information provided about a tribe led by Toghrul in the given context.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.4883790016174316,
+    "mean_prob": 0.74671471118927,
+    "min_prob": 0.18302036821842194,
+    "sds": 1.063624382019043,
+    "hallucinated": null
+  },
+  {
+    "id": 1,
+    "ds_index": 191,
+    "question": "Prior to Super Bowl 50, when were the Carolina Panthers last there?",
+    "gold_answer": "Super Bowl XXXVIII.",
+    "context": [
+      "The Seahawks' CenturyLink Field has hosted NFL playoff games in 2006, 2008, 2011, 2014 and 2015. The Seahawks have advanced to the Super Bowl three times: 2005, 2013 and 2014. They defeated the Denver Broncos 43-8 to win their first Super Bowl championship in Super Bowl XLVIII, but lost 24-28 against the New England Patriots in Super Bowl XLIX. Seattle Sounders FC has played in Major League Soccer since 2009, sharing CenturyLink Field with the Seahawks, as a continuation of earlier teams in the lower divisions of American soccer. The Sounders have not won the MLS Cup but have, however, won the MLS Supporters' Shield in 2014 and the Lamar Hunt U.S. Open Cup on four occasions: 2009, 2010, 2011, and 2014."
+    ],
+    "generated_answer": "There is no information in the provided context about the Carolina Panthers visiting CenturyLink Field prior to Super Bowl 50.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.313135027885437,
+    "mean_prob": 0.8122835755348206,
+    "min_prob": 0.24944952130317688,
+    "sds": 1.0668761730194092,
+    "hallucinated": null
+  },
+  {
+    "id": 2,
+    "ds_index": 3515,
+    "question": "What was the title of Philo's work?",
+    "gold_answer": "Pneumatica",
+    "context": [
+      "A Latin translation of Ibn Tufail's work, Philosophus Autodidactus, first appeared in 1671, prepared by Edward Pococke the Younger, followed by an English translation by Simon Ockley in 1708, as well as German and Dutch translations. These translations might have later inspired Daniel Defoe to write Robinson Crusoe, regarded as the first novel in English. Philosophus Autodidactus, continuing the thoughts of philosophers such as Aristotle from earlier ages, inspired Robert Boyle to write his own philosophical novel set on an island, The Aspiring Naturalist."
+    ],
+    "generated_answer": "Philo's work was titled Philosophus Autodidactus.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5180827379226685,
+    "mean_prob": 0.7466789484024048,
+    "min_prob": 0.21542401611804962,
+    "sds": 0.8897136449813843,
+    "hallucinated": null
+  },
+  {
+    "id": 3,
+    "ds_index": 1578,
+    "question": "To where were the belongings taken?",
+    "gold_answer": "Manhattan Storage and Warehouse Company",
+    "context": [
+      "Perhaps the most famous raid by Oeselian pirates occurred in 1187, with the attack on the Swedish town of Sigtuna by Finnic raiders from Couronia and Oesel. Among the casualties of this raid was the Swedish archbishop Johannes. The city remained occupied for some time, contributing to its decline as a center of commerce in the 13th century and the rise of Uppsala, Visby, Kalmar and Stockholm. The Livonian Chronicle describes the Oeselians as using two kinds of ships, the piratica and the liburna. The former was a warship, the latter mainly a merchant ship. A piratica could carry approximately 30 men and had a high prow shaped like a dragon or a snakehead and a rectangular sail. Viking-age treasures from Estonia mostly contain silver coins and bars. Saaremaa has the richest finds of Viking treasures after Gotland in Sweden. This strongly suggests that Estonia was an important transit country during the Viking era."
+    ],
+    "generated_answer": "The question is incomplete, but based on the context, it seems like you are asking where the Viking treasures from Estonia were taken. \n\nThe Viking treasures from Estonia, specifically from Saaremaa, were taken to Gotland in Sweden, as it has the richest finds of Viking treasures after Saaremaa.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5580978393554688,
+    "mean_prob": 0.7114972472190857,
+    "min_prob": 0.038093727082014084,
+    "sds": 0.8323508501052856,
+    "hallucinated": null
+  },
+  {
+    "id": 4,
+    "ds_index": 7848,
+    "question": "Which Australian TV station has run Doctor Who since 1965?",
+    "gold_answer": "Australian Broadcasting Corporation (ABC)",
+    "context": [
+      "Television transmissions resumed from Alexandra Palace in 1946. The BBC Television Service (renamed \"BBC tv\" in 1960) showed popular programming, including drama, comedies, documentaries, game shows, and soap operas, covering a wide range of genres and regularly competed with ITV to become the channel with the highest ratings for that week. The channel also introduced the science fiction show Doctor Who on 23 November 1963 - at 17:16 - which went on to become one of Britain's most iconic and beloved television programmes."
+    ],
+    "generated_answer": "There is no information in the provided context that suggests an Australian TV station has run Doctor Who since 1965.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3119572401046753,
+    "mean_prob": 0.8083096146583557,
+    "min_prob": 0.32648882269859314,
+    "sds": 0.9801550507545471,
+    "hallucinated": null
+  },
+  {
+    "id": 5,
+    "ds_index": 6151,
+    "question": "Which shaman's proclamation aided Tem\u00fcjin's rise? ",
+    "gold_answer": "Kokochu",
+    "context": [
+      "Taira Kiyomori emerged as the real power in Japan following the Minamoto's destruction, and he would remain in command for the next 20 years. He gave his daughter Tokuko in marriage to the young emperor Takakura, who died at only 19, leaving their infant son Antoku to succeed to the throne. Kiyomori filled no less than 50 government posts with his relatives, rebuilt the Inland Sea, and encouraged trade with Sung China. He also took aggressive actions to safeguard his power when necessary, including the removal and exile of 45 court officials and the razing of two troublesome temples, Todai-ji and Kofuku-ji."
+    ],
+    "generated_answer": "There is no information in the provided context about a shaman's proclamation aiding Tem\u00fcjin's rise. The context is about Taira Kiyomori's rise to power in Japan.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2815141677856445,
+    "mean_prob": 0.8262968063354492,
+    "min_prob": 0.25219613313674927,
+    "sds": 1.0553823709487915,
+    "hallucinated": null
+  },
+  {
+    "id": 6,
+    "ds_index": 3899,
+    "question": "What was the advantage that the LOR method produced in the event of a spacecraft failure?",
+    "gold_answer": "spacecraft to be used as a \"lifeboat\"",
+    "context": [
+      "These decisions, apparently taken at the Luftflotte or Fliegerkorps level (see Organisation of the Luftwaffe (1933\u20131945)), meant attacks on individual targets were gradually replaced by what was, for all intents and purposes, an unrestricted area attack or Terrorangriff (Terror Attack). Part of the reason for this was inaccuracy of navigation. The effectiveness of British countermeasures against Knickebein, which was designed to avoid area attacks, forced the Luftwaffe to resort to these methods. The shift from precision bombing to area attack is indicated in the tactical methods and weapons dropped. KGr 100 increased its use of incendiaries from 13\u201328 percent. By December, this had increased to 92 percent. Use of incendiaries, which were inherently inaccurate, indicated much less care was taken to avoid civilian property close to industrial sites. Other units ceased using parachute flares and opted for explosive target markers. Captured German air crews also indicated the homes of industrial workers were deliberately targeted."
+    ],
+    "generated_answer": "There is no mention of the LOR (Launch On Range) method in the provided context.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3500139713287354,
+    "mean_prob": 0.7931598424911499,
+    "min_prob": 0.2064041942358017,
+    "sds": 1.1598535776138306,
+    "hallucinated": null
+  },
+  {
+    "id": 7,
+    "ds_index": 2411,
+    "question": "Which Germans could understand the language Luther used?",
+    "gold_answer": "northern and southern",
+    "context": [
+      "The period preceding, and contemporary with, the Protestant Reformation saw the translation of the Bible into local European languages\u2014a development that contributed to Western Christianity's split into Roman Catholicism and Protestantism due to disparities between Catholic and Protestant versions of crucial words and passages (although the Protestant movement was largely based on other things, such as a perceived need for reformation of the Roman Catholic Church to eliminate corruption). Lasting effects on the religions, cultures and languages of their respective countries have been exerted by such Bible translations as Martin Luther's into German, Jakub Wujek's into Polish, and the King James Bible's translators' into English. Debate and religious schism over different translations of religious texts remain to this day, as demonstrated by, for example, the King James Only movement."
+    ],
+    "generated_answer": "Martin Luther's translation of the Bible into German made it accessible to the common German population, allowing them to understand the language he used.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.8292745351791382,
+    "mean_prob": 0.6771930456161499,
+    "min_prob": 0.05364731326699257,
+    "sds": 0.7980455756187439,
+    "hallucinated": null
+  },
+  {
+    "id": 8,
+    "ds_index": 1103,
+    "question": "Who was Emma's brother?",
+    "gold_answer": "Duke Richard II",
+    "context": [
+      "During her grandfather's reign, Elizabeth was third in the line of succession to the throne, behind her uncle Edward, Prince of Wales, and her father, the Duke of York. Although her birth generated public interest, she was not expected to become queen, as the Prince of Wales was still young, and many assumed that he would marry and have children of his own. When her grandfather died in 1936 and her uncle succeeded as Edward VIII, she became second-in-line to the throne, after her father. Later that year Edward abdicated, after his proposed marriage to divorced socialite Wallis Simpson provoked a constitutional crisis. Consequently, Elizabeth's father became king, and she became heir presumptive. If her parents had had a later son, she would have lost her position as first-in-line, as her brother would have been heir apparent and above her in the line of succession."
+    ],
+    "generated_answer": "There is no information about an Emma in the context provided. The context mentions Elizabeth and her family members, including her father (the Duke of York) and her uncle (Edward, Prince of Wales), but does not mention a sister named Emma.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.4796608686447144,
+    "mean_prob": 0.7323843240737915,
+    "min_prob": 0.23863285779953003,
+    "sds": 1.0327345132827759,
+    "hallucinated": null
+  },
+  {
+    "id": 9,
+    "ds_index": 8297,
+    "question": "Why did Confucians like the medical field?",
+    "gold_answer": "it ensured a high income and medical ethics were compatible with Confucian virtues",
+    "context": [
+      "In the 6th century BCE, Taoist teacher Lao Tzu espoused a series of naturalistic concepts with some elements of humanistic philosophy. The Silver Rule of Confucianism from Analects XV.24, is an example of ethical philosophy based on human values rather than the supernatural. Humanistic thought is also contained in other Confucian classics, e.g., as recorded in Zuo Zhuan, Ji Liang says, \"People is the zhu (master, lord, dominance, owner or origin) of gods. So, to sage kings, people first, gods second\"; Neishi Guo says, \"Gods, clever, righteous and wholehearted, comply with human.\" Taoist and Confucian secularism contain elements of moral thought devoid of religious authority or deism however they only partly resembled our modern concept of secularism."
+    ],
+    "generated_answer": "There is no information in the given context that suggests Confucians had a particular interest in the medical field. The context discusses Confucianism's humanistic and naturalistic concepts, as well as its views on the relationship between humans and gods.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5203202962875366,
+    "mean_prob": 0.7309973835945129,
+    "min_prob": 0.10371870547533035,
+    "sds": 0.9691735506057739,
+    "hallucinated": null
+  },
+  {
+    "id": 10,
+    "ds_index": 4692,
+    "question": "Who recorded \"Walking in Fresno?\"",
+    "gold_answer": "Bob Gallion",
+    "context": [
+      "Influential gospel/R&B-influenced Aly-us released \"Time Passes On\" in 1993 (Strictly Rhythm), then later, \"Follow Me\" which received radio airplay as well as being played in clubs. Another U.S. hit which received radio play was the single \"Time for the Perculator\" by Cajmere, which became the prototype of ghetto house subgenre. Cajmere started the Cajual and Relief labels (amongst others). By the early 1990s artists such as Cajmere himself (under that name as well as Green Velvet and as producer for Dajae), DJ Sneak, Glenn Underground and others did many recordings. The 1990s saw new Chicago house artists emerge such as DJ Funk, who operates a Chicago house record label called Dance Mania. Ghetto house and acid house were other house music styles that were also started in Chicago."
+    ],
+    "generated_answer": "Unfortunately, the provided context does not mention \"Walking in Fresno\" as a song recorded by any of the artists mentioned.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5370804071426392,
+    "mean_prob": 0.7043402791023254,
+    "min_prob": 0.219112366437912,
+    "sds": 1.1703929901123047,
+    "hallucinated": null
+  },
+  {
+    "id": 11,
+    "ds_index": 10342,
+    "question": "What was the significance of victory at Forth Niagara for British?",
+    "gold_answer": "cut off the French frontier forts further to the west and south",
+    "context": [
+      "All of Britain's campaigns against New France succeeded in 1759, part of what became known as an Annus Mirabilis. Fort Niagara and Fort Carillon on 8 July 1758 fell to sizable British forces, cutting off French frontier forts further west. On 13 September 1759, following a three-month siege of Quebec, General James Wolfe defeated the French on the Plains of Abraham outside the city. The French staged a counteroffensive in the spring of 1760, with initial success at the Battle of Sainte-Foy, but they were unable to retake Quebec, due to British naval superiority following the battle of Neuville. The French forces retreated to Montreal, where on 8 September they surrendered to overwhelming British numerical superiority."
+    ],
+    "generated_answer": "The victory at Fort Niagara in 1758 cut off French frontier forts further west, limiting their ability to defend their territory. This strategic gain gave the British a significant advantage in the region.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.9119491577148438,
+    "mean_prob": 0.6531469225883484,
+    "min_prob": 0.03785846754908562,
+    "sds": 0.7465230822563171,
+    "hallucinated": null
+  },
+  {
+    "id": 12,
+    "ds_index": 9592,
+    "question": "What set is a seat added to after being allocated?",
+    "gold_answer": "constituency seats",
+    "context": [
+      "Some skyscraper buildings and other types of installation feature a destination operating panel where a passenger registers their floor calls before entering the car. The system lets them know which car to wait for, instead of everyone boarding the next car. In this way, travel time is reduced as the elevator makes fewer stops for individual passengers, and the computer distributes adjacent stops to different cars in the bank. Although travel time is reduced, passenger waiting times may be longer as they will not necessarily be allocated the next car to depart. During the down peak period the benefit of destination control will be limited as passengers have a common destination."
+    ],
+    "generated_answer": "The set is a car.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 2.3452537059783936,
+    "mean_prob": 0.4488009512424469,
+    "min_prob": 0.2428552657365799,
+    "sds": 1.2366305589675903,
+    "hallucinated": null
+  },
+  {
+    "id": 13,
+    "ds_index": 3476,
+    "question": "Are atmospheric oxygen levels going up, down, or staying the same?",
+    "gold_answer": "monitoring of atmospheric oxygen levels show a global downward trend",
+    "context": [
+      "Cold or oxygen-rich atmospheres can sustain life at pressures much lower than atmospheric, as long as the density of oxygen is similar to that of standard sea-level atmosphere. The colder air temperatures found at altitudes of up to 3 km generally compensate for the lower pressures there. Above this altitude, oxygen enrichment is necessary to prevent altitude sickness in humans that did not undergo prior acclimatization, and spacesuits are necessary to prevent ebullism above 19 km. Most spacesuits use only 20 kPa (150 Torr) of pure oxygen. This pressure is high enough to prevent ebullism, but decompression sickness and gas embolisms can still occur if decompression rates are not managed."
+    ],
+    "generated_answer": "Atmospheric oxygen levels are staying the same, as the context mentions maintaining the density of oxygen similar to that of standard sea-level atmosphere.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5987646579742432,
+    "mean_prob": 0.7384591698646545,
+    "min_prob": 0.07112722843885422,
+    "sds": 1.045387864112854,
+    "hallucinated": null
+  },
+  {
+    "id": 14,
+    "ds_index": 2265,
+    "question": "Who attempted to arrange a compromise?",
+    "gold_answer": "Karl von Miltitz",
+    "context": [
+      "In 77 BC, the senate sent one of Sulla's former lieutenants, Gnaeus Pompeius Magnus (\"Pompey the Great\"), to put down an uprising in Spain. By 71 BC, Pompey returned to Rome after having completed his mission. Around the same time, another of Sulla's former lieutenants, Marcus Licinius Crassus, had just put down the Spartacus-led gladiator/slave revolt in Italy. Upon their return, Pompey and Crassus found the populares party fiercely attacking Sulla's constitution. They attempted to forge an agreement with the populares party. If both Pompey and Crassus were elected consul in 70 BC, they would dismantle the more obnoxious components of Sulla's constitution. The two were soon elected, and quickly dismantled most of Sulla's constitution."
+    ],
+    "generated_answer": "Pompey and Crassus attempted to forge an agreement with the populares party.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.0502493381500244,
+    "mean_prob": 0.9564405679702759,
+    "min_prob": 0.6764137744903564,
+    "sds": 0.8780612945556641,
+    "hallucinated": null
+  },
+  {
+    "id": 15,
+    "ds_index": 649,
+    "question": "British commentators include, Darren Fletcher, Rocky Boiman and who else?",
+    "gold_answer": "Greg Brady",
+    "context": [
+      "Notable Old Etonians in the media include the former Political Editor of both ITN and The Times, Julian Haviland; the current BBC Deputy Political Editor, James Landale, and the BBC Science Editor, David Shukman; the current President of Conde Nast International and Managing Director of Conde Nast UK, Nicholas Coleridge; the former ITN newscaster and BBC Panorama presenter, Ludovic Kennedy; current BBC World News and BBC Rough Justice current affairs presenter David Jessel; former chief ITV and Channel 4 racing commentator John Oaksey; 1950s BBC newsreader and 1960s ITN newscaster Timothy Brinton; 1960s BBC newsreader Corbet Woodall; the former Editor of The Daily Telegraph, Charles Moore; the former Editor of The Spectator, Ferdinand Mount; and the current Editor of The Mail on Sunday, Geordie Greig."
+    ],
+    "generated_answer": "The answer is not provided in the given context.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.816919207572937,
+    "mean_prob": 0.616104006767273,
+    "min_prob": 0.19428008794784546,
+    "sds": 1.3622405529022217,
+    "hallucinated": null
+  },
+  {
+    "id": 16,
+    "ds_index": 3005,
+    "question": "How much of Australia's milk is produced in Victoria?",
+    "gold_answer": "two-thirds",
+    "context": [
+      "CSL, one of the world's top five biotech companies, and Sigma Pharmaceuticals have their headquarters in Melbourne. The two are the largest listed Australian pharmaceutical companies. Melbourne has an important ICT industry that employs over 60,000 people (one third of Australia's ICT workforce), with a turnover of $19.8 billion and export revenues of $615 million. In addition, tourism also plays an important role in Melbourne's economy, with about 7.6 million domestic visitors and 1.88 million international visitors in 2004. In 2008, Melbourne overtook Sydney with the amount of money that domestic tourists spent in the city, accounting for around $15.8 billion annually. Melbourne has been attracting an increasing share of domestic and international conference markets. Construction began in February 2006 of a $1 billion 5000-seat international convention centre, Hilton Hotel and commercial precinct adjacent to the Melbourne Exhibition and Convention Centre to link development along the Yarra River with the Southbank precinct and multibillion-dollar Docklands redevelopment."
+    ],
+    "generated_answer": "There is no information provided about milk production in Victoria. The text only discusses the economy and industries of Melbourne, Victoria's capital city.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.8833426237106323,
+    "mean_prob": 0.6267201900482178,
+    "min_prob": 0.03282096982002258,
+    "sds": 1.1422593593597412,
+    "hallucinated": null
+  },
+  {
+    "id": 17,
+    "ds_index": 1446,
+    "question": "What was Tesla's device called?",
+    "gold_answer": "Egg of Columbus",
+    "context": [
+      "In the latter part of the second revolution, Thomas Alva Edison developed many devices that greatly influenced life around the world and is often credited with the creation of the first industrial research laboratory. In 1882, Edison switched on the world's first large-scale electrical supply network that provided 110 volts direct current to fifty-nine customers in lower Manhattan. Also toward the end of the second industrial revolution, Nikola Tesla made many contributions in the field of electricity and magnetism in the late 19th and early 20th centuries."
+    ],
+    "generated_answer": "There is no mention of a specific device in the context provided.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.7215499877929688,
+    "mean_prob": 0.6538611054420471,
+    "min_prob": 0.18237410485744476,
+    "sds": 1.318556547164917,
+    "hallucinated": null
+  },
+  {
+    "id": 18,
+    "ds_index": 640,
+    "question": "Who handled the color commentary for Denver's radio stations?",
+    "gold_answer": "Ed McCaffrey",
+    "context": [
+      "Myers spoke next and continued to read the script. Once it was West's turn to speak again, he said, \"George Bush doesn't care about black people.\" At this point, telethon producer Rick Kaplan cut off the microphone and then cut away to Chris Tucker, who was unaware of the cut for a few seconds. Still, West's comment reached much of the United States."
+    ],
+    "generated_answer": "The answer cannot be determined from the provided context.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 2.0967605113983154,
+    "mean_prob": 0.6102577447891235,
+    "min_prob": 0.042021069675683975,
+    "sds": 1.3975281715393066,
+    "hallucinated": null
+  },
+  {
+    "id": 19,
+    "ds_index": 9910,
+    "question": "What served as a justification for imposing imperialistic policies on certain peoples or regions?",
+    "gold_answer": "environmental determinism",
+    "context": [
+      "Between 1815 and 1914, a period referred to as Britain's \"imperial century\" by some historians, around 10,000,000 square miles (26,000,000 km2) of territory and roughly 400 million people were added to the British Empire. Victory over Napoleon left Britain without any serious international rival, other than Russia in central Asia. Unchallenged at sea, Britain adopted the role of global policeman, a state of affairs later known as the Pax Britannica, and a foreign policy of \"splendid isolation\". Alongside the formal control it exerted over its own colonies, Britain's dominant position in world trade meant that it effectively controlled the economies of many countries, such as China, Argentina and Siam, which has been characterised by some historians as \"Informal Empire\"."
+    ],
+    "generated_answer": "The concept of \"splendid isolation\" and the idea of Britain as the global policeman served as a justification for imposing imperialistic policies on certain peoples or regions.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3287732601165771,
+    "mean_prob": 0.8093364238739014,
+    "min_prob": 0.16374288499355316,
+    "sds": 0.8847240209579468,
+    "hallucinated": null
+  },
+  {
+    "id": 20,
+    "ds_index": 5775,
+    "question": "How many stations did Boston have in 1952?",
+    "gold_answer": "two",
+    "context": [
+      "In 1822, the citizens of Boston voted to change the official name from \"the Town of Boston\" to \"the City of Boston\", and on March 4, 1822, the people of Boston accepted the charter incorporating the City. At the time Boston was chartered as a city, the population was about 46,226, while the area of the city was only 4.7 square miles (12 km2)."
+    ],
+    "generated_answer": "There is not enough information provided in the context to determine the number of stations Boston had in 1952.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3225914239883423,
+    "mean_prob": 0.8028846979141235,
+    "min_prob": 0.25660401582717896,
+    "sds": 1.0963619947433472,
+    "hallucinated": null
+  },
+  {
+    "id": 21,
+    "ds_index": 2689,
+    "question": "The two AAA clubs divided the state into a northern and southern California as opposed to what point of view?",
+    "gold_answer": "three-region",
+    "context": [
+      "The Tucson Padres played at Kino Veterans Memorial Stadium from 2011 to 2013. They served as the AAA affiliate of the San Diego Padres. The team, formerly known as the Portland Beavers, was temporarily relocated to Tucson from Portland while awaiting the building of a new stadium in Escondido. Legal issues derailed the plans to build the Escondido stadium, so they moved to El Paso, Texas for the 2014 season. Previously, the Tucson Sidewinders, a triple-A affiliate of the Arizona Diamondbacks, won the Pacific Coast League championship and unofficial AAA championship in 2006. The Sidewinders played in Tucson Electric Park and were in the Pacific Conference South of the PCL. The Sidewinders were sold in 2007 and moved to Reno, Nevada after the 2008 season. They now compete as the Reno Aces."
+    ],
+    "generated_answer": "The two AAA clubs divided the state of California into a northern and southern region from the perspective of Tucson.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.7596327066421509,
+    "mean_prob": 0.6642371416091919,
+    "min_prob": 0.09094887971878052,
+    "sds": 1.0272822380065918,
+    "hallucinated": null
+  },
+  {
+    "id": 22,
+    "ds_index": 6486,
+    "question": "Which part of the immune system protects the brain?",
+    "gold_answer": "neuroimmune system",
+    "context": [
+      "Many components of the immune system are typically cellular in nature and not associated with any specific organ; but rather are embedded or circulating in various tissues located throughout the body."
+    ],
+    "generated_answer": "The part of the immune system that protects the brain is the blood-brain barrier, which is a specialized network of blood vessels that filters the blood and prevents pathogens from entering the brain. However, the brain also has its own immune system component, known as the central nervous system's immune cells, such as microglia, which are resident immune cells that protect the brain and spinal cord.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.7767126560211182,
+    "mean_prob": 0.6660673022270203,
+    "min_prob": 0.047745514661073685,
+    "sds": 0.9621177315711975,
+    "hallucinated": null
+  },
+  {
+    "id": 23,
+    "ds_index": 10557,
+    "question": "Why are some forces due to that are impossible to model?",
+    "gold_answer": "gradient of potentials",
+    "context": [
+      "The Quine-Duhem thesis argues that it's impossible to test a single hypothesis on its own, since each one comes as part of an environment of theories. Thus we can only say that the whole package of relevant theories has been collectively falsified, but cannot conclusively say which element of the package must be replaced. An example of this is given by the discovery of the planet Neptune: when the motion of Uranus was found not to match the predictions of Newton's laws, the theory \"There are seven planets in the solar system\" was rejected, and not Newton's laws themselves. Popper discussed this critique of na\u00efve falsificationism in Chapters 3 and 4 of The Logic of Scientific Discovery. For Popper, theories are accepted or rejected via a sort of selection process. Theories that say more about the way things appear are to be preferred over those that do not; the more generally applicable a theory is, the greater its value. Thus Newton's laws, with their wide general application, are to be preferred over the much more specific \"the solar system has seven planets\".[dubious \u2013 discuss]"
+    ],
+    "generated_answer": "Some forces are impossible to model due to the limitations of the Quine-Duhem thesis, which states that it's impossible to test a single hypothesis in isolation, making it difficult to pinpoint which specific theory or hypothesis is at fault when a prediction fails.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.7454389333724976,
+    "mean_prob": 0.7223172783851624,
+    "min_prob": 0.002130058128386736,
+    "sds": 0.8911903500556946,
+    "hallucinated": null
+  },
+  {
+    "id": 24,
+    "ds_index": 6120,
+    "question": "Which tribe did Tem\u00fcjin move in with at nine years of age?",
+    "gold_answer": "Khongirad",
+    "context": [
+      "The origins of the people of Tuvalu are addressed in the theories regarding migration into the Pacific that began about 3000 years ago. During pre-European-contact times there was frequent canoe voyaging between the nearer islands including Samoa and Tonga. Eight of the nine islands of Tuvalu were inhabited; thus the name, Tuvalu, means \"eight standing together\" in Tuvaluan (compare to *walo meaning \"eight\" in Proto-Austronesian). Possible evidence of fire in the Caves of Nanumanga may indicate human occupation for thousands of years."
+    ],
+    "generated_answer": "There is no information in the provided context about Tem\u00fcjin or any tribe he moved in with.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.471042513847351,
+    "mean_prob": 0.7215558290481567,
+    "min_prob": 0.3145410716533661,
+    "sds": 1.120019555091858,
+    "hallucinated": null
+  },
+  {
+    "id": 25,
+    "ds_index": 2878,
+    "question": "Who were the current rights holders for the Primer League?",
+    "gold_answer": "ITV",
+    "context": [
+      "The competition formed as the FA Premier League on 20 February 1992 following the decision of clubs in the Football League First Division to break away from the Football League, which was originally founded in 1888, and take advantage of a lucrative television rights deal. The deal was worth \u00a31 billion a year domestically as of 2013\u201314, with BSkyB and BT Group securing the domestic rights to broadcast 116 and 38 games respectively. The league generates \u20ac2.2 billion per year in domestic and international television rights. In 2014/15, teams were apportioned revenues of \u00a31.6 billion."
+    ],
+    "generated_answer": "As of the given information, the current rights holders for the Premier League are BSkyB and BT Group, with BSkyB securing the domestic rights to broadcast 116 games and BT Group securing the rights to broadcast 38 games.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.313645362854004,
+    "mean_prob": 0.8151832222938538,
+    "min_prob": 0.13984310626983643,
+    "sds": 0.9047775268554688,
+    "hallucinated": null
+  },
+  {
+    "id": 26,
+    "ds_index": 1457,
+    "question": "Where was the boat demonstration given?",
+    "gold_answer": "Madison Square Garden",
+    "context": [
+      "The annual Southampton Boat Show is held in September each year, with over 600 exhibitors present. It runs for just over a week at Mayflower Park on the city's waterfront, where it has been held since 1968. The Boat Show itself is the climax of Sea City, which runs from April to September each year to celebrate Southampton's links with the sea."
+    ],
+    "generated_answer": "The boat demonstration was given at Mayflower Park on the city's waterfront.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2001248598098755,
+    "mean_prob": 0.8682554960250854,
+    "min_prob": 0.28136539459228516,
+    "sds": 0.9177355170249939,
+    "hallucinated": null
+  },
+  {
+    "id": 27,
+    "ds_index": 8199,
+    "question": "Who mentored Buyantu?",
+    "gold_answer": "Li Meng",
+    "context": [
+      "Beginning in the tenth season[citation needed], permanent mentors were brought in during the live shows to help guide the contestants with their song choice and performance. Jimmy Iovine was the mentor in the tenth through twelfth seasons, former judge Randy Jackson was the mentor for the thirteenth season and Scott Borchetta was the mentor for the fourteenth and fifteenth season. The mentors regularly bring in guest mentors to aid them, including Akon, Alicia Keys, Lady Gaga, and current judge Harry Connick, Jr.."
+    ],
+    "generated_answer": "Unfortunately, the provided context does not mention a contestant named Buyantu, so I am unable to determine who mentored Buyantu.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.6986247301101685,
+    "mean_prob": 0.6653178334236145,
+    "min_prob": 0.16489748656749725,
+    "sds": 0.951989471912384,
+    "hallucinated": null
+  },
+  {
+    "id": 28,
+    "ds_index": 7153,
+    "question": "What conviction motivated Eliot to move towards secularization?",
+    "gold_answer": "Transcendentalist Unitarian",
+    "context": [
+      "Early humanists saw no conflict between reason and their Christian faith (see Christian Humanism). They inveighed against the abuses of the Church, but not against the Church itself, much less against religion. For them, the word \"secular\" carried no connotations of disbelief \u2013 that would come later, in the nineteenth century. In the Renaissance to be secular meant simply to be in the world rather than in a monastery. Petrarch frequently admitted that his brother Gherardo's life as a Carthusian monk was superior to his own (although Petrarch himself was in Minor Orders and was employed by the Church all his life). He hoped that he could do some good by winning earthly glory and praising virtue, inferior though that might be to a life devoted solely to prayer. By embracing a non-theistic philosophic base, however, the methods of the humanists, combined with their eloquence, would ultimately have a corrosive effect on established authority."
+    ],
+    "generated_answer": "There is no mention of Eliot in the provided context.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2760900259017944,
+    "mean_prob": 0.8251883387565613,
+    "min_prob": 0.30639731884002686,
+    "sds": 1.2633684873580933,
+    "hallucinated": null
+  },
+  {
+    "id": 29,
+    "ds_index": 6026,
+    "question": "What does ABC on Demand disallow for online viewers?",
+    "gold_answer": "fast forwarding of accessed content",
+    "context": [
+      "In the US, residents in the line of sight of television station broadcast antennas can receive free, over the air programming with a television set with an ATSC tuner (most sets sold since 2009 have this). This is achieved with a TV aerial, just as it has been since the 1940s except now the major network signals are broadcast in high definition (ABC, Fox, and Ion Television broadcast at 720p resolution; CBS, My Network TV, NBC, PBS, and The CW at 1080i). As their digital signals more efficiently use the broadcast channel, many broadcasters are adding multiple channels to their signals. Laws about antennas were updated before the change to digital terrestrial broadcasts. These new laws prohibit home owners' associations and city government from banning the installation of antennas."
+    ],
+    "generated_answer": "I cannot verify what ABC on Demand disallows for online viewers.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.540520191192627,
+    "mean_prob": 0.7341853380203247,
+    "min_prob": 0.10677889734506607,
+    "sds": 0.9750845432281494,
+    "hallucinated": null
+  },
+  {
+    "id": 30,
+    "ds_index": 7586,
+    "question": "What does it take a country with high inequality longer to achieve?",
+    "gold_answer": "reduction",
+    "context": [
+      "It has been argued that high rates of education are essential for countries to be able to achieve high levels of economic growth. Empirical analyses tend to support the theoretical prediction that poor countries should grow faster than rich countries because they can adopt cutting edge technologies already tried and tested by rich countries. However, technology transfer requires knowledgeable managers and engineers who are able to operate new machines or production practices borrowed from the leader in order to close the gap through imitation. Therefore, a country's ability to learn from the leader is a function of its stock of \"human capital\". Recent study of the determinants of aggregate economic growth have stressed the importance of fundamental economic institutions and the role of cognitive skills."
+    ],
+    "generated_answer": "A country with high inequality takes longer to achieve high levels of economic growth due to a lack of knowledgeable managers and engineers to operate new technologies and production practices. This is because high inequality often results in a lower stock of \"human capital\".",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.6427209377288818,
+    "mean_prob": 0.7120356559753418,
+    "min_prob": 0.07522561401128769,
+    "sds": 0.8098992705345154,
+    "hallucinated": null
+  },
+  {
+    "id": 31,
+    "ds_index": 6416,
+    "question": "When did internet pharmacies begin to come into being?",
+    "gold_answer": "about the year 2000",
+    "context": [
+      "The Internet was developed as a network between government research laboratories and participating departments of universities. By the late 1980s, a process was set in place towards public, commercial use of the Internet. The remaining restrictions were removed by 1995, 4 years after the introduction of the World Wide Web."
+    ],
+    "generated_answer": "There is no information provided in the context about when internet pharmacies began to come into being.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.376956582069397,
+    "mean_prob": 0.7903295755386353,
+    "min_prob": 0.1636316180229187,
+    "sds": 1.0622122287750244,
+    "hallucinated": null
+  },
+  {
+    "id": 32,
+    "ds_index": 2436,
+    "question": "Where is the comparison found of this Lord's Prayer hymn?",
+    "gold_answer": "Small Catechism",
+    "context": [
+      "The only words of Jesus on the cross in the Mark and Matthew accounts, this is a quotation of Psalm 22. Since other verses of the same Psalm are cited in the crucifixion accounts, it is often considered a literary and theological creation. Geza Vermes, however, points out that the verse is cited in Aramaic rather than the Hebrew in which it usually would have been recited, and suggests that by the time of Jesus, this phrase had become a proverbial saying in common usage. Compared to the accounts in the other Gospels, which he describes as 'theologically correct and reassuring', he considers this phrase 'unexpected, disquieting and in consequence more probable'. He describes it as bearing 'all the appearances of a genuine cry'. Raymond Brown likewise comments that he finds 'no persuasive argument against attributing to the Jesus of Mark/Matt the literal sentiment of feeling forsaken expressed in the Psalm quote'."
+    ],
+    "generated_answer": "The comparison is found in the accounts of the crucifixion in the Gospels of Mark and Matthew.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.350894808769226,
+    "mean_prob": 0.7737088799476624,
+    "min_prob": 0.2642679810523987,
+    "sds": 0.9272016882896423,
+    "hallucinated": null
+  },
+  {
+    "id": 33,
+    "ds_index": 3964,
+    "question": "In what month and year was the AS-258 scheduled to launch?",
+    "gold_answer": "August 1967",
+    "context": [
+      "The service's B-2A aircraft entered service in the 1990s, its B-1B aircraft in the 1980s and its current B-52H aircraft in the early 1960s. The B-52 Stratofortress airframe design is over 60 years old and the B-52H aircraft currently in the active inventory were all built between 1960 and 1962. The B-52H is scheduled to remain in service for another 30 years, which would keep the airframe in service for nearly 90 years, an unprecedented length of service for any aircraft. The B-21 is projected to replace the B-52 and parts of the B-1B force by the mid-2020s."
+    ],
+    "generated_answer": "There is no information about the AS-258 in the given context.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3916913270950317,
+    "mean_prob": 0.7618588209152222,
+    "min_prob": 0.2915440797805786,
+    "sds": 1.2314802408218384,
+    "hallucinated": null
+  },
+  {
+    "id": 34,
+    "ds_index": 10465,
+    "question": "What do gravitational forces act between?",
+    "gold_answer": "masses",
+    "context": [
+      "In classical physics, an inertial reference frame is one in which an object that experiences no forces does not accelerate. In general relativity, an inertial frame of reference is one that is following a geodesic of space-time. An object that moves against a geodesic experiences a force. An object in free fall does not experience a force, because it is following a geodesic. An object standing on the earth, however, will experience a force, as it is being held against the geodesic by the surface of the planet. In light of this, the bucket of water rotating in empty space will experience a force because it rotates with respect to the geodesic. The water will become concave, not because it is rotating with respect to the distant stars, but because it is rotating with respect to the geodesic."
+    ],
+    "generated_answer": "Gravitational forces act between objects that are following different geodesics in space-time.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5348573923110962,
+    "mean_prob": 0.7295025587081909,
+    "min_prob": 0.22041352093219757,
+    "sds": 1.0630449056625366,
+    "hallucinated": null
+  },
+  {
+    "id": 35,
+    "ds_index": 1987,
+    "question": "Who may teachers ignore, in order to prioritize attention?",
+    "gold_answer": "attention-seeking and disruptive students",
+    "context": [
+      "Instruction is the facilitation of another's learning. Instructors in primary and secondary institutions are often called teachers, and they direct the education of students and might draw on many subjects like reading, writing, mathematics, science and history. Instructors in post-secondary institutions might be called teachers, instructors, or professors, depending on the type of institution; and they primarily teach only their specific discipline. Studies from the United States suggest that the quality of teachers is the single most important factor affecting student performance, and that countries which score highly on international tests have multiple policies in place to ensure that the teachers they employ are as effective as possible. With the passing of NCLB in the United States (No Child Left Behind), teachers must be highly qualified. A popular way to gauge teaching performance is to use student evaluations of teachers (SETS), but these evaluations have been criticized for being counterproductive to learning and inaccurate due to student bias."
+    ],
+    "generated_answer": "Teachers may ignore the student evaluations of teachers (SETS) in order to prioritize attention, as they have been criticized for being counterproductive to learning and inaccurate due to student bias.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.439531683921814,
+    "mean_prob": 0.8174408078193665,
+    "min_prob": 0.0073610167019069195,
+    "sds": 0.8925638794898987,
+    "hallucinated": null
+  },
+  {
+    "id": 36,
+    "ds_index": 6061,
+    "question": "After the merger between ABC and Capital Cities, who became the vice president of ABC broadcasting?",
+    "gold_answer": "Michael P. Millardi",
+    "context": [
+      "The television industry developed in New York and is a significant employer in the city's economy. The three major American broadcast networks are all headquartered in New York: ABC, CBS, and NBC. Many cable networks are based in the city as well, including MTV, Fox News, HBO, Showtime, Bravo, Food Network, AMC, and Comedy Central. The City of New York operates a public broadcast service, NYCTV, that has produced several original Emmy Award-winning shows covering music and culture in city neighborhoods and city government."
+    ],
+    "generated_answer": "The merger between ABC and Capital Cities occurred in 1986. However, I couldn't find information on who became the vice president of ABC broadcasting after the merger.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5607596635818481,
+    "mean_prob": 0.741052508354187,
+    "min_prob": 0.09712644666433334,
+    "sds": 1.1124317646026611,
+    "hallucinated": null
+  },
+  {
+    "id": 37,
+    "ds_index": 5869,
+    "question": "Who lead the 1968 special programming for ABC Radio's FM stations?",
+    "gold_answer": "Allen Shaw",
+    "context": [
+      "Southampton also has 2 community FM radio stations, the Queens Award winning Unity 101 Community Radio (www.unity101.org) broadcasting full-time on 101.1 FM since 2006 to the Asian and Ethnic communities, and Voice FM (http://www.voicefmradio.co.uk) located in St Mary's, which has been broadcasting full-time on 103.9 FM since September 2011, playing a wide range of music from Rock to Dance music and Top 40. A third station, Awaaz FM (www.awaazfm.co.uk), is an internet only radio stations also catering for Asian and Ethnic community."
+    ],
+    "generated_answer": "I'm not able to find information about who led the 1968 special programming for ABC Radio's FM stations.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5355726480484009,
+    "mean_prob": 0.7278136610984802,
+    "min_prob": 0.23862069845199585,
+    "sds": 1.1313763856887817,
+    "hallucinated": null
+  },
+  {
+    "id": 38,
+    "ds_index": 1778,
+    "question": "Concrete bounding of computation time frequently produces complexity classes contingent upon what?",
+    "gold_answer": "chosen machine model",
+    "context": [
+      "Computer science, built upon a foundation of theoretical linguistics, discrete mathematics, and electrical engineering, studies the nature and limits of computation. Subfields include computability, computational complexity, database design, computer networking, artificial intelligence, and the design of computer hardware. One area in which advances in computing have contributed to more general scientific development is by facilitating large-scale archiving of scientific data. Contemporary computer science typically distinguishes itself by emphasising mathematical 'theory' in contrast to the practical emphasis of software engineering."
+    ],
+    "generated_answer": "Concrete bounding of computation time frequently produces complexity classes contingent upon computational resources, such as time and space.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.655744194984436,
+    "mean_prob": 0.750405490398407,
+    "min_prob": 0.05597366392612457,
+    "sds": 0.9812090396881104,
+    "hallucinated": null
+  },
+  {
+    "id": 39,
+    "ds_index": 9670,
+    "question": "Who was an important figure in the twentieth-century Islamic revival in India?",
+    "gold_answer": "Sayyid Abul Ala Maududi",
+    "context": [
+      "Like other settled, agrarian societies in history, those in the Indian subcontinent have been attacked by nomadic tribes throughout its long history. In evaluating the impact of Islam on the sub-continent, one must note that the northwestern sub-continent was a frequent target of tribes raiding from Central Asia. In that sense, the Muslim intrusions and later Muslim invasions were not dissimilar to those of the earlier invasions during the 1st millennium. What does however, make the Muslim intrusions and later Muslim invasions different is that unlike the preceding invaders who assimilated into the prevalent social system, the successful Muslim conquerors retained their Islamic identity and created new legal and administrative systems that challenged and usually in many cases superseded the existing systems of social conduct and ethics, even influencing the non-Muslim rivals and common masses to a large extent, though non-Muslim population was left to their own laws and customs. They also introduced new cultural codes that in some ways were very different from the existing cultural codes. This led to the rise of a new Indian culture which was mixed in nature, though different from both the ancient Indian culture and later westernized modern Indian culture. At the same time it must be noted that overwhelming majority of Muslims in India are Indian natives converted to Islam. This factor also played an important role in the synthesis of cultures."
+    ],
+    "generated_answer": "The text does not specifically mention an important figure in the twentieth-century Islamic revival in India. However, it does mention that the Muslim conquerors retained their Islamic identity and influenced the non-Muslim population, indicating the impact of Islamic influence on Indian culture.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.6316750049591064,
+    "mean_prob": 0.6933169364929199,
+    "min_prob": 0.12114008516073227,
+    "sds": 0.7667121887207031,
+    "hallucinated": null
+  },
+  {
+    "id": 40,
+    "ds_index": 4100,
+    "question": "What are some examples of territories where a member state is responsible for external relations?",
+    "gold_answer": "Gibraltar and the \u00c5land islands",
+    "context": [
+      "The United States is the chief remaining nation to assign official responsibilities to a region called the Near East. Within the government the State Department has been most influential in promulgating the Near Eastern regional system. The countries of the former empires of the 19th century have in general abandoned the term and the subdivision in favor of Middle East, North Africa and various forms of Asia. In many cases, such as France, no distinct regional substructures have been employed. Each country has its own French diplomatic apparatus, although regional terms, including Proche-Orient and Moyen-Orient, may be used in a descriptive sense. The most influential agencies in the United States still using Near East as a working concept are as follows."
+    ],
+    "generated_answer": "The United States is the chief remaining nation to assign official responsibilities to a region called the Near East. The countries of the former empires of the 19th century have generally abandoned the term and the subdivision in favor of other regional classifications.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.433471441268921,
+    "mean_prob": 0.7814183235168457,
+    "min_prob": 0.053993575274944305,
+    "sds": 0.6143617033958435,
+    "hallucinated": null
+  },
+  {
+    "id": 41,
+    "ds_index": 7052,
+    "question": "What is the purpose of the ASER?",
+    "gold_answer": "evaluates learning levels in rural India",
+    "context": [
+      "ASPEC was the joint proposal of AT&T Bell Laboratories, Thomson Consumer Electronics, Fraunhofer Society and CNET. It provided the highest coding efficiency."
+    ],
+    "generated_answer": "I'm sorry, there is no information about ASER in the given context.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.7935993671417236,
+    "mean_prob": 0.631184458732605,
+    "min_prob": 0.16542388498783112,
+    "sds": 1.0692424774169922,
+    "hallucinated": null
+  },
+  {
+    "id": 42,
+    "ds_index": 3107,
+    "question": "Who allegedly haunted the gate?",
+    "gold_answer": "the ghost of le roi Huguet",
+    "context": [
+      "In 1966 The Blind Beggar in Whitechapel became infamous as the scene of a murder committed by gangster Ronnie Kray. The Ten Bells is associated with several of the victims of Jack the Ripper. In 1955, Ruth Ellis, the last woman executed in the United Kingdom, shot David Blakely as he emerged from The Magdala in South Hill Park, Hampstead, the bullet holes can still be seen in the walls outside. It is said that Vladimir Lenin and a young Joseph Stalin met in the Crown and Anchor pub (now known as The Crown Tavern) on Clerkenwell Green when the latter was visiting London in 1903."
+    ],
+    "generated_answer": "I'm sorry, there is not enough information to answer the question about who allegedly haunted the gate.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.8908345699310303,
+    "mean_prob": 0.635050892829895,
+    "min_prob": 0.09012746810913086,
+    "sds": 1.116573452949524,
+    "hallucinated": null
+  },
+  {
+    "id": 43,
+    "ds_index": 10367,
+    "question": "How long did it take to improve on Sir Isaac Newton's laws of motion?",
+    "gold_answer": "nearly three hundred years",
+    "context": [
+      "In 1687, Isaac Newton published the Principia Mathematica, detailing two comprehensive and successful physical theories: Newton's laws of motion, which led to classical mechanics; and Newton's Law of Gravitation, which describes the fundamental force of gravity. The behavior of electricity and magnetism was studied by Faraday, Ohm, and others during the early 19th century. These studies led to the unification of the two phenomena into a single theory of electromagnetism, by James Clerk Maxwell (known as Maxwell's equations)."
+    ],
+    "generated_answer": "It took approximately 198 years after Newton's publication of the Principia Mathematica in 1687 for Maxwell to unify the phenomena of electricity and magnetism into a single theory of electromagnetism, building upon Newton's work.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5691378116607666,
+    "mean_prob": 0.7297005653381348,
+    "min_prob": 0.11282499879598618,
+    "sds": 0.6587034463882446,
+    "hallucinated": null
+  },
+  {
+    "id": 44,
+    "ds_index": 8916,
+    "question": "What is retrograde signaling?",
+    "gold_answer": "signals from the chloroplast that regulate gene expression in the nucleus",
+    "context": [
+      "Retrotransposons can be transcribed into RNA, which are then duplicated at another site into the genome. Retrotransposons can be divided into Long terminal repeats (LTRs) and Non-Long Terminal Repeats (Non-LTR)."
+    ],
+    "generated_answer": "Retrograde signaling refers to the process of retrotransposons being transcribed into RNA, which is then reverse-transcribed back into DNA and inserted into a new location in the genome.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5394673347473145,
+    "mean_prob": 0.7085666656494141,
+    "min_prob": 0.11836937814950943,
+    "sds": 0.6856884360313416,
+    "hallucinated": null
+  },
+  {
+    "id": 45,
+    "ds_index": 3349,
+    "question": "Who patented a high-pressure compound engine in 1805?",
+    "gold_answer": "Arthur Woolf",
+    "context": [
+      "The London Gazette of 17 March 1691 published a patent in favour of John Lofting for a fire engine, but remarked upon and recommended another invention of his, for a beer pump:"
+    ],
+    "generated_answer": "Unfortunately, the provided context does not mention a patent for a high-pressure compound engine in 1805.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.4737547636032104,
+    "mean_prob": 0.7522172331809998,
+    "min_prob": 0.19832490384578705,
+    "sds": 0.9525367021560669,
+    "hallucinated": null
+  },
+  {
+    "id": 46,
+    "ds_index": 5881,
+    "question": "When did Sunday Night Football premiere on NBC?",
+    "gold_answer": "2006",
+    "context": [
+      "For the 2013 season, the league's new national broadcast partner was the CBS Sports Network. CBSSN would air 19 regular season games and two playoff games. CBS would also air the ArenaBowl, marking the first time since 2008 that the league's finale aired on network television. Regular season CBSSN broadcast games are usually on Saturday nights. As the games are being shown live, the start times are not uniform as with most football broadcast packages, but vary with the time zone in which the home team is located. This means that the AFL may appear either prior to or following the CBSSN's featured Major League Lacrosse game."
+    ],
+    "generated_answer": "I couldn't find any information about Sunday Night Football premiering on NBC in the given context. The context only discusses the 2013 season of the Arena Football League (AFL) and its broadcast on CBS Sports Network (CBSSN).",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.507912278175354,
+    "mean_prob": 0.7464948296546936,
+    "min_prob": 0.06889285892248154,
+    "sds": 0.788287878036499,
+    "hallucinated": null
+  },
+  {
+    "id": 47,
+    "ds_index": 4016,
+    "question": "What was redesigned to allow better maneuverability in the LRV?",
+    "gold_answer": "Block II spacesuit",
+    "context": [
+      "One early attempt at lengthening the playing time should be mentioned. At least one manufacturer in the early 1920s, World Records, produced records that played at a constant linear velocity, controlled by Noel Pemberton Billing's patented add-on governor device. As these were played from the outside to the inside, the rotational speed of the records increased as reproduction progressed. This action is similar (although in reverse) to that on the modern compact disc and the CLV version of its predecessor, the Philips Laser Disc."
+    ],
+    "generated_answer": "The governor device was patented by Noel Pemberton Billing to control the rotational speed of records, but it was not directly related to the LRV (Lunar Roving Vehicle).",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.92514967918396,
+    "mean_prob": 0.6579272150993347,
+    "min_prob": 0.031851526349782944,
+    "sds": 0.893663227558136,
+    "hallucinated": null
+  },
+  {
+    "id": 48,
+    "ds_index": 594,
+    "question": "What company was in its last year for getting Super Bowl commercials at a big discount?",
+    "gold_answer": "Anheuser-Busch InBev",
+    "context": [
+      "The year 2000 brought heightened interest in the AFL. Then-St. Louis Rams quarterback Kurt Warner, who was MVP of Super Bowl XXXIV, was first noticed because he played quarterback for the AFL's Iowa Barnstormers. While many sports commentators and fans continued to ridicule the league, Warner's story gave the league positive exposure, and it brought the league a new television deal with TNN, which, unlike ESPN, televised regular season games live. While it was not financially lucrative, it helped set the stage for what the league would become in the new millennium. Also, the year also brought a spin-off league, the AF2, intended to be a developmental league, comparable to the National Football League's NFL Europe. There was a lot of expansion in the 2000s. Expansion teams included the Austin Wranglers, Carolina Cobras, Los Angeles Avengers, Chicago Rush, Detroit Fury, Dallas Desperados, Colorado Crush, New Orleans VooDoo, Philadelphia Soul, Nashville Kats, Kansas City Brigade, New York Dragons and Utah Blaze. Some of these teams, including the Crush, Desperados, Kats, and VooDoo, were owned by the same group which owned the NFL teams in their host cities. The NFL purchased, but never exercised, an option to buy a major interest the AFL. Of all of these teams, only the Soul still compete in the AFL as of now."
+    ],
+    "generated_answer": "TNN was in its last year for getting Super Bowl commercials at a big discount.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.4085549116134644,
+    "mean_prob": 0.8310347199440002,
+    "min_prob": 0.07945796847343445,
+    "sds": 1.066667914390564,
+    "hallucinated": null
+  },
+  {
+    "id": 49,
+    "ds_index": 895,
+    "question": "When did Tamara marry a lawyer?",
+    "gold_answer": "1916",
+    "context": [
+      "His best known wife was Jovanka Broz. Tito was just shy of his 59th birthday, while she was 27, when they finally married in April 1952, with state security chief Aleksandar Rankovi\u0107 as the best man. Their eventual marriage came about somewhat unexpectedly since Tito actually rejected her some years earlier when his confidante Ivan Krajacic brought her in originally. At that time, she was in her early 20s and Tito, objecting to her energetic personality, opted for the more mature opera singer Zinka Kunc instead. Not one to be discouraged easily, Jovanka continued working at Beli Dvor, where she managed the staff and eventually got another chance after Tito's strange relationship with Zinka failed. Since Jovanka was the only female companion he married while in power, she also went down in history as Yugoslavia's first lady. Their relationship was not a happy one, however. It had gone through many, often public, ups and downs with episodes of infidelities and even allegations of preparation for a coup d'\u00e9tat by the latter pair. Certain unofficial reports suggest Tito and Jovanka even formally divorced in the late 1970s, shortly before his death. However, during Tito's funeral she was officially present as his wife, and later claimed rights for inheritance. The couple did not have any children."
+    ],
+    "generated_answer": "There is no information in the provided context about Tamara marrying a lawyer.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3246372938156128,
+    "mean_prob": 0.807866632938385,
+    "min_prob": 0.2665084898471832,
+    "sds": 1.1636426448822021,
+    "hallucinated": null
+  },
+  {
+    "id": 50,
+    "ds_index": 2003,
+    "question": "Enthusiastic teachers may cause students to become more ____ about their learning process?",
+    "gold_answer": "self-determined",
+    "context": [
+      "Instruction is the facilitation of another's learning. Instructors in primary and secondary institutions are often called teachers, and they direct the education of students and might draw on many subjects like reading, writing, mathematics, science and history. Instructors in post-secondary institutions might be called teachers, instructors, or professors, depending on the type of institution; and they primarily teach only their specific discipline. Studies from the United States suggest that the quality of teachers is the single most important factor affecting student performance, and that countries which score highly on international tests have multiple policies in place to ensure that the teachers they employ are as effective as possible. With the passing of NCLB in the United States (No Child Left Behind), teachers must be highly qualified. A popular way to gauge teaching performance is to use student evaluations of teachers (SETS), but these evaluations have been criticized for being counterproductive to learning and inaccurate due to student bias."
+    ],
+    "generated_answer": "Enthusiastic teachers may cause students to become more engaged in their learning process.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2250697612762451,
+    "mean_prob": 0.877405047416687,
+    "min_prob": 0.1859477013349533,
+    "sds": 1.009080171585083,
+    "hallucinated": null
+  },
+  {
+    "id": 51,
+    "ds_index": 8816,
+    "question": "What is the benefit of polypeptide binding?",
+    "gold_answer": "keeping it from folding prematurely",
+    "context": [
+      "Additionally, genes can have regulatory regions many kilobases upstream or downstream of the open reading frame. These act by binding to transcription factors which then cause the DNA to loop so that the regulatory sequence (and bound transcription factor) become close to the RNA polymerase binding site. For example, enhancers increase transcription by binding an activator protein which then helps to recruit the RNA polymerase to the promoter; conversely silencers bind repressor proteins and make the DNA less available for RNA polymerase."
+    ],
+    "generated_answer": "The binding of polypeptides (transcription factors) to regulatory regions of DNA helps to recruit RNA polymerase to the promoter, increasing transcription. This can either enhance (activator proteins) or suppress (repressor proteins) gene expression.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 2.0107924938201904,
+    "mean_prob": 0.6726951599121094,
+    "min_prob": 0.0009899139404296875,
+    "sds": 0.5826994180679321,
+    "hallucinated": null
+  },
+  {
+    "id": 52,
+    "ds_index": 9549,
+    "question": "How do bills pass through Parliament?",
+    "gold_answer": "in a number of stages",
+    "context": [
+      "In the United Kingdom, a bill is presented for royal assent after it has passed all the required stages in both the House of Commons and the House of Lords. Under the Parliament Acts 1911 and 1949, the House of Commons may, under certain circumstances, direct that a bill be presented for assent despite lack of passage by the House of Lords. Officially, assent is granted by the sovereign or by Lords Commissioners authorised to act by letters patent. It may be granted in parliament or outside parliament; in the latter case, each house must be separately notified before the bill takes effect."
+    ],
+    "generated_answer": "Bills pass through Parliament by first passing all required stages in both the House of Commons and the House of Lords, then being presented for royal assent. If the House of Lords does not pass a bill, the House of Commons may direct it for assent under the Parliament Acts 1911 and 1949.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.4027063846588135,
+    "mean_prob": 0.8057866096496582,
+    "min_prob": 0.026141714304685593,
+    "sds": 0.5704496502876282,
+    "hallucinated": null
+  },
+  {
+    "id": 53,
+    "ds_index": 9692,
+    "question": "When was the Brotherhood first banned in Egypt?",
+    "gold_answer": "1948",
+    "context": [
+      "The crowd roared in approval and Arab audiences were electrified. The assassination attempt backfired, quickly playing into Nasser's hands. Upon returning to Cairo, he ordered one of the largest political crackdowns in the modern history of Egypt, with the arrests of thousands of dissenters, mostly members of the Brotherhood, but also communists, and the dismissal of 140 officers loyal to Naguib. Eight Brotherhood leaders were sentenced to death, although the sentence of its chief ideologue, Sayyid Qutb, was commuted to a 15-year imprisonment. Naguib was removed from the presidency and put under house arrest, but was never tried or sentenced, and no one in the army rose to defend him. With his rivals neutralized, Nasser became the undisputed leader of Egypt."
+    ],
+    "generated_answer": "The Brotherhood was not explicitly banned in the given context. However, it was heavily targeted in the crackdown, with thousands of its members arrested, and eight leaders sentenced to death.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.7008509635925293,
+    "mean_prob": 0.6321001648902893,
+    "min_prob": 0.26778078079223633,
+    "sds": 0.9270679354667664,
+    "hallucinated": null
+  },
+  {
+    "id": 54,
+    "ds_index": 7076,
+    "question": "What denomination is associated with Saint Kentigern College?",
+    "gold_answer": "Presbyterian",
+    "context": [
+      "The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching."
+    ],
+    "generated_answer": "There is no mention of Saint Kentigern College in the provided context.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.230097770690918,
+    "mean_prob": 0.854981541633606,
+    "min_prob": 0.3430274724960327,
+    "sds": 1.1619689464569092,
+    "hallucinated": null
+  },
+  {
+    "id": 55,
+    "ds_index": 6421,
+    "question": "Why might customers order from internet pharmacies?",
+    "gold_answer": "to avoid the \"inconvenience\" of visiting a doctor or to obtain medications which their doctors were unwilling to prescribe",
+    "context": [
+      "Advertising is common in healthcare journals as well as through more mainstream media routes. In some countries, notably the US, they are allowed to advertise directly to the general public. Pharmaceutical companies generally employ sales people (often called 'drug reps' or, an older term, 'detail men') to market directly and personally to physicians and other healthcare providers. In some countries, notably the US, pharmaceutical companies also employ lobbyists to influence politicians. Marketing of prescription drugs in the US is regulated by the federal Prescription Drug Marketing Act of 1987."
+    ],
+    "generated_answer": "Customers might order from internet pharmacies due to the convenience and accessibility of online shopping, allowing them to purchase prescription drugs from the comfort of their own homes. They may also be drawn to lower prices or wider availability of certain medications that are not easily accessible through traditional channels.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.790101408958435,
+    "mean_prob": 0.6618190407752991,
+    "min_prob": 0.041920069605112076,
+    "sds": 0.9672772288322449,
+    "hallucinated": null
+  },
+  {
+    "id": 56,
+    "ds_index": 8364,
+    "question": "When did the exploration of the interior begin?",
+    "gold_answer": "19th century",
+    "context": [
+      "Indoors, neoclassicism made a discovery of the genuine classic interior, inspired by the rediscoveries at Pompeii and Herculaneum. These had begun in the late 1740s, but only achieved a wide audience in the 1760s, with the first luxurious volumes of tightly controlled distribution of Le Antichit\u00e0 di Ercolano (The Antiquities of Herculaneum). The antiquities of Herculaneum showed that even the most classicising interiors of the Baroque, or the most \"Roman\" rooms of William Kent were based on basilica and temple exterior architecture turned outside in, hence their often bombastic appearance to modern eyes: pedimented window frames turned into gilded mirrors, fireplaces topped with temple fronts."
+    ],
+    "generated_answer": "The exploration of the interior at Pompeii and Herculaneum began in the late 1740s. However, it wasn't until the 1760s that the discoveries achieved a wide audience.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3373771905899048,
+    "mean_prob": 0.8315589427947998,
+    "min_prob": 0.05318306386470795,
+    "sds": 0.86592698097229,
+    "hallucinated": null
+  },
+  {
+    "id": 57,
+    "ds_index": 5564,
+    "question": "In which year are the Meissen Vulture in the V&A collection dated?",
+    "gold_answer": "1731",
+    "context": [
+      "He was in the news in 2014 for buying a rare Bugatti Veyron Grand Sport Vitesse. He was spotted and filmed in 2015 Summer in his car, silver painted with bright aluminium forged wheels. Schwarzenegger's Bugatti has its interior adorned in dark brown leather."
+    ],
+    "generated_answer": "There is no information provided in the context about the Meissen Vulture in the V&A collection.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2717012166976929,
+    "mean_prob": 0.8232110738754272,
+    "min_prob": 0.30947399139404297,
+    "sds": 1.206083059310913,
+    "hallucinated": null
+  },
+  {
+    "id": 58,
+    "ds_index": 7487,
+    "question": "What has recent testing of Kuznets theory with superior data show it to be?",
+    "gold_answer": "very weak",
+    "context": [
+      "The major U.S. broadcast television networks have affiliates in the Oklahoma City market (ranked 41st for television by Nielsen and 48th for radio by Arbitron, covering a 34-county area serving the central, northern-central and west-central sections Oklahoma); including NBC affiliate KFOR-TV (channel 4), ABC affiliate KOCO-TV (channel 5), CBS affiliate KWTV-DT (channel 9, the flagship of locally based Griffin Communications), PBS station KETA-TV (channel 13, the flagship of the state-run OETA member network), Fox affiliate KOKH-TV (channel 25), CW affiliate KOCB (channel 34), independent station KAUT-TV (channel 43), MyNetworkTV affiliate KSBI-TV (channel 52), and Ion Television owned-and-operated station KOPX-TV (channel 62). The market is also home to several religious stations including TBN owned-and-operated station KTBO-TV (channel 14) and Norman-based Daystar owned-and-operated station KOCM (channel 46)."
+    ],
+    "generated_answer": "There is no mention of Kuznets theory in the provided context.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3993276357650757,
+    "mean_prob": 0.7846213579177856,
+    "min_prob": 0.22442452609539032,
+    "sds": 1.2469604015350342,
+    "hallucinated": null
+  },
+  {
+    "id": 59,
+    "ds_index": 723,
+    "question": "Who got a 61-yard return when players thought he called for a fair catch but did not?",
+    "gold_answer": "Jordan Norwood",
+    "context": [
+      "After losing an extra-inning game in Game 1, the Cubs rallied and took a 3 games to 1 lead over the Wild Card Florida Marlins in the NLCS. Florida shut the Cubs out in Game 5, but young pitcher Mark Prior led the Cubs in Game 6 as they took a 3\u20130 lead into the 8th inning and it was at this point when a now-infamous incident took place. Several spectators attempted to catch a foul ball off the bat of Luis Castillo. A Chicago Cubs fan by the name of Steve Bartman, of Northbrook, Illinois, reached for the ball and deflected it away from the glove of Mois\u00e9s Alou for the second out of the 8th inning. Alou reacted angrily toward the stands, and after the game stated that he would have caught the ball. Alou at one point recanted, saying he would not have been able to make the play, but later said this was just an attempt to make Bartman feel better and believing the whole incident should be forgotten. Interference was not called on the play, as the ball was ruled to be on the spectator side of the wall. Castillo was eventually walked by Prior. Two batters later, and to the chagrin of the packed stadium, Cubs shortstop Alex Gonzalez misplayed an inning ending double play, loading the bases and leading to eight Florida runs and a Marlin victory. Despite sending Kerry Wood to the mound and holding a lead twice, the Cubs ultimately dropped Game 7, and failed to reach the World Series."
+    ],
+    "generated_answer": "There is no information about a player getting a 61-yard return in the provided context.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5703489780426025,
+    "mean_prob": 0.7251050472259521,
+    "min_prob": 0.14683052897453308,
+    "sds": 1.1494808197021484,
+    "hallucinated": null
+  },
+  {
+    "id": 60,
+    "ds_index": 3236,
+    "question": "These books became a foundational text for what library?",
+    "gold_answer": "US Library of Congress",
+    "context": [
+      "Rare books are found in several Yale collections. The Beinecke Rare Book Library has a large collection of rare books and manuscripts. The Harvey Cushing/John Hay Whitney Medical Library includes important historical medical texts, including an impressive collection of rare books, as well as historical medical instruments. The Lewis Walpole Library contains the largest collection of 18th\u2011century British literary works. The Elizabethan Club, technically a private organization, makes its Elizabethan folios and first editions available to qualified researchers through Yale."
+    ],
+    "generated_answer": "These books became a foundational text for the Beinecke Rare Book Library and the Harvey Cushing/John Hay Whitney Medical Library.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3811941146850586,
+    "mean_prob": 0.8401676416397095,
+    "min_prob": 0.02520722895860672,
+    "sds": 0.6881555318832397,
+    "hallucinated": null
+  },
+  {
+    "id": 61,
+    "ds_index": 3475,
+    "question": "What is the atomic number for oxygen?",
+    "gold_answer": "8",
+    "context": [
+      "Hydrogen is a chemical element with chemical symbol H and atomic number 1. With an atomic weight of 7000100794000000000\u26601.00794 u, hydrogen is the lightest element on the periodic table. Its monatomic form (H) is the most abundant chemical substance in the Universe, constituting roughly 75% of all baryonic mass.[note 1] Non-remnant stars are mainly composed of hydrogen in its plasma state. The most common isotope of hydrogen, termed protium (name rarely used, symbol 1H), has one proton and no neutrons."
+    ],
+    "generated_answer": "The atomic number for oxygen is 8.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2105222940444946,
+    "mean_prob": 0.8573958873748779,
+    "min_prob": 0.4143965244293213,
+    "sds": 1.0527373552322388,
+    "hallucinated": null
+  },
+  {
+    "id": 62,
+    "ds_index": 3292,
+    "question": "Who conceptualized the aeolipile?",
+    "gold_answer": "Hero of Alexandria",
+    "context": [
+      "While outer space provides the most rarefied example of a naturally occurring partial vacuum, the heavens were originally thought to be seamlessly filled by a rigid indestructible material called aether. Borrowing somewhat from the pneuma of Stoic physics, aether came to be regarded as the rarefied air from which it took its name, (see Aether (mythology)). Early theories of light posited a ubiquitous terrestrial and celestial medium through which light propagated. Additionally, the concept informed Isaac Newton's explanations of both refraction and of radiant heat. 19th century experiments into this luminiferous aether attempted to detect a minute drag on the Earth's orbit. While the Earth does, in fact, move through a relatively dense medium in comparison to that of interstellar space, the drag is so minuscule that it could not be detected. In 1912, astronomer Henry Pickering commented: \"While the interstellar absorbing medium may be simply the ether, [it] is characteristic of a gas, and free gaseous molecules are certainly there\"."
+    ],
+    "generated_answer": "The aeolipile, also known as the Hero of Alexandria's engine, was conceptualized by Hero of Alexandria, a Greek mathematician and engineer.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3524943590164185,
+    "mean_prob": 0.7894284129142761,
+    "min_prob": 0.22815850377082825,
+    "sds": 1.1601974964141846,
+    "hallucinated": null
+  },
+  {
+    "id": 63,
+    "ds_index": 4870,
+    "question": "What was Warner Sinback",
+    "gold_answer": "a data network based on this voice-phone network was designed to connect GE's four computer sales and service centers",
+    "context": [
+      "The year 2000 brought heightened interest in the AFL. Then-St. Louis Rams quarterback Kurt Warner, who was MVP of Super Bowl XXXIV, was first noticed because he played quarterback for the AFL's Iowa Barnstormers. While many sports commentators and fans continued to ridicule the league, Warner's story gave the league positive exposure, and it brought the league a new television deal with TNN, which, unlike ESPN, televised regular season games live. While it was not financially lucrative, it helped set the stage for what the league would become in the new millennium. Also, the year also brought a spin-off league, the AF2, intended to be a developmental league, comparable to the National Football League's NFL Europe. There was a lot of expansion in the 2000s. Expansion teams included the Austin Wranglers, Carolina Cobras, Los Angeles Avengers, Chicago Rush, Detroit Fury, Dallas Desperados, Colorado Crush, New Orleans VooDoo, Philadelphia Soul, Nashville Kats, Kansas City Brigade, New York Dragons and Utah Blaze. Some of these teams, including the Crush, Desperados, Kats, and VooDoo, were owned by the same group which owned the NFL teams in their host cities. The NFL purchased, but never exercised, an option to buy a major interest the AFL. Of all of these teams, only the Soul still compete in the AFL as of now."
+    ],
+    "generated_answer": "There is no information about a person named \"Warner Sinback\" in the given context.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2971367835998535,
+    "mean_prob": 0.8190141916275024,
+    "min_prob": 0.2631090581417084,
+    "sds": 1.2360382080078125,
+    "hallucinated": null
+  },
+  {
+    "id": 64,
+    "ds_index": 610,
+    "question": "Along with 10 Cloverfield Lane, what Paramount trailer appeared during the Super Bowl?",
+    "gold_answer": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "context": [
+      "The first video game based on the AFL was Arena Football for the C-64 released in 1988. On May 18, 2000, Kurt Warner's Arena Football Unleashed was released by Midway Games for the PlayStation game console. On February 7, 2006 EA Sports released Arena Football for the PlayStation 2 and Xbox. EA Sports released another AFL video game, titled Arena Football: Road to Glory, on February 21, 2007, for the PlayStation 2."
+    ],
+    "generated_answer": "I'm not able to verify any information about a Paramount trailer for an AFL video game appearing during the Super Bowl.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.8570834398269653,
+    "mean_prob": 0.6058817505836487,
+    "min_prob": 0.15215344727039337,
+    "sds": 0.9566803574562073,
+    "hallucinated": null
+  },
+  {
+    "id": 65,
+    "ds_index": 1382,
+    "question": "What was it called when Tesla lit a wireless gas-discharge lamp using a high-frequency, high-voltage alternating current?",
+    "gold_answer": "Tesla Polyphase System",
+    "context": [
+      "The relationships above are valid for only a few percent change of voltage around rated conditions, but they do indicate that a lamp operated at much lower than rated voltage could last for hundreds of times longer than at rated conditions, albeit with greatly reduced light output. The \"Centennial Light\" is a light bulb that is accepted by the Guinness Book of World Records as having been burning almost continuously at a fire station in Livermore, California, since 1901. However, the bulb emits the equivalent light of a four watt bulb. A similar story can be told of a 40-watt bulb in Texas that has been illuminated since 21 September 1908. It once resided in an opera house where notable celebrities stopped to take in its glow, and was moved to an area museum in 1977."
+    ],
+    "generated_answer": "The event was called the \"War of Currents,\" but more specifically, it was a demonstration of a \"wireless gas-discharge lamp.\"",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 2.310727596282959,
+    "mean_prob": 0.5716373920440674,
+    "min_prob": 0.006831170991063118,
+    "sds": 1.1143417358398438,
+    "hallucinated": null
+  },
+  {
+    "id": 66,
+    "ds_index": 6308,
+    "question": "What recent decade saw brightening of the perception of Genghis Khan in Mongolia?",
+    "gold_answer": "1990s",
+    "context": [
+      "In 1207, the Mongol ruler Genghis Khan (r. 1206\u20131227) conquered and subjugated the ethnic Tangut state of the Western Xia (1038\u20131227). In the same year, he established diplomatic relations with Tibet by sending envoys there. The conquest of the Western Xia alarmed Tibetan rulers, who decided to pay tribute to the Mongols. However, when they ceased to pay tribute after Genghis Khan's death, his successor \u00d6gedei Khan (r. 1229\u20131241) launched an invasion into Tibet."
+    ],
+    "generated_answer": "The recent decade that saw a brightening of the perception of Genghis Khan in Mongolia is the 1990s.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.30903160572052,
+    "mean_prob": 0.820111095905304,
+    "min_prob": 0.27258002758026123,
+    "sds": 1.060221791267395,
+    "hallucinated": null
+  },
+  {
+    "id": 67,
+    "ds_index": 727,
+    "question": "Who tackled Mike Tolbert and caused a fumble?",
+    "gold_answer": "Darian Stewart",
+    "context": [
+      "After losing an extra-inning game in Game 1, the Cubs rallied and took a 3 games to 1 lead over the Wild Card Florida Marlins in the NLCS. Florida shut the Cubs out in Game 5, but young pitcher Mark Prior led the Cubs in Game 6 as they took a 3\u20130 lead into the 8th inning and it was at this point when a now-infamous incident took place. Several spectators attempted to catch a foul ball off the bat of Luis Castillo. A Chicago Cubs fan by the name of Steve Bartman, of Northbrook, Illinois, reached for the ball and deflected it away from the glove of Mois\u00e9s Alou for the second out of the 8th inning. Alou reacted angrily toward the stands, and after the game stated that he would have caught the ball. Alou at one point recanted, saying he would not have been able to make the play, but later said this was just an attempt to make Bartman feel better and believing the whole incident should be forgotten. Interference was not called on the play, as the ball was ruled to be on the spectator side of the wall. Castillo was eventually walked by Prior. Two batters later, and to the chagrin of the packed stadium, Cubs shortstop Alex Gonzalez misplayed an inning ending double play, loading the bases and leading to eight Florida runs and a Marlin victory. Despite sending Kerry Wood to the mound and holding a lead twice, the Cubs ultimately dropped Game 7, and failed to reach the World Series."
+    ],
+    "generated_answer": "There is no information in the provided context about Mike Tolbert or a tackle causing a fumble. The context is about a baseball game between the Cubs and the Marlins in the NLCS.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.4654407501220703,
+    "mean_prob": 0.7345684766769409,
+    "min_prob": 0.2620733380317688,
+    "sds": 0.9527652859687805,
+    "hallucinated": null
+  },
+  {
+    "id": 68,
+    "ds_index": 2899,
+    "question": "When did BSkyB first announce their target goal?",
+    "gold_answer": "August 2004",
+    "context": [
+      "Many[who?] expected BSkyB to make a bid to show some of the remaining FA Cup games for the remainder of the 2009\u201310 season which would include a semi-final and shared rights to the final. ESPN took over the package Setanta held for the FA Cup from the 2010\u201311 season. The 2011 final was also shown live on Sky 3D in addition to ESPN (who provided the 3D coverage for Sky 3D) and ITV. Following the sale of ESPN's UK and Ireland channels to BT, ESPN's rights package transferred to BT Sport from the 2013\u201314 season."
+    ],
+    "generated_answer": "Unfortunately, the provided context does not mention BSkyB announcing their target goal.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.6267634630203247,
+    "mean_prob": 0.6864448189735413,
+    "min_prob": 0.23495247960090637,
+    "sds": 1.1127525568008423,
+    "hallucinated": null
+  },
+  {
+    "id": 69,
+    "ds_index": 230,
+    "question": "How many touchdowns did Jonathan Stewart have in 13 games?",
+    "gold_answer": "six",
+    "context": [
+      "In June, 1998 Sammy Sosa exploded into the pursuit of Roger Maris' home run record. Sosa had 13 home runs entering the month, representing less than half of Mark McGwire's total. Sosa had his first of four multi-home run games that month on June 1, and went on to break Rudy York's record with 20 home runs in the month, a record that still stands. By the end of his historic month, the outfielder's 33 home runs tied him with Ken Griffey, Jr. and left him only four behind McGwire's 37. Sosa finished with 66 and won the NL MVP Award."
+    ],
+    "generated_answer": "There is no information provided about Jonathan Stewart or his touchdowns in 13 games in the given context. The context is about Sammy Sosa's home runs in June 1998.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2924102544784546,
+    "mean_prob": 0.8027803897857666,
+    "min_prob": 0.2835618257522583,
+    "sds": 0.945381760597229,
+    "hallucinated": null
+  },
+  {
+    "id": 70,
+    "ds_index": 1558,
+    "question": "What was the occasion when he claimed he'd made the death ray?",
+    "gold_answer": "at a luncheon in his honor",
+    "context": [
+      "He immersed himself in work on the project, and was present at the Trinity bomb test. Feynman claimed to be the only person to see the explosion without the very dark glasses or welder's lenses provided, reasoning that it was safe to look through a truck windshield, as it would screen out the harmful ultraviolet radiation. On witnessing the blast, Feynman ducked towards the floor of his truck because of the immense brightness of the explosion, where he saw a temporary \"purple splotch\" afterimage of the event."
+    ],
+    "generated_answer": "The occasion when Feynman claimed he'd made the death ray is not mentioned in the given context. However, it is known that Feynman did work on a \"death ray\" project during World War II, but the specific occasion is not mentioned here.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.7534301280975342,
+    "mean_prob": 0.6479748487472534,
+    "min_prob": 0.12537916004657745,
+    "sds": 1.0049874782562256,
+    "hallucinated": null
+  },
+  {
+    "id": 71,
+    "ds_index": 3390,
+    "question": "An evaporative cooling tower is also referred to as what kind of cooling tower?",
+    "gold_answer": "wet",
+    "context": [
+      "Hydrogen is commonly used in power stations as a coolant in generators due to a number of favorable properties that are a direct result of its light diatomic molecules. These include low density, low viscosity, and the highest specific heat and thermal conductivity of all gases."
+    ],
+    "generated_answer": "An evaporative cooling tower is also referred to as a wet cooling tower.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1680136919021606,
+    "mean_prob": 0.8851979374885559,
+    "min_prob": 0.3321559429168701,
+    "sds": 1.1450735330581665,
+    "hallucinated": null
+  },
+  {
+    "id": 72,
+    "ds_index": 9083,
+    "question": "When was it discovered that prime numbers could applied to the creation of public key cryptography algorithms?",
+    "gold_answer": "the 1970s",
+    "context": [
+      "The principle of the modern computer was first described by mathematician and pioneering computer scientist Alan Turing, who set out the idea in his seminal 1936 paper, On Computable Numbers. Turing reformulated Kurt G\u00f6del's 1931 results on the limits of proof and computation, replacing G\u00f6del's universal arithmetic-based formal language with the formal and simple hypothetical devices that became known as Turing machines. He proved that some such machine would be capable of performing any conceivable mathematical computation if it were representable as an algorithm. He went on to prove that there was no solution to the Entscheidungsproblem by first showing that the halting problem for Turing machines is undecidable: in general, it is not possible to decide algorithmically whether a given Turing machine will ever halt."
+    ],
+    "generated_answer": "It was not specifically discovered that prime numbers could be applied to the creation of public key cryptography algorithms at the time of Alan Turing's work in 1936. However, the first public key cryptography algorithm, the RSA algorithm, was developed in 1977 by Ron Rivest, Adi Shamir, and Leonard Adleman, who used the properties of large prime numbers to create a secure encryption method.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.4824200868606567,
+    "mean_prob": 0.7496682405471802,
+    "min_prob": 0.05230703204870224,
+    "sds": 0.9976063370704651,
+    "hallucinated": null
+  },
+  {
+    "id": 73,
+    "ds_index": 5248,
+    "question": "What folks are likely to use words like \"howay\" and \"hadaway\"?",
+    "gold_answer": "Scots",
+    "context": [
+      "While most Hokkien morphemes have standard designated characters, they are not always etymological or phono-semantic. Similar-sounding, similar-meaning or rare characters are commonly borrowed or substituted to represent a particular morpheme. Examples include \"beautiful\" (\u7f8e b\u00ed is the literary form), whose vernacular morpheme su\u00ed is represented by characters like \u5aa0 (an obsolete character), \u5a4e (a vernacular reading of this character) and even \u6c34 (transliteration of the sound su\u00ed), or \"tall\" (\u9ad8 ko is the literary form), whose morpheme k\u00f4an is \u61f8. Common grammatical particles are not exempt; the negation particle m\u0304 (not) is variously represented by \u6bcb, \u5463 or \u5514, among others. In other cases, characters are invented to represent a particular morpheme (a common example is the character \ud869\udf36 in, which represents the personal pronoun \"they\"). In addition, some characters have multiple and unrelated pronunciations, adapted to represent Hokkien words. For example, the Hokkien word bah (\"meat\") has been reduced to the character \u8089, which has etymologically unrelated colloquial and literary readings (he\u030dk and jio\u030dk, respectively). Another case is the word 'to eat,' chia\u030dh, which is often transcribed in Taiwanese newspapers and media as \u5477 (a Mandarin transliteration, xi\u0101, to approximate the Hokkien term), even though its recommended character in dictionaries is \u98df."
+    ],
+    "generated_answer": "The Hokkien-speaking people, specifically those from Taiwan, are likely to use words like \"howay\" and \"hadaway\".",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.7137291431427002,
+    "mean_prob": 0.7192177772521973,
+    "min_prob": 0.027780035510659218,
+    "sds": 1.0464816093444824,
+    "hallucinated": null
+  },
+  {
+    "id": 74,
+    "ds_index": 6745,
+    "question": "Vice President Agnew describes Civil disobedience in what activities?",
+    "gold_answer": "muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins",
+    "context": [
+      "In June, Truman became the first president to address the NAACP. His speech was a significant departure from traditional race relations in the United States. In front of 10,000 people at the Lincoln Memorial, the president left no doubt where he stood on civil rights. According to his speech, America had \"reached a turning point in the long history of our country's efforts to guarantee freedom and equality to all our citizens\u2026Each man must be guaranteed equality of opportunity.\" He proposed what black citizens had been calling for - an enhanced role of federal authority through the states. \"We must make the Federal government a friendly, vigilant defender of the rights and equalities of all Americans. And again I mean all Americans.\":40"
+    ],
+    "generated_answer": "There is no information provided in the given context about Vice President Agnew describing civil disobedience.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.355252981185913,
+    "mean_prob": 0.8078449964523315,
+    "min_prob": 0.12988734245300293,
+    "sds": 1.1360498666763306,
+    "hallucinated": null
+  },
+  {
+    "id": 75,
+    "ds_index": 5763,
+    "question": "What are ABC's current daytime talk shows?",
+    "gold_answer": "The View and The Chew",
+    "context": [
+      "Most feature movies shown during the prime time and early overnight hours (8:00 p.m. to 2:30 a.m. Eastern Time) are presented by film historian Robert Osborne (who has been with the network since its 1994 launch, except for a five-month medical leave from July to December 2011, when guest hosts presented each night's films) on Sunday through Wednesday evenings \u2013 with Osborne only presenting primetime films on weekends \u2013 and Ben Mankiewicz presenting only late evening films on Thursdays, and the \"Silent Sunday Nights\" and \"TCM Imports\" blocks on Sundays."
+    ],
+    "generated_answer": "I can't answer that. The provided context is about TCM (Turner Classic Movies), not ABC.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.7313910722732544,
+    "mean_prob": 0.6636313796043396,
+    "min_prob": 0.09900184720754623,
+    "sds": 1.1875839233398438,
+    "hallucinated": null
+  },
+  {
+    "id": 76,
+    "ds_index": 1242,
+    "question": "What year did Tesla avade the draft? ",
+    "gold_answer": "1874",
+    "context": [
+      "In the latter part of the second revolution, Thomas Alva Edison developed many devices that greatly influenced life around the world and is often credited with the creation of the first industrial research laboratory. In 1882, Edison switched on the world's first large-scale electrical supply network that provided 110 volts direct current to fifty-nine customers in lower Manhattan. Also toward the end of the second industrial revolution, Nikola Tesla made many contributions in the field of electricity and magnetism in the late 19th and early 20th centuries."
+    ],
+    "generated_answer": "There is no information in the given context about Nikola Tesla avoiding the draft.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2442008256912231,
+    "mean_prob": 0.8266887664794922,
+    "min_prob": 0.45489510893821716,
+    "sds": 1.2443722486495972,
+    "hallucinated": null
+  },
+  {
+    "id": 77,
+    "ds_index": 1915,
+    "question": "What is the name for a teacher of just one person?",
+    "gold_answer": "tutor",
+    "context": [
+      "In the medieval Islamic world, an elementary school was known as a maktab, which dates back to at least the 10th century. Like madaris (which referred to higher education), a maktab was often attached to an endowed mosque. In the 11th century, the famous Persian Islamic philosopher and teacher Ibn S\u012bn\u0101 (known as Avicenna in the West), in one of his books, wrote a chapter about the maktab entitled \"The Role of the Teacher in the Training and Upbringing of Children,\" as a guide to teachers working at maktab schools. He wrote that children can learn better if taught in classes instead of individual tuition from private tutors, and he gave a number of reasons for why this is the case, citing the value of competition and emulation among pupils, as well as the usefulness of group discussions and debates. Ibn S\u012bn\u0101 described the curriculum of a maktab school in some detail, describing the curricula for two stages of education in a maktab school."
+    ],
+    "generated_answer": "In the medieval Islamic world, a teacher of just one person was referred to as a private tutor.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.6228338479995728,
+    "mean_prob": 0.7592849731445312,
+    "min_prob": 0.029973341152071953,
+    "sds": 0.8450739979743958,
+    "hallucinated": null
+  },
+  {
+    "id": 78,
+    "ds_index": 6972,
+    "question": "What are malum prohibitum considerations?",
+    "gold_answer": "things that are a matter of custom or expectation",
+    "context": [
+      "The law of criminal procedure in the United States consists of a massive overlay of federal constitutional case law interwoven with the federal and state statutes that actually provide the foundation for the creation and operation of law enforcement agencies and prison systems as well as the proceedings in criminal trials. Due to the perennial inability of legislatures in the U.S. to enact statutes that would actually force law enforcement officers to respect the constitutional rights of criminal suspects and convicts, the federal judiciary gradually developed the exclusionary rule as a method to enforce such rights. In turn, the exclusionary rule spawned a family of judge-made remedies for the abuse of law enforcement powers, of which the most famous is the Miranda warning. The writ of habeas corpus is often used by suspects and convicts to challenge their detention, while the Civil Rights Act of 1871 and Bivens actions are used by suspects to recover tort damages for police brutality."
+    ],
+    "generated_answer": "Malum prohibitum considerations refer to actions that are not inherently wrong but are prohibited by law, often due to societal or legislative disapproval. In the context of the law of criminal procedure, malum prohibitum offenses are typically punished by statute rather than being inherently immoral.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.9999032020568848,
+    "mean_prob": 0.6204385161399841,
+    "min_prob": 0.0174342580139637,
+    "sds": 1.0836254358291626,
+    "hallucinated": null
+  },
+  {
+    "id": 79,
+    "ds_index": 6701,
+    "question": "What are the skin cells that can be transformed into tumors known as?",
+    "gold_answer": "melanocytes",
+    "context": [
+      "All animals have eukaryotic cells, surrounded by a characteristic extracellular matrix composed of collagen and elastic glycoproteins. This may be calcified to form structures like shells, bones, and spicules. During development, it forms a relatively flexible framework upon which cells can move about and be reorganized, making complex structures possible. In contrast, other multicellular organisms, like plants and fungi, have cells held in place by cell walls, and so develop by progressive growth. Also, unique to animal cells are the following intercellular junctions: tight junctions, gap junctions, and desmosomes."
+    ],
+    "generated_answer": "The skin cells that can be transformed into tumors are known as keratinocytes.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5424654483795166,
+    "mean_prob": 0.7891066074371338,
+    "min_prob": 0.052135542035102844,
+    "sds": 1.1301685571670532,
+    "hallucinated": null
+  },
+  {
+    "id": 80,
+    "ds_index": 7092,
+    "question": "After apartheid, what types of schools are referred to as \"Model C\" schools?",
+    "gold_answer": "government schools formerly reserved for white children",
+    "context": [
+      "The introduction of the community school model in the 1970s controversially removed the denominational basis of the schools, but religious interests were invited to be represented on the Boards of Management. Community schools are divided into two models, the community school vested in the Minister for Education and the community college vested in the local Education and Training Board. Community colleges tended to be amalgamations of unviable local schools under the umbrella of a new community school model, but community schools have tended to be entirely new foundations."
+    ],
+    "generated_answer": "I'm not aware of any information that links \"Model C\" schools to the post-apartheid era in the context of the given information. However, in South Africa, \"Model C\" schools refer to former white schools that were integrated into the public education system after apartheid, often retaining their existing infrastructure and some autonomy.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 2.009849786758423,
+    "mean_prob": 0.5828761458396912,
+    "min_prob": 0.07336807250976562,
+    "sds": 0.9907594323158264,
+    "hallucinated": null
+  },
+  {
+    "id": 81,
+    "ds_index": 2872,
+    "question": "What are free-to-air encrypted broadcasts known as?",
+    "gold_answer": "free-to-view",
+    "context": [
+      "While the \"footprint\" of the Astra 2D satellite was smaller than that of Astra 2A, from which it was previously broadcast encrypted, it meant that viewers with appropriate equipment were able to receive BBC channels \"free-to-air\" over much of Western Europe. Consequently, some rights concerns have needed to be resolved with programme providers such as Hollywood studios and sporting organisations, which have expressed concern about the unencrypted signal leaking out. This led to some broadcasts being made unavailable on the Sky Digital platform, such as Scottish Premier League and Scottish Cup football, while on other platforms such broadcasts were not disrupted. Later, when rights contracts were renewed, this problem was resolved."
+    ],
+    "generated_answer": "There is no information in the context that free-to-air broadcasts are encrypted. In fact, the context states that the Astra 2D satellite allowed viewers to receive BBC channels \"free-to-air\", implying that they were not encrypted.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.48910391330719,
+    "mean_prob": 0.7369474172592163,
+    "min_prob": 0.08231339603662491,
+    "sds": 0.7498828768730164,
+    "hallucinated": null
+  },
+  {
+    "id": 82,
+    "ds_index": 7549,
+    "question": "What is negatively correlated to the duration of economic growth?",
+    "gold_answer": "inequality in wealth and income",
+    "context": [
+      "Following a peak in growth in 1979, the Liberian economy began a steady decline due to economic mismanagement following the 1980 coup. This decline was accelerated by the outbreak of civil war in 1989; GDP was reduced by an estimated 90% between 1989 and 1995, one of the fastest declines in history. Upon the end of the war in 2003, GDP growth began to accelerate, reaching 9.4% in 2007. The global financial crisis slowed GDP growth to 4.6% in 2009, though a strengthening agricultural sector led by rubber and timber exports increased growth to 5.1% in 2010 and an expected 7.3% in 2011, making the economy one of the 20 fastest growing in the world."
+    ],
+    "generated_answer": "The outbreak of civil war in 1989 and the global financial crisis in 2009 are negatively correlated to the duration of economic growth in Liberia.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.360525369644165,
+    "mean_prob": 0.8206916451454163,
+    "min_prob": 0.05554933473467827,
+    "sds": 0.688202440738678,
+    "hallucinated": null
+  },
+  {
+    "id": 83,
+    "ds_index": 10304,
+    "question": "What other clashes were involved in taking Louisbourg?",
+    "gold_answer": "Petitcodiac in 1755 and at Bloody Creek near Annapolis Royal in 1757",
+    "context": [
+      "British Prime Minister William Pitt's focus on the colonies for the 1758 campaign paid off with the taking of Louisbourg after French reinforcements were blocked by British naval victory in the Battle of Cartagena and in the successful capture of Fort Duquesne and Fort Frontenac. The British also continued the process of deporting the Acadian population with a wave of major operations against \u00cele Saint-Jean (present-day Prince Edward Island), the St. John River valley, and the Petitcodiac River valley. The celebration of these successes was dampened by their embarrassing defeat in the Battle of Carillon (Ticonderoga), in which 4,000 French troops repulsed 16,000 British."
+    ],
+    "generated_answer": "The British naval victory in the Battle of Cartagena and the successful capture of Fort Duquesne and Fort Frontenac were involved in taking Louisbourg.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.1327288150787354,
+    "mean_prob": 0.9113730192184448,
+    "min_prob": 0.1858038306236267,
+    "sds": 0.7773678302764893,
+    "hallucinated": null
+  },
+  {
+    "id": 84,
+    "ds_index": 8310,
+    "question": "When was earthenware movable type invented?",
+    "gold_answer": "in the 12th century",
+    "context": [
+      "Early digital computers were electromechanical; electric switches drove mechanical relays to perform the calculation. These devices had a low operating speed and were eventually superseded by much faster all-electric computers, originally using vacuum tubes. The Z2, created by German engineer Konrad Zuse in 1939, was one of the earliest examples of an electromechanical relay computer."
+    ],
+    "generated_answer": "There is no information in the given context about the invention of earthenware movable type.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2346265316009521,
+    "mean_prob": 0.8499182462692261,
+    "min_prob": 0.3231858015060425,
+    "sds": 1.1316977739334106,
+    "hallucinated": null
+  },
+  {
+    "id": 85,
+    "ds_index": 10372,
+    "question": "What is the weakest main interaction?",
+    "gold_answer": "gravitational",
+    "context": [
+      "Devise Minority Party Strategies. The minority leader, in consultation with other party colleagues, has a range of strategic options that he or she can employ to advance minority party objectives. The options selected depend on a wide range of circumstances, such as the visibility or significance of the issue and the degree of cohesion within the majority party. For instance, a majority party riven by internal dissension, as occurred during the early 1900s when Progressive and \"regular\" Republicans were at loggerheads, may provide the minority leader with greater opportunities to achieve his or her priorities than if the majority party exhibited high degrees of party cohesion. Among the variable strategies available to the minority party, which can vary from bill to bill and be used in combination or at different stages of the lawmaking process, are the following:"
+    ],
+    "generated_answer": "The weakest main interaction is not explicitly mentioned in the given context. However, it can be inferred that the weakest interaction would be when the majority party exhibits high degrees of party cohesion, making it more difficult for the minority party to advance their objectives.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.6250778436660767,
+    "mean_prob": 0.6962062120437622,
+    "min_prob": 0.10553614050149918,
+    "sds": 0.9793623685836792,
+    "hallucinated": null
+  },
+  {
+    "id": 86,
+    "ds_index": 8647,
+    "question": "Who led the Science and Environmental Policy Project?",
+    "gold_answer": "Fred Singer",
+    "context": [
+      "Between 1791 and 1833, Saint Helena became the site of a series of experiments in conservation, reforestation and attempts to boost rainfall artificially. This environmental intervention was closely linked to the conceptualisation of the processes of environmental change and helped establish the roots of environmentalism."
+    ],
+    "generated_answer": "Unfortunately, the context does not mention who led the Science and Environmental Policy Project.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.3966351747512817,
+    "mean_prob": 0.7741489410400391,
+    "min_prob": 0.2497536987066269,
+    "sds": 1.0876821279525757,
+    "hallucinated": null
+  },
+  {
+    "id": 87,
+    "ds_index": 3223,
+    "question": "What present day county is New Rochelle in?",
+    "gold_answer": "Westchester",
+    "context": [
+      "The city has undergone many changes to its governance over the centuries and once again became administratively independent from Hampshire County as it was made into a unitary authority in a local government reorganisation on 1 April 1997, a result of the 1992 Local Government Act. The district remains part of the Hampshire ceremonial county."
+    ],
+    "generated_answer": "I can't answer that as there is no information about New Rochelle in the context provided.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.8215831518173218,
+    "mean_prob": 0.6173701286315918,
+    "min_prob": 0.22869451344013214,
+    "sds": 1.2827789783477783,
+    "hallucinated": null
+  },
+  {
+    "id": 88,
+    "ds_index": 612,
+    "question": "What film did Lionsgate pay to have the trailer aired during the Super Bowl?",
+    "gold_answer": "Gods of Egypt",
+    "context": [
+      "The first video game based on the AFL was Arena Football for the C-64 released in 1988. On May 18, 2000, Kurt Warner's Arena Football Unleashed was released by Midway Games for the PlayStation game console. On February 7, 2006 EA Sports released Arena Football for the PlayStation 2 and Xbox. EA Sports released another AFL video game, titled Arena Football: Road to Glory, on February 21, 2007, for the PlayStation 2."
+    ],
+    "generated_answer": "Unfortunately, the provided context does not mention Lionsgate or a film trailer being aired during the Super Bowl.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5786631107330322,
+    "mean_prob": 0.6888279914855957,
+    "min_prob": 0.21972692012786865,
+    "sds": 1.1211134195327759,
+    "hallucinated": null
+  },
+  {
+    "id": 89,
+    "ds_index": 1563,
+    "question": "Where can the Treatise be found?",
+    "gold_answer": "Nikola Tesla Museum archive",
+    "context": [
+      "The Logic and Metaphysics have been extensively reprinted, the latter, e.g., at Venice in 1493, 1495, and 1546. Some of his shorter essays on medicine, logic, etc., take a poetical form (the poem on logic was published by Schmoelders in 1836).[citation needed] Two encyclopaedic treatises, dealing with philosophy, are often mentioned. The larger, Al-Shifa' (Sanatio), exists nearly complete in manuscript in the Bodleian Library and elsewhere; part of it on the De Anima appeared at Pavia (1490) as the Liber Sextus Naturalium, and the long account of Ibn Sina's philosophy given by Muhammad al-Shahrastani seems to be mainly an analysis, and in many places a reproduction, of the Al-Shifa'. A shorter form of the work is known as the An-najat (Liberatio). The Latin editions of part of these works have been modified by the corrections which the monastic editors confess that they applied. There is also a \u062d\u0643\u0645\u062a \u0645\u0634\u0631\u0642\u064a\u0647 (hikmat-al-mashriqqiyya, in Latin Philosophia Orientalis), mentioned by Roger Bacon, the majority of which is lost in antiquity, which according to Averroes was pantheistic in tone."
+    ],
+    "generated_answer": "The Al-Shifa' (Sanatio) treatise exists nearly complete in manuscript in the Bodleian Library and elsewhere.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.0967106819152832,
+    "mean_prob": 0.9294350147247314,
+    "min_prob": 0.3437163829803467,
+    "sds": 0.872287392616272,
+    "hallucinated": null
+  },
+  {
+    "id": 90,
+    "ds_index": 6795,
+    "question": "Stephen Eildmann cites the oldest known example of civil disobedience in what part of the bible? ",
+    "gold_answer": "(Exodus 1: 15-19)",
+    "context": [
+      "There has recently been an effort to reevaluate the influence of the Bible on Western constitutional law. In the Old Testament, there was some language in Deuteronomy imposing restrictions on the Jewish king, regarding such things as how many wives he could have, and how many horses he could own for his personal use. According to Professor Bernard M. Levinson, \"This legislation was so utopian in its own time that it seems never to have been implemented....\" The Deuteronomic social vision may have influenced opponents of the divine right of kings, including Bishop John Ponet in sixteenth-century England."
+    ],
+    "generated_answer": "Stephen Eildmann cites the oldest known example of civil disobedience in the book of Deuteronomy.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.5132412910461426,
+    "mean_prob": 0.8067299723625183,
+    "min_prob": 0.01630234345793724,
+    "sds": 1.021113634109497,
+    "hallucinated": null
+  },
+  {
+    "id": 91,
+    "ds_index": 3777,
+    "question": "Which president ended the Emergency Energy Conservation Act?",
+    "gold_answer": "Bill Clinton",
+    "context": [
+      "New government spending, regulation, and policies helped the industry weather the 2009 economic crisis better than many other sectors. Most notably, U.S. President Barack Obama's American Recovery and Reinvestment Act of 2009 included more than $70 billion in direct spending and tax credits for clean energy and associated transportation programs. This policy-stimulus combination represents the largest federal commitment in U.S. history for renewables, advanced transportation, and energy conservation initiatives. Based on these new rules, many more utilities strengthened their clean-energy programs. Clean Edge suggests that the commercialization of clean energy will help countries around the world deal with the current economic malaise. Once-promising solar energy company, Solyndra, became involved in a political controversy involving U.S. President Barack Obama's administration's authorization of a $535 million loan guarantee to the Corporation in 2009 as part of a program to promote alternative energy growth. The company ceased all business activity, filed for Chapter 11 bankruptcy, and laid-off nearly all of its employees in early September 2011."
+    ],
+    "generated_answer": "The text does not mention the Emergency Energy Conservation Act. It mentions the American Recovery and Reinvestment Act of 2009, which was signed into law by President Barack Obama.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2797521352767944,
+    "mean_prob": 0.822614848613739,
+    "min_prob": 0.3318505883216858,
+    "sds": 0.9550354480743408,
+    "hallucinated": null
+  },
+  {
+    "id": 92,
+    "ds_index": 975,
+    "question": "When was Warsaw completely razed to the ground by bombing raids?",
+    "gold_answer": "During the Second World War",
+    "context": [
+      "On 1 September, Germany invaded Poland from the west. Within the first few days of the invasion, Germany began conducting massacres of Polish and Jewish civilians and POWs. These executions took place in over 30 towns and villages in the first month of German occupation. The Luftwaffe also took part by strafing fleeing civilian refugees on roads and carrying out a bombing campaign. The Soviet Union assisted German air forces by allowing them to use signals broadcast by the Soviet radio station at Minsk allegedly \"for urgent aeronautical experiments\"."
+    ],
+    "generated_answer": "The exact date of Warsaw being completely razed to the ground by bombing raids is not specified in the given context. However, it is known that Warsaw was heavily bombed by the Luftwaffe, and the city suffered significant damage during the invasion of Poland in September 1939.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.598652958869934,
+    "mean_prob": 0.7212457060813904,
+    "min_prob": 0.009704884141683578,
+    "sds": 0.9476872682571411,
+    "hallucinated": null
+  },
+  {
+    "id": 93,
+    "ds_index": 2702,
+    "question": "What kind of climate does southern California maintain?",
+    "gold_answer": "Mediterranean",
+    "context": [
+      "The climate in the state depends mainly in the elevation of the terrain. According to K\u00f6ppen climate classification the state has five major climate zones. The Sierra Madre Occidental dominates the western part of the state; there are two main climates in this area: Subtropical Highland (Cfb) and Humid Subtropical (Cwa). There are some microclimates in the state due to the varying topology mostly found in the western side of the state. The two best known microclimates are: Tropical savanna climate (Aw) in deep canyons located in the extreme southern part of the state; Continental Mediterranean climate (Dsb) in the extremely high elevations of the Sierra Madre Occidental. Satellite image to the right shows the vegetation is much greener in the west because of the cooler temperatures and larger amounts of precipitation as compared to the rest of the state."
+    ],
+    "generated_answer": "The climate in southern California is characterized by two main climates: Subtropical Highland (Cfb) and Humid Subtropical (Cwa), both located in the western part of the state.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.556739091873169,
+    "mean_prob": 0.767510712146759,
+    "min_prob": 0.031911395490169525,
+    "sds": 0.8042879104614258,
+    "hallucinated": null
+  },
+  {
+    "id": 94,
+    "ds_index": 7958,
+    "question": "What person helped establish the school with a donation?",
+    "gold_answer": "John D. Rockefeller",
+    "context": [
+      "Yale has had many financial supporters, but some stand out by the magnitude or timeliness of their contributions. Among those who have made large donations commemorated at the university are: Elihu Yale; Jeremiah Dummer; the Harkness family (Edward, Anna, and William); the Beinecke family (Edwin, Frederick, and Walter); John William Sterling; Payne Whitney; Joseph E. Sheffield, Paul Mellon, Charles B. G. Murphy and William K. Lanman. The Yale Class of 1954, led by Richard Gilder, donated $70 million in commemoration of their 50th reunion. Charles B. Johnson, a 1954 graduate of Yale College, pledged a $250 million gift in 2013 to support of the construction of two new residential colleges."
+    ],
+    "generated_answer": "Elihu Yale was the person who helped establish the school with a donation.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2074438333511353,
+    "mean_prob": 0.9037761688232422,
+    "min_prob": 0.09897361695766449,
+    "sds": 0.8152710795402527,
+    "hallucinated": null
+  },
+  {
+    "id": 95,
+    "ds_index": 1927,
+    "question": "What type of curricula is it that a teacher may likely follow?",
+    "gold_answer": "standardized",
+    "context": [
+      "Instruction is the facilitation of another's learning. Instructors in primary and secondary institutions are often called teachers, and they direct the education of students and might draw on many subjects like reading, writing, mathematics, science and history. Instructors in post-secondary institutions might be called teachers, instructors, or professors, depending on the type of institution; and they primarily teach only their specific discipline. Studies from the United States suggest that the quality of teachers is the single most important factor affecting student performance, and that countries which score highly on international tests have multiple policies in place to ensure that the teachers they employ are as effective as possible. With the passing of NCLB in the United States (No Child Left Behind), teachers must be highly qualified. A popular way to gauge teaching performance is to use student evaluations of teachers (SETS), but these evaluations have been criticized for being counterproductive to learning and inaccurate due to student bias."
+    ],
+    "generated_answer": "A teacher may likely follow a curriculum that includes subjects such as reading, writing, mathematics, science, and history.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.219927191734314,
+    "mean_prob": 0.8657423853874207,
+    "min_prob": 0.18519042432308197,
+    "sds": 0.9380490779876709,
+    "hallucinated": null
+  },
+  {
+    "id": 96,
+    "ds_index": 8589,
+    "question": "Who is the vice-chair of the IPCC?",
+    "gold_answer": "Ismail El Gizouli",
+    "context": [
+      "The Supervisory Board meets twice a month to discuss, plan and carry out the ECB\u2019s supervisory tasks. It proposes draft decisions to the Governing Council under the non-objection procedure. It is composed of Chair (appointed for a non-renewable term of five years), Vice-Chair (chosen from among the members of the ECB's Executive Board) four ECB representatives and representatives of national supervisors. If the national supervisory authority designated by a Member State is not a national central bank (NCB), the representative of the competent authority can be accompanied by a representative from their NCB. In such cases, the representatives are together considered as one member for the purposes of the voting procedure."
+    ],
+    "generated_answer": "There is no information about the IPCC in the given context. The context is about the Supervisory Board of the ECB (European Central Bank).",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.355333924293518,
+    "mean_prob": 0.7841863036155701,
+    "min_prob": 0.29757508635520935,
+    "sds": 0.9379693865776062,
+    "hallucinated": null
+  },
+  {
+    "id": 97,
+    "ds_index": 7042,
+    "question": "What types of schools are most erg\u00e4nzungsschulen?",
+    "gold_answer": "vocational",
+    "context": [
+      "Germany has a comprehensive school known as the Gesamtschule. While some German schools such as the Gymnasium and the Realschule have rather strict entrance requirements, the Gesamtschule does not have such requirements. They offer college preparatory classes for the students who are doing well, general education classes for average students, and remedial courses for those who aren't doing that well. In most cases students attending a Gesamtschule may graduate with the Hauptschulabschluss, the Realschulabschluss or the Abitur depending on how well they did in school."
+    ],
+    "generated_answer": "Erg\u00e4nzungsschulen are not mentioned in the context. However, based on the information provided, the types of schools that have strict entrance requirements are the Gymnasium and the Realschule.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.4759883880615234,
+    "mean_prob": 0.7524449825286865,
+    "min_prob": 0.18535856902599335,
+    "sds": 0.8055657148361206,
+    "hallucinated": null
+  },
+  {
+    "id": 98,
+    "ds_index": 4539,
+    "question": "What was done to counteract the overpopulation of mnemiopsis in The Black Sea?",
+    "gold_answer": "introduction of Beroe",
+    "context": [
+      "The passing of the Antarctic Conservation Act (1978) in the U.S. brought several restrictions to U.S. activity on Antarctica. The introduction of alien plants or animals can bring a criminal penalty, as can the extraction of any indigenous species. The overfishing of krill, which plays a large role in the Antarctic ecosystem, led officials to enact regulations on fishing. The Convention for the Conservation of Antarctic Marine Living Resources (CCAMLR), a treaty that came into force in 1980, requires that regulations managing all Southern Ocean fisheries consider potential effects on the entire Antarctic ecosystem. Despite these new acts, unregulated and illegal fishing, particularly of Patagonian toothfish (marketed as Chilean Sea Bass in the U.S.), remains a serious problem. The illegal fishing of toothfish has been increasing, with estimates of 32,000 tonnes (35,300 short tons) in 2000."
+    ],
+    "generated_answer": "There is no information provided about the overpopulation of mnemiopsis in The Black Sea in the given context.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.2870744466781616,
+    "mean_prob": 0.818245530128479,
+    "min_prob": 0.3183458149433136,
+    "sds": 1.1213293075561523,
+    "hallucinated": null
+  },
+  {
+    "id": 99,
+    "ds_index": 4952,
+    "question": "What did Gasquet think the plague was?",
+    "gold_answer": "some form of the ordinary Eastern or bubonic plague",
+    "context": [
+      "A revolution in 1332 resulted in a broad-based city government with participation of the guilds, and Strasbourg declared itself a free republic. The deadly bubonic plague of 1348 was followed on 14 February 1349 by one of the first and worst pogroms in pre-modern history: over a thousand Jews were publicly burnt to death, with the remainder of the Jewish population being expelled from the city. Until the end of the 18th century, Jews were forbidden to remain in town after 10 pm. The time to leave the city was signalled by a municipal herald blowing the Gr\u00fcselhorn (see below, Museums, Mus\u00e9e historique);. A special tax, the Pflastergeld (pavement money), was furthermore to be paid for any horse that a Jew would ride or bring into the city while allowed to."
+    ],
+    "generated_answer": "There is no information in the provided context about Gasquet's thoughts on the plague.",
+    "retrieval_k": 1,
+    "seed": 2,
+    "perplexity": 1.4788460731506348,
+    "mean_prob": 0.7330402731895447,
+    "min_prob": 0.28883227705955505,
+    "sds": 1.1324687004089355,
+    "hallucinated": null
+  }
+]

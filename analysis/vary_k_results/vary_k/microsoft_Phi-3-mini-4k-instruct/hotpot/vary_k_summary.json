@@ -1,0 +1,16 @@
+{
+  "model": "microsoft/Phi-3-mini-4k-instruct",
+  "dataset": "hotpot",
+  "k_values": [
+    1
+  ],
+  "n_samples": 100,
+  "seed": 42,
+  "cells": [
+    {
+      "k": 1,
+      "n": 100,
+      "path": "/results/vary_k/microsoft_Phi-3-mini-4k-instruct/hotpot/vary_k_n100_k1.json"
+    }
+  ]
+}

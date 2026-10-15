@@ -1,0 +1,8 @@
+{
+  "r10_perplexity_max_quartile_delta": 0.11114956783368712,
+  "r10_sds_unc_max_quartile_delta": 0.1011115345337773,
+  "r6_max_abs_AUROC_delta": 0.001748149874715832,
+  "r6_mean_AUROC_delta": -0.0007270803510916191,
+  "r6_cells_with_meaningful_delta": 0,
+  "n_cells": 8
+}

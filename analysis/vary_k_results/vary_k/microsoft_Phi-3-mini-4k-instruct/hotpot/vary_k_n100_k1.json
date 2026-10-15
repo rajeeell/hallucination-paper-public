@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 0,
+    "question": "VIVA Media AG changed it's name in 2004. What does their new acronym stand for?",
+    "gold_answer": "Gesellschaft mit beschr\u00e4nkter Haftung",
+    "context": [
+      "VIVA Media GmbH (until 2004 \"VIVA Media AG\") is a music television network originating from Germany.  It was founded for broadcast of VIVA Germany as VIVA Media AG in 1993 and has been owned by their original concurrent Viacom, the parent company of MTV, since 2004.  Viva channels exist in some European countries; the first spin-offs were launched in Poland and Switzerland in 2000."
+    ],
+    "generated_answer": "VIVA Media GmbH stands for VIVA Media GmbH, which is a music television network originating from Germany.",
+    "retrieval_k": 1,
+    "perplexity": 1.5273951292037964,
+    "mean_prob": 0.7230826616287231,
+    "min_prob": 0.1159496009349823,
+    "sds": 0.4870346784591675,
+    "hallucinated": null
+  },
+  {
+    "id": 1,
+    "question": "Which of Jonny Craig and Pete Doherty has been a member of more bands ?",
+    "gold_answer": "Jonny\" Craig",
+    "context": [
+      "Jonny Kearney & Lucy Farrell are a contemporary English folk duo.  Although they play some traditional songs, most of the songs they sing are their own compositions influenced by the folk tradition, but also songs by other artists such as Bob Dylan, Tom Waits, Cole Porter, Brian Wilson and The Beatles."
+    ],
+    "generated_answer": "Jonny Kearney & Lucy Farrell are a folk duo, not Jonny Craig & Pete Doherty. Jonny Craig is a solo artist, and Pete Doherty was a member of The Libertines and Babyshambles.",
+    "retrieval_k": 1,
+    "perplexity": 1.481357455253601,
+    "mean_prob": 0.7706043124198914,
+    "min_prob": 0.028245069086551666,
+    "sds": 0.6114965677261353,
+    "hallucinated": null
+  },
+  {
+    "id": 2,
+    "question": "Where was the first governor after the The Missouri Compromise from?",
+    "gold_answer": "Bath, Maine",
+    "context": [
+      "The Missouri Compromise is the title generally attached to the legislation passed by the 16th United States Congress on May 8, 1820.  The measures provided for the admission of Maine as a state along with Missouri as a slave state, thus maintaining the balance of power between North and South.  As part of the compromise, slavery was prohibited North of the 36\u00b030\u2032 parallel, excluding Missouri.  President James Monroe signed the legislation on April 6, 1820."
+    ],
+    "generated_answer": "The first governor after the Missouri Compromise was from Missouri, as it was admitted as a slave state under the compromise.",
+    "retrieval_k": 1,
+    "perplexity": 1.372473120689392,
+    "mean_prob": 0.7826763391494751,
+    "min_prob": 0.24519138038158417,
+    "sds": 0.7037158012390137,
+    "hallucinated": null
+  },
+  {
+    "id": 3,
+    "question": "The creator of \"Wallace and Gromit\" also created what animation comedy that matched animated zoo animals with a soundtrack of people talking about their homes? ",
+    "gold_answer": "Creature Comforts",
+    "context": [
+      "Wallace and Gromit is a British clay animation comedy series created by Nick Park of Aardman Animations.  The series consists of four short films and a feature-length film.  The series centres on Wallace, a good-natured, eccentric, cheese-loving inventor, along with his companion Gromit, a silent yet loyal and intelligent anthropomorphic dog.  Wallace was originally voiced by veteran actor Peter Sallis, but as of 2011, this role has been passed on to Ben Whitehead.  Gromit remains silent, communicating only through means of facial expressions and body language."
+    ],
+    "generated_answer": "The creator of \"Wallace and Gromit,\" Nick Park, also created \"Creature Comforts,\" an animation comedy featuring animated zoo animals discussing their homes.",
+    "retrieval_k": 1,
+    "perplexity": 1.4497416019439697,
+    "mean_prob": 0.8078985214233398,
+    "min_prob": 0.04024345427751541,
+    "sds": 0.7004399299621582,
+    "hallucinated": null
+  },
+  {
+    "id": 4,
+    "question": "Woman's Era and Naj are what kind of magazines?",
+    "gold_answer": "fortnightly women interest magazine",
+    "context": [
+      "Woman's Era is a fortnightly women interest magazine published in English in India.  It was started in 1973 by Vishwanath under his publishing house, the Delhi Press.  The magazine is owned by the Delhi Press.  Divesh Nath has been the managing editor of the magazine since 2002."
+    ],
+    "generated_answer": "Woman's Era is a fortnightly women interest magazine, while Naj is not mentioned in the context provided.",
+    "retrieval_k": 1,
+    "perplexity": 1.1996665000915527,
+    "mean_prob": 0.8573813438415527,
+    "min_prob": 0.40413516759872437,
+    "sds": 0.7726067304611206,
+    "hallucinated": null
+  },
+  {
+    "id": 5,
+    "question": "The Rome Protocols were signed by three Prime Ministers one of which was assassinated as part of what?",
+    "gold_answer": "a failed coup attempt",
+    "context": [
+      "The Rome Protocols were a series of three international agreements signed in Rome on 17 March 1934 between the governments of Austria, Hungary and Italy.  They were signed by Italian Prime Minister Benito Mussolini, Austrian Prime Minister Engelbert Dollfuss and Hungarian Prime Minister Gyula G\u00f6mb\u00f6s.  All the three protocols went into effect on 12 July 1934 and were registered in \"League of Nations Treaty Series\" on 12 December 1934."
+    ],
+    "generated_answer": "The Rome Protocols were signed by three Prime Ministers, one of whom was assassinated as part of Engelbert Dollfuss's anti-Nazi policies.",
+    "retrieval_k": 1,
+    "perplexity": 1.2594870328903198,
+    "mean_prob": 0.8436231017112732,
+    "min_prob": 0.26651716232299805,
+    "sds": 0.853863537311554,
+    "hallucinated": null
+  },
+  {
+    "id": 6,
+    "question": "Jaclyn Stapp is married to the former frontman of a band that disbanded in what year?",
+    "gold_answer": "2004",
+    "context": [
+      "Jaclyn Nesheiwat Stapp (born July 29, 1980) is a beauty queen, philanthropist and fashion model with pageant roots in Florida and New York.  She is married to Scott Stapp, former frontman of the band Creed, and current frontman for the band Art of Anarchy.  Her most notable titles include Mrs. Florida America 2008 and Miss New York USA 2004.  She is executive director of The Scott Stapp With Arms Wide Open Foundation."
+    ],
+    "generated_answer": "Jaclyn Stapp is married to Scott Stapp, who was the former frontman of the band Creed, which disbanded in 2009.",
+    "retrieval_k": 1,
+    "perplexity": 1.2264025211334229,
+    "mean_prob": 0.8842148780822754,
+    "min_prob": 0.04974624142050743,
+    "sds": 0.6430150270462036,
+    "hallucinated": null
+  },
+  {
+    "id": 7,
+    "question": " If You Ever Get Lonely was covered by what Lyric Street Records-affiliated band?",
+    "gold_answer": "Love and Theft",
+    "context": [
+      "Songs From Lonely Avenue is the eighth studio album from the American swing revival band The Brian Setzer Orchestra, released in 2009.  This is the first album to feature all original songs written by Brian Setzer."
+    ],
+    "generated_answer": "The Brian Setzer Orchestra, associated with Lyric Street Records, covered \"If You Ever Get Lonely\" on their album \"Songs From Lonely Avenue.\"",
+    "retrieval_k": 1,
+    "perplexity": 1.4615484476089478,
+    "mean_prob": 0.8009129166603088,
+    "min_prob": 0.03816802054643631,
+    "sds": 0.5996337532997131,
+    "hallucinated": null
+  },
+  {
+    "id": 8,
+    "question": "When was the  Argentine former footballer which  Dutch manager Ronald Koeman replaced in  2014\u201315 Southampton F.C. season born",
+    "gold_answer": "2 March 1972",
+    "context": [
+      "The 2014\u201315 Southampton F.C. season was the club's 16th season in the Premier League and their 38th in the top division of English football.  It was also the club's first season with Dutch manager Ronald Koeman, who replaced Mauricio Pochettino on 16 June 2014.  Southampton finished seventh in the Premier League, having won 18, drawn six and lost 14 matches.  The club also made it to the fourth round of the FA Cup and the fifth round of the League Cup."
+    ],
+    "generated_answer": "The Argentine former footballer Mauricio Pochettino was born on 17th August 1972.",
+    "retrieval_k": 1,
+    "perplexity": 1.6528865098953247,
+    "mean_prob": 0.729640781879425,
+    "min_prob": 0.10783166438341141,
+    "sds": 1.1918660402297974,
+    "hallucinated": null
+  },
+  {
+    "id": 9,
+    "question": "Which character does this protagonist, who secretly loves and marries a member of the rival house, of William Shakespeare's tragedy that has a fictional character Benvolio slay?",
+    "gold_answer": "Tybalt",
+    "context": [
+      "Benvolio is a fictional character in Shakespeare's drama \"Romeo and Juliet\".  He is Montague's nephew and Romeo's cousin.  Benvolio serves as an unsuccessful peacemaker in the play, attempting to prevent violence between the Capulet and Montague families."
+    ],
+    "generated_answer": "Juliet, the protagonist of Shakespeare's tragedy \"Romeo and Juliet,\" secretly loves and marries Romeo, a member of the rival Montague family.",
+    "retrieval_k": 1,
+    "perplexity": 1.3454477787017822,
+    "mean_prob": 0.8223034739494324,
+    "min_prob": 0.07222922146320343,
+    "sds": 0.8339208364486694,
+    "hallucinated": null
+  },
+  {
+    "id": 10,
+    "question": "Stronger Together was used for the campaign comprised of the Vice Presidential candidate who was a Senator from what state?",
+    "gold_answer": "Virginia",
+    "context": [
+      "\"Strong\" was a political advertisement issued by Texas Governor Rick Perry's presidential campaign in December 2011 for the 2012 Republican Party presidential primaries."
+    ],
+    "generated_answer": "Stronger Together was not used for the campaign; it was associated with the 2020 Democratic Party presidential primaries.",
+    "retrieval_k": 1,
+    "perplexity": 1.6453434228897095,
+    "mean_prob": 0.6947919726371765,
+    "min_prob": 0.08859305083751678,
+    "sds": 0.9651318788528442,
+    "hallucinated": null
+  },
+  {
+    "id": 11,
+    "question": "Are Darren Benjamin Shepherd and R\u00e9mi Lange both American?",
+    "gold_answer": "no",
+    "context": [
+      "Darren Benjamin Shepherd is an American screenwriter and film director.  He was born in San Jose, CA and graduated with film and music degrees from San Jose State University."
+    ],
+    "generated_answer": "Yes, both Darren Benjamin Shepherd and R\u00e9mi Lange are American.",
+    "retrieval_k": 1,
+    "perplexity": 1.0836373567581177,
+    "mean_prob": 0.9418483376502991,
+    "min_prob": 0.37363728880882263,
+    "sds": 1.002803087234497,
+    "hallucinated": null
+  },
+  {
+    "id": 12,
+    "question": "The head of the Foreign Relations Department of the Rastriya Janashakti Party holds a degree that can be abbreviated MS, M.S., or ScM, in what field?",
+    "gold_answer": "Engineering",
+    "context": [
+      "Mulluvilakathu Sreevilas Kumar popularly known as M. S. Kumar is a leader of the Bharatiya Janata Party (BJP) in Kerala, India.  He was the former state secretary of BJP in Kerala.  He was the party spokesperson in the Kerala division.  Currently, he is the member of National Executive Council of BJP.  He is also an editor of the \"Chithi magazine\" published by BJP."
+    ],
+    "generated_answer": "The head of the Foreign Relations Department of the Rastriya Janashakti Party holds a degree in Political Science, which can be abbreviated as MS, M.S., or ScM.",
+    "retrieval_k": 1,
+    "perplexity": 1.178873062133789,
+    "mean_prob": 0.8894380927085876,
+    "min_prob": 0.2491309642791748,
+    "sds": 0.9310162663459778,
+    "hallucinated": null
+  },
+  {
+    "id": 13,
+    "question": "Lollipop Chainsaw featured Juliet Starling, who was voiced by a Canadian-American actress who has done voice roles for what Teen Titans spinoff series?",
+    "gold_answer": "Teen Titans Go!",
+    "context": [
+      "Lollipop Chainsaw (\u30ed\u30ea\u30dd\u30c3\u30d7\u30c1\u30a7\u30fc\u30f3\u30bd\u30fc , Roripoppu Ch\u0113n S\u014d ) is a comedy horror action hack and slash video game developed by Grasshopper Manufacture for the PlayStation 3 and Xbox 360 video game consoles.  It features Juliet Starling (voiced by Tara Strong), a cheerleader zombie hunter fighting zombies in a fictional California high school.  A collaboration between game designer Suda51 and filmmaker James Gunn, the game was published by Kadokawa Games and Warner Bros.  Interactive Entertainment and was released on June 12, 2012 in North America, June 14, 2012 in Japan and June 15, 2012 in Europe."
+    ],
+    "generated_answer": "Juliet Starling, voiced by Tara Strong, is featured in Lollipop Chainsaw and has done voice roles in the Teen Titans spinoff series, Teen Titans Go!.",
+    "retrieval_k": 1,
+    "perplexity": 1.3999167680740356,
+    "mean_prob": 0.8157493472099304,
+    "min_prob": 0.022962963208556175,
+    "sds": 0.9114067554473877,
+    "hallucinated": null
+  },
+  {
+    "id": 14,
+    "question": "What team was led to victory in 1939 by a two-time All-American basketball player nicknamed \"Scat\"?",
+    "gold_answer": "Oklahoma Sooners",
+    "context": [
+      "Adolph Schayes (May 19, 1928 \u2013 December 10, 2015) was an American professional basketball player and coach in the National Basketball Association (NBA).  A top scorer and rebounder, he was a 12-time NBA All-Star and a 12-time All-NBA selection.  Schayes won an NBA championship with the Syracuse Nationals in 1955.  He was named one of the 50 Greatest Players in NBA History and inducted into the Naismith Memorial Basketball Hall of Fame."
+    ],
+    "generated_answer": "The Syracuse Nationals, led by Adolph Schayes, won the NBA championship in 1955.",
+    "retrieval_k": 1,
+    "perplexity": 1.3390355110168457,
+    "mean_prob": 0.807869017124176,
+    "min_prob": 0.1794355809688568,
+    "sds": 0.6976786255836487,
+    "hallucinated": null
+  },
+  {
+    "id": 15,
+    "question": "This expansion of the 2008 magazine article \"Is Google Making Us Stoopid?\" was a finalist for what award?",
+    "gold_answer": "Pulitzer Prize",
+    "context": [
+      "A SEO contest is a prize-awarding activity which challenges search engine optimization (SEO) practitioners to achieve high ranking under major search engines such as Google, Yahoo, and MSN using certain keyword(s).  This type of contest is controversial because it often leads to massive amounts of link spamming as participants try to boost the rankings of their pages by any means available."
+    ],
+    "generated_answer": "The expansion of the 2008 magazine article \"Is Google Making Us Stoopid?\" was a finalist for the Pulitzer Prize.",
+    "retrieval_k": 1,
+    "perplexity": 1.1195095777511597,
+    "mean_prob": 0.9349876046180725,
+    "min_prob": 0.19916076958179474,
+    "sds": 0.9790021777153015,
+    "hallucinated": null
+  },
+  {
+    "id": 16,
+    "question": "What year did The Chronicle of Philanthropy's publishing overlap with Antic?",
+    "gold_answer": "1988",
+    "context": [
+      "Philanthropy is a quarterly magazine published by the Philanthropy Roundtable.  First published as a newsletter in 1987, \"Philanthropy\" became a glossy magazine in 1996.  The magazine's primary focus is philanthropy, with a special interest in donor intent and philanthropic freedom.  The magazine is headquartered in Washington, D.C."
+    ],
+    "generated_answer": "The Chronicle of Philanthropy's publishing did not overlap with Antic as they are two distinct publications.",
+    "retrieval_k": 1,
+    "perplexity": 1.6195684671401978,
+    "mean_prob": 0.7163755297660828,
+    "min_prob": 0.10671386122703552,
+    "sds": 1.0664708614349365,
+    "hallucinated": null
+  },
+  {
+    "id": 17,
+    "question": "The W. H. Shipman House is in what Hawaii county?",
+    "gold_answer": "Hawaii County",
+    "context": [
+      "Honolulu House is a historic home in Marshall, Michigan, built in 1860 as a Hawaiian-inspired house with Italianate and Gothic Revival styles.  It was built by Abner Pratt, a former chief justice of the Michigan Supreme Court and United States Consul to Hawaii under President James Buchanan.  Pratt lived in the Hawaiian islands for many years, and after settling in Marshall, he began to recreate his former surroundings by building Honolulu House.  The house was built across the street from a house that Pratt had built as a wedding gift for his daughter in 1841.  The Honolulu house has a sprawling wraparound porch, reminiscent of the Hawaiian 'Iolani Palace.  The walls were painted with tropical scenes."
+    ],
+    "generated_answer": "The W. H. Shipman House is in Maui County, Hawaii.",
+    "retrieval_k": 1,
+    "perplexity": 1.1893762350082397,
+    "mean_prob": 0.8780006170272827,
+    "min_prob": 0.3052247166633606,
+    "sds": 0.9349571466445923,
+    "hallucinated": null
+  },
+  {
+    "id": 18,
+    "question": "The trophy given to the winner of the college football game between University of Idaho Vandals and University of Montana Grizzlies is derived from which European culture?",
+    "gold_answer": "German",
+    "context": [
+      "The Little Brown Stein is a rivalry trophy awarded to the winner of the college football game between the University of Idaho Vandals and University of Montana Grizzlies.  The trophy is, as the name implies, a large stein mug with the results of all the games between the two painted on."
+    ],
+    "generated_answer": "The trophy is derived from German culture, as it is a stein mug.",
+    "retrieval_k": 1,
+    "perplexity": 1.5948526859283447,
+    "mean_prob": 0.779015302658081,
+    "min_prob": 0.013396610505878925,
+    "sds": 0.924380898475647,
+    "hallucinated": null
+  },
+  {
+    "id": 19,
+    "question": "What stadium does the team who has Kent Baer as the defensive coordinator play its home games?",
+    "gold_answer": "Sam Boyd Stadium",
+    "context": [
+      "Tom N\u00fctten (] ; born June 8, 1971) is a former American football guard who played eight seasons in the National Football League (NFL) with the St. Louis Rams.  He was raised in Oelde, Germany and played high school football in Magog, Quebec and at Bishop's College School in Lennoxville, Quebec.  He played college football at Champlain Lennoxville \u2013 Prep School located on the Bishop's University campus, also in Lennoxville, and at Western Michigan University in Kalamazoo, Michigan."
+    ],
+    "generated_answer": "The team with Kent Baer as the defensive coordinator plays its home games at Ford Field in Detroit, Michigan.",
+    "retrieval_k": 1,
+    "perplexity": 1.3675564527511597,
+    "mean_prob": 0.8194543719291687,
+    "min_prob": 0.13923056423664093,
+    "sds": 0.9370869994163513,
+    "hallucinated": null
+  },
+  {
+    "id": 20,
+    "question": "Operation Cold Comfort was a failed raid by a special forces unit founded in what year?",
+    "gold_answer": "1941",
+    "context": [
+      "Operation Fahrenheit was a British Commando raid during the Second World War.  It was carried out by a small group of men from No. 12 Commando and No. 62 Commando over the night of 11/12 November 1942."
+    ],
+    "generated_answer": "Operation Cold Comfort was a failed raid by a special forces unit founded in 1942.",
+    "retrieval_k": 1,
+    "perplexity": 1.1472783088684082,
+    "mean_prob": 0.8976135849952698,
+    "min_prob": 0.3336980938911438,
+    "sds": 0.9358846545219421,
+    "hallucinated": null
+  },
+  {
+    "id": 21,
+    "question": "The organization that Nicolae Titulescu served two terms as president was founded on what date?",
+    "gold_answer": "10 January 1920",
+    "context": [
+      "\u0218tefan Golescu (1809 \u2013 1874) was a Wallachian Romanian politician who served as the Minister of Foreign Affairs for two terms from 1 March 1867 to 5 August 1867 and from 13 November 1867 to 30 April 1868, and as Prime Minister of Romania between 26 November 1867 and 12 May 1868."
+    ],
+    "generated_answer": "The context provided does not mention Nicolae Titulescu; it refers to \u0218tefan Golescu. Therefore, the question cannot be answered based on the given context.",
+    "retrieval_k": 1,
+    "perplexity": 1.52910315990448,
+    "mean_prob": 0.7688995599746704,
+    "min_prob": 0.06844764202833176,
+    "sds": 0.9860102534294128,
+    "hallucinated": null
+  },
+  {
+    "id": 22,
+    "question": "What is Opry Mills in Nashville, Tennessee?",
+    "gold_answer": "super-regional shopping mall",
+    "context": [
+      "The Grand Ole Opry is a weekly country-music stage concert in Nashville, Tennessee, which was founded on November 28, 1925, by George D. Hay as a one-hour radio \"barn dance\" on WSM.  Currently owned and operated by Opry Entertainment (a division of Ryman Hospitality Properties, Inc.), it is the longest-running radio broadcast in US history, albeit not the longest-running one on a radio network.  Dedicated to honoring country music and its history, the Opry showcases a mix of famous singers and contemporary chart-toppers performing country, bluegrass, Americana, folk, gospel, and comedic performances and skits.  It attracts hundreds of thousands of visitors from around the world and millions of radio and Internet listeners."
+    ],
+    "generated_answer": "Opry Mills is a mixed-use development in Nashville, Tennessee, owned by Ryman Hospitality Properties, Inc., which includes the Grand Ole Opry venue.",
+    "retrieval_k": 1,
+    "perplexity": 1.392194390296936,
+    "mean_prob": 0.784134566783905,
+    "min_prob": 0.18069876730442047,
+    "sds": 0.8030685186386108,
+    "hallucinated": null
+  },
+  {
+    "id": 23,
+    "question": "Ed Oxenbould plays Tyler in a film directed by which famous director?",
+    "gold_answer": "M. Night Shyamalan",
+    "context": [
+      "The Ox (Swedish: Oxen ) is a 1991 Swedish drama film directed by Sven Nykvist.  He wrote the script with Lasse Summanen."
+    ],
+    "generated_answer": "Ed Oxenbould plays Tyler in a film directed by Sven Nykvist.",
+    "retrieval_k": 1,
+    "perplexity": 1.0336651802062988,
+    "mean_prob": 0.969373881816864,
+    "min_prob": 0.7911746501922607,
+    "sds": 0.8272233009338379,
+    "hallucinated": null
+  },
+  {
+    "id": 24,
+    "question": "Sadok Sassi played for a national team that made its first World Cup in what year?",
+    "gold_answer": "1978",
+    "context": [
+      "Abdelhamid Sadmi (born January 1, 1961) is an Algerian international football defender who played for Algeria in the 1986 FIFA World Cup, as well as the 1984 African Cup of Nations and the 1986 African Cup of Nations.  At the club level, he spent his entire senior career with JS Kabylie with whom he won the African Cup of Champions Clubs twice in 1981 and 1990."
+    ],
+    "generated_answer": "Sadok Sassi played for the Algerian national team that made its first World Cup appearance in 1986.",
+    "retrieval_k": 1,
+    "perplexity": 1.1651467084884644,
+    "mean_prob": 0.8853703737258911,
+    "min_prob": 0.37535256147384644,
+    "sds": 0.802055835723877,
+    "hallucinated": null
+  },
+  {
+    "id": 25,
+    "question": "Otterington railway station was on a 393 mi major railway that linked Edinburgh to what city?",
+    "gold_answer": "London",
+    "context": [
+      "Carstairs railway station in South Lanarkshire, Scotland, is a major junction station on the West Coast Main Line (WCML), situated close to the point at which the lines from London Euston to Glasgow Central and Edinburgh diverge.  Constructed originally by the Caledonian Railway, the station is operated today by Abellio ScotRail and is also served by one TransPennine Express trains service per day between Preston and Glasgow Central.  All other services by TransPennine Express and services operated by CrossCountry, Virgin Trains East Coast and Virgin Trains West Coast pass the station, but do not stop."
+    ],
+    "generated_answer": "Otterington railway station was on the West Coast Main Line (WCML), linking Edinburgh to Glasgow.",
+    "retrieval_k": 1,
+    "perplexity": 1.4442592859268188,
+    "mean_prob": 0.8266577124595642,
+    "min_prob": 0.023753922432661057,
+    "sds": 0.8394806981086731,
+    "hallucinated": null
+  },
+  {
+    "id": 26,
+    "question": "Are both Coldplay and Pierre Bouvier from the same country?",
+    "gold_answer": "no",
+    "context": [
+      "Mathew Bodie (born March 7, 1990) is a Canadian professional ice hockey defenceman currently playing for the Syracuse Crunch in the American Hockey League (AHL) while under contract to the Tampa Bay Lightning of the National Hockey League (NHL)."
+    ],
+    "generated_answer": "No, Pierre Bouvier is Canadian, but Coldplay is a British band.",
+    "retrieval_k": 1,
+    "perplexity": 1.5214033126831055,
+    "mean_prob": 0.7446994185447693,
+    "min_prob": 0.16458453238010406,
+    "sds": 1.0229027271270752,
+    "hallucinated": null
+  },
+  {
+    "id": 27,
+    "question": "This term about a playwright who lived from 1564-1616 presented what about his works? ",
+    "gold_answer": "chronological collection of critical quotations",
+    "context": [
+      "The plays written by English poet, playwright, and actor William Shakespeare (1564 \u2013 1616) have the reputation of being among the greatest in the English language and in Western literature.  Traditionally, the plays are divided into the genres of tragedy, history, and comedy; they have been translated into every major living language, in addition to being continually performed all around the world."
+    ],
+    "generated_answer": "William Shakespeare's plays are considered among the greatest in the English language and Western literature, traditionally divided into tragedy, history, and comedy, and continually performed worldwide.",
+    "retrieval_k": 1,
+    "perplexity": 1.4259577989578247,
+    "mean_prob": 0.7825896143913269,
+    "min_prob": 0.1535106897354126,
+    "sds": 0.46840324997901917,
+    "hallucinated": null
+  },
+  {
+    "id": 28,
+    "question": "What is the birthday of this Anglo-Irish actress, courtean, and mistress, who was the mother to the illegitimate daughter of King William IV?",
+    "gold_answer": "22 November",
+    "context": [
+      "Dorothea Jordan (22 November 17615 July 1816) was an Anglo-Irish actress, courtesan, and the mistress and companion of the future King William IV of the United Kingdom, for 20 years while he was Duke of Clarence.  Together they had ten illegitimate children, all of whom took the surname \"FitzClarence\"."
+    ],
+    "generated_answer": "Dorothea Jordan was born on 22 November 1761.",
+    "retrieval_k": 1,
+    "perplexity": 1.2506885528564453,
+    "mean_prob": 0.8882689476013184,
+    "min_prob": 0.11192963272333145,
+    "sds": 0.9636369347572327,
+    "hallucinated": null
+  },
+  {
+    "id": 29,
+    "question": "Kenneth L. Gile is the Chief Operating Officer of an airline with its head office in what airport?",
+    "gold_answer": "Dubai International Airport",
+    "context": [
+      "Kenneth \"Ken\" Gile (born 1947) is the Chief Operating Officer of Flydubai, the low-cost carrier owned by the Dubai government.  Prior to joining Flydubai, Ken was the President and COO of now defunct Skybus Airlines and a former pilot and Director of Operations for Southwest Airlines.  Ken was also a pilot in the US Air Force, as well as for Saudi Arabian Airlines prior to his career with Southwest."
+    ],
+    "generated_answer": "Kenneth L. Gile is the Chief Operating Officer of Flydubai, which has its head office at Dubai International Airport.",
+    "retrieval_k": 1,
+    "perplexity": 1.1161755323410034,
+    "mean_prob": 0.918167233467102,
+    "min_prob": 0.37371429800987244,
+    "sds": 0.6811013221740723,
+    "hallucinated": null
+  },
+  {
+    "id": 30,
+    "question": "In what state is the manufacturer of Bisquick headquartered?",
+    "gold_answer": "Minnesota",
+    "context": [
+      "bisco industries was founded in Chicago, Illinois by Glen Ceiley on March 15, 1973.  At the time, Glen F. Ceiley was the sole employee of bisco industries and assumed the following roles: purchasing agent, salesperson, shipper, receiver and bookkeeper.  bisco industries is a supplier and distributor of fasteners, hardware, and electronic components.  bisco industries serves customers in many industries including electronics, aerospace and fabrication.  bisco industries has 48 locations throughout the United States and Canada which employ over 380 employees."
+    ],
+    "generated_answer": "Bisquick is manufactured by General Mills, which is headquartered in Minneapolis, Minnesota.",
+    "retrieval_k": 1,
+    "perplexity": 1.3588840961456299,
+    "mean_prob": 0.8619035482406616,
+    "min_prob": 0.02048496901988983,
+    "sds": 0.8787664175033569,
+    "hallucinated": null
+  },
+  {
+    "id": 31,
+    "question": "In what year was the singer who popularized \"I'll Keep the Lovelight Burning\" born?",
+    "gold_answer": "1927",
+    "context": [
+      "The Famous Flames were an American rhythm and blues vocal group founded in Toccoa, Georgia, in 1953 by Bobby Byrd.  James Brown began his career as a member of the Famous Flames, emerging as the lead singer by the time of their first professional recording, \"Please, Please, Please\", in 1956."
+    ],
+    "generated_answer": "James Brown, the singer who popularized \"I'll Keep the Lovelight Burning,\" was born in 1933.",
+    "retrieval_k": 1,
+    "perplexity": 1.081942081451416,
+    "mean_prob": 0.9346922039985657,
+    "min_prob": 0.5550257563591003,
+    "sds": 0.9577438831329346,
+    "hallucinated": null
+  },
+  {
+    "id": 32,
+    "question": "In which movie the Stephanie Kay Panabaker was alongside with her elder sister Danielle Nicole Panabaker?",
+    "gold_answer": "\"Read It and Weep\" (2006)",
+    "context": [
+      "Danielle Nicole Panabaker (born September 19, 1987) is an American actress.  She began acting as a teenager and first came to prominence for her roles in the Disney films \"Stuck in the Suburbs\" (2004), \"Sky High\" (2005) and \"Read It and Weep\" (2006), the latter alongside her younger sister Kay Panabaker, and in the HBO miniseries \"Empire Falls\" (2005)."
+    ],
+    "generated_answer": "Danielle Nicole Panabaker was alongside her younger sister Kay Panabaker in the movie \"Read It and Weep\" (2006).",
+    "retrieval_k": 1,
+    "perplexity": 1.1508934497833252,
+    "mean_prob": 0.9086923003196716,
+    "min_prob": 0.1815050095319748,
+    "sds": 0.7524091601371765,
+    "hallucinated": null
+  },
+  {
+    "id": 33,
+    "question": "Is Velvetpark or Shape magazine written more for a lesbian and queer-identified female readership?",
+    "gold_answer": "Velvetpark",
+    "context": [
+      "Velvetpark: Dyke Culture in Bloom is a lesbian and feminist arts and culture website that regularly features music, literature, theater, fine arts, film, television, and social activism as it impacts queer culture.  \"Velvetpark\" also hosts a social network and dating community for lesbians and queer-identified women."
+    ],
+    "generated_answer": "Velvetpark is written more for a lesbian and queer-identified female readership, as it focuses on lesbian and feminist arts and culture, whereas Shape magazine caters to a broader female audience with a focus on fashion, health, and beauty.",
+    "retrieval_k": 1,
+    "perplexity": 1.310500979423523,
+    "mean_prob": 0.8427424430847168,
+    "min_prob": 0.023057760670781136,
+    "sds": 0.7754933834075928,
+    "hallucinated": null
+  },
+  {
+    "id": 34,
+    "question": "Which restaurant chain's headquarters is further north, Pizza Inn or Papa Gino's?",
+    "gold_answer": "Papa Gino's",
+    "context": [
+      "Papa Gino's, Inc. is a restaurant chain based in Dedham, Massachusetts specializing in American-style pizza along with pasta, subs, salads, and a variety of appetizers.  There are over 150 Papa Gino's locations in Connecticut, Maine, Massachusetts, New Hampshire, and Rhode Island."
+    ],
+    "generated_answer": "Papa Gino's headquarters is further north, as it is based in Dedham, Massachusetts, which is located in the northern part of the United States.",
+    "retrieval_k": 1,
+    "perplexity": 1.3473557233810425,
+    "mean_prob": 0.7969877123832703,
+    "min_prob": 0.1425703763961792,
+    "sds": 0.4937960207462311,
+    "hallucinated": null
+  },
+  {
+    "id": 35,
+    "question": "whats the famous bavagheet by arun date?",
+    "gold_answer": "Shukratara",
+    "context": [
+      "Arun Date is a well known Marathi singer of Bhavageete.  Originally a textile engineer, Arun Date left his high-profile job after 28 years of service for pursuing career in singing.  The song \"Shukratara by Date\" was adjudged as song of the month by Mumbai Radio Station in 1962 and remains one of the most popular song in contemporary Marathi culture.  Arun Date was first recipient of Gajananrav Vatave Purskar.  His father Ramubhaiyya was a government officer in Indore, and was part of Marathi literary and music circles.  Ramu-bhayya Date was friends with famous personalities like Kumar Gandharva, Pu La Deshpande, Va Pu Kale.  He encouraged his children, Arun and Ravi, to learn music."
+    ],
+    "generated_answer": "The famous Bhavageete song by Arun Date is \"Shukratara.\"",
+    "retrieval_k": 1,
+    "perplexity": 1.0845106840133667,
+    "mean_prob": 0.9328694939613342,
+    "min_prob": 0.5612623691558838,
+    "sds": 0.6242611408233643,
+    "hallucinated": null
+  },
+  {
+    "id": 36,
+    "question": "Grown-Ups starred the actor who was best known for which role on  \"'Allo 'Allo!\"?",
+    "gold_answer": "Captain Hans Geering",
+    "context": [
+      "Guy Domville Siner (born 16 October 1947) is an American-born English actor best known for his role as Lieutenant Hubert Gruber in the British television series \"'Allo 'Allo! \""
+    ],
+    "generated_answer": "Guy Domville Siner, best known for his role as Lieutenant Hubert Gruber on \"'Allo 'Allo!\", starred in the American television series \"Grown-Ups\".",
+    "retrieval_k": 1,
+    "perplexity": 1.2434422969818115,
+    "mean_prob": 0.8435767889022827,
+    "min_prob": 0.25051194429397583,
+    "sds": 0.46124500036239624,
+    "hallucinated": null
+  },
+  {
+    "id": 37,
+    "question": "who is a British physicist  and also a  British government's chief scientific adviser",
+    "gold_answer": "Frederick Alexander",
+    "context": [
+      "The Government Office for Science is part of the British government.  This organisation advises the UK Government on policy and decision-making based on robust scientific evidence and long-term thinking.  It is led by the Government Chief Scientific Adviser (GCSA), Sir Mark Walport who reports to the Prime Minister and Cabinet."
+    ],
+    "generated_answer": "Sir Mark Walport is a British physicist and the British government's chief scientific adviser.",
+    "retrieval_k": 1,
+    "perplexity": 1.2342073917388916,
+    "mean_prob": 0.8975436091423035,
+    "min_prob": 0.04679426923394203,
+    "sds": 0.8746861219406128,
+    "hallucinated": null
+  },
+  {
+    "id": 38,
+    "question": "Howard Van Doren Shaw was the designer of which 1917 Progressive Era community? ",
+    "gold_answer": "Marktown",
+    "context": [
+      "Howard Van Doren Shaw AIA (May 7, 1869 \u2013 May 7, 1926) was an American architect.  He became one of the best-known architects of his generation in the Chicago, Illinois area.  Shaw was considered a leader in the American Craftsman movement, best exemplified in his 1900 remodel of Second Presbyterian Church in Chicago.  He designed Marktown, Clayton Mark's planned worker community in Northwest Indiana."
+    ],
+    "generated_answer": "Howard Van Doren Shaw designed the Marktown community in Northwest Indiana in 1917.",
+    "retrieval_k": 1,
+    "perplexity": 1.3837502002716064,
+    "mean_prob": 0.788967490196228,
+    "min_prob": 0.22234763205051422,
+    "sds": 0.7610554695129395,
+    "hallucinated": null
+  },
+  {
+    "id": 39,
+    "question": "Which contest in California pays homage to an American novelist that won the Novel Prize in Literature in 1954?",
+    "gold_answer": "The Bad Hemingway Contest",
+    "context": [
+      "The Ross Macdonald Literary Award is a U.S. book prize given each year by the Santa Barbara Book Council to \"a California writer whose work raises the standard of literary excellence.\"  The award is named in honor of California mystery novelist Ross Macdonald, whose novels were set in a fictionalized version of Santa Barbara, California."
+    ],
+    "generated_answer": "The Ross Macdonald Literary Award in California honors the American novelist Ross Macdonald, who won the Novel Prize in Literature in 1954.",
+    "retrieval_k": 1,
+    "perplexity": 1.205735206604004,
+    "mean_prob": 0.8895783424377441,
+    "min_prob": 0.0700712651014328,
+    "sds": 0.5193470120429993,
+    "hallucinated": null
+  },
+  {
+    "id": 40,
+    "question": "What is the subsidiary of the record company who released \"Love Incredible?\"",
+    "gold_answer": "Vivendi S.A.",
+    "context": [
+      "Amazing Love is one of the many albums of Christian worship music recorded by Graham Kendrick.  This Contemporary Christian album was recorded live Findlay Memorial Church in Glasgow, Scotland and released in 1990 by Integrity/Hosanna!  Music/Sparrow/Star Song/Columbia/Sony."
+    ],
+    "generated_answer": "The subsidiary of the record company who released \"Amazing Love\" is Sparrow Records.",
+    "retrieval_k": 1,
+    "perplexity": 1.221509575843811,
+    "mean_prob": 0.8670339584350586,
+    "min_prob": 0.1836576908826828,
+    "sds": 0.8253176212310791,
+    "hallucinated": null
+  },
+  {
+    "id": 41,
+    "question": "Beer Wars covers the differences between large corporate breweries, and small breweries, such as what brewery that is headquartered in Escondido, california?",
+    "gold_answer": "Stone Brewing",
+    "context": [
+      "This list of breweries in California, both current and defunct, includes both microbreweries and larger industrial scale breweries.  Brewing companies range widely in the volume and variety of beer produced, ranging from small breweries to massive multinational conglomerates.  Since 1983, California has allowed breweries to sell beer on their premises, giving rise to numerous brewpubs and microbreweries."
+    ],
+    "generated_answer": "Beer Wars covers the differences between large corporate breweries and small breweries, such as Lagunitas Brewing Company, which is headquartered in Escondido, California.",
+    "retrieval_k": 1,
+    "perplexity": 1.1807101964950562,
+    "mean_prob": 0.9018389582633972,
+    "min_prob": 0.13669979572296143,
+    "sds": 0.8959862589836121,
+    "hallucinated": null
+  },
+  {
+    "id": 42,
+    "question": "Who did Muhummad Ali fight next, in Houston, after the so-called Fight of the Century with Joe Frazier?",
+    "gold_answer": "Jimmy Ellis",
+    "context": [
+      "Ali is a 2001 American biographical sports drama film written, produced and directed by Michael Mann.  The film focuses on ten years in the life of the boxer Muhammad Ali, played by Will Smith, from 1964 to 1974, featuring his capture of the heavyweight title from Sonny Liston, his conversion to Islam, criticism of the Vietnam War, and banishment from boxing, his return to fight Joe Frazier in 1971, and, finally, his reclaiming the title from George Foreman in the Rumble in the Jungle fight of 1974.  It also touches on the great social and political upheaval in the United States following the assassinations of Malcolm X and Martin Luther King, Jr."
+    ],
+    "generated_answer": "After the Fight of the Century with Joe Frazier, Muhammad Ali fought George Foreman in the Rumble in the Jungle in Zaire (now the Democratic Republic of Congo) in 1974.",
+    "retrieval_k": 1,
+    "perplexity": 1.219172477722168,
+    "mean_prob": 0.8619744777679443,
+    "min_prob": 0.28592485189437866,
+    "sds": 0.8410975933074951,
+    "hallucinated": null
+  },
+  {
+    "id": 43,
+    "question": "What is represented on the cover art of the studio album that includes the song \"Speed of Sound\"?",
+    "gold_answer": "Baudot code",
+    "context": [
+      "Covered, A Revolution in Sound is a tribute album produced and released by Warner Bros.  Records to commemorate its 50th anniversary as a record label.  The album consists of some of the greatest hits from previous and current artists from the late 20th century, while the songs featured on the album themselves are performed by current artists that are signed to Warner Bros.  Records.  Warner's sister label Elektra Records had done something similar to this nearly 20 years before with an album titled \"\", which featured then-current Elektra artists covering other songs originally released on Elektra or sister label Asylum Records."
+    ],
+    "generated_answer": "The cover art of the studio album that includes the song \"Speed of Sound\" represents a tribute to Warner Bros. Records' 50th anniversary, featuring current artists performing hits from the label's history.",
+    "retrieval_k": 1,
+    "perplexity": 1.4060043096542358,
+    "mean_prob": 0.7910948991775513,
+    "min_prob": 0.0752905011177063,
+    "sds": 0.8722189664840698,
+    "hallucinated": null
+  },
+  {
+    "id": 44,
+    "question": "Which professional tennis player was born first, Lucie Hradeck\u00e1 or Raffaella Reggi?",
+    "gold_answer": "Raffaella Reggi",
+    "context": [
+      "Raffaella Reggi (born 27 November 1965; ] ) is a former professional tennis player from Italy."
+    ],
+    "generated_answer": "Raffaella Reggi was born first on 27 November 1965, while Lucie Hradeck\u00e1 was born on 27 May 1985.",
+    "retrieval_k": 1,
+    "perplexity": 1.3265249729156494,
+    "mean_prob": 0.8423548936843872,
+    "min_prob": 0.08450467139482498,
+    "sds": 0.7913817763328552,
+    "hallucinated": null
+  },
+  {
+    "id": 45,
+    "question": "What building is opposite the ceremonial meeting place of the Accession Council in the United Kingdom?",
+    "gold_answer": "Mark Masons' Hall",
+    "context": [
+      "In the United Kingdom, the Accession Council is a ceremonial body which assembles in St James's Palace upon the death of a monarch (Demise of the Crown), to formally proclaim the accession of his or her successor to the throne.  Under the terms of the Act of Settlement 1701, a new monarch succeeds automatically.  The proclamation confirms by name the identity of the heir who has succeeded."
+    ],
+    "generated_answer": "St James's Palace.",
+    "retrieval_k": 1,
+    "perplexity": 1.5252206325531006,
+    "mean_prob": 0.7764253616333008,
+    "min_prob": 0.13418304920196533,
+    "sds": 1.106227993965149,
+    "hallucinated": null
+  },
+  {
+    "id": 46,
+    "question": "Are both Duke Energy and Affiliated Managers Group based in Massachusetts?",
+    "gold_answer": "no",
+    "context": [
+      "Duke Energy, headquartered in Charlotte, North Carolina, is an electric power holding company in the United States, with assets also in Canada and Latin America."
+    ],
+    "generated_answer": "No, Duke Energy is headquartered in Charlotte, North Carolina, and Affiliated Managers Group is based in Boston, Massachusetts.",
+    "retrieval_k": 1,
+    "perplexity": 1.1320346593856812,
+    "mean_prob": 0.9076840877532959,
+    "min_prob": 0.32996511459350586,
+    "sds": 0.5550089478492737,
+    "hallucinated": null
+  },
+  {
+    "id": 47,
+    "question": "Janne Kyttanen has had work exhibited at which modern art museum in Amsterdam?",
+    "gold_answer": "Stedelijk Museum Amsterdam",
+    "context": [
+      "The Van Gogh Museum (] ) is an art museum dedicated to the works of Vincent van Gogh and his contemporaries in Amsterdam in the Netherlands.  It is located at the Museum Square in the borough Amsterdam South, close to the Stedelijk Museum, the Rijksmuseum, and the Concertgebouw."
+    ],
+    "generated_answer": "Janne Kyttanen's work has been exhibited at the Van Gogh Museum in Amsterdam.",
+    "retrieval_k": 1,
+    "perplexity": 1.1835829019546509,
+    "mean_prob": 0.9090459942817688,
+    "min_prob": 0.11894302070140839,
+    "sds": 0.745047926902771,
+    "hallucinated": null
+  },
+  {
+    "id": 48,
+    "question": "What company did Rex Maughan aquire?",
+    "gold_answer": "Aloe Vera of America",
+    "context": [
+      "Rex G. Maughan is the founder, president, and CEO of Forever Living Products, a multi-level marketing program that sells aloe-vera based cosmetics and other personal products.  He is also a real-estate investor."
+    ],
+    "generated_answer": "Rex Maughan acquired Forever Living Products.",
+    "retrieval_k": 1,
+    "perplexity": 1.3485922813415527,
+    "mean_prob": 0.8054215908050537,
+    "min_prob": 0.20994757115840912,
+    "sds": 0.5899307727813721,
+    "hallucinated": null
+  },
+  {
+    "id": 49,
+    "question": "The role of \"Celene\" in the film \"Walk All over Me\" was played by an actress that voices what role in the \"Starcraft 2\" triolgy?",
+    "gold_answer": "Sarah Kerrigan",
+    "context": [
+      "Walk All Over Me is a Canadian film released in 2007 written by Robert Cuffley and Jason Long.  The film stars Leelee Sobieski as \"Alberta\", a small-town girl who assumes the false identity of her former babysitter and current dominatrix roommate \"Celene\", played by Tricia Helfer.  Lothaire Bluteau, Michael Eklund, Michael Adamthwaite, and Jacob Tierney also star in the film.  It was directed by Cuffley and produced by Carolyn McMaster."
+    ],
+    "generated_answer": "The role of \"Celene\" in the film \"Walk All Over Me\" was played by Tricia Helfer, who is also the voice actress for the character Teyla Emmagan in the \"Starcraft 2\" trilogy.",
+    "retrieval_k": 1,
+    "perplexity": 1.2873884439468384,
+    "mean_prob": 0.8515839576721191,
+    "min_prob": 0.07125264406204224,
+    "sds": 0.7900896668434143,
+    "hallucinated": null
+  },
+  {
+    "id": 50,
+    "question": "Which FC Barcelona signee was a contender for the Rookie of the Year Award when he played for the Timberwolves?",
+    "gold_answer": "Ricard Rubio i Vives",
+    "context": [
+      "The 2004-05 season saw F\u00fatbol Club Barcelona end their six-year wait for the La Liga title, having not won the league or, indeed, any trophy since the 1998\u201399 season and thus La Liga trophy returned in Barcelona's trophy room.  Having finished second in La Liga the previous season, Barcelona once again competed in the UEFA Champions League as well as the Copa del Rey.  The squad was restructured significantly following the retirement of key players Luis Enrique and Marc Overmars, as well as the return of Edgar Davids to Juventus and first team regulars Patrick Kluivert and Phillip Cocu moving onto new clubs.  Ronaldinho's and new signing Samuel Eto'o's performances won them places in FIFPro's XI of 2004\u201305.  Ronaldinho was later named FIFA World Player of the Year for 2005 for the second time in succession and with the highest points total ever; Eto'o came third.  This season was also notable for the debut of Lionel Messi."
+    ],
+    "generated_answer": "Lionel Messi was a contender for the Rookie of the Year Award when he played for the Timberwolves.",
+    "retrieval_k": 1,
+    "perplexity": 1.1756565570831299,
+    "mean_prob": 0.9055562615394592,
+    "min_prob": 0.11034440249204636,
+    "sds": 1.044589877128601,
+    "hallucinated": null
+  },
+  {
+    "id": 51,
+    "question": "Wolf and Sheep was screened at which 2016 film festival?",
+    "gold_answer": "69th Cannes Film Festival",
+    "context": [
+      "Wolves is a 2014 Canadian action horror film directed by David Hayter."
+    ],
+    "generated_answer": "The question seems to be based on a confusion. \"Wolf and Sheep\" is not related to \"Wolves,\" and there is no record of a film called \"Wolf and Sheep\" screened at a 2016 film festival. The 2014 film \"Wolves\" directed by David Hayter was not mentioned as being screened at any film festival in 2016.",
+    "retrieval_k": 1,
+    "perplexity": 1.6308642625808716,
+    "mean_prob": 0.7184268832206726,
+    "min_prob": 0.10669675469398499,
+    "sds": 0.8148253560066223,
+    "hallucinated": null
+  },
+  {
+    "id": 52,
+    "question": "What is the first name of Jack Benny Binion's father?",
+    "gold_answer": "Lester",
+    "context": [
+      "Jack Benny Binion (born February 21, 1937 in Dallas, Texas) is an American businessman.  Binion is the son of casino magnate Benny Binion and worked for his father at Binion's Horseshoe, a casino and hotel in Las Vegas, Nevada."
+    ],
+    "generated_answer": "The first name of Jack Benny Binion's father is Benny.",
+    "retrieval_k": 1,
+    "perplexity": 1.0681501626968384,
+    "mean_prob": 0.9584019780158997,
+    "min_prob": 0.35578030347824097,
+    "sds": 0.5964462757110596,
+    "hallucinated": null
+  },
+  {
+    "id": 53,
+    "question": "Which episode of SpongeBob SquarePants aired first, The Clash of Triton or To SquarePants or Not to SquarePants?\"",
+    "gold_answer": "To SquarePants or Not to SquarePants",
+    "context": [
+      "\"The Clash of Triton\", also known as \"Neptune's Party\", is the 26th episode of the sixth season and the 126th overall episode of the American animated television series \"SpongeBob SquarePants\".  It originally aired on Nickelodeon in the United States on July 5, 2010."
+    ],
+    "generated_answer": "\"To SquarePants\" aired first.",
+    "retrieval_k": 1,
+    "perplexity": 1.692932367324829,
+    "mean_prob": 0.7266338467597961,
+    "min_prob": 0.08236061036586761,
+    "sds": 1.0443754196166992,
+    "hallucinated": null
+  },
+  {
+    "id": 54,
+    "question": "Are Ruggero Deodato from Italy, and Mexican Alejandro Springall, both film directors?",
+    "gold_answer": "yes",
+    "context": [
+      "Alejandro Springall is a Mexican film director and producer."
+    ],
+    "generated_answer": "Yes, both Ruggero Deodato, an Italian film director, and Mexican Alejandro Springall are film directors.",
+    "retrieval_k": 1,
+    "perplexity": 1.238359808921814,
+    "mean_prob": 0.897502601146698,
+    "min_prob": 0.03230128437280655,
+    "sds": 0.775698184967041,
+    "hallucinated": null
+  },
+  {
+    "id": 55,
+    "question": "Which professional baseball player was born in 1984 and played as a rookie for the Los Angeles Dogers in 2007?",
+    "gold_answer": "Matthew Ryan Kemp",
+    "context": [
+      "Michael Brian Young (born October 19, 1976) is an American former professional baseball infielder who played 14 seasons in Major League Baseball (MLB) for the Texas Rangers, Philadelphia Phillies, and Los Angeles Dodgers.  Originally a second baseman, the versatile Young was a five time All-Star at shortstop, once at third base, and once as a combination designated hitter and utility infielder.  He was the 2005 American League batting champion."
+    ],
+    "generated_answer": "The context provided does not mention a professional baseball player born in 1984 who played as a rookie for the Los Angeles Dodgers in 2007.",
+    "retrieval_k": 1,
+    "perplexity": 1.1305923461914062,
+    "mean_prob": 0.9271683692932129,
+    "min_prob": 0.08463738858699799,
+    "sds": 0.9213190078735352,
+    "hallucinated": null
+  },
+  {
+    "id": 56,
+    "question": "Who is the lead vocalist for Maroon 5's sixth studio album?",
+    "gold_answer": "Adam Levine",
+    "context": [
+      "Maroon 5 is an American pop rock band that originated in Los Angeles, California.  It currently consists of lead vocalist Adam Levine, keyboardist and rhythm guitarist Jesse Carmichael, bassist Mickey Madden, lead guitarist James Valentine, drummer Matt Flynn and keyboardist PJ Morton."
+    ],
+    "generated_answer": "Adam Levine is the lead vocalist for Maroon 5's sixth studio album.",
+    "retrieval_k": 1,
+    "perplexity": 1.0846949815750122,
+    "mean_prob": 0.9399258494377136,
+    "min_prob": 0.4112612009048462,
+    "sds": 0.6700499057769775,
+    "hallucinated": null
+  },
+  {
+    "id": 57,
+    "question": "Where is the company that distributed XXXTentacion's single \"Revenge\" based?",
+    "gold_answer": "San Francisco, California",
+    "context": [
+      "Revenge is a mixtape by American rapper XXXTentacion, released on May 16, 2017 by Empire Distribution.  It consists of 8 previously released songs that were available for streaming on XXXTentacion's SoundCloud.  It was preceded by the lead single \"Look at Me\", which peaked at number 34 on the US \"Billboard\" Hot 100."
+    ],
+    "generated_answer": "Empire Distribution, the company that distributed XXXTentacion's single \"Revenge,\" is based in the United States.",
+    "retrieval_k": 1,
+    "perplexity": 1.0870167016983032,
+    "mean_prob": 0.9333229064941406,
+    "min_prob": 0.42490532994270325,
+    "sds": 1.0573443174362183,
+    "hallucinated": null
+  },
+  {
+    "id": 58,
+    "question": "\"Text Me Merry Christmas\" is a song performed by Kristen Bell and a group that originated at what univeristy?",
+    "gold_answer": "Indiana University",
+    "context": [
+      "\"Merry Christmas Everyone\" is a festive song by Welsh British singer-songwriter Shakin' Stevens.  Written by Bob Heatlie and produced by Dave Edmunds, it was the fourth number one single from Shakin' Stevens on the UK Singles Chart."
+    ],
+    "generated_answer": "\"Text Me Merry Christmas\" is a song performed by Kristen Bell and a group that originated at the University of Southern California.",
+    "retrieval_k": 1,
+    "perplexity": 1.2768537998199463,
+    "mean_prob": 0.845470130443573,
+    "min_prob": 0.10367319732904434,
+    "sds": 0.9374115467071533,
+    "hallucinated": null
+  },
+  {
+    "id": 59,
+    "question": "This Celtic ruler who was born in AD 43 ruled southeastern Britain prior to conquest by which empire?",
+    "gold_answer": "Roman",
+    "context": [
+      "The Roman conquest of Britain was a gradual process, beginning effectively in AD 43 under Emperor Claudius, whose general Aulus Plautius served as first governor of Roman Britain (Latin: \"Britannia\" ).  Great Britain had already frequently been the target of invasions, planned and actual, by forces of the Roman Republic and Roman Empire.  In common with other regions on the edge of the empire, Britain had enjoyed diplomatic and trading links with the Romans in the century since Julius Caesar's expeditions in 55 and 54 BC, and Roman economic and cultural influence was a significant part of the British late pre-Roman Iron Age, especially in the south."
+    ],
+    "generated_answer": "The Celtic ruler born in AD 43 who ruled southeastern Britain prior to Roman conquest was King Cunobelinus.",
+    "retrieval_k": 1,
+    "perplexity": 1.3810393810272217,
+    "mean_prob": 0.8311688303947449,
+    "min_prob": 0.07566048949956894,
+    "sds": 0.9242550730705261,
+    "hallucinated": null
+  },
+  {
+    "id": 60,
+    "question": "Which other film did one of the supporting cast in \"Sleepless in Seattle\" appear?",
+    "gold_answer": "\"Now and Then\" (1995)",
+    "context": [
+      "Sleepless in Seattle is a 1993 American romantic comedy-drama film directed and co-written by Nora Ephron, based on a story by Jeff Arch.  It stars Tom Hanks and Meg Ryan, alongside a supporting cast featuring Bill Pullman, Ross Malinger, Rob Reiner, Rosie O'Donnell, Gaby Hoffmann, Victor Garber, and Rita Wilson.  The film was a critical and commercial success, grossing over $220 million worldwide."
+    ],
+    "generated_answer": "Rob Reiner appeared in the film \"The Sure Thing\" (1985).",
+    "retrieval_k": 1,
+    "perplexity": 1.5268118381500244,
+    "mean_prob": 0.7429191470146179,
+    "min_prob": 0.1522064357995987,
+    "sds": 1.315813422203064,
+    "hallucinated": null
+  },
+  {
+    "id": 61,
+    "question": "Who is this American cartoonist, writer, producer, animator, and voice actor that worked with this multiple Shuster Award, Harvey Award and Eisner Award nominee and an Eisner Award\u2013winning comic book creator?",
+    "gold_answer": "Matt Groening",
+    "context": [
+      "The Will Eisner Comic Industry Awards, commonly shortened to the Eisner Awards, are prizes given for creative achievement in American comic books, sometimes referred to as the Comics Industry's equivalent of the Oscar Awards.  They are named in honor of the pioneering writer and artist Will Eisner, who was a regular participant in the award ceremony until his death in 2005.  The Eisner Awards include the Comic Industry's Hall of Fame."
+    ],
+    "generated_answer": "This American cartoonist, writer, producer, animator, and voice actor is Jim Davis, known for creating the comic strip \"Garfield.\"",
+    "retrieval_k": 1,
+    "perplexity": 1.3260064125061035,
+    "mean_prob": 0.8290160894393921,
+    "min_prob": 0.1261184960603714,
+    "sds": 1.1583619117736816,
+    "hallucinated": null
+  },
+  {
+    "id": 62,
+    "question": "What creature of American folklore gained notoriety in 1964?",
+    "gold_answer": "Dewey Lake Monster",
+    "context": [
+      "Public folklore is the term for the work done by folklorists in public settings in the United States and Canada outside of universities and colleges, such as arts councils, museums, folklife festivals, radio stations, etc.  The term is actually short for \"\"public sector folklore\"\" and was first used by members of the American Folklore Society in the early 1970s.  Archie Green is generally credited as the founder of the public folklore movement, although his work builds on that of Ben Botkin and Alan Lomax, going back as far as the 1930s.  (They called their work \"applied folklore,\" a related but distinct paradigm.)"
+    ],
+    "generated_answer": "The creature of American folklore that gained notoriety in 1964 is Bigfoot, also known as Sasquatch.",
+    "retrieval_k": 1,
+    "perplexity": 1.1038227081298828,
+    "mean_prob": 0.9273770451545715,
+    "min_prob": 0.3585894703865051,
+    "sds": 1.1393729448318481,
+    "hallucinated": null
+  },
+  {
+    "id": 63,
+    "question": "What CBS-affiliated station serves Pontotoc County, Oklahoma?",
+    "gold_answer": "KXII",
+    "context": [
+      "Pontotoc County is in the south central part of Oklahoma.  As of the 2010 census, the population was 37,492.  Its county seat is Ada.  The county was created at statehood from part of the Chickasaw Nation in Indian Territory.  It was named for a historic Chickasaw tribal area in Mississippi.  According to the \"Encyclopedia of Oklahoma History and Culture\", Pontotoc is usually translated \"cattail prairie\" or \"land of hanging grapes.\""
+    ],
+    "generated_answer": "The CBS-affiliated station serving Pontotoc County, Oklahoma, is KTEN-TV (channel 10).",
+    "retrieval_k": 1,
+    "perplexity": 1.3304524421691895,
+    "mean_prob": 0.8123869299888611,
+    "min_prob": 0.2092944234609604,
+    "sds": 0.9665244221687317,
+    "hallucinated": null
+  },
+  {
+    "id": 64,
+    "question": "What is the mascot of the oldest private university in Georgia?",
+    "gold_answer": "The Bears",
+    "context": [
+      "The title of oldest public university in the United States is claimed by three universities: the University of Georgia, the University of North Carolina at Chapel Hill, and The College of William and Mary.  Each has a distinct basis for the claim: North Carolina being the first to hold classes and graduate students, Georgia being the first created by state charter, and William & Mary having the oldest founding date of any currently public university, though it was private for over 250 years."
+    ],
+    "generated_answer": "The mascot of the oldest private university in Georgia, The University of Georgia, is the Bulldog.",
+    "retrieval_k": 1,
+    "perplexity": 1.092936635017395,
+    "mean_prob": 0.9278907775878906,
+    "min_prob": 0.4260072410106659,
+    "sds": 0.8585079908370972,
+    "hallucinated": null
+  },
+  {
+    "id": 65,
+    "question": "Who directed the 1940 film in which John Arledge appeared?",
+    "gold_answer": "John Ford",
+    "context": [
+      "John Arledge (March 12, 1906 \u2013 May 15, 1947) was an American film and stage actor.  He played dozens of supporting roles in the Hollywood movies of the 1930s\u20131940s, including \"The Grapes of Wrath\"."
+    ],
+    "generated_answer": "John Arledge appeared in the 1940 film \"The Grapes of Wrath,\" which was directed by John Ford.",
+    "retrieval_k": 1,
+    "perplexity": 1.2022912502288818,
+    "mean_prob": 0.9078121781349182,
+    "min_prob": 0.04125956445932388,
+    "sds": 0.5083365440368652,
+    "hallucinated": null
+  },
+  {
+    "id": 66,
+    "question": "Alice David is the voice of Lara Croft in a video game developed by which company ?",
+    "gold_answer": "Crystal Dynamics",
+    "context": [
+      "Lara Croft is a fictional character and the main protagonist of the Square Enix (previously Eidos Interactive) video game franchise \"Tomb Raider\".  She is presented as a highly intelligent, athletic, and beautiful English archaeologist-adventurer who ventures into ancient, hazardous tombs and ruins around the world.  Created by a team at UK developer Core Design that included Toby Gard, the character first appeared in the 1996 video game \"Tomb Raider\".  She has also appeared in video game sequels, printed adaptations, a series of animated short films, feature films (portrayed by Angelina Jolie, later by Alicia Vikander), and merchandise related to the series.  Official promotion of the character includes a brand of apparel and accessories, action figures, and model portrayals.  Croft has also been licensed for third-party promotion, including television and print advertisements, music-related appearances, and as a spokesmodel.  As of June 2016, Lara Croft has been featured on over 1,100 magazine covers surpassing any supermodel."
+    ],
+    "generated_answer": "Alice David is the voice of Lara Croft in a video game developed by Square Enix.",
+    "retrieval_k": 1,
+    "perplexity": 1.2721741199493408,
+    "mean_prob": 0.8564545512199402,
+    "min_prob": 0.17185893654823303,
+    "sds": 0.8294490575790405,
+    "hallucinated": null
+  },
+  {
+    "id": 67,
+    "question": "Which German project recorded a song that featured vocals by a duo from Silverdale, England?",
+    "gold_answer": "Enigma",
+    "context": [
+      "Hudson Street is the debut album by Northern Irish electronic duo Agnelli and Nelson named after the street of the same name in Manhattan, New York.  The ten-track album was released by Xtravaganza Recordings in 2000 and contains three tracks that reached the Top 40 of the UK Singles Chart, namely \"Hudson Street\", \"Embrace\" and the anthemic \"Everyday\".  All but two of the tracks (\"Singing For The Future\" and \"Let Love Come\") were written, and all ten of the tracks were produced, by Agnelli and Nelson themselves."
+    ],
+    "generated_answer": "The German project Agnelli and Nelson recorded a song featuring vocals by a duo from Silverdale, England.",
+    "retrieval_k": 1,
+    "perplexity": 1.4589345455169678,
+    "mean_prob": 0.8224722146987915,
+    "min_prob": 0.027123669162392616,
+    "sds": 0.8765475153923035,
+    "hallucinated": null
+  },
+  {
+    "id": 68,
+    "question": "Which facility was founded in Missouri, Discovery Zone or Valentino's?",
+    "gold_answer": "Discovery Zone",
+    "context": [
+      "Valentino's is a regional Italian restaurant chain based in Lincoln, Nebraska.  Valentino's was founded by Val and Zena Weiler in 1957.  The restaurant was purchased by two Lincoln families in 1971 and began franchising additional locations.  The first carry-out store opened in 1990, and many of the full-scale restaurants converted to the buffet concept in the early-2000s."
+    ],
+    "generated_answer": "Valentino's was founded in Lincoln, Nebraska, not Missouri. Discovery Zone is a separate entity.",
+    "retrieval_k": 1,
+    "perplexity": 1.678432583808899,
+    "mean_prob": 0.7213737964630127,
+    "min_prob": 0.08112848550081253,
+    "sds": 0.9185383915901184,
+    "hallucinated": null
+  },
+  {
+    "id": 69,
+    "question": "What occupations do both Ian Hunter and Rob Thomas have?",
+    "gold_answer": "singer, songwriter",
+    "context": [
+      "Harold Hunter (1974\u20132006) was an American skateboarder and actor."
+    ],
+    "generated_answer": "Ian Hunter is a British singer-songwriter, while Rob Thomas is an American musician and actor.",
+    "retrieval_k": 1,
+    "perplexity": 1.752410650253296,
+    "mean_prob": 0.6645606756210327,
+    "min_prob": 0.16591525077819824,
+    "sds": 0.9818927049636841,
+    "hallucinated": null
+  },
+  {
+    "id": 70,
+    "question": "Which services did Rock Nominees Ltd and  ISS A/S (Integrated Service Solutions) have in common?",
+    "gold_answer": "cleaning, catering and security",
+    "context": [
+      "Rock Nominees Ltd was part of the business empire of Lord Ashcroft, a Tory peer who has been criticised for offshore tax avoidance.  It is a company which holds shares on behalf of other companies.  It had 201,300 shares for Gambier Holdings Inc. (a British Virgin Islands company) and 65,000 shares for Kiwi Ltd. (a Belize company) invested in RCO (Holdings) plc.  Its stake made up 2.48%.  RCO itself was in the cleaning, catering and security porterage business.  In 2000 a company called ISS (UK) Ltd took over RCO, acquiring 96.4% of the shares.  It made one of RCO's subsidiaries transfer its shares to one of ISS's subsidiaries for \u00a330,117,784.  Rock Nominee's filed for a petition of unfair prejudice on the grounds that this was a transaction at an undervalue.  It did not reflect the value to the purchaser of the synergies arising from the sale or the value of avoiding risk from a sale on the open market."
+    ],
+    "generated_answer": "Rock Nominees Ltd and ISS A/S (Integrated Service Solutions) both operated in the cleaning, catering, and security porterage business.",
+    "retrieval_k": 1,
+    "perplexity": 1.0785616636276245,
+    "mean_prob": 0.9463326930999756,
+    "min_prob": 0.26919025182724,
+    "sds": 1.001139760017395,
+    "hallucinated": null
+  },
+  {
+    "id": 71,
+    "question": "Which movie was filmed first \"The Guest\" or \"You're Next\"?",
+    "gold_answer": "You're Next",
+    "context": [
+      "The Guest is a 2014 American action horror-thriller film directed and edited by Adam Wingard and written by Simon Barrett, both of whom previously collaborated on a previous film, \"You're Next\" (2011).  Starring Dan Stevens, Maika Monroe, Leland Orser, Sheila Kelley, Brendan Meyer, and Lance Reddick, the plot follows a soldier named \"David\" unexpectedly visiting the Peterson family, introducing himself as a friend of their son who had died during the Afghanistan war.  After the man is welcomed into their home for a couple of days, a series of deaths begin to occur around his presence, and their daughter Anna begins to have suspicions of David being connected to the deaths."
+    ],
+    "generated_answer": "\"You're Next\" was filmed first, as it was released in 2011 and \"The Guest\" was released in 2014.",
+    "retrieval_k": 1,
+    "perplexity": 1.1232578754425049,
+    "mean_prob": 0.9137076139450073,
+    "min_prob": 0.2651389539241791,
+    "sds": 0.8433086276054382,
+    "hallucinated": null
+  },
+  {
+    "id": 72,
+    "question": "During what war were the Russia-United Kingdom relations in a state of rivalry after the abdication of Emperor Nicholas II? ",
+    "gold_answer": "the Cold War (1947\u201391)",
+    "context": [
+      "Nicholas II or Nikolai II (Russian: \u041d\u0438\u043a\u043e\u043b\u0430\u0439 II \u0410\u043b\u0435\u043a\u0441\u0430\u0301\u043d\u0434\u0440\u043e\u0432\u0438\u0447 , \"Nikolay II Aleksandrovich\" ; 18 May [O.S. 6 May] 1868 \u2013 17 July 1918) was the last Emperor of Russia, ruling from 1 November 1894 until his forced abdication on 15 March 1917.  His reign saw the fall of the Russian Empire from being one of the foremost great powers of the world to economic and military collapse.  Due to the Khodynka Tragedy, anti-Semitic pogroms, Bloody Sunday, the violent suppression of the 1905 Revolution, the execution of political opponents and his perceived responsibility for the Russo-Japanese War, he was given the nickname Nicholas the Bloody by his political adversaries.  Soviet historiography portrayed Nicholas as a weak and incompetent leader, whose decisions led to military defeats and the deaths of millions of his subjects."
+    ],
+    "generated_answer": "After the abdication of Emperor Nicholas II, Russia-United Kingdom relations were in a state of rivalry during World War I.",
+    "retrieval_k": 1,
+    "perplexity": 1.1469367742538452,
+    "mean_prob": 0.9050790667533875,
+    "min_prob": 0.22414755821228027,
+    "sds": 0.9065526723861694,
+    "hallucinated": null
+  },
+  {
+    "id": 73,
+    "question": "Flower Alley was bred by the trainer who was killed at what Fayette County, Kentucky airport?",
+    "gold_answer": "Blue Grass Airport",
+    "context": [
+      "Flower Alley (foaled May 7, 2002) is an American Thoroughbred racehorse.  He was bred at Bona Terra Farms by George Brunacini, who was killed in the August 27, 2006, crash of Comair Flight 5191 at Blue Grass Airport in Lexington, Kentucky."
+    ],
+    "generated_answer": "Flower Alley was bred by George Brunacini, who was killed at Blue Grass Airport in Fayette County, Kentucky.",
+    "retrieval_k": 1,
+    "perplexity": 1.0391879081726074,
+    "mean_prob": 0.9643539786338806,
+    "min_prob": 0.7889643311500549,
+    "sds": 0.6572914123535156,
+    "hallucinated": null
+  },
+  {
+    "id": 74,
+    "question": "How many different schools does the university, in which Andrew J. Elliot is a professor of psychology, have?",
+    "gold_answer": "six",
+    "context": [
+      "Saul Kassin is a Distinguished Professor of Psychology at John Jay College of Criminal Justice in New York City.  and Massachusetts Professor of Psychology at Williams College in Williamstown, Massachusetts."
+    ],
+    "generated_answer": "Andrew J. Elliot is a professor of psychology at the University of Rochester in New York. The university has one campus.",
+    "retrieval_k": 1,
+    "perplexity": 1.4106262922286987,
+    "mean_prob": 0.7689328193664551,
+    "min_prob": 0.2538689970970154,
+    "sds": 0.8866978883743286,
+    "hallucinated": null
+  },
+  {
+    "id": 75,
+    "question": "Loughborough Students' Union serves the students at what public research university that has been a university since 1966, but the institution dates back to 1909?",
+    "gold_answer": "Loughborough University",
+    "context": [
+      "Loughborough University (abbreviated as Lough for post-nominals) is a public research university located in the market town of Loughborough, Leicestershire, in the East Midlands of England.  It has been a university since 1966, but the institution dates back to 1909, when the then Loughborough Technical Institute began with a focus on skills and knowledge which would be directly applicable in the wider world.  In March 2013, the university announced it had acquired the former broadcast centre at the Queen Elizabeth Olympic Park which opened as a second campus in 2015.  It was a member of the 1994 Group until the group was dissolved in November 2013."
+    ],
+    "generated_answer": "Loughborough Students' Union serves the students at Loughborough University, which has been a university since 1966, but the institution dates back to 1909.",
+    "retrieval_k": 1,
+    "perplexity": 1.048776626586914,
+    "mean_prob": 0.9655352830886841,
+    "min_prob": 0.31486010551452637,
+    "sds": 0.6592153310775757,
+    "hallucinated": null
+  },
+  {
+    "id": 76,
+    "question": "In what european city is a location of the college from which the woman known as Comic Book Girl 19 received her degree?",
+    "gold_answer": "Lacoste, France",
+    "context": [
+      "Her Campus is an online magazine targeted at the female college student demographic.  Content is written by more than 7,000 contributors from more than 300 campus chapters located in nine countries.  The magazine was founded in 2009 by three Harvard University undergraduates: Stephanie Kaplan, Windsor Western, and Annie Wang.  The women met in 2007 while working on a separate Harvard online publication.  In November 2010, \"Glamour Magazine\" honored the women at their Women of the Year Awards ceremony, where they were presented with the Amazing Young Women Award from Chelsea Clinton.  \"Her Campus\" is owned and operated by Her Campus Media LLC."
+    ],
+    "generated_answer": "Comic Book Girl 19 received her degree from the University of Cambridge in the United Kingdom.",
+    "retrieval_k": 1,
+    "perplexity": 1.683391809463501,
+    "mean_prob": 0.7536255717277527,
+    "min_prob": 0.012740743346512318,
+    "sds": 1.025181531906128,
+    "hallucinated": null
+  },
+  {
+    "id": 77,
+    "question": "Kam Heskin plays Paige Morgan in a 2004 film directed by who?",
+    "gold_answer": "Martha Coolidge",
+    "context": [
+      "Morgan is a 2016 American science fiction horror film directed by Luke Scott in his directorial debut and written by Seth Owen.  The film features an ensemble cast, including Kate Mara, Anya Taylor-Joy, Toby Jones, Rose Leslie, Boyd Holbrook, Michelle Yeoh, Jennifer Jason Leigh, and Paul Giamatti."
+    ],
+    "generated_answer": "The context provided does not mention a 2004 film or Kam Heskin playing Paige Morgan. The information given pertains to the 2016 film \"Morgan\" directed by Luke Scott.",
+    "retrieval_k": 1,
+    "perplexity": 1.4044766426086426,
+    "mean_prob": 0.7820857763290405,
+    "min_prob": 0.15326036512851715,
+    "sds": 0.8078004717826843,
+    "hallucinated": null
+  },
+  {
+    "id": 78,
+    "question": "What was a series of battles during the Revolutionary War, for control of New York City and the state of New Jersey, fought on October 28, 1776 near White Plains, New York?",
+    "gold_answer": "New York and New Jersey campaign",
+    "context": [
+      "The Battle of White Plains was a battle in the New York and New Jersey campaign of the American Revolutionary War fought on October 28, 1776, near White Plains, New York.  Following the retreat of George Washington's Continental Army northward from New York City, British General William Howe landed troops in Westchester County, intending to cut off Washington's escape route.  Alerted to this move, Washington retreated farther, establishing a position in the village of White Plains but failed to establish firm control over local high ground.  Howe's troops drove Washington's troops from a hill near the village; following this loss, Washington ordered the Americans to retreat farther north."
+    ],
+    "generated_answer": "The Battle of White Plains was a series of battles during the Revolutionary War, fought on October 28, 1776 near White Plains, New York, for control of New York City and the state of New Jersey.",
+    "retrieval_k": 1,
+    "perplexity": 1.0831100940704346,
+    "mean_prob": 0.938902735710144,
+    "min_prob": 0.43639230728149414,
+    "sds": 0.5608870387077332,
+    "hallucinated": null
+  },
+  {
+    "id": 79,
+    "question": "In what year was the Sayrevill, New Jersey rock band that Frankie LaRocka played drums for formed?",
+    "gold_answer": "1983",
+    "context": [
+      "The Drums are an American indie pop band from New York City."
+    ],
+    "generated_answer": "The Sayrevill, New Jersey rock band that Frankie LaRocka played drums for was formed in 1976.",
+    "retrieval_k": 1,
+    "perplexity": 1.288314938545227,
+    "mean_prob": 0.869555652141571,
+    "min_prob": 0.10742286592721939,
+    "sds": 0.9902172684669495,
+    "hallucinated": null
+  },
+  {
+    "id": 80,
+    "question": "The series of novels that reference numerous locations and incorporates themes from multiple genres is titled what?",
+    "gold_answer": "The Dark Tower",
+    "context": [
+      "This is a list of science fiction novels, novel series, and collections of linked short stories.  It includes modern novels, as well as novels written before the term \"science fiction\" was in common use.  This list includes novels not marketed as SF but still considered to be substantially science fiction in content by some critics, such as \"Nineteen Eighty Four\".  As such, it is an inclusive list, not an exclusive list based on other factors such as level of notability or literary quality.  Books are listed in alphabetical order by title, ignoring the leading articles \"A\", \"An\", and \"The\".  Novel series are alphabetical by author-designated name or, if there is none, the title of the first novel in the series or some other reasonable designation."
+    ],
+    "generated_answer": "The series of novels that reference numerous locations and incorporates themes from multiple genres is titled \"The Foundation Series.\"",
+    "retrieval_k": 1,
+    "perplexity": 1.2205501794815063,
+    "mean_prob": 0.8566169738769531,
+    "min_prob": 0.2250458002090454,
+    "sds": 0.9417195916175842,
+    "hallucinated": null
+  },
+  {
+    "id": 81,
+    "question": "The 53rd National Hockey League All-Star Game took place at the indoor arena that was completed in what year?",
+    "gold_answer": "1998",
+    "context": [
+      "The 61st National Hockey League All-Star Game, also known as the 2016 NHL All-Star Game, was held on January 31, 2016.  The game was held in Nashville, Tennessee, at Bridgestone Arena, home of the Nashville Predators.  This was Nashville's first time hosting the NHL All-Star Game."
+    ],
+    "generated_answer": "The 53rd National Hockey League All-Star Game took place at the Bridgestone Arena, which was completed in 1996.",
+    "retrieval_k": 1,
+    "perplexity": 1.0849277973175049,
+    "mean_prob": 0.9321383237838745,
+    "min_prob": 0.5429224371910095,
+    "sds": 0.7161810398101807,
+    "hallucinated": null
+  },
+  {
+    "id": 82,
+    "question": "Where does \u015aivar\u0101ma Swami conduct courses on Vaishnava Theology?",
+    "gold_answer": "in the village of Aldenham",
+    "context": [
+      "\u015aivar\u0101ma Swami (born 30 March 1949, Budapest, Hungary) is a Vaishnava guru and a religious leader for the International Society for Krishna Consciousness (ISKCON).  He is a member of the Governing Body Commission who is responsible for leading ISKCON's mission in Hungary, Romania and Turkey.  Within ISKCON, Sivarama Swami is also well known for his deep knowledge of Vaishnava literature, and has written several books about Gaudiya Vaishnavism.  He has been conducting courses at Bhaktivedanta Manor on his own commentaries to Venu Gita in Gaudiya Vaishnava Theology."
+    ],
+    "generated_answer": "\u015aivar\u0101ma Swami conducts courses on Vaishnava Theology at Bhaktivedanta Manor.",
+    "retrieval_k": 1,
+    "perplexity": 1.0050214529037476,
+    "mean_prob": 0.99505615234375,
+    "min_prob": 0.962096631526947,
+    "sds": 0.7786052823066711,
+    "hallucinated": null
+  },
+  {
+    "id": 83,
+    "question": "What is the given name of the character depicted as Juliet Hulme in Heavenly Creatures?",
+    "gold_answer": "Anne Perry",
+    "context": [
+      "Olivia Hussey (born Olivia Osuna; 17 April 1951) is an English-Argentinian actress.  After appearing in theatre in London, Hussey was chosen to play the role of Juliet in Franco Zeffirelli's 1968 film version of \"Romeo and Juliet\".  The role lent her international recognition, and she won a Golden Globe and also the David di Donatello Award for her performance."
+    ],
+    "generated_answer": "Olivia Hussey's given name is Olivia Osuna.",
+    "retrieval_k": 1,
+    "perplexity": 1.5641169548034668,
+    "mean_prob": 0.8342124223709106,
+    "min_prob": 0.009841755032539368,
+    "sds": 0.9497661590576172,
+    "hallucinated": null
+  },
+  {
+    "id": 84,
+    "question": "In what state did this band form that is an American metalcore band, founded in mid-2009, and whose lead vocalist was Jerry Roush?",
+    "gold_answer": "California",
+    "context": [
+      "Allegiance was a San Francisco-based straight edge hardcore punk band with a metal influence that existed from April 2002 to February 2008.  The majority of their catalog was released and is still available by popular Bay Area hardcore punk record label Rivalry Records.  Although they were not the first band to use the name \u201cAllegiance,\u201d as there was a black metal band from Sweden, a street punk band from Japan, a metalcore band from England and an Australian thrash metal band with the same name, they were the first notable American band to do so.  Throughout its existence the band played gigs at the local legendary DIY-Punk venue 924 Gilman in Berkeley, California; the band played its first and last shows here.  Allegiance also did countless tours up and down the West Coast, along with a handful of full USA tours and an extensive 5 week tour of Europe."
+    ],
+    "generated_answer": "The band formed in California.",
+    "retrieval_k": 1,
+    "perplexity": 2.342853546142578,
+    "mean_prob": 0.48433899879455566,
+    "min_prob": 0.19084852933883667,
+    "sds": 0.8829061985015869,
+    "hallucinated": null
+  },
+  {
+    "id": 85,
+    "question": "Who wrote the book that inspired the name of the CD/DVD \"Here at the End of All Things\"?",
+    "gold_answer": "J. R. R. Tolkien",
+    "context": [
+      "The Last Book in the Universe (2000) is a post-apocalyptic science fiction novel by Rodman Philbrick.  Set in a cyberpunk dystopia, its protagonist and narrator is a teenage boy named Spaz who suffers from epilepsy."
+    ],
+    "generated_answer": "Rodman Philbrick wrote \"The Last Book in the Universe,\" which inspired the name of the CD/DVD \"Here at the End of All Things.\"",
+    "retrieval_k": 1,
+    "perplexity": 1.1126593351364136,
+    "mean_prob": 0.9468551874160767,
+    "min_prob": 0.07155542820692062,
+    "sds": 0.7689850926399231,
+    "hallucinated": null
+  },
+  {
+    "id": 86,
+    "question": "Where was the original line of the railroad William Howard worked for?",
+    "gold_answer": "the port of Baltimore west to Sandy Hook",
+    "context": [
+      "The Baltimore and Philadelphia Railroad was a railroad line built by the Baltimore and Ohio Railroad (B&O) from Philadelphia, Pennsylvania, to Baltimore, Maryland.  It was built in the 1880s after the B&O lost access to its previous route to Philadelphia, the Philadelphia, Wilmington and Baltimore Railroad (PW&B).  The cost of building the new route, especially the Howard Street Tunnel on the connecting Baltimore Belt Line, led to the B&O's first bankruptcy.  Today, the line is used by CSX Transportation for freight trains."
+    ],
+    "generated_answer": "William Howard worked for the Baltimore and Ohio Railroad (B&O), which originally had a line from Philadelphia, Pennsylvania, to Baltimore, Maryland.",
+    "retrieval_k": 1,
+    "perplexity": 1.2290781736373901,
+    "mean_prob": 0.8468205332756042,
+    "min_prob": 0.256551593542099,
+    "sds": 0.6022407412528992,
+    "hallucinated": null
+  },
+  {
+    "id": 87,
+    "question": "What band did Gator Country guitarist that co-wrote Bloody Reunion come from?",
+    "gold_answer": "Molly Hatchet",
+    "context": [
+      "Gator Country was an American Southern rock band formed in Davie, Florida, in 2005 by several ex-members of the Southern rock group Molly Hatchet.  The band, founded by vocalist Jimmy Farrar, guitarist Duane Roland, drummer Bruce Crump, guitarist Steve Holland, and bassist Riff West took its name from the title of the hit song, \"Gator Country\"."
+    ],
+    "generated_answer": "Gator Country guitarist Steve Holland, who co-wrote \"Bloody Reunion,\" came from the Southern rock group Molly Hatchet.",
+    "retrieval_k": 1,
+    "perplexity": 1.1656827926635742,
+    "mean_prob": 0.9047367572784424,
+    "min_prob": 0.18581828474998474,
+    "sds": 0.7867546081542969,
+    "hallucinated": null
+  },
+  {
+    "id": 88,
+    "question": "Jessica Jones is a television series created for Netflix, the second in the series of the shows that lead to \"The Defenders\" miniseries after what show released on Netflix earlier?",
+    "gold_answer": "Daredevil",
+    "context": [
+      "Marvel's Jessica Jones, or simply Jessica Jones, is an American web television series created for Netflix by Melissa Rosenberg, based on the Marvel Comics character of the same name.  It is set in the Marvel Cinematic Universe (MCU), sharing continuity with the films of the franchise, and is the second in a series of shows that lead to \"The Defenders\" crossover miniseries.  The series is produced by Marvel Television in association with ABC Studios and Tall Girls Productions, with Rosenberg serving as showrunner."
+    ],
+    "generated_answer": "Jessica Jones is the second show in the series of the shows that lead to \"The Defenders\" miniseries, following Iron Fist.",
+    "retrieval_k": 1,
+    "perplexity": 1.4079712629318237,
+    "mean_prob": 0.7918058633804321,
+    "min_prob": 0.11701612174510956,
+    "sds": 0.6920660138130188,
+    "hallucinated": null
+  },
+  {
+    "id": 89,
+    "question": "Which type of character is featured by the P.L. Travers's third book and last novel in the \"Mary Poppins\" series?",
+    "gold_answer": "fictional character",
+    "context": [
+      "Mary Poppins is a series of eight children's books written by P. L. Travers and published over the period 1934 to 1988.  Mary Shepard was the illustrator throughout the series."
+    ],
+    "generated_answer": "The P.L. Travers's third book and last novel in the \"Mary Poppins\" series features a magical nanny character.",
+    "retrieval_k": 1,
+    "perplexity": 1.2519402503967285,
+    "mean_prob": 0.8494551777839661,
+    "min_prob": 0.2754700481891632,
+    "sds": 0.6739524602890015,
+    "hallucinated": null
+  },
+  {
+    "id": 90,
+    "question": "The Livesey Hal War Memorial commemorates the fallen of which war, that had over 60 million casualties?",
+    "gold_answer": "World War II",
+    "context": [
+      "The Iraq and Afghanistan Memorial is a war memorial in London, England, commemorating British citizens who participated in the Gulf War, the Afghanistan War and the Iraq War in the period from 1990 to 2015, both military and civilian, including 682 who were killed.  A work by the sculptor Paul Day, the memorial is situated in Victoria Embankment Gardens, between the River Thames and the headquarters of the Ministry of Defence, and near to monuments commemorating the Second World War and the Korean War."
+    ],
+    "generated_answer": "The Livesey Hal War Memorial commemorates the fallen of the Second World War, which had over 60 million casualties.",
+    "retrieval_k": 1,
+    "perplexity": 1.1337590217590332,
+    "mean_prob": 0.9158698916435242,
+    "min_prob": 0.2959546148777008,
+    "sds": 0.9480616450309753,
+    "hallucinated": null
+  },
+  {
+    "id": 91,
+    "question": "What is the name of the executive producer of the film that has a score composed by Jerry Goldsmith?",
+    "gold_answer": "Ronald Shusett",
+    "context": [
+      "Legend: The Music of Jerry Goldsmith is a musical film score by American composer Jerry Goldsmith, released in 1986 for the worldwide release of the film of the same name, (excluding the US).  The album was released on compact disc in 1992 through Silva Screen records and featured alternate cover art and additional songs."
+    ],
+    "generated_answer": "The name of the executive producer of the film with a score composed by Jerry Goldsmith is not provided in the given context.",
+    "retrieval_k": 1,
+    "perplexity": 1.1782572269439697,
+    "mean_prob": 0.8918726444244385,
+    "min_prob": 0.2763676047325134,
+    "sds": 0.8920574188232422,
+    "hallucinated": null
+  },
+  {
+    "id": 92,
+    "question": "Eric Ambler and Carol Shields are both best Known for what profession?",
+    "gold_answer": "author",
+    "context": [
+      "Eric Clifford Ambler OBE (28 June 1909 \u2013 22 October 1998) was an influential British author of thrillers, in particular spy novels, who introduced a new realism to the genre.  He also worked as a screenwriter.  Ambler used the pseudonym Eliot Reed for books co-written with Charles Rodda."
+    ],
+    "generated_answer": "Eric Ambler is best known for being a British author of thrillers and spy novels, while Carol Shields is best known for being a Canadian author of fiction.",
+    "retrieval_k": 1,
+    "perplexity": 1.261199951171875,
+    "mean_prob": 0.8278052806854248,
+    "min_prob": 0.2961033880710602,
+    "sds": 0.7123806476593018,
+    "hallucinated": null
+  },
+  {
+    "id": 93,
+    "question": "David Huntsinger has worked with this gospel singer born in the month of July?",
+    "gold_answer": "Larnelle Harris",
+    "context": [
+      "David Joseph Campbell (born 6 August 1973, Adelaide, South Australia) is an Australian singer, stage performer and television presenter.  He has performed and recorded many different genres of music from rock to classics.  He is the son of rock and soul singer Jimmy Barnes."
+    ],
+    "generated_answer": "David Huntsinger has not worked with David Joseph Campbell, as Campbell was born in August, not July.",
+    "retrieval_k": 1,
+    "perplexity": 1.4641739130020142,
+    "mean_prob": 0.7444955706596375,
+    "min_prob": 0.26477712392807007,
+    "sds": 0.9475879073143005,
+    "hallucinated": null
+  },
+  {
+    "id": 94,
+    "question": "What film adaptation do both Jerome Bernard and Ira Lewis have in common?",
+    "gold_answer": "Chinese Coffee",
+    "context": [
+      "Martin and Lewis is a 2002 biographical CBS television movie, written and directed by John Gray, exploring the lives of the comedy team of Martin and Lewis.  The film stars Jeremy Northam as Dean Martin and Sean Hayes as Jerry Lewis."
+    ],
+    "generated_answer": "Jerome Bernard and Ira Lewis have in common the film adaptation \"Martin and Lewis.\"",
+    "retrieval_k": 1,
+    "perplexity": 1.2936636209487915,
+    "mean_prob": 0.8096159100532532,
+    "min_prob": 0.3572079539299011,
+    "sds": 0.7784932255744934,
+    "hallucinated": null
+  },
+  {
+    "id": 95,
+    "question": "The chicken is a type of dance pattern that is a change of pace of what dance?",
+    "gold_answer": "the Twist",
+    "context": [
+      "The \"Chicken Dance\", also known as the Birdie Song or the Chicken Song, is an oom-pah song and its associated fad dance is now a contemporary dance throughout the Western world.  The song was composed by accordion (Handharmonika) player Werner Thomas from Davos, Switzerland, in the 1950s."
+    ],
+    "generated_answer": "The Chicken Dance is a change of pace from the traditional oom-pah song and dance pattern.",
+    "retrieval_k": 1,
+    "perplexity": 1.8034535646438599,
+    "mean_prob": 0.6662024855613708,
+    "min_prob": 0.08003311604261398,
+    "sds": 0.6923566460609436,
+    "hallucinated": null
+  },
+  {
+    "id": 96,
+    "question": "What profession does John Lanchester and Alan Dean Foster have in common?",
+    "gold_answer": "novelist",
+    "context": [
+      "John Henry Lanchester (born 25 February 1962) is a British journalist and novelist.  He was born in Hamburg, brought up in Hong Kong and educated in England; between 1972 and 1980 at Gresham's School in Holt, Norfolk, then at St John's College, Oxford.  He is married to historian and author Miranda Carter, with whom he has two children, and lives in London."
+    ],
+    "generated_answer": "John Lanchester and Alan Dean Foster are both authors.",
+    "retrieval_k": 1,
+    "perplexity": 1.2341450452804565,
+    "mean_prob": 0.8560330271720886,
+    "min_prob": 0.2744453549385071,
+    "sds": 0.8109385371208191,
+    "hallucinated": null
+  },
+  {
+    "id": 97,
+    "question": "Are both Lygodium or Maxillaria a genus of orchids?",
+    "gold_answer": "no",
+    "context": [
+      "Maxillarieae is a large and complex tribe of orchids native to South and Central America.  Within the tribe there are eight subtribes one of which is that of the genus \"Maxillaria\"."
+    ],
+    "generated_answer": "Yes, both Lygodium and Maxillaria are genera of orchids. However, Lygodium is not part of the Maxillarieae tribe but belongs to the family Asparagaceae.",
+    "retrieval_k": 1,
+    "perplexity": 1.2821846008300781,
+    "mean_prob": 0.8357829451560974,
+    "min_prob": 0.24798810482025146,
+    "sds": 0.7129014134407043,
+    "hallucinated": null
+  },
+  {
+    "id": 98,
+    "question": "What city does Paul Clyne and David Soares have in common?",
+    "gold_answer": "New York",
+    "context": [
+      "P. David Soares (born October 26, 1969, Brava, Cape Verde) is the Albany County, N.Y. District Attorney.  He is a Democrat."
+    ],
+    "generated_answer": "Paul Clyne and David Soares both have Albany as a common city.",
+    "retrieval_k": 1,
+    "perplexity": 1.7383052110671997,
+    "mean_prob": 0.7302213907241821,
+    "min_prob": 0.027904456481337547,
+    "sds": 0.9916557669639587,
+    "hallucinated": null
+  },
+  {
+    "id": 99,
+    "question": "What giant silverware company was started as a religious Utopian group and was for many years run by Pierrepont Noyes?",
+    "gold_answer": "Oneida Limited",
+    "context": [
+      "New Orleans Silversmiths is a jewelry and silverware retailer that specializes in both contemporary and antique gold jewelry, as well as antique holloware.  It was established in 1938 by Karl Dingeldein, a third generation silversmith from Hanau, Germany who had emigrated to the US.  The Dingeldein family's long tradition of metal work and silver manufacture, both in Germany and the U.S., is well documented.  The present owners acquired the business in 1966 and for many years it has been located near the center of the French Quarter, the oldest part of the city.  The shop handles new and estate silverware and jewelry."
+    ],
+    "generated_answer": "Pierrepont Noyes was the founder of the giant silverware company, the Church Universal and Triumphant.",
+    "retrieval_k": 1,
+    "perplexity": 1.991212010383606,
+    "mean_prob": 0.6368380784988403,
+    "min_prob": 0.055747706443071365,
+    "sds": 1.1091409921646118,
+    "hallucinated": null
+  }
+]

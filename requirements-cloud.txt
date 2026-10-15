@@ -1,0 +1,5 @@
+# Hosted generation and labeling dependencies; optional for CPU analysis.
+-r requirements-inference.txt
+modal
+anthropic
+groq

@@ -1,0 +1,17 @@
+{
+  "n_cells": 8,
+  "log_med_mem_ppl_vs_AUROC": {
+    "rho": 0.6666666666666669,
+    "p_asymptotic": 0.07098765432098757,
+    "boot_ci_lo": -0.10526315789473686,
+    "boot_ci_hi": 1.0,
+    "frac_positive": 0.9615
+  },
+  "log_med_param_ppl_vs_AUROC": {
+    "rho": 0.7619047619047621,
+    "p_asymptotic": 0.028004939153071815,
+    "boot_ci_lo": -0.06329113924050635,
+    "boot_ci_hi": 1.0,
+    "frac_positive": 0.9722
+  }
+}

@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 0,
+    "question": "What does increased oxygen concentrations in the patient's lungs displace?",
+    "gold_answer": "carbon monoxide",
+    "context": [
+      "Breathing is largely driven by the muscular diaphragm, which divides the thorax from the abdominal cavity, forming a dome with its convexity towards the thorax. Contraction of the diaphragm flattens the dome, increasing the volume of the cavity in which the lung is enclosed. Air enters through the oral and nasal cavities; it flows through the larynx, trachea and bronchi and expands the alveoli. Relaxation of the diaphragm has the opposite effect, passively recoiling during normal breathing. During exercise, the abdominal wall contracts, increasing visceral pressure on the diaphragm, thus forcing the air out more quickly and forcefully. The rib cage itself also is able to expand and contract the thoracic cavity to some degree, through the action of other respiratory and accessory respiratory muscles. As a result, air is sucked into or expelled out of the lungs, always moving down its pressure gradient. This type of lung is known as a bellows lung as it resembles a blacksmith's bellows. Mammals take oxygen into their lungs, and discard carbon dioxide."
+    ],
+    "generated_answer": "Increased oxygen concentrations in the patient's lungs displace carbon dioxide, as mammals take in oxygen and expel carbon dioxide through their respiratory system.",
+    "retrieval_k": 1,
+    "perplexity": 1.286188006401062,
+    "mean_prob": 0.850917637348175,
+    "min_prob": 0.13924086093902588,
+    "sds": 0.9483250379562378,
+    "hallucinated": null
+  },
+  {
+    "id": 1,
+    "question": "Does the new deal include Video on demand and High Definition?",
+    "gold_answer": "no",
+    "context": [
+      "On November 6, 2006, Microsoft announced the Xbox Video Marketplace, an exclusive video store accessible through the console. Launched in the United States on November 22, 2006, the first anniversary of the Xbox 360's launch, the service allows users in the United States to download high-definition and standard-definition television shows and movies onto an Xbox 360 console for viewing. With the exception of short clips, content is not currently available for streaming, and must be downloaded. Movies are also available for rental. They expire in 14 days after download or at the end of the first 24 hours after the movie has begun playing, whichever comes first. Television episodes can be purchased to own, and are transferable to an unlimited number of consoles. Downloaded files use 5.1 surround audio and are encoded using VC-1 for video at 720p, with a bitrate of 6.8 Mbit/s. Television content is offered from MTV, VH1, Comedy Central, Turner Broadcasting, and CBS; and movie content is Warner Bros., Paramount, and Disney, along with other publishers."
+    ],
+    "generated_answer": "Yes, the new deal includes Video on Demand and High Definition.",
+    "retrieval_k": 1,
+    "perplexity": 1.1948505640029907,
+    "mean_prob": 0.8532955050468445,
+    "min_prob": 0.6021065711975098,
+    "sds": 1.0464668273925781,
+    "hallucinated": null
+  },
+  {
+    "id": 2,
+    "question": "In which year did Genghis Khan's grandson invade Kievan Rus'?",
+    "gold_answer": "1237",
+    "context": [
+      "In 1207, the Mongol ruler Genghis Khan (r. 1206\u20131227) conquered and subjugated the ethnic Tangut state of the Western Xia (1038\u20131227). In the same year, he established diplomatic relations with Tibet by sending envoys there. The conquest of the Western Xia alarmed Tibetan rulers, who decided to pay tribute to the Mongols. However, when they ceased to pay tribute after Genghis Khan's death, his successor \u00d6gedei Khan (r. 1229\u20131241) launched an invasion into Tibet."
+    ],
+    "generated_answer": "Genghis Khan's grandson, Batu Khan, invaded Kievan Rus' in 1240.",
+    "retrieval_k": 1,
+    "perplexity": 1.1373142004013062,
+    "mean_prob": 0.9090191125869751,
+    "min_prob": 0.21433261036872864,
+    "sds": 0.8765777349472046,
+    "hallucinated": null
+  },
+  {
+    "id": 3,
+    "question": "Where is the Hyde Park Day School located?",
+    "gold_answer": "the University of Chicago campus",
+    "context": [
+      "Major tourist destinations include Times Square; Broadway theater productions; the Empire State Building; the Statue of Liberty; Ellis Island; the United Nations Headquarters; museums such as the Metropolitan Museum of Art; greenspaces such as Central Park and Washington Square Park; Rockefeller Center; the Manhattan Chinatown; luxury shopping along Fifth and Madison Avenues; and events such as the Halloween Parade in Greenwich Village; the Macy's Thanksgiving Day Parade; the lighting of the Rockefeller Center Christmas Tree; the St. Patrick's Day parade; seasonal activities such as ice skating in Central Park in the wintertime; the Tribeca Film Festival; and free performances in Central Park at Summerstage. Major attractions in the boroughs outside Manhattan include Flushing Meadows-Corona Park and the Unisphere in Queens; the Bronx Zoo; Coney Island, Brooklyn; and the New York Botanical Garden in the Bronx. The New York Wheel, a 630-foot ferris wheel, was under construction at the northern shore of Staten Island in 2015, overlooking the Statue of Liberty, New York Harbor, and the Lower Manhattan skyline."
+    ],
+    "generated_answer": "The Hyde Park Day School is not mentioned in the provided context.",
+    "retrieval_k": 1,
+    "perplexity": 1.1966947317123413,
+    "mean_prob": 0.8593633770942688,
+    "min_prob": 0.4324983060359955,
+    "sds": 1.1365975141525269,
+    "hallucinated": null
+  },
+  {
+    "id": 4,
+    "question": "What does the WG I Summary for Policymakers report say human activities are doing to greenhouse gases?",
+    "gold_answer": "substantially increasing the atmospheric concentrations",
+    "context": [
+      "On September 27, 2006 Schwarzenegger signed a bill creating the nation's first cap on greenhouse gas emissions. The law set new regulations on the amount of emissions utilities, refineries and manufacturing plants are allowed to release into the atmosphere. Schwarzenegger also signed a second global warming bill that prohibits large utilities and corporations in California from making long-term contracts with suppliers who do not meet the state's greenhouse gas emission standards. The two bills are part of a plan to reduce California's emissions by 25 percent to 1990s levels by 2020. In 2005, Schwarzenegger issued an executive order calling to reduce greenhouse gases to 80 percent below 1990 levels by 2050."
+    ],
+    "generated_answer": "The WG I Summary for Policymakers report states that human activities are increasing greenhouse gas concentrations in the atmosphere, contributing to global warming and climate change.",
+    "retrieval_k": 1,
+    "perplexity": 1.186375379562378,
+    "mean_prob": 0.8776906728744507,
+    "min_prob": 0.22378908097743988,
+    "sds": 0.9943535327911377,
+    "hallucinated": null
+  },
+  {
+    "id": 5,
+    "question": "For how many years was evidence shown that humans shaped the the Amazon?",
+    "gold_answer": "11,000 years",
+    "context": [
+      "According to the prevailing theories of the settlement of the Americas, migrations of humans from Asia (in particular North Asia) to the Americas took place via Beringia, a land bridge which connected the two continents across what is now the Bering Strait. The majority of experts agree that the earliest pre-modern human migration via Beringia took place at least 13,500 years ago, with disputed evidence that people had migrated into the Americas much earlier, up to 40,000 years ago. These early Paleo-Indians spread throughout the Americas, diversifying into many hundreds of culturally distinct nations and tribes. According to the oral histories of many of the indigenous peoples of the Americas, they have been living there since their genesis, described by a wide range of creation myths."
+    ],
+    "generated_answer": "The context provided does not mention any evidence of humans shaping the Amazon. It discusses the settlement of the Americas via Beringia and the migration of Paleo-Indians into the Americas.",
+    "retrieval_k": 1,
+    "perplexity": 1.3778151273727417,
+    "mean_prob": 0.7802473902702332,
+    "min_prob": 0.16586849093437195,
+    "sds": 0.9312953948974609,
+    "hallucinated": null
+  },
+  {
+    "id": 6,
+    "question": "Who lost to the Broncos in the divisional round?",
+    "gold_answer": "Pittsburgh Steelers",
+    "context": [
+      "In 2004, the Cubs were a consensus pick by most media outlets to win the World Series. The offseason acquisition of Derek Lee (who was acquired in a trade with Florida for Hee-seop Choi) and the return of Greg Maddux only bolstered these expectation. Despite a mid-season deal for Nomar Garciaparra, misfortune struck the Cubs again. They led the Wild Card by 1.5 games over San Francisco and Houston on September 25, and both of those teams lost that day, giving the Cubs a chance at increasing the lead to a commanding 2.5 games with only eight games remaining in the season, but reliever LaTroy Hawkins blew a save to the Mets, and the Cubs lost the game in extra innings, a defeat that seemingly deflated the team, as they proceeded to drop 6 of their last 8 games as the Astros won the Wild Card."
+    ],
+    "generated_answer": "The Cubs lost to the Astros in the divisional round.",
+    "retrieval_k": 1,
+    "perplexity": 1.163097620010376,
+    "mean_prob": 0.8886228799819946,
+    "min_prob": 0.3404448926448822,
+    "sds": 0.7698498964309692,
+    "hallucinated": null
+  },
+  {
+    "id": 7,
+    "question": "Who was hired to be the deputy director of the Office of Manned Space Flight?",
+    "gold_answer": "Joseph Shea",
+    "context": [
+      "The US Air Force had been developing a program to launch the first man in space, named Man in Space Soonest. This program studied several different types of one-man space vehicles, settling on a ballistic re-entry capsule launched on a derivative Atlas missile, and selecting a group of nine candidate pilots. After NASA's creation, the program was transferred over to the civilian agency and renamed Project Mercury on November 26, 1958. NASA selected a new group of astronaut (from the Greek for \"star sailor\") candidates from Navy, Air Force and Marine test pilots, and narrowed this down to a group of seven for the program. Capsule design and astronaut training began immediately, working toward preliminary suborbital flights on the Redstone missile, followed by orbital flights on the Atlas. Each flight series would first start unmanned, then carry a primate, then finally men."
+    ],
+    "generated_answer": "John H. Glenn Jr. was hired as the deputy director of the Office of Manned Space Flight.",
+    "retrieval_k": 1,
+    "perplexity": 1.3320146799087524,
+    "mean_prob": 0.858791172504425,
+    "min_prob": 0.032936468720436096,
+    "sds": 0.9752088189125061,
+    "hallucinated": null
+  },
+  {
+    "id": 8,
+    "question": "What register did Chris Keates think that some teachers should not be placed on?",
+    "gold_answer": "the sex offenders register",
+    "context": [
+      "Instruction is the facilitation of another's learning. Instructors in primary and secondary institutions are often called teachers, and they direct the education of students and might draw on many subjects like reading, writing, mathematics, science and history. Instructors in post-secondary institutions might be called teachers, instructors, or professors, depending on the type of institution; and they primarily teach only their specific discipline. Studies from the United States suggest that the quality of teachers is the single most important factor affecting student performance, and that countries which score highly on international tests have multiple policies in place to ensure that the teachers they employ are as effective as possible. With the passing of NCLB in the United States (No Child Left Behind), teachers must be highly qualified. A popular way to gauge teaching performance is to use student evaluations of teachers (SETS), but these evaluations have been criticized for being counterproductive to learning and inaccurate due to student bias."
+    ],
+    "generated_answer": "Chris Keates believed that some teachers should not be placed on the \"unqualified\" register.",
+    "retrieval_k": 1,
+    "perplexity": 1.4980621337890625,
+    "mean_prob": 0.7920612096786499,
+    "min_prob": 0.06737179309129715,
+    "sds": 1.0910762548446655,
+    "hallucinated": null
+  },
+  {
+    "id": 9,
+    "question": "What did Luther say would allow the Jews to stay?",
+    "gold_answer": "that they convert",
+    "context": [
+      "In his work \"On the Jews and Their Lies\" (1543), German Reformation leader Martin Luther claims that Jewish history was \"assailed by much heresy\", and that Christ the logos swept away the Jewish heresy and goes on to do so, \"as it still does daily before our eyes.\" He stigmatizes Jewish Prayer as being \"blasphemous\" (sic) and a lie, and vilifies Jews in general as being spiritually \"blind\" and \"surely possessed by all devils.\" Luther calls the members of the Orthodox Catholic Church \"papists\" and heretics, and has a special spiritual problem with Jewish circumcision."
+    ],
+    "generated_answer": "Luther believed that Christ the logos would sweep away Jewish heresy and that Jews would be spiritually \"blind\" and \"surely possessed by all devils,\" preventing them from staying.",
+    "retrieval_k": 1,
+    "perplexity": 1.4945389032363892,
+    "mean_prob": 0.7571916580200195,
+    "min_prob": 0.13494925200939178,
+    "sds": 0.6973575353622437,
+    "hallucinated": null
+  },
+  {
+    "id": 10,
+    "question": "What medical treatment is used to increase oxygen uptake in a patient?",
+    "gold_answer": "oxygen supplementation",
+    "context": [
+      "Cold or oxygen-rich atmospheres can sustain life at pressures much lower than atmospheric, as long as the density of oxygen is similar to that of standard sea-level atmosphere. The colder air temperatures found at altitudes of up to 3 km generally compensate for the lower pressures there. Above this altitude, oxygen enrichment is necessary to prevent altitude sickness in humans that did not undergo prior acclimatization, and spacesuits are necessary to prevent ebullism above 19 km. Most spacesuits use only 20 kPa (150 Torr) of pure oxygen. This pressure is high enough to prevent ebullism, but decompression sickness and gas embolisms can still occur if decompression rates are not managed."
+    ],
+    "generated_answer": "Hyperbaric oxygen therapy (HBOT) is used to increase oxygen uptake in a patient.",
+    "retrieval_k": 1,
+    "perplexity": 1.1971590518951416,
+    "mean_prob": 0.8959522247314453,
+    "min_prob": 0.13686107099056244,
+    "sds": 1.0909998416900635,
+    "hallucinated": null
+  },
+  {
+    "id": 11,
+    "question": "Where was the 1857 riot?",
+    "gold_answer": "Buckland Valley",
+    "context": [
+      "The Indian rebellion of 1857 was a large-scale rebellion by soldiers employed by the British East India in northern and central India against the Company's rule. The rebels were disorganized, had differing goals, and were poorly equipped, led, and trained, and had no outside support or funding. They were brutally suppressed and the British government took control of the Company and eliminated many of the grievances that caused it. The government also was determined to keep full control so that no rebellion of such size would ever happen again."
+    ],
+    "generated_answer": "The 1857 riot, also known as the Indian rebellion of 1857, took place in northern and central India against the British East India Company's rule.",
+    "retrieval_k": 1,
+    "perplexity": 1.0950489044189453,
+    "mean_prob": 0.9266907572746277,
+    "min_prob": 0.4759282171726227,
+    "sds": 0.62541663646698,
+    "hallucinated": null
+  },
+  {
+    "id": 12,
+    "question": "Who was the first quarterback to take two teams to more than one Super Bowl?",
+    "gold_answer": "Peyton Manning",
+    "context": [
+      "The year 2000 brought heightened interest in the AFL. Then-St. Louis Rams quarterback Kurt Warner, who was MVP of Super Bowl XXXIV, was first noticed because he played quarterback for the AFL's Iowa Barnstormers. While many sports commentators and fans continued to ridicule the league, Warner's story gave the league positive exposure, and it brought the league a new television deal with TNN, which, unlike ESPN, televised regular season games live. While it was not financially lucrative, it helped set the stage for what the league would become in the new millennium. Also, the year also brought a spin-off league, the AF2, intended to be a developmental league, comparable to the National Football League's NFL Europe. There was a lot of expansion in the 2000s. Expansion teams included the Austin Wranglers, Carolina Cobras, Los Angeles Avengers, Chicago Rush, Detroit Fury, Dallas Desperados, Colorado Crush, New Orleans VooDoo, Philadelphia Soul, Nashville Kats, Kansas City Brigade, New York Dragons and Utah Blaze. Some of these teams, including the Crush, Desperados, Kats, and VooDoo, were owned by the same group which owned the NFL teams in their host cities. The NFL purchased, but never exercised, an option to buy a major interest the AFL. Of all of these teams, only the Soul still compete in the AFL as of now."
+    ],
+    "generated_answer": "Kurt Warner was the first quarterback to take two teams to more than one Super Bowl.",
+    "retrieval_k": 1,
+    "perplexity": 1.0952394008636475,
+    "mean_prob": 0.9403132200241089,
+    "min_prob": 0.28397369384765625,
+    "sds": 0.9027737975120544,
+    "hallucinated": null
+  },
+  {
+    "id": 13,
+    "question": "How did Chinese medicine spread?",
+    "gold_answer": "Chinese physicians were brought along military campaigns by the Mongols",
+    "context": [
+      "According to Walter Gratzer, the study of nutrition probably began during the 6th century BC. In China, the concept of Qi developed, a spirit or \"wind\" similar to what Western Europeans later called pneuma. Food was classified into \"hot\" (for example, meats, blood, ginger, and hot spices) and \"cold\" (green vegetables) in China, India, Malaya, and Persia. Humours developed perhaps first in China alongside qi. Ho the Physician concluded that diseases are caused by deficiencies of elements (Wu Xing: fire, water, earth, wood, and metal), and he classified diseases as well as prescribed diets. About the same time in Italy, Alcmaeon of Croton (a Greek) wrote of the importance of equilibrium between what goes in and what goes out, and warned that imbalance would result disease marked by obesity or emaciation."
+    ],
+    "generated_answer": "Chinese medicine spread through cultural exchanges and trade routes, influencing neighboring regions such as India, Malaya, and Persia, where it was integrated with local medical practices.",
+    "retrieval_k": 1,
+    "perplexity": 1.843595266342163,
+    "mean_prob": 0.6710118651390076,
+    "min_prob": 0.012604935094714165,
+    "sds": 1.0257796049118042,
+    "hallucinated": null
+  },
+  {
+    "id": 14,
+    "question": "What computational problem is commonly associated with prime factorization?",
+    "gold_answer": "The integer factorization problem",
+    "context": [
+      "There is active research to make computers out of many promising new types of technology, such as optical computers, DNA computers, neural computers, and quantum computers. Most computers are universal, and are able to calculate any computable function, and are limited only by their memory capacity and operating speed. However different designs of computers can give very different performance for particular problems; for example quantum computers can potentially break some modern encryption algorithms (by quantum factoring) very quickly."
+    ],
+    "generated_answer": "Prime factorization is commonly associated with the RSA encryption algorithm.",
+    "retrieval_k": 1,
+    "perplexity": 1.497422695159912,
+    "mean_prob": 0.7335776686668396,
+    "min_prob": 0.23092269897460938,
+    "sds": 1.1955997943878174,
+    "hallucinated": null
+  },
+  {
+    "id": 15,
+    "question": "The point at which different radiometric isotopes stop diffusing into and out of the crystal lattice is called what?",
+    "gold_answer": "particular closure temperature",
+    "context": [
+      "Uranium-235 was the first isotope that was found to be fissile. Other naturally occurring isotopes are fissionable, but not fissile. On bombardment with slow neutrons, its uranium-235 isotope will most of the time divide into two smaller nuclei, releasing nuclear binding energy and more neutrons. If too many of these neutrons are absorbed by other uranium-235 nuclei, a nuclear chain reaction occurs that results in a burst of heat or (in special circumstances) an explosion. In a nuclear reactor, such a chain reaction is slowed and controlled by a neutron poison, absorbing some of the free neutrons. Such neutron absorbent materials are often part of reactor control rods (see nuclear reactor physics for a description of this process of reactor control)."
+    ],
+    "generated_answer": "The point at which different radiometric isotopes stop diffusing into and out of the crystal lattice is called the closure temperature.",
+    "retrieval_k": 1,
+    "perplexity": 1.1013312339782715,
+    "mean_prob": 0.9543434381484985,
+    "min_prob": 0.09982939809560776,
+    "sds": 1.0675032138824463,
+    "hallucinated": null
+  },
+  {
+    "id": 16,
+    "question": "What is a trait of sequential hermaphrodites?",
+    "gold_answer": "the eggs and sperm mature at different times",
+    "context": [
+      "Other developmental and reproductive variations include haplodiploidy, polymorphism, paedomorphosis or peramorphosis, sexual dimorphism, parthenogenesis and more rarely hermaphroditism.:143 In haplodiploidy, which is a type of sex-determination system, the offspring's sex is determined by the number of sets of chromosomes an individual receives. This system is typical in bees and wasps. Polymorphism is where a species may have different morphs or forms, as in the oblong winged katydid, which has four different varieties: green, pink and yellow or tan. Some insects may retain phenotypes that are normally only seen in juveniles; this is called paedomorphosis. In peramorphosis, an opposite sort of phenomenon, insects take on previously unseen traits after they have matured into adults. Many insects display sexual dimorphism, in which males and females have notably different appearances, such as the moth Orgyia recens as an exemplar of sexual dimorphism in insects."
+    ],
+    "generated_answer": "Sequential hermaphroditism is a reproductive strategy where an individual changes its sex during its lifetime, as seen in some fish species.",
+    "retrieval_k": 1,
+    "perplexity": 1.6022835969924927,
+    "mean_prob": 0.7330866456031799,
+    "min_prob": 0.016458766534924507,
+    "sds": 1.0171345472335815,
+    "hallucinated": null
+  },
+  {
+    "id": 17,
+    "question": "What lab does the university have a joint stake in? ",
+    "gold_answer": "Fermilab",
+    "context": [
+      "In April 2016, Northwestern announced that it signed on to the Chicago Star Partnership, a City Colleges initiative. Through this partnership, Northwestern is one of 15 Illinois public and private universities that will \"provide scholarships to students who graduate from Chicago Public Schools, get their associate degree from one of the city's community colleges, and then get admitted to a bachelor's degree program.\" The partnership was influenced by Mayor Rahm Emanuel, who encouraged local universities to increase opportunities for students in the public school district. The University of Chicago, Northeastern Illinois University, the School of the Art Institute, DePaul University and Loyola University are also part of the Star Scholars partnership."
+    ],
+    "generated_answer": "The context provided does not mention any specific lab that the university has a joint stake in.",
+    "retrieval_k": 1,
+    "perplexity": 1.2796586751937866,
+    "mean_prob": 0.8099135756492615,
+    "min_prob": 0.36275190114974976,
+    "sds": 1.1518232822418213,
+    "hallucinated": null
+  },
+  {
+    "id": 18,
+    "question": "What can be used to model tension forces?",
+    "gold_answer": "ideal strings",
+    "context": [
+      "This apparatus may be made of hemp or a synthetic material which retains the qualities of lightness and suppleness. Its length is in proportion to the size of the gymnast. The rope should, when held down by the feet, reach both of the gymnasts' armpits. One or two knots at each end are for keeping hold of the rope while doing the routine. At the ends (to the exclusion of all other parts of the rope) an anti-slip material, either coloured or neutral may cover a maximum of 10 cm (3.94 in). The rope must be coloured, either all or partially and may either be of a uniform diameter or be progressively thicker in the center provided that this thickening is of the same material as the rope. The fundamental requirements of a rope routine include leaps and skipping. Other elements include swings, throws, circles, rotations and figures of eight. In 2011, the FIG decided to nullify the use of rope in rhythmic gymnastic competitions."
+    ],
+    "generated_answer": "A rope apparatus, made of hemp or synthetic material, can be used to model tension forces.",
+    "retrieval_k": 1,
+    "perplexity": 1.422502040863037,
+    "mean_prob": 0.7820701599121094,
+    "min_prob": 0.11861672252416611,
+    "sds": 0.8392037749290466,
+    "hallucinated": null
+  },
+  {
+    "id": 19,
+    "question": "Civil Disobedience is mainly performed by what population group?",
+    "gold_answer": "private citizen",
+    "context": [
+      "\"Data on ethnic groups are important for putting into effect a number of federal statutes (i.e., enforcing bilingual election rules under the Voting Rights Act; monitoring and enforcing equal employment opportunities under the Civil Rights Act). Data on Ethnic Groups are also needed by local governments to run programs and meet legislative requirements (i.e., identifying segments of the population who may not be receiving medical services under the Public Health Act; evaluating whether financial institutions are meeting the credit needs of minority populations under the Community Reinvestment Act).\""
+    ],
+    "generated_answer": "Civil disobedience is not specifically performed by any particular ethnic group. It is a form of protest that can be undertaken by individuals from any ethnic background.",
+    "retrieval_k": 1,
+    "perplexity": 1.6528489589691162,
+    "mean_prob": 0.6798914670944214,
+    "min_prob": 0.13214053213596344,
+    "sds": 1.0934913158416748,
+    "hallucinated": null
+  },
+  {
+    "id": 20,
+    "question": "Who was the executive producer of the 2005 Doctor Who revival series?",
+    "gold_answer": "Russell T Davies",
+    "context": [
+      "Beginning in 2005, the CBC has contributed production funds for the BBC Wales revival of Doctor Who, for which it received a special credit at the end of each episode. This arrangement continued until the end of fourth season, broadcast in 2008. The CBC similarly contributed to the first season of the spin-off series, Torchwood. More recently, the network has also begun picking up Canadian rights to some Australian series, including the drama series Janet King and Love Child, and the comedy-drama series Please Like Me."
+    ],
+    "generated_answer": "The executive producer of the 2005 Doctor Who revival series was Russell T Davies.",
+    "retrieval_k": 1,
+    "perplexity": 1.0966157913208008,
+    "mean_prob": 0.9309881925582886,
+    "min_prob": 0.38268834352493286,
+    "sds": 0.8918743133544922,
+    "hallucinated": null
+  },
+  {
+    "id": 21,
+    "question": "An MSP may introduce a bill as what?",
+    "gold_answer": "a private member",
+    "context": [
+      "In the United Kingdom, a bill is presented for royal assent after it has passed all the required stages in both the House of Commons and the House of Lords. Under the Parliament Acts 1911 and 1949, the House of Commons may, under certain circumstances, direct that a bill be presented for assent despite lack of passage by the House of Lords. Officially, assent is granted by the sovereign or by Lords Commissioners authorised to act by letters patent. It may be granted in parliament or outside parliament; in the latter case, each house must be separately notified before the bill takes effect."
+    ],
+    "generated_answer": "An MSP may introduce a bill as a private member's bill.",
+    "retrieval_k": 1,
+    "perplexity": 1.2812604904174805,
+    "mean_prob": 0.8510599136352539,
+    "min_prob": 0.21914637088775635,
+    "sds": 1.0698777437210083,
+    "hallucinated": null
+  },
+  {
+    "id": 22,
+    "question": "How much more land does the school own in Allston than Cambridge?",
+    "gold_answer": "approximately fifty percent",
+    "context": [
+      "Lancashire has a mostly comprehensive system with four state grammar schools. Not including sixth form colleges, there are 77 state schools (not including Burnley's new schools) and 24 independent schools. The Clitheroe area has secondary modern schools. Sixth form provision is limited at most schools in most districts, with only Fylde and Lancaster districts having mostly sixth forms at schools. The rest depend on FE colleges and sixth form colleges, where they exist. South Ribble has the largest school population and Fylde the smallest (only three schools). Burnley's schools have had a new broom and have essentially been knocked down and started again in 2006. There are many Church of England and Catholic faith schools in Lancashire."
+    ],
+    "generated_answer": "The context provided does not contain information about land ownership by schools in Allston or Cambridge.",
+    "retrieval_k": 1,
+    "perplexity": 1.3989648818969727,
+    "mean_prob": 0.7484538555145264,
+    "min_prob": 0.3446198105812073,
+    "sds": 1.239589810371399,
+    "hallucinated": null
+  },
+  {
+    "id": 23,
+    "question": "What did the non-Afghan veterans returning home have in addition to their prestige?",
+    "gold_answer": "considerable impact",
+    "context": [
+      "On April 22, 1971, Kerry appeared before a U.S. Senate committee hearing on proposals relating to ending the war. The day after this testimony, Kerry participated in a demonstration with thousands of other veterans in which he and other Vietnam War veterans threw their medals and service ribbons over a fence erected at the front steps of the United States Capitol building to dramatize their opposition to the war. Jack Smith, a Marine, read a statement explaining why the veterans were returning their military awards to the government. For more than two hours, almost 1000 angry veterans tossed their medals, ribbons, hats, jackets, and military papers over the fence. Each veteran gave his or her name, hometown, branch of service and a statement. Kerry threw some of his own decorations and awards as well as some given to him by other veterans to throw. As Kerry threw his decorations over the fence, his statement was: \"I'm not doing this for any violent reasons, but for peace and justice, and to try and make this country wake up once and for all.\""
+    ],
+    "generated_answer": "The non-Afghan veterans returning home had a sense of peace, justice, and a desire to make their country wake up to the realities of the war.",
+    "retrieval_k": 1,
+    "perplexity": 1.4014570713043213,
+    "mean_prob": 0.7793173789978027,
+    "min_prob": 0.11275424063205719,
+    "sds": 1.071772813796997,
+    "hallucinated": null
+  },
+  {
+    "id": 24,
+    "question": "In what year did the Amazon experience a drought that may have been more extreme than in 2005?",
+    "gold_answer": "2010",
+    "context": [
+      "Yet another boom began as the city emerged from the Great Recession. Amazon.com moved its headquarters from North Beacon Hill to South Lake Union and began a rapid expansion. For the five years beginning in 2010, Seattle gained an average of 14,511 residents per year, with the growth strongly skewed toward the center of the city, as unemployment dropped from roughly 9 percent to 3.6 percent. The city has found itself \"bursting at the seams,\" with over 45,000 households spending more than half their income on housing and at least 2,800 people homeless, and with the country's sixth-worst rush hour traffic."
+    ],
+    "generated_answer": "The context provided does not mention any drought experienced by Amazon in any year.",
+    "retrieval_k": 1,
+    "perplexity": 1.550538182258606,
+    "mean_prob": 0.6880127787590027,
+    "min_prob": 0.34016308188438416,
+    "sds": 1.2009929418563843,
+    "hallucinated": null
+  },
+  {
+    "id": 25,
+    "question": "What month and year was Apollo 13 launched?",
+    "gold_answer": "April 1970",
+    "context": [
+      "Apollo 11 was prepared with the goal of a July landing in the Sea of Tranquility. The crew, selected in January 1969, consisted of commander (CDR) Neil Armstrong, Command Module Pilot (CMP) Michael Collins, and Lunar Module Pilot (LMP) Edwin \"Buzz\" Aldrin. They trained for the mission until just before the actual launch day. On July 16, 1969, at exactly 9:32 am EDT, the Saturn V rocket, AS-506, lifted off from Kennedy Space Center Launch Complex 39 in Florida."
+    ],
+    "generated_answer": "Apollo 13 was not launched in July 1969; that was Apollo 11. Apollo 13 launched on April 11, 1970.",
+    "retrieval_k": 1,
+    "perplexity": 1.2767508029937744,
+    "mean_prob": 0.851653516292572,
+    "min_prob": 0.07512906193733215,
+    "sds": 0.8453698754310608,
+    "hallucinated": null
+  },
+  {
+    "id": 26,
+    "question": "Why did Warsaw become the capital of the Commonwealth?",
+    "gold_answer": "Due to its central location",
+    "context": [
+      "The szlachta ([\u02c8\u0282laxta] ( listen), exonym: Nobility) was a legally privileged noble class with origins in the Kingdom of Poland. It gained considerable institutional privileges between 1333 and 1370 during the reign of King Casimir III the Great.:211 In 1413, following a series of tentative personal unions between the Grand Duchy of Lithuania and the Crown Kingdom of Poland, the existing Lithuanian nobility formally joined this class.:211 As the Polish-Lithuanian Commonwealth (1569\u20131795) evolved and expanded in territory, its membership grew to include the leaders of Ducal Prussia, Podolian and Ruthenian lands."
+    ],
+    "generated_answer": "Warsaw became the capital of the Commonwealth due to its strategic location and growing importance as a political and cultural center during the expansion of the Polish-Lithuanian Commonwealth.",
+    "retrieval_k": 1,
+    "perplexity": 1.391035795211792,
+    "mean_prob": 0.7878108024597168,
+    "min_prob": 0.12513627111911774,
+    "sds": 0.9828720092773438,
+    "hallucinated": null
+  },
+  {
+    "id": 27,
+    "question": "How many Muslims came from around the world to fight in Afghanistan?",
+    "gold_answer": "16,000 to 35,000",
+    "context": [
+      "The origins of al-Qaeda can be traced to the Soviet war in Afghanistan (December 1979 \u2013 February 1989). The United States, United Kingdom, Saudi Arabia, Pakistan, and the People's Republic of China supported the Islamist Afghan mujahadeen guerillas against the military forces of the Soviet Union and the Democratic Republic of Afghanistan. A small number of \"Afghan Arab\" volunteers joined the fight against the Soviets, including Osama bin Laden, but there is no evidence they received any external assistance. In May 1996 the group World Islamic Front for Jihad Against Jews and Crusaders (WIFJAJC), sponsored by bin Laden (and later re-formed as al-Qaeda), started forming a large base of operations in Afghanistan, where the Islamist extremist regime of the Taliban had seized power earlier in the year. In February 1998, Osama bin Laden signed a fatw\u0101, as head of al-Qaeda, declaring war on the West and Israel, later in May of that same year al-Qaeda released a video declaring war on the U.S. and the West."
+    ],
+    "generated_answer": "The context does not provide a specific number of Muslims who came from around the world to fight in Afghanistan. It mentions a small number of \"Afghan Arab\" volunteers, including Osama bin Laden, but does not give an exact count.",
+    "retrieval_k": 1,
+    "perplexity": 1.2798289060592651,
+    "mean_prob": 0.8334358930587769,
+    "min_prob": 0.2564513087272644,
+    "sds": 0.9063602685928345,
+    "hallucinated": null
+  },
+  {
+    "id": 28,
+    "question": "What was the purpose of Loudoun's troops at Fort Henry?",
+    "gold_answer": "to distract Montcalm",
+    "context": [
+      "The first British settlement in what is now Tennessee was built in 1756 by settlers from the colony of South Carolina at Fort Loudoun, near present-day Vonore. Fort Loudoun became the westernmost British outpost to that date. The fort was designed by John William Gerard de Brahm and constructed by forces under British Captain Raymond Demer\u00e9. After its completion, Captain Raymond Demer\u00e9 relinquished command on August 14, 1757 to his brother, Captain Paul Demer\u00e9. Hostilities erupted between the British and the neighboring Overhill Cherokees, and a siege of Fort Loudoun ended with its surrender on August 7, 1760. The following morning, Captain Paul Demer\u00e9 and a number of his men were killed in an ambush nearby, and most of the rest of the garrison was taken prisoner."
+    ],
+    "generated_answer": "The purpose of Loudoun's troops at Fort Henry was to establish the westernmost British outpost in the area, serving as a military presence and a means of asserting British control over the region.",
+    "retrieval_k": 1,
+    "perplexity": 1.6725395917892456,
+    "mean_prob": 0.6923490166664124,
+    "min_prob": 0.15599408745765686,
+    "sds": 0.9741383194923401,
+    "hallucinated": null
+  },
+  {
+    "id": 29,
+    "question": "What team did the Panthers defeat?",
+    "gold_answer": "Arizona Cardinals",
+    "context": [
+      "North Carolina is home to three major league sports franchises: the Carolina Panthers of the National Football League and the Charlotte Hornets of the National Basketball Association are based in Charlotte, while the Raleigh-based Carolina Hurricanes play in the National Hockey League. The Panthers and Hurricanes are the only two major professional sports teams that have the same geographical designation while playing in different metropolitan areas. The Hurricanes are the only major professional team from North Carolina to have won a league championship, having captured the Stanley Cup in 2006. North Carolina is also home to Charlotte Hounds of the Major League Lacrosse."
+    ],
+    "generated_answer": "The Panthers defeated the New Orleans Saints in Super Bowl 50.",
+    "retrieval_k": 1,
+    "perplexity": 1.5698355436325073,
+    "mean_prob": 0.7445727586746216,
+    "min_prob": 0.06666532903909683,
+    "sds": 1.1044363975524902,
+    "hallucinated": null
+  },
+  {
+    "id": 30,
+    "question": "Who was appointed as second in command to Lor Loudoun in 1756?",
+    "gold_answer": "Major General James Abercrombie",
+    "context": [
+      "The first British settlement in what is now Tennessee was built in 1756 by settlers from the colony of South Carolina at Fort Loudoun, near present-day Vonore. Fort Loudoun became the westernmost British outpost to that date. The fort was designed by John William Gerard de Brahm and constructed by forces under British Captain Raymond Demer\u00e9. After its completion, Captain Raymond Demer\u00e9 relinquished command on August 14, 1757 to his brother, Captain Paul Demer\u00e9. Hostilities erupted between the British and the neighboring Overhill Cherokees, and a siege of Fort Loudoun ended with its surrender on August 7, 1760. The following morning, Captain Paul Demer\u00e9 and a number of his men were killed in an ambush nearby, and most of the rest of the garrison was taken prisoner."
+    ],
+    "generated_answer": "Captain Raymond Demer\u00e9 was appointed as second in command to Fort Loudoun in 1756.",
+    "retrieval_k": 1,
+    "perplexity": 1.0955255031585693,
+    "mean_prob": 0.9244899153709412,
+    "min_prob": 0.5601460337638855,
+    "sds": 0.8236603736877441,
+    "hallucinated": null
+  },
+  {
+    "id": 31,
+    "question": "Where did the family move in 1862?",
+    "gold_answer": "Gospi\u0107, Austrian Empire",
+    "context": [
+      "The Bell family home was in Cambridge, Massachusetts, until 1880 when Bell's father-in-law bought a house in Washington, D.C., and later in 1882 bought a home in the same city for Bell's family, so that they could be with him while he attended to the numerous court cases involving patent disputes."
+    ],
+    "generated_answer": "The family moved to Washington, D.C., in 1880.",
+    "retrieval_k": 1,
+    "perplexity": 1.2689878940582275,
+    "mean_prob": 0.8335329294204712,
+    "min_prob": 0.20165076851844788,
+    "sds": 0.9598047733306885,
+    "hallucinated": null
+  },
+  {
+    "id": 32,
+    "question": "Who build the major port city in Kenya?",
+    "gold_answer": "The Swahili",
+    "context": [
+      "Besides their traditional areas of inhabitation in Greater Somalia, a Somali community mainly consisting of entrepreneurs, academics, and students also exists in Egypt. In addition, there is an historical Somali community in the general Sudan area. Primarily concentrated in the north and Khartoum, the expatriate community mainly consists of students as well as some businesspeople. More recently, Somali entrepreneurs have established themselves in Kenya, investing over $1.5 billion in the Somali enclave of Eastleigh alone. In South Africa, Somali businesspeople also provide most of the retail trade in informal settlements around the Western Cape province."
+    ],
+    "generated_answer": "The major port city in Kenya, Mombasa, was built by the Arabs.",
+    "retrieval_k": 1,
+    "perplexity": 1.4663015604019165,
+    "mean_prob": 0.7545480728149414,
+    "min_prob": 0.25214025378227234,
+    "sds": 1.0226181745529175,
+    "hallucinated": null
+  },
+  {
+    "id": 33,
+    "question": "What type of defense is sometimes used in court by protestors?",
+    "gold_answer": "competing harms defense",
+    "context": [
+      "The law of criminal procedure in the United States consists of a massive overlay of federal constitutional case law interwoven with the federal and state statutes that actually provide the foundation for the creation and operation of law enforcement agencies and prison systems as well as the proceedings in criminal trials. Due to the perennial inability of legislatures in the U.S. to enact statutes that would actually force law enforcement officers to respect the constitutional rights of criminal suspects and convicts, the federal judiciary gradually developed the exclusionary rule as a method to enforce such rights. In turn, the exclusionary rule spawned a family of judge-made remedies for the abuse of law enforcement powers, of which the most famous is the Miranda warning. The writ of habeas corpus is often used by suspects and convicts to challenge their detention, while the Civil Rights Act of 1871 and Bivens actions are used by suspects to recover tort damages for police brutality."
+    ],
+    "generated_answer": "Protestors sometimes use the defense of the First Amendment right to free speech and assembly in court.",
+    "retrieval_k": 1,
+    "perplexity": 2.032686471939087,
+    "mean_prob": 0.6903992891311646,
+    "min_prob": 0.01913178153336048,
+    "sds": 1.0847336053848267,
+    "hallucinated": null
+  },
+  {
+    "id": 34,
+    "question": "When was Warsaw ranked as the 32nd most liveable city in the world?",
+    "gold_answer": "2012",
+    "context": [
+      "Poland's nobility were also more numerous than those of all other European countries, constituting some 10\u201312% of the total population of historic Polish\u2013Lithuanian Commonwealth also some 10\u201312% among ethnic Poles on ethnic Polish lands (part of Commonwealth), but up to 25% of all Poles worldwide (szlachta could dispose more of resources to travels and/or conquering), while in some poorer regions (e.g., Mazowsze, the area centred on Warsaw) nearly 30%. However, according to  szlachta comprised around 8% of the total population in 1791 (up from 6.6% in the 16th century), and no more than 16% of the Roman Catholic (mostly ethnically Polish) population. It should be noted, though, that Polish szlachta usually incorporated most local nobility from the areas that were absorbed by Poland\u2013Lithuania (Ruthenian boyars, Livonian nobles, etc.) By contrast, the nobilities of other European countries, except for Spain, amounted to a mere 1\u20133%, however the era of sovereign rules of Polish nobility ended earlier than in other countries (excluding France) yet in 1795 (see: Partitions of Poland), since then their legitimation and future fate depended on legislature and procedures of Russian Empire, Kingdom of Prussia or Habsburg Monarchy. Gradually their privileges were under further limitations to be completely dissolved by March Constitution of Poland in 1921."
+    ],
+    "generated_answer": "The context provided does not mention the ranking of Warsaw as the 32nd most liveable city in the world.",
+    "retrieval_k": 1,
+    "perplexity": 1.2263420820236206,
+    "mean_prob": 0.8591676354408264,
+    "min_prob": 0.2872946560382843,
+    "sds": 1.1330822706222534,
+    "hallucinated": null
+  },
+  {
+    "id": 35,
+    "question": "What was redesigned during the Apollo program being grounded during 1970?",
+    "gold_answer": "oxygen tank",
+    "context": [
+      "The first landing was followed by another, precision landing on Apollo 12 in November 1969. NASA had achieved its first landing goal with enough Apollo spacecraft and Saturn V launchers left for eight follow-on lunar landings through Apollo 20, conducting extended-endurance missions and transporting the landing crews in Lunar Roving Vehicles on the last five. They also planned an Apollo Applications Program to develop a longer-duration Earth orbital workshop (later named Skylab) to be constructed in orbit from a spent S-IVB upper stage, using several launches of the smaller Saturn IB launch vehicle. But planners soon decided this could be done more efficiently by using the two live stages of a Saturn V to launch the workshop pre-fabricated from an S-IVB (which was also the Saturn V third stage), which immediately removed Apollo 20. Belt-tightening budget cuts soon led NASA to cut Apollo 18 and 19 as well, but keep three extended/Lunar Rover missions. Apollo 13 encountered an in-flight spacecraft failure and had to abort its lunar landing in April 1970, returning its crew safely but temporarily grounding the program again. It resumed with four successful landings on Apollo 14 (February 1971), Apollo 15 (July 1971), Apollo 16 (April 1972), and Apollo 17 (December 1972)."
+    ],
+    "generated_answer": "The Apollo program was grounded during 1970 due to the in-flight spacecraft failure of Apollo 13, which led to the redesign of the Lunar Module for Apollo 14.",
+    "retrieval_k": 1,
+    "perplexity": 1.4450284242630005,
+    "mean_prob": 0.7866955399513245,
+    "min_prob": 0.0391634926199913,
+    "sds": 0.8990033268928528,
+    "hallucinated": null
+  },
+  {
+    "id": 36,
+    "question": "Where is the ABC four-note jingle still in use?",
+    "gold_answer": "ABC on Demand to the beginning of the ABC show",
+    "context": [
+      "A long list of AM and FM radio stations broadcast to greater Melbourne. These include \"public\" (i.e., state-owned ABC and SBS) and community stations. Many commercial stations are networked-owned: DMG has Nova 100 and Smooth; ARN controls Gold 104.3 and KIIS 101.1; and Southern Cross Austereo runs both Fox and Triple M. Stations from towns in regional Victoria may also be heard (e.g. 93.9 Bay FM, Geelong). Youth alternatives include ABC Triple J and youth run SYN. Triple J, and similarly PBS and Triple R, strive to play under represented music. JOY 94.9 caters for gay, lesbian, bisexual and transgender audiences. For fans of classical music there are 3MBS and ABC Classic FM. Light FM is a contemporary Christian station. AM stations include ABC: 774, Radio National, and News Radio; also Fairfax affiliates 3AW (talk) and Magic (easy listening). For sport fans and enthusiasts there is SEN 1116. Melbourne has many community run stations that serve alternative interests, such as 3CR and 3KND (Indigenous). Many suburbs have low powered community run stations serving local audiences."
+    ],
+    "generated_answer": "The ABC four-note jingle is still in use on ABC radio stations in Melbourne.",
+    "retrieval_k": 1,
+    "perplexity": 1.4012665748596191,
+    "mean_prob": 0.7890684604644775,
+    "min_prob": 0.2235114574432373,
+    "sds": 0.9098902940750122,
+    "hallucinated": null
+  },
+  {
+    "id": 37,
+    "question": "What was Isiah Bowman nick name, as known by the public.",
+    "gold_answer": "Wilson's geographer",
+    "context": [
+      "The CBS Records Group was led very successfully by Clive Davis until his dismissal in 1972, after it was discovered that Davis has used CBS funds to finance his personal life, including an expensive bar mitzvah party for his son. He was replaced first by former head Goddard Lieberson, then in 1975 by the colourful and controversial lawyer Walter Yetnikoff, who led the company until 1990."
+    ],
+    "generated_answer": "Isiah Bowman's nickname is not mentioned in the provided context.",
+    "retrieval_k": 1,
+    "perplexity": 1.6912659406661987,
+    "mean_prob": 0.7780332565307617,
+    "min_prob": 0.06139044091105461,
+    "sds": 1.2099087238311768,
+    "hallucinated": null
+  },
+  {
+    "id": 38,
+    "question": "Which Super Bowl halftime show did Beyonc\u00e9 headline?",
+    "gold_answer": "Super Bowl XLVII",
+    "context": [
+      "At the 57th Annual Grammy Awards in February 2015, Beyonc\u00e9 was nominated for six awards, ultimately winning three: Best R&B Performance and Best R&B Song for \"Drunk in Love\", and Best Surround Sound Album for Beyonc\u00e9. She was nominated for Album of the Year but the award was won by Beck for his Morning Phase album. In August, the cover of the September issue of Vogue magazine was unveiled online, Beyonc\u00e9 as the cover star, becoming the first African-American artist and third African-American woman in general to cover the September issue. She headlined the 2015 Made in America festival in early September and also the Global Citizen Festival later that month. Beyonc\u00e9 made an uncredited featured appearance on the track \"Hymn for the Weekend\" by British rock band Coldplay, on their seventh studio album A Head Full of Dreams (2015), which saw release in December. On January 7, 2016, Pepsi announced Beyonc\u00e9 would perform alongside Coldplay at Super Bowl 50 in February. Knowles has previously performed at four Super Bowl shows throughout her career, serving as the main headliner of the 47th Super Bowl halftime show in 2013."
+    ],
+    "generated_answer": "Beyonc\u00e9 headlined the 47th Super Bowl halftime show in 2013.",
+    "retrieval_k": 1,
+    "perplexity": 1.0057605504989624,
+    "mean_prob": 0.9943434000015259,
+    "min_prob": 0.9545466899871826,
+    "sds": 0.9032544493675232,
+    "hallucinated": null
+  },
+  {
+    "id": 39,
+    "question": "In 1735, who did John and Charles Wesley teach the gospel to in America?",
+    "gold_answer": "American Indians",
+    "context": [
+      "Methodism identifies principally with the theology of John Wesley\u2014an Anglican priest and evangelist. This evangelical movement originated as a revival within the 18th-century Church of England and became a separate Church following Wesley's death. Because of vigorous missionary activity, the movement spread throughout the British Empire, the United States, and beyond, today claiming approximately 80 million adherents worldwide. Originally it appealed especially to workers, agricultural workers, and slaves."
+    ],
+    "generated_answer": "John and Charles Wesley taught the gospel to enslaved Africans in America in 1735.",
+    "retrieval_k": 1,
+    "perplexity": 1.250616192817688,
+    "mean_prob": 0.8727471828460693,
+    "min_prob": 0.09291500598192215,
+    "sds": 0.987388014793396,
+    "hallucinated": null
+  },
+  {
+    "id": 40,
+    "question": "What had the number of people living in Warsaw declined to by 1945?",
+    "gold_answer": "420,000",
+    "context": [
+      "Representatives of the Polish government officially took over the civilian administration of the southern part of East Prussia on 23 May 1945. Subsequently Polish expatriates from Polish lands annexed by the Soviet Union as well as Ukrainians and Lemkos from southern Poland, expelled in Operation Vistula in 1947, were settled in the southern part of East Prussia, now the Polish Warmian-Masurian Voivodeship. In 1950 the Olsztyn Voivodeship counted 689,000 inhabitants, 22.6% of them coming from areas annexed by the Soviet Union, 10% Ukrainians, and 18.5% of them pre-war inhabitants. The remaining pre-war population was treated as Germanized Poles and a policy of re-Polonization was pursued throughout the country Most of these \"Autochthones\" chose to emigrate to West Germany from the 1950s through 1970s (between 1970 and 1988 55,227 persons from Warmia and Masuria moved to Western Germany). Local toponyms were Polonised by the Polish Commission for the Determination of Place Names."
+    ],
+    "generated_answer": "The context does not provide information on the population of Warsaw by 1945.",
+    "retrieval_k": 1,
+    "perplexity": 1.3688857555389404,
+    "mean_prob": 0.7856760025024414,
+    "min_prob": 0.2185700237751007,
+    "sds": 1.0902304649353027,
+    "hallucinated": null
+  },
+  {
+    "id": 41,
+    "question": "What position did Mark Woods take on at the new American Broadcasting Company?",
+    "gold_answer": "president and CEO",
+    "context": [
+      "Despite trading for pitcher Matt Garza and signing free-agent slugger Carlos Pe\u00f1a, the Cubs finished the 2011 season 20 games under .500 with a record of 71-91. Weeks after the season came to an end, the club was rejuvenated in the form of a new philosophy, as new owner Tom Ricketts signed Theo Epstein away from the Boston Red Sox, naming him club President and giving him a five-year contract worth over $18 million, and subsequently discharged manager Mike Quade. Epstein, a proponent of sabremetrics and one of the architects of two world series titles in Boston brought along Jed Hoyer to fill the role of GM and hired Dale Sveum as manager. Although the team had a dismal 2012 season, losing 101 games (the worst record since 1966) it was largely expected. The youth movement ushered in by Epstein and Hoyer began as longtime fan favorite Kerry Wood retired in May, followed by Ryan Dempster and Geovany Soto being traded to Texas at the All-Star break for a group of minor league prospects headlined by Christian Villanueva. The development of Castro, Anthony Rizzo, Darwin Barney, Brett Jackson and pitcher Jeff Samardzija as well as the replenishing of the minor-league system with prospects such as Javier Baez, Albert Almora, and Jorge Soler became the primary focus of the season, a philosophy which the new management said would carry over at least through the 2013 season."
+    ],
+    "generated_answer": "Mark Woods retired from baseball and did not take on a position at the new American Broadcasting Company (ABC).",
+    "retrieval_k": 1,
+    "perplexity": 1.5338987112045288,
+    "mean_prob": 0.7616912722587585,
+    "min_prob": 0.057180508971214294,
+    "sds": 0.9605122804641724,
+    "hallucinated": null
+  },
+  {
+    "id": 42,
+    "question": "What country did the Rhine continue to rise during the holocene?",
+    "gold_answer": "Netherlands",
+    "context": [
+      "In about 260 AD, the fall of the Agri Decumates territory north of the Rhine transformed today's Switzerland into a frontier land of the Empire. Repeated raids by the Alamanni tribes provoked the ruin of the Roman towns and economy, forcing the population to find shelter near Roman fortresses, like the Castrum Rauracense near Augusta Raurica. The Empire built another line of defense at the north border (the so-called Donau-Iller-Rhine-Limes), but at the end of the fourth century the increased Germanic pressure forced the Romans to abandon the linear defence concept, and the Swiss plateau was finally open to the settlement of German tribes."
+    ],
+    "generated_answer": "The Rhine continued to rise during the Holocene in Switzerland.",
+    "retrieval_k": 1,
+    "perplexity": 1.2426902055740356,
+    "mean_prob": 0.8334302306175232,
+    "min_prob": 0.39297816157341003,
+    "sds": 0.9793694019317627,
+    "hallucinated": null
+  },
+  {
+    "id": 43,
+    "question": "How many soldiers did Genghis Khan take with him to Khwarezmia?",
+    "gold_answer": "100,000",
+    "context": [
+      "When an ally of the \u00dc-Tsang ruler threatened destruction of the Gelugpas again, the fifth Dalai Lama Lozang Gyatso pleaded for help from the Mongol prince G\u00fcshi Khan (1582\u20131655), leader of the Khoshut (Qoshot) tribe of the Oirat Mongols, who was then on a pilgrimage to Lhasa. G\u00fcshi Khan accepted his role as protector, and from 1637\u20131640 he not only defeated the Gelugpas' enemies in the Amdo and Kham regions, but also resettled his entire tribe into Amdo. Sonam Ch\u00f6pel urged G\u00fcshi Khan to assault the \u00dc-Tsang king's homebase of Shigatse, which G\u00fcshi Khan agreed upon, enlisting the aid of Gelug monks and supporters. In 1642, after a year's siege of Shigatse, the \u00dc-Tsang forces surrendered. G\u00fcshi Khan then captured and summarily executed Karma Tenkyong, the ruler of \u00dc-Tsang, King of Tibet."
+    ],
+    "generated_answer": "The context provided does not mention Genghis Khan or his soldiers taking any action in Khwarezmia.",
+    "retrieval_k": 1,
+    "perplexity": 1.5445486307144165,
+    "mean_prob": 0.7239671349525452,
+    "min_prob": 0.17941123247146606,
+    "sds": 1.0655584335327148,
+    "hallucinated": null
+  },
+  {
+    "id": 44,
+    "question": "Why does unemployment harm growth?",
+    "gold_answer": "because it is a waste of resources",
+    "context": [
+      "The output of goods and services produced by labor and property located in the United States\u2014decreased at an annual rate of approximately 6% in the fourth quarter of 2008 and first quarter of 2009, versus activity in the year-ago periods. The U.S. unemployment rate increased to 10.1% by October 2009, the highest rate since 1983 and roughly twice the pre-crisis rate. The average hours per work week declined to 33, the lowest level since the government began collecting the data in 1964. With the decline of gross domestic product came the decline in innovation. With fewer resources to risk in creative destruction, the number of patent applications flat-lined. Compared to the previous 5 years of exponential increases in patent application, this stagnation correlates to the similar drop in GDP during the same time period."
+    ],
+    "generated_answer": "Unemployment harms growth because it leads to a decrease in consumer spending, lower production levels, and reduced innovation, ultimately resulting in a decline in gross domestic product.",
+    "retrieval_k": 1,
+    "perplexity": 1.6893494129180908,
+    "mean_prob": 0.7290822863578796,
+    "min_prob": 0.044681791216135025,
+    "sds": 0.9313056468963623,
+    "hallucinated": null
+  },
+  {
+    "id": 45,
+    "question": "Who was the War of Currents waged between? ",
+    "gold_answer": "Thomas Edison and George Westinghouse",
+    "context": [
+      "The almost constant wars among the Sumerian city-states for 2000 years helped to develop the military technology and techniques of Sumer to a high level. The first war recorded in any detail was between Lagash and Umma in c. 2525 BC on a stele called the Stele of the Vultures. It shows the king of Lagash leading a Sumerian army consisting mostly of infantry. The infantrymen carried spears, wore copper helmets, and carried rectangular shields. The spearmen are shown arranged in what resembles the phalanx formation, which requires training and discipline; this implies that the Sumerians may have made use of professional soldiers."
+    ],
+    "generated_answer": "The War of Currents was waged between Thomas Edison and George Westinghouse over the adoption of alternating current (AC) versus direct current (DC) electrical systems.",
+    "retrieval_k": 1,
+    "perplexity": 1.237084150314331,
+    "mean_prob": 0.872160792350769,
+    "min_prob": 0.05085308104753494,
+    "sds": 1.202125906944275,
+    "hallucinated": null
+  },
+  {
+    "id": 46,
+    "question": "What was the English name of Gou's calendar?",
+    "gold_answer": "Calendar for Fixing the Seasons",
+    "context": [
+      "Extending the Gregorian calendar backwards to dates preceding its official introduction produces a proleptic calendar, which should be used with some caution. For ordinary purposes, the dates of events occurring prior to 15 October 1582 are generally shown as they appeared in the Julian calendar, with the year starting on 1 January, and no conversion to their Gregorian equivalents. For example, the Battle of Agincourt is universally considered to have been fought on 25 October 1415 which is Saint Crispin's Day."
+    ],
+    "generated_answer": "The English name of Gou's calendar is the Julian calendar.",
+    "retrieval_k": 1,
+    "perplexity": 1.1581398248672485,
+    "mean_prob": 0.8789023160934448,
+    "min_prob": 0.5150911808013916,
+    "sds": 1.0308637619018555,
+    "hallucinated": null
+  },
+  {
+    "id": 47,
+    "question": "What term is used to explain a change in the appearance of Doctor Who?",
+    "gold_answer": "regeneration",
+    "context": [
+      "The medical treatment of infectious diseases falls into the medical field of Infectious Disease and in some cases the study of propagation pertains to the field of Epidemiology. Generally, infections are initially diagnosed by primary care physicians or internal medicine specialists. For example, an \"uncomplicated\" pneumonia will generally be treated by the internist or the pulmonologist (lung physician). The work of the infectious diseases specialist therefore entails working with both patients and general practitioners, as well as laboratory scientists, immunologists, bacteriologists and other specialists."
+    ],
+    "generated_answer": "The term used to explain a change in the appearance of Doctor Who is \"regeneration.\"",
+    "retrieval_k": 1,
+    "perplexity": 1.098594069480896,
+    "mean_prob": 0.922676682472229,
+    "min_prob": 0.5018661618232727,
+    "sds": 1.1399683952331543,
+    "hallucinated": null
+  },
+  {
+    "id": 48,
+    "question": "Which NASA orbiter photographed evidence of each site on the moon that a manned Apollo mission landing occurred?",
+    "gold_answer": "Lunar Reconnaissance Orbiter",
+    "context": [
+      "Focused by the commitment to a Moon landing, in January 1962 the US announced Project Gemini, a two-man spacecraft that would support the later three-man Apollo by developing the key spaceflight technologies of space rendezvous and docking of two craft, flight durations of sufficient length to simulate going to the Moon and back, and extra-vehicular activity to accomplish useful work outside the spacecraft."
+    ],
+    "generated_answer": "The Lunar Reconnaissance Orbiter (LRO) photographed evidence of each site on the moon where a manned Apollo mission landing occurred.",
+    "retrieval_k": 1,
+    "perplexity": 1.1655220985412598,
+    "mean_prob": 0.9011180996894836,
+    "min_prob": 0.22146067023277283,
+    "sds": 1.1419399976730347,
+    "hallucinated": null
+  },
+  {
+    "id": 49,
+    "question": "How long was the Summer Theatre in operation?",
+    "gold_answer": "1870 to 1939",
+    "context": [
+      "The Duke Energy Center for the Performing Arts complex houses the Raleigh Memorial Auditorium, the Fletcher Opera Theater, the Kennedy Theatre, and the Meymandi Concert Hall. In 2008, a new theatre space, the Meymandi Theatre at the Murphey School, was opened in the restored auditorium of the historic Murphey School. Theater performances are also offered at the Raleigh Little Theatre, Long View Center, Ira David Wood III Pullen Park Theatre, and Stewart and Thompson Theaters at North Carolina State University."
+    ],
+    "generated_answer": "The Summer Theatre was in operation from 1966 to 1997.",
+    "retrieval_k": 1,
+    "perplexity": 1.7489160299301147,
+    "mean_prob": 0.6843282580375671,
+    "min_prob": 0.0993938222527504,
+    "sds": 1.0843313932418823,
+    "hallucinated": null
+  },
+  {
+    "id": 50,
+    "question": "What is a genuine love of God with heart, soul and mind?",
+    "gold_answer": "Christian Perfection",
+    "context": [
+      "Albert the Great wrote that wisdom and understanding enhance one's faith in God. According to him, these are the tools that God uses to commune with a contemplative. Love in the soul is both the cause and result of true understanding and judgement. It causes not only an intellectual knowledge of God, but a spiritual and emotional knowledge as well. Contemplation is the means whereby one can obtain this goal of understanding. Things that once seemed static and unchanging become full of possibility and perfection. The contemplative then knows that God is, but she does not know what God is. Thus, contemplation forever produces a mystified, imperfect knowledge of God. The soul is exalted beyond the rest of God's creation but it cannot see God Himself."
+    ],
+    "generated_answer": "A genuine love of God with heart, soul, and mind is a deep, spiritual, and emotional connection that arises from wisdom, understanding, and contemplation, leading to a profound knowledge of God's presence and perfection.",
+    "retrieval_k": 1,
+    "perplexity": 1.6358039379119873,
+    "mean_prob": 0.7334200739860535,
+    "min_prob": 0.022023627534508705,
+    "sds": 0.8637323379516602,
+    "hallucinated": null
+  },
+  {
+    "id": 51,
+    "question": "What shape are pyrenoids?",
+    "gold_answer": "roughly spherical",
+    "context": [
+      "It is thought that annelids were originally animals with two separate sexes, which released ova and sperm into the water via their nephridia. The fertilized eggs develop into trochophore larvae, which live as plankton. Later they sink to the sea-floor and metamorphose into miniature adults: the part of the trochophore between the apical tuft and the prototroch becomes the prostomium (head); a small area round the trochophore's anus becomes the pygidium (tail-piece); a narrow band immediately in front of that becomes the growth zone that produces new segments; and the rest of the trochophore becomes the peristomium (the segment that contains the mouth)."
+    ],
+    "generated_answer": "Pyrenoids are not mentioned in the context provided.",
+    "retrieval_k": 1,
+    "perplexity": 1.3701646327972412,
+    "mean_prob": 0.7966107726097107,
+    "min_prob": 0.18618600070476532,
+    "sds": 1.1137081384658813,
+    "hallucinated": null
+  },
+  {
+    "id": 52,
+    "question": "What continent are the Canarian Islands off the coast of?",
+    "gold_answer": "Africa",
+    "context": [
+      "The islands are located about halfway between Hawaii and Australia, north of Nauru and Kiribati, east of the Federated States of Micronesia, and south of the U.S. territory of Wake Island, to which it lays claim. The atolls and islands form two groups: the Ratak (sunrise) and the Ralik (sunset). The two island chains lie approximately parallel to one another, running northwest to southeast, comprising about 750,000 square miles (1,900,000 km2) of ocean but only about 70 square miles (180 km2) of land mass. Each includes 15 to 18 islands and atolls. The country consists of a total of 29 atolls and five isolated islands."
+    ],
+    "generated_answer": "The Canarian Islands are off the coast of Europe.",
+    "retrieval_k": 1,
+    "perplexity": 1.2331055402755737,
+    "mean_prob": 0.8482244610786438,
+    "min_prob": 0.3966580629348755,
+    "sds": 1.0449203252792358,
+    "hallucinated": null
+  },
+  {
+    "id": 53,
+    "question": "What do the auricles do?",
+    "gold_answer": "help direct microscopic prey toward the mouth",
+    "context": [
+      "Among the other phyla, the Ctenophora and the Cnidaria, which includes sea anemones, corals, and jellyfish, are radially symmetric and have digestive chambers with a single opening, which serves as both the mouth and the anus. Both have distinct tissues, but they are not organized into organs. There are only two main germ layers, the ectoderm and endoderm, with only scattered cells between them. As such, these animals are sometimes called diploblastic. The tiny placozoans are similar, but they do not have a permanent digestive chamber."
+    ],
+    "generated_answer": "Auricles are small, finger-like projections found in the hearts of some animals, such as mammals, that help to increase the heart's capacity to pump blood.",
+    "retrieval_k": 1,
+    "perplexity": 1.7033140659332275,
+    "mean_prob": 0.6884070038795471,
+    "min_prob": 0.05451597273349762,
+    "sds": 1.1846988201141357,
+    "hallucinated": null
+  },
+  {
+    "id": 54,
+    "question": "Which articles state that the member states' rights to deliver public services may not be obstructed?",
+    "gold_answer": "Articles 106 and 107",
+    "context": [
+      "Under Article IV, Section Three of the United States Constitution, which outlines the relationship among the states, Congress has the power to admit new states to the union. The states are required to give \"full faith and credit\" to the acts of each other's legislatures and courts, which is generally held to include the recognition of legal contracts, marriages, and criminal judgments. The states are guaranteed military and civil defense by the federal government, which is also obliged by Article IV, Section Four, to \"guarantee to every state in this union a republican form of government\"."
+    ],
+    "generated_answer": "The Articles that state that the member states' rights to deliver public services may not be obstructed are Article IV, Section Three, which requires states to give \"full faith and credit\" to each other's legislative and judicial acts, and Article IV, Section Four, which guarantees military and civil defense to every state.",
+    "retrieval_k": 1,
+    "perplexity": 1.2571980953216553,
+    "mean_prob": 0.8523417711257935,
+    "min_prob": 0.17076605558395386,
+    "sds": 0.7479965686798096,
+    "hallucinated": null
+  },
+  {
+    "id": 55,
+    "question": "What building was a gift from the Soviet Union?",
+    "gold_answer": "Palace of Culture and Science",
+    "context": [
+      "Fears decreased when Stalin died in 1953 and Nikita Khruschev emerged as the Soviet Union's new leader. Soon, life in Soviet Armenia began to see rapid improvement. The church, which suffered greatly under Stalin, was revived when Catholicos Vazgen I assumed the duties of his office in 1955. In 1967, a memorial to the victims of the Armenian Genocide was built at the Tsitsernakaberd hill above the Hrazdan gorge in Yerevan. This occurred after mass demonstrations took place on the tragic event's fiftieth anniversary in 1965."
+    ],
+    "generated_answer": "The memorial to the victims of the Armenian Genocide at Tsitsernakaberd hill was a gift from the Soviet Union.",
+    "retrieval_k": 1,
+    "perplexity": 1.1962682008743286,
+    "mean_prob": 0.8883047103881836,
+    "min_prob": 0.2476722002029419,
+    "sds": 0.8259771466255188,
+    "hallucinated": null
+  },
+  {
+    "id": 56,
+    "question": "For what league does ABC broadcast games on Christmas day?",
+    "gold_answer": "NBA",
+    "context": [
+      "For the 2013 season, the league's new national broadcast partner was the CBS Sports Network. CBSSN would air 19 regular season games and two playoff games. CBS would also air the ArenaBowl, marking the first time since 2008 that the league's finale aired on network television. Regular season CBSSN broadcast games are usually on Saturday nights. As the games are being shown live, the start times are not uniform as with most football broadcast packages, but vary with the time zone in which the home team is located. This means that the AFL may appear either prior to or following the CBSSN's featured Major League Lacrosse game."
+    ],
+    "generated_answer": "ABC broadcasts Major League Lacrosse games on Christmas day.",
+    "retrieval_k": 1,
+    "perplexity": 1.3328756093978882,
+    "mean_prob": 0.8295350670814514,
+    "min_prob": 0.13015183806419373,
+    "sds": 0.8889222145080566,
+    "hallucinated": null
+  },
+  {
+    "id": 57,
+    "question": "How are eggs and sperm released?",
+    "gold_answer": "via pores in the epidermis",
+    "context": [
+      "Double fertilization refers to a process in which two sperm cells fertilize cells in the ovary. This process begins when a pollen grain adheres to the stigma of the pistil (female reproductive structure), germinates, and grows a long pollen tube. While this pollen tube is growing, a haploid generative cell travels down the tube behind the tube nucleus. The generative cell divides by mitosis to produce two haploid (n) sperm cells. As the pollen tube grows, it makes its way from the stigma, down the style and into the ovary. Here the pollen tube reaches the micropyle of the ovule and digests its way into one of the synergids, releasing its contents (which include the sperm cells). The synergid that the cells were released into degenerates and one sperm makes its way to fertilize the egg cell, producing a diploid (2n) zygote. The second sperm cell fuses with both central cell nuclei, producing a triploid (3n) cell. As the zygote develops into an embryo, the triploid cell develops into the endosperm, which serves as the embryo's food supply. The ovary now will develop into fruit and the ovule will develop into seed."
+    ],
+    "generated_answer": "Eggs and sperm are released when the pollen tube digests its way into one of the synergids, releasing its contents including the sperm cells.",
+    "retrieval_k": 1,
+    "perplexity": 1.368643879890442,
+    "mean_prob": 0.8563127517700195,
+    "min_prob": 0.050371427088975906,
+    "sds": 0.7215118408203125,
+    "hallucinated": null
+  },
+  {
+    "id": 58,
+    "question": "The Ottoman empire controlled territory on three continents, Africa, Asia and which other?",
+    "gold_answer": "Europe",
+    "context": [
+      "During the 16th and 17th centuries, in particular at the height of its power under the reign of Suleiman the Magnificent, the Ottoman Empire was a multinational, multilingual empire controlling much of Southeast Europe, Western Asia, the Caucasus, North Africa, and the Horn of Africa. At the beginning of the 17th century the empire contained 32 provinces and numerous vassal states. Some of these were later absorbed into the Ottoman Empire, while others were granted various types of autonomy during the course of centuries.[dn 4]"
+    ],
+    "generated_answer": "Europe.",
+    "retrieval_k": 1,
+    "perplexity": 1.8258525133132935,
+    "mean_prob": 0.6431745290756226,
+    "min_prob": 0.3059655427932739,
+    "sds": 1.2895983457565308,
+    "hallucinated": null
+  },
+  {
+    "id": 59,
+    "question": "Which group did not agree to sign these agreements?",
+    "gold_answer": "The Swiss cities",
+    "context": [
+      "One month later, the proposed European Treaty was rejected not only by supporters of the EDC but also by western opponents of the European Defense Community (like French Gaullist leader Palewski) who perceived it as \"unacceptable in its present form because it excludes the USA from participation in the collective security system in Europe\". The Soviets then decided to make a new proposal to the governments of the USA, UK and France stating to accept the participation of the USA in the proposed General European Agreement. And considering that another argument deployed against the Soviet proposal was that it was perceived by western powers as \"directed against the North Atlantic Pact and its liquidation\", the Soviets decided to declare their \"readiness to examine jointly with other interested parties the question of the participation of the USSR in the North Atlantic bloc\", specifying that \"the admittance of the USA into the General European Agreement should not be conditional on the three western powers agreeing to the USSR joining the North Atlantic Pact\"."
+    ],
+    "generated_answer": "The supporters of the European Defense Community (EDC) did not agree to sign the proposed European Treaty.",
+    "retrieval_k": 1,
+    "perplexity": 1.2626779079437256,
+    "mean_prob": 0.8595608472824097,
+    "min_prob": 0.13768528401851654,
+    "sds": 0.8909015655517578,
+    "hallucinated": null
+  },
+  {
+    "id": 60,
+    "question": "Who was the #2 pick in the 2011 NFL Draft?",
+    "gold_answer": "Von Miller",
+    "context": [
+      "Because of the sudden loss of the New Orleans franchise, the league announced in October that the beginning of the free agency period would be delayed in order to accommodate a dispersal draft. Dates were eventually announced as December 2 for the dispersal draft and December 4 for free agency, but shortly before the draft the league issued a press release announcing the draft had been postponed one day to December 3. Shortly thereafter, another press release announced that the draft would be held on December 9 and free agency would commence on December 11. However, the draft still never took place, and instead another press release was issued stating that both the draft and free agency had been postponed indefinitely. Rumors began circulating that the league was in trouble and on the verge of folding, but owners denied those claims. It was soon revealed the players' union had agreed to cut the salary cap for the 2009 season to prevent a total cessation of operations. However, the announced Platinum Equity investment never materialized."
+    ],
+    "generated_answer": "The #2 pick in the 2011 NFL Draft was Andrew Luck, a quarterback from Stanford University.",
+    "retrieval_k": 1,
+    "perplexity": 1.1583126783370972,
+    "mean_prob": 0.8989283442497253,
+    "min_prob": 0.2913896441459656,
+    "sds": 1.2175906896591187,
+    "hallucinated": null
+  },
+  {
+    "id": 61,
+    "question": "What did John Wesley originally call the experience of conversion?",
+    "gold_answer": "New Birth",
+    "context": [
+      "Methodism identifies principally with the theology of John Wesley\u2014an Anglican priest and evangelist. This evangelical movement originated as a revival within the 18th-century Church of England and became a separate Church following Wesley's death. Because of vigorous missionary activity, the movement spread throughout the British Empire, the United States, and beyond, today claiming approximately 80 million adherents worldwide. Originally it appealed especially to workers, agricultural workers, and slaves."
+    ],
+    "generated_answer": "John Wesley originally called the experience of conversion a \"new birth\" or \"baptism of the Holy Spirit.\"",
+    "retrieval_k": 1,
+    "perplexity": 1.2683404684066772,
+    "mean_prob": 0.8362572193145752,
+    "min_prob": 0.2810439169406891,
+    "sds": 0.9892043471336365,
+    "hallucinated": null
+  },
+  {
+    "id": 62,
+    "question": "Who was this season's NFL MVP?",
+    "gold_answer": "Cam Newton",
+    "context": [
+      "The Cubs successfully defended their National League Central title in 2008, going to the postseason in consecutive years for the first time since 1906\u201308. The offseason was dominated by three months of unsuccessful trade talks with the Orioles involving 2B Brian Roberts, as well as the signing of Chunichi Dragons star Kosuke Fukudome. The team recorded their 10,000th win in April, while establishing an early division lead. Reed Johnson and Jim Edmonds were added early on and Rich Harden was acquired from the Oakland Athletics in early July. The Cubs headed into the All-Star break with the N.L.'s best record, and tied the league record with eight representatives to the All-Star game, including catcher Geovany Soto, who was named Rookie of the Year. The Cubs took control of the division by sweeping a four-game series in Milwaukee. On September 14, in a game moved to Miller Park due to Hurricane Ike, Zambrano pitched a no-hitter against the Astros, and six days later the team clinched by beating St. Louis at Wrigley. The club ended the season with a 97\u201364 record and met Los Angeles in the NLDS. The heavily favored Cubs took an early lead in Game 1, but James Loney's grand slam off Ryan Dempster changed the series' momentum. Chicago committed numerous critical errors and were outscored 20\u20136 in a Dodger sweep, which provided yet another sudden ending."
+    ],
+    "generated_answer": "The context provided does not mention an NFL MVP, as it discusses the Chicago Cubs' baseball season in 2008.",
+    "retrieval_k": 1,
+    "perplexity": 1.38628089427948,
+    "mean_prob": 0.7823113203048706,
+    "min_prob": 0.21631096303462982,
+    "sds": 1.0481117963790894,
+    "hallucinated": null
+  },
+  {
+    "id": 63,
+    "question": "For which ABC Movie of the Week film did Steven Spielberg first gain success?",
+    "gold_answer": "Duel",
+    "context": [
+      "In 1958, he became a Boy Scout and fulfilled a requirement for the photography merit badge by making a nine-minute 8 mm film entitled The Last Gunfight. Years later, Spielberg recalled to a magazine interviewer, \"My dad's still-camera was broken, so I asked the scoutmaster if I could tell a story with my father's movie camera. He said yes, and I got an idea to do a Western. I made it and got my merit badge. That was how it all started.\" At age thirteen, while living in Phoenix, Spielberg won a prize for a 40-minute war film he titled Escape to Nowhere, using a cast composed of other high school friends. That motivated him to make 15 more amateur 8mm films.:548 In 1963, at age sixteen, Spielberg wrote and directed his first independent film, a 140-minute science fiction adventure called Firelight, which would later inspire Close Encounters. The film was made for $500, most of which came from his father, and was shown in a local cinema for one evening, which earned back its cost."
+    ],
+    "generated_answer": "Steven Spielberg first gained success for his ABC Movie of the Week film titled \"Duel,\" which was based on his own 1971 short film of the same name.",
+    "retrieval_k": 1,
+    "perplexity": 1.38615882396698,
+    "mean_prob": 0.7752566933631897,
+    "min_prob": 0.2117335945367813,
+    "sds": 0.9195982813835144,
+    "hallucinated": null
+  },
+  {
+    "id": 64,
+    "question": "What was a plugs-out test done to simulate on the LC-34?",
+    "gold_answer": "launch countdown",
+    "context": [
+      "Unpopulated boards are usually bare-board tested for \"shorts\" and \"opens\". A short is a connection between two points that should not be connected. An open is a missing connection between points that should be connected. For high-volume production a fixture or a rigid needle adapter is used to make contact with copper lands on the board. Building the adapter is a significant fixed cost and is only economical for high-volume or high-value production. For small or medium volume production flying probe testers are used where test probes are moved over the board by an XY drive to make contact with the copper lands. The CAM system instructs the electrical tester to apply a voltage to each contact point as required and to check that this voltage appears on the appropriate contact points and only on these."
+    ],
+    "generated_answer": "A plugs-out test on the LC-34 simulated the absence of power supply to check for shorts and opens in unpopulated boards.",
+    "retrieval_k": 1,
+    "perplexity": 1.5791525840759277,
+    "mean_prob": 0.7510047554969788,
+    "min_prob": 0.04986650496721268,
+    "sds": 1.0036460161209106,
+    "hallucinated": null
+  },
+  {
+    "id": 65,
+    "question": "What is the term for closing off rivers that are no longer connected?",
+    "gold_answer": "dammed",
+    "context": [
+      "Today both the Papireto river and the Kemonia are covered up by buildings. However, the shape of the former watercourses can still be recognised today, because the streets that were built on them follow their shapes. Today the only waterway not drained yet is the Oreto river that divides the downtown of the city from the western uptown and the industrial districts. In the basins there were, though, many seasonal torrents that helped formed swampy plains, reclaimed during history; a good example of which can be found in the borough of Mondello."
+    ],
+    "generated_answer": "The term for closing off rivers that are no longer connected is \"channelization.\"",
+    "retrieval_k": 1,
+    "perplexity": 1.0989868640899658,
+    "mean_prob": 0.9220802783966064,
+    "min_prob": 0.5236929059028625,
+    "sds": 1.1067438125610352,
+    "hallucinated": null
+  },
+  {
+    "id": 66,
+    "question": "How many of Jacksonville's city residents are younger than 18?",
+    "gold_answer": "23.9%",
+    "context": [
+      "In the city, 24.6% of the population were under the age of 18, 10.2% from 18 to 24, 26.8% from 25 to 44, 25.8% from 45 to 64, and 12.7% who were 65 years of age or older. The median age was 36.3 years. For every 100 females there were 96.2 males. For every 100 females age 18 and over, there were 94.4 males."
+    ],
+    "generated_answer": "24.6% of Jacksonville's city residents are younger than 18.",
+    "retrieval_k": 1,
+    "perplexity": 1.1362013816833496,
+    "mean_prob": 0.942009449005127,
+    "min_prob": 0.10213544219732285,
+    "sds": 0.8909311294555664,
+    "hallucinated": null
+  },
+  {
+    "id": 67,
+    "question": "What type of ratios are used in geochronologic and thermochronologic studies?",
+    "gold_answer": "isotope ratios of radioactive elements",
+    "context": [
+      "Along with dividing up their project by theoretical emphasis, anthropologists typically divide the world up into relevant time periods and geographic regions. Human time on Earth is divided up into relevant cultural traditions based on material, such as the Paleolithic and the Neolithic, of particular use in archaeology.[citation needed] Further cultural subdivisions according to tool types, such as Olduwan or Mousterian or Levalloisian help archaeologists and other anthropologists in understanding major trends in the human past.[citation needed] Anthropologists and geographers share approaches to Culture regions as well, since mapping cultures is central to both sciences. By making comparisons across cultural traditions (time-based) and cultural regions (space-based), anthropologists have developed various kinds of comparative method, a central part of their science."
+    ],
+    "generated_answer": "Geochronologic and thermochronologic studies use ratios of parent and daughter isotopes, such as Uranium-Lead or Potassium-Argon, to determine the age of rocks and minerals.",
+    "retrieval_k": 1,
+    "perplexity": 1.3892996311187744,
+    "mean_prob": 0.8228600025177002,
+    "min_prob": 0.01982099562883377,
+    "sds": 1.0877405405044556,
+    "hallucinated": null
+  },
+  {
+    "id": 68,
+    "question": "What organization offers monetary awards for identifying primes with at least 100 million digits?",
+    "gold_answer": "The Electronic Frontier Foundation",
+    "context": [
+      "A \"grand\", sometimes shortened to simply \"G\", is a common term for the amount of $1,000. The suffix \"K\" or \"k\" (from \"kilo-\") is also commonly used to denote this amount (such as \"$10k\" to mean $10,000). However, the $1,000 note is no longer in general use. A \"large\" or \"stack\", it is usually a reference to a multiple of $1,000 (such as \"fifty large\" meaning $50,000). The $100 note is nicknamed \"Benjamin\", \"Benji\", \"Ben\", or \"Franklin\" (after Benjamin Franklin), \"C-note\" (C being the Roman numeral for 100), \"Century note\" or \"bill\" (e.g. \"two bills\" being $200). The $50 note is occasionally called a \"yardstick\" or a \"grant\" (after President Ulysses S. Grant, pictured on the obverse). The $20 note is referred to as a \"double sawbuck\", \"Jackson\" (after Andrew Jackson), or \"double eagle\". The $10 note is referred to as a \"sawbuck\", \"ten-spot\" or \"Hamilton\" (after Alexander Hamilton). The $5 note as \"Lincoln\", \"fin\", \"fiver\" or \"five-spot\". The infrequently-used $2 note is sometimes called \"deuce\", \"Tom\", or \"Jefferson\" (after Thomas Jefferson). The $1 note as a \"single\" or \"buck\". The dollar has also been, referred to as a \"bone\" and \"bones\" in plural (e.g. \"twenty bones\" is equal to $20). The newer designs, with portraits displayed in the main body of the obverse rather than in cameo insets upon paper color-coded by denomination, are sometimes referred to as \"bigface\" notes or \"Monopoly money\"."
+    ],
+    "generated_answer": "The Great Internet Mersenne Prime Search (GIMPS) offers monetary awards for identifying primes with at least 100 million digits.",
+    "retrieval_k": 1,
+    "perplexity": 1.0685778856277466,
+    "mean_prob": 0.955084502696991,
+    "min_prob": 0.2592617869377136,
+    "sds": 1.2032840251922607,
+    "hallucinated": null
+  },
+  {
+    "id": 69,
+    "question": "What is the name given to the input string of a computational problem?",
+    "gold_answer": "problem instance",
+    "context": [
+      "A computer will solve problems in exactly the way it is programmed to, without regard to efficiency, alternative solutions, possible shortcuts, or possible errors in the code. Computer programs that learn and adapt are part of the emerging field of artificial intelligence and machine learning."
+    ],
+    "generated_answer": "The name given to the input string of a computational problem is the \"input data\" or simply \"input.\"",
+    "retrieval_k": 1,
+    "perplexity": 1.283415675163269,
+    "mean_prob": 0.842212438583374,
+    "min_prob": 0.11882674694061279,
+    "sds": 1.0716396570205688,
+    "hallucinated": null
+  },
+  {
+    "id": 70,
+    "question": "What differs about secondary chloroplasts' membranes?",
+    "gold_answer": "additional membranes outside of the original two",
+    "context": [
+      "Many important biochemical reactions, such as energy generation, use concentration gradients across membranes. The general lack of internal membranes in bacteria means reactions such as electron transport occur across the cell membrane between the cytoplasm and the periplasmic space. However, in many photosynthetic bacteria the plasma membrane is highly folded and fills most of the cell with layers of light-gathering membrane. These light-gathering complexes may even form lipid-enclosed structures called chlorosomes in green sulfur bacteria. Other proteins import nutrients across the cell membrane, or expel undesired molecules from the cytoplasm."
+    ],
+    "generated_answer": "Secondary chloroplasts possess an additional outer membrane, which separates them from the primary chloroplasts' double membrane structure.",
+    "retrieval_k": 1,
+    "perplexity": 1.8074549436569214,
+    "mean_prob": 0.6979750990867615,
+    "min_prob": 0.010759132914245129,
+    "sds": 1.0017988681793213,
+    "hallucinated": null
+  },
+  {
+    "id": 71,
+    "question": "How old was Peyton Manning when he played in Super Bowl 50?",
+    "gold_answer": "39",
+    "context": [
+      "A number of BYU alumni have found success in professional sports, representing the University in 7 MLB World Series, 5 NBA Finals, and 25 NFL Super Bowls. In baseball, BYU alumni include All-Stars Rick Aguilera '83, Wally Joyner '84, and Jack Morris '76. Professional basketball players include three-time NBA champion Danny Ainge '81, 1952 NBA Rookie of the Year and 4-time NBA All-Star Mel Hutchins '51,[citation needed] three-time Olympic medalist and Hall of Famer Kre\u0161imir \u0106osi\u0107 '73, and consensus 2011 national college player of the year Jimmer Fredette '11, currently with the New York Knicks organization. BYU also claims notable professional football players including two-time NFL MVP and Super Bowl MVP and Pro Football Hall of Fame quarterback Steve Young '84 & J.D. '96, Heisman Trophy winner Ty Detmer '90, and two-time Super Bowl winner Jim McMahon. In golf, BYU alumni include two major championship winners: Johnny Miller ('69) at the 1973 U.S. Open and 1976 British Open and Mike Weir ('92) at the 2003 Masters."
+    ],
+    "generated_answer": "Peyton Manning was 39 years old when he played in Super Bowl 50.",
+    "retrieval_k": 1,
+    "perplexity": 1.049393653869629,
+    "mean_prob": 0.9585741758346558,
+    "min_prob": 0.5991866588592529,
+    "sds": 1.0654265880584717,
+    "hallucinated": null
+  },
+  {
+    "id": 72,
+    "question": "Where does the diatom endosymbiont store starch?",
+    "gold_answer": "granules in the dinophyte host's cytoplasm",
+    "context": [
+      "Endosymbiosis is any symbiotic relationship in which one symbiont lives within the tissues of the other, either within the cells or extracellularly. Examples include diverse microbiomes, rhizobia, nitrogen-fixing bacteria that live in root nodules on legume roots; actinomycete nitrogen-fixing bacteria called Frankia, which live in alder tree root nodules; single-celled algae inside reef-building corals; and bacterial endosymbionts that provide essential nutrients to about 10%\u201315% of insects."
+    ],
+    "generated_answer": "The diatom endosymbiont stores starch within the host cell.",
+    "retrieval_k": 1,
+    "perplexity": 1.5011802911758423,
+    "mean_prob": 0.7592036724090576,
+    "min_prob": 0.1373664289712906,
+    "sds": 0.9751266837120056,
+    "hallucinated": null
+  },
+  {
+    "id": 73,
+    "question": "What service did Verizon customers need to use to stream the game on their smartphones?",
+    "gold_answer": "NFL Mobile",
+    "context": [
+      "Technological developments by videoconferencing developers in the 2010s have extended the capabilities of video conferencing systems beyond the boardroom for use with hand-held mobile devices that combine the use of video, audio and on-screen drawing capabilities broadcasting in real-time over secure networks, independent of location. Mobile collaboration systems now allow multiple people in previously unreachable locations, such as workers on an off-shore oil rig, the ability to view and discuss issues with colleagues thousands of miles away. Traditional videoconferencing system manufacturers have begun providing mobile applications as well, such as those that allow for live and still image streaming."
+    ],
+    "generated_answer": "Verizon customers needed to use the Verizon Video app to stream the game on their smartphones.",
+    "retrieval_k": 1,
+    "perplexity": 1.3730292320251465,
+    "mean_prob": 0.8161821961402893,
+    "min_prob": 0.125916987657547,
+    "sds": 1.0211613178253174,
+    "hallucinated": null
+  },
+  {
+    "id": 74,
+    "question": "What publication called Doctor Who \"The Greatest UK Science Fiction Series Ever\"?",
+    "gold_answer": "SFX magazine",
+    "context": [
+      "Television transmissions resumed from Alexandra Palace in 1946. The BBC Television Service (renamed \"BBC tv\" in 1960) showed popular programming, including drama, comedies, documentaries, game shows, and soap operas, covering a wide range of genres and regularly competed with ITV to become the channel with the highest ratings for that week. The channel also introduced the science fiction show Doctor Who on 23 November 1963 - at 17:16 - which went on to become one of Britain's most iconic and beloved television programmes."
+    ],
+    "generated_answer": "The Greatest UK Science Fiction Series Ever was called Doctor Who by a publication.",
+    "retrieval_k": 1,
+    "perplexity": 2.300571918487549,
+    "mean_prob": 0.6265141367912292,
+    "min_prob": 0.017400473356246948,
+    "sds": 0.8651710152626038,
+    "hallucinated": null
+  },
+  {
+    "id": 75,
+    "question": "What offers a conceptual definition of force?",
+    "gold_answer": "Newtonian mechanics",
+    "context": [
+      "In physics, energy is a property of objects which can be transferred to other objects or converted into different forms. The \"ability of a system to perform work\" is a common description, but it is difficult to give one single comprehensive definition of energy because of its many forms. For instance, in SI units, energy is measured in joules, and one joule is defined \"mechanically\", being the energy transferred to an object by the mechanical work of moving it a distance of 1 metre against a force of 1 newton.[note 1] However, there are many other definitions of energy, depending on the context, such as thermal energy, radiant energy, electromagnetic, nuclear, etc., where definitions are derived that are the most convenient."
+    ],
+    "generated_answer": "Force is a vector quantity that causes an object to undergo a specific change in motion, typically measured in newtons (N) in the SI system.",
+    "retrieval_k": 1,
+    "perplexity": 1.7923638820648193,
+    "mean_prob": 0.6553996205329895,
+    "min_prob": 0.06133851408958435,
+    "sds": 1.0787200927734375,
+    "hallucinated": null
+  },
+  {
+    "id": 76,
+    "question": "What stretched across middle Europe in the last ice age?",
+    "gold_answer": "tundra",
+    "context": [
+      "Antarctica continued to become more isolated and finally developed a permanent ice cap. Mountain building in western North America continued, and the Alps started to rise in Europe as the African plate continued to push north into the Eurasian plate, isolating the remnants of Tethys Sea. A brief marine incursion marks the early Oligocene in Europe. There appears to have been a land bridge in the early Oligocene between North America and Europe since the faunas of the two regions are very similar. During the Oligocene, South America was finally detached from Antarctica and drifted north toward North America. It also allowed the Antarctic Circumpolar Current to flow, rapidly cooling the continent."
+    ],
+    "generated_answer": "The Alps stretched across middle Europe in the last ice age.",
+    "retrieval_k": 1,
+    "perplexity": 1.097306728363037,
+    "mean_prob": 0.9252880215644836,
+    "min_prob": 0.48424360156059265,
+    "sds": 0.9224763512611389,
+    "hallucinated": null
+  },
+  {
+    "id": 77,
+    "question": "What was huihui?",
+    "gold_answer": "Muslim medicine",
+    "context": [
+      "To the north of China proper, the nomadic Xiongnu chieftain Modu Chanyu (r. 209\u2013174 BC) conquered various tribes inhabiting the eastern portion of the Eurasian Steppe. By the end of his reign, he controlled Manchuria, Mongolia, and the Tarim Basin, subjugating over twenty states east of Samarkand. Emperor Gaozu was troubled about the abundant Han-manufactured iron weapons traded to the Xiongnu along the northern borders, and he established a trade embargo against the group. Although the embargo was in place, the Xiongnu found traders willing to supply their needs. Chinese forces also mounted surprise attacks against Xiongnu who traded at the border markets. In retaliation, the Xiongnu invaded what is now Shanxi province, where they defeated the Han forces at Baideng in 200 BC. After negotiations, the heqin agreement in 198 BC nominally held the leaders of the Xiongnu and the Han as equal partners in a royal marriage alliance, but the Han were forced to send large amounts of tribute items such as silk clothes, food, and wine to the Xiongnu."
+    ],
+    "generated_answer": "Huihui refers to the Han Chinese soldiers who were part of the Han forces that fought against the Xiongnu.",
+    "retrieval_k": 1,
+    "perplexity": 2.099154472351074,
+    "mean_prob": 0.5968382954597473,
+    "min_prob": 0.12512290477752686,
+    "sds": 0.941132128238678,
+    "hallucinated": null
+  },
+  {
+    "id": 78,
+    "question": "Approximately how many architectural drawings does the V&A hold in its collection?",
+    "gold_answer": "over 600,000",
+    "context": [
+      "In 2004, the two institutions created the Architecture Gallery (Room 128) at the V&A showing artefacts from the collections of both institutions, this was the first permanent gallery devoted to architecture in the UK. The adjacent Architecture Exhibition Space (Room 128a) is used for temporary displays related to architecture. Both spaces were designed by Gareth Hoskins Architects. At the same time the RIBA Library Drawing and Archives Collections moved from 21 Portman Place to new facilities in the Henry Cole Wing at the V&A. Under the Partnership new study rooms were opened where members of the public could view items from the RIBA and V&A architectural collections under the supervision of curatorial staff. These and the nearby education room were designed by Wright & Wright Architects."
+    ],
+    "generated_answer": "The V&A holds approximately 1.5 million architectural drawings in its collection.",
+    "retrieval_k": 1,
+    "perplexity": 1.473825454711914,
+    "mean_prob": 0.7866966724395752,
+    "min_prob": 0.09362804144620895,
+    "sds": 0.9700136184692383,
+    "hallucinated": null
+  },
+  {
+    "id": 79,
+    "question": "Who did the Panthers beat in the NFC Championship Game?",
+    "gold_answer": "Arizona Cardinals",
+    "context": [
+      "The Seahawks' CenturyLink Field has hosted NFL playoff games in 2006, 2008, 2011, 2014 and 2015. The Seahawks have advanced to the Super Bowl three times: 2005, 2013 and 2014. They defeated the Denver Broncos 43-8 to win their first Super Bowl championship in Super Bowl XLVIII, but lost 24-28 against the New England Patriots in Super Bowl XLIX. Seattle Sounders FC has played in Major League Soccer since 2009, sharing CenturyLink Field with the Seahawks, as a continuation of earlier teams in the lower divisions of American soccer. The Sounders have not won the MLS Cup but have, however, won the MLS Supporters' Shield in 2014 and the Lamar Hunt U.S. Open Cup on four occasions: 2009, 2010, 2011, and 2014."
+    ],
+    "generated_answer": "The Panthers beat the Seattle Seahawks in the NFC Championship Game.",
+    "retrieval_k": 1,
+    "perplexity": 1.2333396673202515,
+    "mean_prob": 0.8615638017654419,
+    "min_prob": 0.3004831373691559,
+    "sds": 0.9410682320594788,
+    "hallucinated": null
+  },
+  {
+    "id": 80,
+    "question": "Which town's massacre did Genghis Khan order in retribution for the treatment of his envoys?",
+    "gold_answer": "Otrar",
+    "context": [
+      "In 1207, the Mongol ruler Genghis Khan (r. 1206\u20131227) conquered and subjugated the ethnic Tangut state of the Western Xia (1038\u20131227). In the same year, he established diplomatic relations with Tibet by sending envoys there. The conquest of the Western Xia alarmed Tibetan rulers, who decided to pay tribute to the Mongols. However, when they ceased to pay tribute after Genghis Khan's death, his successor \u00d6gedei Khan (r. 1229\u20131241) launched an invasion into Tibet."
+    ],
+    "generated_answer": "Genghis Khan ordered the massacre of the town of Khotan in retribution for the mistreatment of his envoys.",
+    "retrieval_k": 1,
+    "perplexity": 1.3285380601882935,
+    "mean_prob": 0.8498019576072693,
+    "min_prob": 0.05567328631877899,
+    "sds": 1.0006047487258911,
+    "hallucinated": null
+  },
+  {
+    "id": 81,
+    "question": "What lesson did Johann von Staupitz teach Luther  repentance was?",
+    "gold_answer": "a change of heart",
+    "context": [
+      "Martin Luther, a German monk, started the German Reformation by posting 95 theses on the castle church of Wittenberg on October 31, 1517. The immediate provocation spurring this act was Pope Leo X\u2019s renewal of the indulgence for the building of the new St. Peter's Basilica in 1514. Luther was challenged to recant his heresy at the Diet of Worms in 1521. When he refused, he was placed under the ban of the Empire by Charles V. Receiving the protection of Frederick the Wise, he was then able to translate the Bible into German."
+    ],
+    "generated_answer": "Johann von Staupitz taught Luther that repentance was a personal and spiritual process, not merely a public act.",
+    "retrieval_k": 1,
+    "perplexity": 1.8817501068115234,
+    "mean_prob": 0.6271057724952698,
+    "min_prob": 0.10286170244216919,
+    "sds": 0.9754703044891357,
+    "hallucinated": null
+  },
+  {
+    "id": 82,
+    "question": "Who edited Electrical World magazine?",
+    "gold_answer": "Thomas Commerford Martin",
+    "context": [
+      "Following the success of Le Journal de Mickey (1934\u201344), dedicated comics magazines and full-colour comics albums became the primary outlet for comics in the mid-20th century. As in the US, at the time comics were seen as infantile and a threat to culture and literacy; commentators stated that \"none bear up to the slightest serious analysis\",[c] and that comics were \"the sabotage of all art and all literature\".[d]"
+    ],
+    "generated_answer": "The context provided does not mention who edited Electrical World magazine.",
+    "retrieval_k": 1,
+    "perplexity": 1.2724575996398926,
+    "mean_prob": 0.8316036462783813,
+    "min_prob": 0.33462637662887573,
+    "sds": 1.1587316989898682,
+    "hallucinated": null
+  },
+  {
+    "id": 83,
+    "question": "Where did Iroquois Confederation control?",
+    "gold_answer": "present-day Upstate New York and the Ohio Country",
+    "context": [
+      "During the war, the Seven Nations of Canada were allied with the French. These were Native Americans of the Laurentian valley\u2014the Algonquin, the Abenaki, the Huron, and others. Although the Algonquin tribes and the Seven Nations were not directly concerned with the fate of the Ohio River Valley, they had been victims of the Iroquois Confederation. The Iroquois had encroached on Algonquin territory and pushed the Algonquins west beyond Lake Michigan. Therefore, the Algonquin and the Seven Nations were interested in fighting against the Iroquois. Throughout New England, New York, and the North-west Native American tribes formed differing alliances with the major belligerents. The Iroquois, dominant in what is now Upstate New York, sided with the British but did not play a large role in the war."
+    ],
+    "generated_answer": "The Iroquois Confederation controlled the region that is now Upstate New York.",
+    "retrieval_k": 1,
+    "perplexity": 1.3131860494613647,
+    "mean_prob": 0.8574815392494202,
+    "min_prob": 0.09856894612312317,
+    "sds": 0.8111695051193237,
+    "hallucinated": null
+  },
+  {
+    "id": 84,
+    "question": "How did Luther's writings sound as he became less healthy?",
+    "gold_answer": "harsher",
+    "context": [
+      "On 31 October 1517, Martin Luther supposedly nailed his 95 theses against the selling of indulgences at the door of the All Saints', the Castle Church in Wittenberg. The theses debated and criticised the Church and the papacy, but concentrated upon the selling of indulgences and doctrinal policies about purgatory, particular judgment, and the authority of the pope. He would later write works on the Catholic devotion to Virgin Mary, the intercession of and devotion to the saints, the sacraments, mandatory clerical celibacy, monasticism, further on the authority of the pope, the ecclesiastical law, censure and excommunication, the role of secular rulers in religious matters, the relationship between Christianity and the law, good works, and the sacraments."
+    ],
+    "generated_answer": "As Luther's health declined, his writings became more focused on personal piety, the importance of faith, and the need for a direct relationship with God, rather than on theological debates.",
+    "retrieval_k": 1,
+    "perplexity": 1.8964163064956665,
+    "mean_prob": 0.6314964890480042,
+    "min_prob": 0.11257214844226837,
+    "sds": 0.9441280961036682,
+    "hallucinated": null
+  },
+  {
+    "id": 85,
+    "question": "What's the climate like in Newcastle?",
+    "gold_answer": "oceanic",
+    "context": [
+      "St. John's has a humid continental climate (K\u00f6ppen Dfb), with lower seasonal variation than normal for the latitude, which is due to Gulf Stream moderation. However, despite this maritime moderation, average January high temperatures are actually slightly colder in St. John's than it is in Kelowna, British Columbia, which is an inland city that is near the more marine air of the Pacific, demonstrating the cold nature of Eastern Canada. Mean temperatures range from \u22124.9 \u00b0C (23.2 \u00b0F) in February to 16.1 \u00b0C (61.0 \u00b0F) in August, showing somewhat of a seasonal lag in the climate. The city is also one of the areas of the country most prone to tropical cyclone activity, as it is bordered by the Atlantic Ocean to the east, where tropical storms (and sometimes hurricanes) travel from the United States. The city is one of the rainiest in Canada outside of coastal British Columbia. This is partly due to its propensity for tropical storm activity as well as moist, Atlantic air frequently blowing ashore and creating precipitation."
+    ],
+    "generated_answer": "Newcastle has a humid continental climate with moderate seasonal variation due to Gulf Stream moderation, and it experiences tropical cyclone activity and significant rainfall.",
+    "retrieval_k": 1,
+    "perplexity": 2.084324836730957,
+    "mean_prob": 0.6731282472610474,
+    "min_prob": 0.017488470301032066,
+    "sds": 0.9630610942840576,
+    "hallucinated": null
+  },
+  {
+    "id": 86,
+    "question": "What is the most feared condition that divers want to avoid?",
+    "gold_answer": "Acute oxygen toxicity",
+    "context": [
+      "Due to its very low elevation, the Marshall Islands are threatened by the potential effects of sea level rise. According to the president of Nauru, the Marshall Islands are the most endangered nation in the world due to flooding from climate change."
+    ],
+    "generated_answer": "The most feared condition that divers want to avoid is decompression sickness, also known as \"the bends.\"",
+    "retrieval_k": 1,
+    "perplexity": 1.1352537870407104,
+    "mean_prob": 0.9059908986091614,
+    "min_prob": 0.41128426790237427,
+    "sds": 1.145776629447937,
+    "hallucinated": null
+  },
+  {
+    "id": 87,
+    "question": "Other theories of the word's origin can be generally classed as what?",
+    "gold_answer": "double or triple non-French linguistic origins",
+    "context": [
+      "The term \"domestic dog\" is generally used for both of the domesticated and feral varieties. The English word dog comes from Middle English dogge, from Old English docga, a \"powerful dog breed\". The term may possibly derive from Proto-Germanic *dukk\u014dn, represented in Old English finger-docce (\"finger-muscle\"). The word also shows the familiar petname diminutive -ga also seen in frogga \"frog\", picga \"pig\", stagga \"stag\", wicga \"beetle, worm\", among others. The term dog may ultimately derive from the earliest layer of Proto-Indo-European vocabulary."
+    ],
+    "generated_answer": "Other theories of the word's origin can be generally classed as etymological speculations.",
+    "retrieval_k": 1,
+    "perplexity": 1.2466248273849487,
+    "mean_prob": 0.8653596043586731,
+    "min_prob": 0.21313495934009552,
+    "sds": 1.0524362325668335,
+    "hallucinated": null
+  },
+  {
+    "id": 88,
+    "question": "How many cities in southern California have over 200,000 residents?",
+    "gold_answer": "twelve",
+    "context": [
+      "The city had a population of 1,307,402 according to the 2010 census, distributed over a land area of 372.1 square miles (963.7 km2). The urban area of San Diego extends beyond the administrative city limits and had a total population of 2,956,746, making it the third-largest urban area in the state, after that of the Los Angeles metropolitan area and San Francisco metropolitan area. They, along with the Riverside\u2013San Bernardino, form those metropolitan areas in California larger than the San Diego metropolitan area, with a total population of 3,095,313 at the 2010 census."
+    ],
+    "generated_answer": "There are three cities in southern California with over 200,000 residents: San Diego, Los Angeles, and San Francisco.",
+    "retrieval_k": 1,
+    "perplexity": 1.1779409646987915,
+    "mean_prob": 0.8951670527458191,
+    "min_prob": 0.12490441650152206,
+    "sds": 0.8223980665206909,
+    "hallucinated": null
+  },
+  {
+    "id": 89,
+    "question": "What kind of programs can be credited for ABC's success in the late 1950s?",
+    "gold_answer": "westerns and detective series",
+    "context": [
+      "Most Paramount sound releases made prior to 1950 are owned by EMKA, Ltd./NBCUniversal Television Distribution, while Paramount (currently owned by Viacom) holds on to most of its post-1949 releases, which are distributed for television by Trifecta Entertainment & Media. Columbia's film output is owned by Sony (through Sony Pictures Television); distribution of 20th Century Fox's film library is handled for television by its 21st Century Fox subsidiary 20th Television, and the Walt Disney Studios (owned by The Walt Disney Company) has its library film output handled for television by Disney-ABC Domestic Television. Classic films released by 20th Century Fox, Paramount Pictures, Universal Studios, and Columbia Pictures are licensed individually for broadcast on Turner Classic Movies."
+    ],
+    "generated_answer": "ABC's success in the late 1950s can be credited to its innovative programming, including the popular sitcoms \"I Love Lucy\" and \"The Adventures of Ozzie and Harriet,\" as well as the groundbreaking western series \"Wagon Train.\"",
+    "retrieval_k": 1,
+    "perplexity": 1.360795497894287,
+    "mean_prob": 0.809838593006134,
+    "min_prob": 0.1007544994354248,
+    "sds": 1.2062883377075195,
+    "hallucinated": null
+  },
+  {
+    "id": 90,
+    "question": "What is the process of changing light into chemical energy?",
+    "gold_answer": "photosynthesis",
+    "context": [
+      "Sunlight is also captured by plants as chemical potential energy in photosynthesis, when carbon dioxide and water (two low-energy compounds) are converted into the high-energy compounds carbohydrates, lipids, and proteins. Plants also release oxygen during photosynthesis, which is utilized by living organisms as an electron acceptor, to release the energy of carbohydrates, lipids, and proteins. Release of the energy stored during photosynthesis as heat or light may be triggered suddenly by a spark, in a forest fire, or it may be made available more slowly for animal or human metabolism, when these molecules are ingested, and catabolism is triggered by enzyme action."
+    ],
+    "generated_answer": "The process of changing light into chemical energy is called photosynthesis.",
+    "retrieval_k": 1,
+    "perplexity": 1.033514380455017,
+    "mean_prob": 0.9693365097045898,
+    "min_prob": 0.8058698773384094,
+    "sds": 0.7705405950546265,
+    "hallucinated": null
+  },
+  {
+    "id": 91,
+    "question": "When had the plague reached Alexandria?",
+    "gold_answer": "autumn 1347",
+    "context": [
+      "A number of non-Greek etymologies have been suggested for the name, The Hittite form Apaliunas (dx-ap-pa-li-u-na-a\u0161) is attested in the Manapa-Tarhunta letter, perhaps related to Hurrian (and certainly the Etruscan) Aplu, a god of plague, in turn likely from Akkadian Aplu Enlil meaning simply \"the son of Enlil\", a title that was given to the god Nergal, who was linked to Shamash, Babylonian god of the sun. The role of Apollo as god of plague is evident in the invocation of Apollo Smintheus (\"mouse Apollo\") by Chryses, the Trojan priest of Apollo, with the purpose of sending a plague against the Greeks (the reasoning behind a god of the plague becoming a god of healing is of course apotropaic, meaning that the god responsible for bringing the plague must be appeased in order to remove the plague)."
+    ],
+    "generated_answer": "The context provided does not mention the plague reaching Alexandria.",
+    "retrieval_k": 1,
+    "perplexity": 1.3678977489471436,
+    "mean_prob": 0.7778685688972473,
+    "min_prob": 0.2976670563220978,
+    "sds": 1.0416351556777954,
+    "hallucinated": null
+  },
+  {
+    "id": 92,
+    "question": "What are alternate English spelling of Genghis?",
+    "gold_answer": "Chinghiz, Chinghis, and Chingiz",
+    "context": [
+      "According to the Rev. John Gulick: \"The inhabitants of other Asiatic nations, who have had occasion to represent the words of their several languages by Chinese characters, have as a rule used unaspirated characters for the sounds, g, d, b. The Muslims from Arabia and Persia have followed this method \u2026 The Mongols, Manchu, and Japanese also constantly select unaspirated characters to represent the sounds g, d, b, and j of their languages. These surrounding Asiatic nations, in writing Chinese words in their own alphabets, have uniformly used g, d, b, & c., to represent the unaspirated sounds.\""
+    ],
+    "generated_answer": "The alternate English spellings of \"Genghis\" are \"Jenghis\" and \"Jenghiz.\"",
+    "retrieval_k": 1,
+    "perplexity": 1.3316344022750854,
+    "mean_prob": 0.7858732342720032,
+    "min_prob": 0.309528112411499,
+    "sds": 1.1024675369262695,
+    "hallucinated": null
+  },
+  {
+    "id": 93,
+    "question": "What did the increase in skilled workers lead to?",
+    "gold_answer": "a decrease in the price of skilled labor",
+    "context": [
+      "Secondary education in the United States did not emerge until 1910, with the rise of large corporations and advancing technology in factories, which required skilled workers. In order to meet this new job demand, high schools were created, with a curriculum focused on practical job skills that would better prepare students for white collar or skilled blue collar work. This proved beneficial for both employers and employees, since the improved human capital lowered costs for the employer, while skilled employees received a higher wages."
+    ],
+    "generated_answer": "The increase in skilled workers led to the emergence of secondary education in the United States in 1910, with the creation of high schools focused on practical job skills to better prepare students for skilled work.",
+    "retrieval_k": 1,
+    "perplexity": 1.2789306640625,
+    "mean_prob": 0.8562794923782349,
+    "min_prob": 0.08198977261781693,
+    "sds": 0.48808833956718445,
+    "hallucinated": null
+  },
+  {
+    "id": 94,
+    "question": "Other than the desert city why do many locals and tourists frequent southern California?",
+    "gold_answer": "beaches",
+    "context": [
+      "Like most of southern California, the majority of San Diego's current area was originally occupied by chaparral, a plant community made up mostly of drought-resistant shrubs. The endangered Torrey pine has the bulk of its population in San Diego in a stretch of protected chaparral along the coast. The steep and varied topography and proximity to the ocean create a number of different habitats within the city limits, including tidal marsh and canyons. The chaparral and coastal sage scrub habitats in low elevations along the coast are prone to wildfire, and the rates of fire have increased in the 20th century, due primarily to fires starting near the borders of urban and wild areas."
+    ],
+    "generated_answer": "Many locals and tourists frequent southern California due to its diverse habitats, including chaparral, coastal sage scrub, tidal marsh, and canyons, as well as the presence of the endangered Torrey pine.",
+    "retrieval_k": 1,
+    "perplexity": 1.275280475616455,
+    "mean_prob": 0.8459437489509583,
+    "min_prob": 0.16035260260105133,
+    "sds": 0.6046881079673767,
+    "hallucinated": null
+  },
+  {
+    "id": 95,
+    "question": "How many miles east of Berlin is Warsaw?",
+    "gold_answer": "325",
+    "context": [
+      "Representatives of the Polish government officially took over the civilian administration of the southern part of East Prussia on 23 May 1945. Subsequently Polish expatriates from Polish lands annexed by the Soviet Union as well as Ukrainians and Lemkos from southern Poland, expelled in Operation Vistula in 1947, were settled in the southern part of East Prussia, now the Polish Warmian-Masurian Voivodeship. In 1950 the Olsztyn Voivodeship counted 689,000 inhabitants, 22.6% of them coming from areas annexed by the Soviet Union, 10% Ukrainians, and 18.5% of them pre-war inhabitants. The remaining pre-war population was treated as Germanized Poles and a policy of re-Polonization was pursued throughout the country Most of these \"Autochthones\" chose to emigrate to West Germany from the 1950s through 1970s (between 1970 and 1988 55,227 persons from Warmia and Masuria moved to Western Germany). Local toponyms were Polonised by the Polish Commission for the Determination of Place Names."
+    ],
+    "generated_answer": "Warsaw is approximately 560 miles east of Berlin.",
+    "retrieval_k": 1,
+    "perplexity": 1.5247066020965576,
+    "mean_prob": 0.7450805306434631,
+    "min_prob": 0.19255001842975616,
+    "sds": 1.0084636211395264,
+    "hallucinated": null
+  },
+  {
+    "id": 96,
+    "question": "Lots of tumor cells have fewer of what type of molecule on their surface?",
+    "gold_answer": "MHC class I molecules",
+    "context": [
+      "All animals have eukaryotic cells, surrounded by a characteristic extracellular matrix composed of collagen and elastic glycoproteins. This may be calcified to form structures like shells, bones, and spicules. During development, it forms a relatively flexible framework upon which cells can move about and be reorganized, making complex structures possible. In contrast, other multicellular organisms, like plants and fungi, have cells held in place by cell walls, and so develop by progressive growth. Also, unique to animal cells are the following intercellular junctions: tight junctions, gap junctions, and desmosomes."
+    ],
+    "generated_answer": "Tumor cells often have fewer tight junctions on their surface.",
+    "retrieval_k": 1,
+    "perplexity": 1.4289661645889282,
+    "mean_prob": 0.8001415133476257,
+    "min_prob": 0.11854147911071777,
+    "sds": 0.911699116230011,
+    "hallucinated": null
+  },
+  {
+    "id": 97,
+    "question": "What does the Islamic State lack from the international community?",
+    "gold_answer": "recognition",
+    "context": [
+      "The term Muslim world, also known as Islamic world and the Ummah (Arabic: \u0623\u0645\u0629\u200e, meaning \"nation\" or \"community\") has different meanings. In a religious sense, the Islamic Ummah refers to those who adhere to the teachings of Islam, referred to as Muslims. In a cultural sense, the Muslim Ummah refers to Islamic civilization, exclusive of non-Muslims living in that civilization. In a modern geopolitical sense, the term \"Islamic Nation\" usually refers collectively to Muslim-majority countries, states, districts, or towns."
+    ],
+    "generated_answer": "The Islamic State lacks recognition and legitimacy from the international community.",
+    "retrieval_k": 1,
+    "perplexity": 1.140099048614502,
+    "mean_prob": 0.8897518515586853,
+    "min_prob": 0.5193701386451721,
+    "sds": 1.0558671951293945,
+    "hallucinated": null
+  },
+  {
+    "id": 98,
+    "question": "When was al-Nimeiry overthrown?",
+    "gold_answer": "1985",
+    "context": [
+      "Marwan was succeeded by his son, Abd al-Malik (685\u2013705), who reconsolidated Umayyad control of the caliphate. The early reign of Abd al-Malik was marked by the revolt of Al-Mukhtar, which was based in Kufa. Al-Mukhtar hoped to elevate Muhammad ibn al-Hanafiyyah, another son of Ali, to the caliphate, although Ibn al-Hanafiyyah himself may have had no connection to the revolt. The troops of al-Mukhtar engaged in battles both with the Umayyads in 686, defeating them at the river Khazir near Mosul, and with Ibn al-Zubayr in 687, at which time the revolt of al-Mukhtar was crushed. In 691, Umayyad troops reconquered Iraq, and in 692 the same army captured Mecca. Ibn al-Zubayr was killed in the attack."
+    ],
+    "generated_answer": "Al-Nimeiry was overthrown in 1968.",
+    "retrieval_k": 1,
+    "perplexity": 1.255352258682251,
+    "mean_prob": 0.8379680514335632,
+    "min_prob": 0.29092201590538025,
+    "sds": 1.090833067893982,
+    "hallucinated": null
+  },
+  {
+    "id": 99,
+    "question": "How many divisions are required to verify the primality of the number 37?",
+    "gold_answer": "only three divisions",
+    "context": [
+      "For any prime number p, there is also the multiplicative group of integers modulo p. Its elements are the integers 1 to p \u2212 1. The group operation is multiplication modulo p. That is, the usual product is divided by p and the remainder of this division is the result of modular multiplication. For example, if p = 5, there are four group elements 1, 2, 3, 4. In this group, 4 \u00b7 4 = 1, because the usual product 16 is equivalent to 1, which divided by 5 yields a remainder of 1. for 5 divides 16 \u2212 1 = 15, denoted"
+    ],
+    "generated_answer": "To verify the primality of the number 37, only one division is required, which is to check if 37 is divisible by any prime number less than its square root (\u221a37 \u2248 6.08). Since 37 is not divisible by any prime number less than 6 (2, 3, and 5), it is confirmed as a prime number.",
+    "retrieval_k": 1,
+    "perplexity": 1.3519389629364014,
+    "mean_prob": 0.8180122375488281,
+    "min_prob": 0.06463567167520523,
+    "sds": 1.1470080614089966,
+    "hallucinated": null
+  }
+]

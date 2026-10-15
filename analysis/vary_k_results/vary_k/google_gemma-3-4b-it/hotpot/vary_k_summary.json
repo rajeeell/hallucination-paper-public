@@ -1,0 +1,16 @@
+{
+  "model": "google/gemma-3-4b-it",
+  "dataset": "hotpot",
+  "k_values": [
+    1
+  ],
+  "n_samples": 100,
+  "seed": 42,
+  "cells": [
+    {
+      "k": 1,
+      "n": 100,
+      "path": "/results/vary_k/google_gemma-3-4b-it/hotpot/vary_k_n100_k1.json"
+    }
+  ]
+}

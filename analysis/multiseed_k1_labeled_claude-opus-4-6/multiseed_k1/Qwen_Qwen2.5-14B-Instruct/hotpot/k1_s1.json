@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 0,
+    "ds_index": 5204,
+    "question": "Are Wilco Melissant and Todd Field both involved in the film industry (e.g. director, filmmaker, actor)?",
+    "gold_answer": "yes",
+    "context": [
+      "William Todd Field (born February 24, 1964) is an American actor and three-time Academy Award nominated filmmaker."
+    ],
+    "generated_answer": "Yes, Todd Field is involved in the film industry as a three-time Academy Award nominated filmmaker and actor, but there is no information provided about Wilco Melissant's involvement in the film industry.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.376254677772522,
+    "mean_prob": 0.8698511123657227,
+    "min_prob": 0.047277580946683884,
+    "sds": 0.7750118374824524,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 1,
+    "ds_index": 2090,
+    "question": "What was the real name of the author of the book \"Coraline\" has been compared to?",
+    "gold_answer": "Charles Lutwidge Dodgson",
+    "context": [
+      "Coraline is a dark fantasy children's novella by British author Neil Gaiman, published in 2002 by Bloomsbury and Harper Collins.  It was awarded the 2003 Hugo Award for Best Novella, the 2003 Nebula Award for Best Novella, and the 2002 Bram Stoker Award for Best Work for Young Readers.  It has been compared to Lewis Carroll's \"Alice's Adventures in Wonderland\" and was adapted into a 2009 stop-motion film directed by Henry Selick."
+    ],
+    "generated_answer": "The author of \"Coraline\" has been compared to Lewis Carroll, whose real name was Charles Lutwidge Dodgson.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3218969106674194,
+    "mean_prob": 0.9089332222938538,
+    "min_prob": 0.006179703865200281,
+    "sds": 0.8356116414070129,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 2,
+    "ds_index": 6524,
+    "question": " Curious is a women's fragrance by a singer born in what city and state?",
+    "gold_answer": "McComb, Mississippi",
+    "context": [
+      "Mimi Gross (born 1940) is a New York City born American artist."
+    ],
+    "generated_answer": "The given context does not provide information about a singer or the fragrance \"Curious.\" It only mentions Mimi Gross, an artist born in New York City. Therefore, the question cannot be answered based on the provided context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.304276704788208,
+    "mean_prob": 0.8463917970657349,
+    "min_prob": 0.06792546063661575,
+    "sds": 0.8053332567214966,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 3,
+    "ds_index": 4796,
+    "question": "Which of the starting pitchers for Team USA in the Baseball at the 2000 Summer Olympics was not born August 29, 1977?",
+    "gold_answer": "Ben Sheets",
+    "context": [
+      "Baseball at the 2000 Summer Olympics was the third time an Olympic baseball tournament had been held as a full medal sport, and the ninth time it had been part of the Summer Olympic Games in any capacity.  It was held in Sydney, Australia from 17 September through to the bronze and gold medal games on 27 September.  Two venues were used for the Games: the Sydney Baseball Stadium and Blacktown Olympic Park.  For the first time in Olympic competition, professional baseball players were eligible to participate, though no active players from Major League Baseball were available.  Team USA, however, included Pat Borders, who had won World Series MVP with the Toronto Blue Jays in 1992, starting pitchers Roy Oswalt and Ben Sheets, who became MLB aces with the Houston Astros and Milwaukee Brewers respectively, and first baseman Doug Mientkiewicz, who won a World Series in 2004 with the Boston Red Sox.  Last but not least, their manager was Tommy Lasorda, the Los Angeles Dodgers legend who had managed the Dodgers to two World Series in 1981 and 1988."
+    ],
+    "generated_answer": "Ben Sheets was not born on August 29, 1977; Roy Oswalt was born on September 30, 1975.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4876177310943604,
+    "mean_prob": 0.9302703142166138,
+    "min_prob": 0.0001233727380167693,
+    "sds": 1.2237900495529175,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 4,
+    "ds_index": 6718,
+    "question": "Oak Beach, New York and Great South Bay are both situated between what same island?",
+    "gold_answer": "Long Island",
+    "context": [
+      "Oak Beach is a small community located on the eastern end of Jones Beach Island, a barrier island between the Atlantic Ocean and the Great South Bay of Long Island.  The community is part of the town of Babylon in Suffolk County, New York, United States.  The eastern part, the Oak Island Beach Association, is gated, whereas the western part is not.  It is part of the Oak Beach\u2013Captree census-designated place."
+    ],
+    "generated_answer": "Oak Beach, New York, and the Great South Bay are both situated between the Atlantic Ocean and Jones Beach Island.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4356799125671387,
+    "mean_prob": 0.8201332688331604,
+    "min_prob": 0.12266694754362106,
+    "sds": 0.7822105884552002,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 5,
+    "ds_index": 1155,
+    "question": "Are Leopold Lummerstorfer and Valeria Sarmiento both authors?",
+    "gold_answer": "no",
+    "context": [
+      "Leopold Lummerstorfer (born 1968 in Gramastetten, Austria) is an Austrian film director, author and producer.  He resides in Vienna and near Kapuv\u00e1r."
+    ],
+    "generated_answer": "Based solely on the provided context, Leopold Lummerstorfer is identified as an author, but there is no information given about Valeria Sarmiento's profession or whether she is also an author.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.347363829612732,
+    "mean_prob": 0.8567267656326294,
+    "min_prob": 0.02757185325026512,
+    "sds": 0.8524399399757385,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 6,
+    "ds_index": 2567,
+    "question": "Pashto is the main language among a diaspora that has it's largest community in which country ?",
+    "gold_answer": "Pakistan",
+    "context": [
+      "Pashto ( , , Pashto: \u067e\u069a\u062a\u0648\u200e \"Pax\u030ct\u014d\" ] ), sometimes spelled Pushtu or Pushto, is the South-Central Asian language of the Pashtuns.  It is known in Persian literature as Afgh\u0101ni (\u0627\u0641\u063a\u0627\u0646\u06cc ) and in Urdu and Hindi literature as Pa\u1e6dh\u0101n\u012b.  Speakers of the language are called Pashtuns or Pukhtuns and sometimes Afghans or Pathans.  It is an Eastern Iranian language, belonging to the Indo-European family.  Pashto is one of the two official languages of Afghanistan, and it is the second-largest regional language of Pakistan, mainly spoken in the west and northwest of the country.  Pakistan's Federally Administered Tribal Areas (FATA) are almost 100% Pashto-speaking, while it is the majority language of the province of Khyber Pakhtunkhwa and the northern districts of Balochistan.  Pashto is the main language among the Pashtun diaspora around the world.  The total number of Pashto-speakers is estimated to be 45\u201360 million people worldwide."
+    ],
+    "generated_answer": "The largest Pashtun diaspora community is in Pakistan.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 2.4848098754882812,
+    "mean_prob": 0.7895905375480652,
+    "min_prob": 0.00013588005094788969,
+    "sds": 0.8500487804412842,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 7,
+    "ds_index": 3553,
+    "question": "What do the Church of St. Mary of the Spring and Hagia Irene have in common?",
+    "gold_answer": "Greek Eastern Orthodox church",
+    "context": [
+      "St Mary and St Nicolas is the ancient parish church of Spalding, Lincolnshire.  It is a Grade I listed building."
+    ],
+    "generated_answer": "The provided context does not give enough information to determine what the Church of St. Mary of the Spring and Hagia Irene have in common. More details about both churches would be needed to answer this question accurately.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5497053861618042,
+    "mean_prob": 0.8561978936195374,
+    "min_prob": 1.2583199350046925e-05,
+    "sds": 1.0130521059036255,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 8,
+    "ds_index": 1520,
+    "question": "Vestfold and Telemark each border what other Norwegian county?",
+    "gold_answer": "Buskerud",
+    "context": [
+      "Vestfold ] is a county in Norway, bordering Buskerud and Telemark.  The county administration is in T\u00f8nsberg, and the largest city is Sandefjord.  With the exception of Oslo county, Vestfold is the smallest county in Norway by area."
+    ],
+    "generated_answer": "Vestfold borders Buskerud and Telemark, so Telemark also borders Vestfold. Additionally, Telemark borders Vestfold and likely other counties as well, but based on the given context, Buskerud is the directly specified bordering county for both Telemark (by implication) and Vestfold.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.7164894342422485,
+    "mean_prob": 0.753666341304779,
+    "min_prob": 0.013896699994802475,
+    "sds": 0.836042046546936,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 9,
+    "ds_index": 4360,
+    "question": "Who was the lead french actor who starred in the 1986 film that inspired a Stella Artois ad campaign?",
+    "gold_answer": "G\u00e9rard Depardieu",
+    "context": [
+      "Reassuringly Expensive was the Stella Artois' advertising slogan in the United Kingdom from 1982 until 2007.  The 1990s UK television advertising campaigns became known for their distinctive style of imitating European cinema and their leitmotif taken from the score of \"Jean de Florette\", inspired, in turn, by Giuseppe Verdi's \"La forza del destino\".  The TV campaigns began in 1991 with a series of adverts based on \"Jean de Florette\", directed by the British duo Anthea Benton and Vaughan Arnell, moving on to other genres including war movies, silent comedy and even surrealism (for which the slogan was changed to \"Reassuringly Elephants\").  They have used notable movie directors such as Jonathan Glazer, and their aim was to portray the drink in a context of sophisticated European culture."
+    ],
+    "generated_answer": "The lead French actor who starred in the 1986 film \"Jean de Florette,\" which inspired a Stella Artois ad campaign, was G\u00e9rard Depardieu.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2356425523757935,
+    "mean_prob": 0.9201399087905884,
+    "min_prob": 0.004204943310469389,
+    "sds": 0.8350302577018738,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 10,
+    "ds_index": 2103,
+    "question": "Who is the son of the author of the short story \"The Enormous Radio.\"",
+    "gold_answer": "Benjamin Hale Cheever",
+    "context": [
+      "\"The Enormous Radio\" is a short story written by American author John Cheever in 1947.  It first appeared in the May 17, 1947 issue of \"The New Yorker\" and was later collected in \"The Enormous Radio and Other Stories\".  The story describes a strange new radio that allows its owners to listen in on conversations of other tenants in their apartment building."
+    ],
+    "generated_answer": "The question cannot be answered directly from the given context as no information about the author's son is provided. The context only mentions John Cheever as the author of \"The Enormous Radio.\"",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4223308563232422,
+    "mean_prob": 0.7929157018661499,
+    "min_prob": 0.08286885172128677,
+    "sds": 0.7644005417823792,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 11,
+    "ds_index": 6133,
+    "question": "Wiener Werkst\u00e4tte Style was part of the movement that took place during what eras?",
+    "gold_answer": "late 19th and early 20th centuries",
+    "context": [
+      "Established in 1903, by Koloman Moser and Josef Hoffmann the Wiener Werkst\u00e4tte (engl.: \"Vienna's Workshops\") was a production community of visual artists in Vienna, Austria bringing together architects, artists and designers, working within the fields of ceramics, fashion, silver, furniture, and the graphic arts."
+    ],
+    "generated_answer": "The Wiener Werkst\u00e4tte style was part of the Art Nouveau and later the Modernist movements, which took place primarily from the late 19th to the early 20th century.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2313560247421265,
+    "mean_prob": 0.8932488560676575,
+    "min_prob": 0.03379619121551514,
+    "sds": 0.8342329263687134,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 12,
+    "ds_index": 5562,
+    "question": "In what year was the son of Max Weinreich born?",
+    "gold_answer": "1926",
+    "context": [
+      "Max Weinreich (22 April 1894 in Kuld\u012bga, Russian Empire, now Latvia \u2013 29 January 1969 in New York City, United States) was a Russian Jewish linguist, specializing in sociolinguistics and Yiddish, and the father of the linguist Uriel Weinreich, who edited the \"Modern Yiddish-English English-Yiddish Dictionary\"."
+    ],
+    "generated_answer": "Uriel Weinreich, the son of Max Weinreich, was born in 1926.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.200690507888794,
+    "mean_prob": 0.9335240125656128,
+    "min_prob": 0.034823235124349594,
+    "sds": 0.7185505032539368,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 13,
+    "ds_index": 3327,
+    "question": "Are Super High Me and All in This Tea both documentaries?",
+    "gold_answer": "yes",
+    "context": [
+      "All in This Tea is a 2007 documentary film co-directed by Les Blank and Gina Leibrecht, about Chinese tea.  It follows the American tea connoisseur David Lee Hoffman as he travels to remote tea-growing areas of China.  Hoffman attempts to interest Chinese tea growers and distributors in fair trade issues, and explores the importance of terroir and organic growing methods in both the quality and future sustainability of the Chinese tea market."
+    ],
+    "generated_answer": "Yes, All in This Tea is a documentary, but the context does not provide information about Super High Me, so that cannot be confirmed from the given text. However, it is known independently that Super High Me is also a documentary.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.8494367599487305,
+    "mean_prob": 0.760764479637146,
+    "min_prob": 0.008107448928058147,
+    "sds": 1.0030027627944946,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 14,
+    "ds_index": 5769,
+    "question": "What did the screewriter for a 2013 psychological thriller film directed by Denis Villeneuve get a Goya Award nomination for Best Adapted Screenplay at the 27th Goya Awards for? ",
+    "gold_answer": "\"Invader (Invasor)\"",
+    "context": [
+      "Javier Gull\u00f3n is a Spanish screenwriter.  He garnered a Canadian Screen Award nomination for Best Adapted Screenplay at the 2nd Canadian Screen Awards for \"Enemy\", and a Goya Award nomination for Best Adapted Screenplay at the 27th Goya Awards for \"Invader (Invasor)\"."
+    ],
+    "generated_answer": "The screenwriter Javier Gull\u00f3n got a Goya Award nomination for Best Adapted Screenplay at the 27th Goya Awards for \"Invader (Invasor)\", not for the 2013 psychological thriller film directed by Denis Villeneuve. However, it's noted that he was nominated for a Canadian Screen Award for Best Adapted Screenplay for the 2013 film \"Enemy\" directed by Denis Villeneuve.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.174057126045227,
+    "mean_prob": 0.9120209217071533,
+    "min_prob": 0.07746855169534683,
+    "sds": 0.5454350709915161,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 15,
+    "ds_index": 4926,
+    "question": "What was the original name of the female singing group that recorded \"The Happening\"?",
+    "gold_answer": "The Primettes",
+    "context": [
+      "The Happenings are a pop music group that originated in the 1960s.  Members of the original group, created in the spring of 1961 and initially called \"The Four Grads\" because all had just graduated from high school in Paterson, New Jersey, were Bob Miranda, David Libert, Tom Giuliano, and Ralph DiVito.  In 1968 DiVito was replaced by Bernie LaPorta and Lenny Conforti also joined to play drums in the touring band.  Both LaPorta and Conforti took a hiatus from the northern New Jersey band, The Emerald Experience, to play and tour with The Happenings.  That lineup performed mostly at colleges and universities until 1970, when Libert left the band to manage other groups, including George Clinton and Parliament-Funkadelic, Living Colour, Brian Auger, Vanilla Fudge, The Runaways (Cherie Currie, Joan Jett, Lita Ford), Mother's Finest, Alice Cooper and Evelyn \"Champagne\" King."
+    ],
+    "generated_answer": "There seems to be a misunderstanding in the question. Based on the provided context, \"The Happenings\" was not originally a female singing group; it was a pop music group consisting of male members who started under the name \"The Four Grads.\" The context does not mention any female singing group that recorded \"The Happening.\"",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3179014921188354,
+    "mean_prob": 0.8252317905426025,
+    "min_prob": 0.17009741067886353,
+    "sds": 0.7362850308418274,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 16,
+    "ds_index": 517,
+    "question": "Which avant-garde Japanese composer studied with John Cage and wrote Music for Electric Metronomes?",
+    "gold_answer": "Toshi Ichiyanagi",
+    "context": [
+      "John Milton Cage Jr. (September 5, 1912 \u2013 August 12, 1992) was an American composer, music theorist, writer, philosopher, and artist.  A pioneer of indeterminacy in music, electroacoustic music, and non-standard use of musical instruments, Cage was one of the leading figures of the post-war avant-garde.  Critics have lauded him as one of the most influential composers of the 20th century.  He was also instrumental in the development of modern dance, mostly through his association with choreographer Merce Cunningham, who was also Cage's romantic partner for most of their lives."
+    ],
+    "generated_answer": "Takashi Yoshimatsu is the avant-garde Japanese composer who studied with John Cage and wrote \"Music for Electric Metronomes,\" though it's more commonly known that Cage himself composed a piece titled \"Music for Electric Metronomes.\" If the question refers to a student of Cage's who created such a work, further clarification or verification would be needed, as the direct answer based on common knowledge points to Cage rather than Yoshimatsu specifically for this piece. However, Yoshimatsu did",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.8412795066833496,
+    "mean_prob": 0.6992404460906982,
+    "min_prob": 0.007745334878563881,
+    "sds": 0.9319470524787903,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 17,
+    "ds_index": 6744,
+    "question": "Who is the player that is Dutch who was the head of the Arsenal Football Club?",
+    "gold_answer": "Andries Jonker",
+    "context": [
+      "Edwin van der Sar OON (] ) (born 29 October 1970) is a Dutch former professional footballer who played as a goalkeeper.  During his career he played for Ajax, Juventus, Fulham and Manchester United.  He is the second most capped player in the Netherlands national team's history.  He currently works as the chief executive officer at Ajax.  He came out of retirement to play for Dutch amateur team VV Noordwijk."
+    ],
+    "generated_answer": "The given context does not mention anyone being the head of Arsenal Football Club. Edwin van der Sar, who is Dutch, is mentioned as working as the chief executive officer at Ajax, not Arsenal.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.367305874824524,
+    "mean_prob": 0.82964688539505,
+    "min_prob": 0.05284911021590233,
+    "sds": 0.7871091365814209,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 18,
+    "ds_index": 5529,
+    "question": "Alex Jesaulenko, former Australian rules footballer and coach won the award The Goal of the Year. In what year did he win that award?",
+    "gold_answer": "2001",
+    "context": [
+      "The Goal of the Year is a competition for the best goals kicked in the VFL/AFL during that season.  It is run in conjunction with the Mark of the Year competition and is currently sponsored by Coates Hire.  The award is also known as the Phil Manassa Medal.  The concept is thought to have been initiated as an unofficial award in 1970 by media interests after Alex Jesaulenko's famous mark.  The official award was first given in 2001."
+    ],
+    "generated_answer": "Alex Jesaulenko did not win the The Goal of the Year award as it was not an official award in 1970; however, his famous mark that year is credited with inspiring the concept of such an award. The official award started in 2001.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.6267168521881104,
+    "mean_prob": 0.7912917733192444,
+    "min_prob": 0.0013799871085211635,
+    "sds": 0.8268532156944275,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 19,
+    "ds_index": 4998,
+    "question": "When was the city George Consider Hale was born in founded?",
+    "gold_answer": "in the 1830s",
+    "context": [
+      "Stephen Hale (birth date unknown) is a charity worker."
+    ],
+    "generated_answer": "The context provided does not contain any information about George Consider Hale or the founding of the city he was born in. The given context is about Stephen Hale, a charity worker, and does not include his birth date or any other details that could help answer the question about George Consider Hale.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4286062717437744,
+    "mean_prob": 0.7875298857688904,
+    "min_prob": 0.05491384491324425,
+    "sds": 0.8446313142776489,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 20,
+    "ds_index": 1282,
+    "question": "What production company was founded by George Balanchine to create a live stage version of the 1942 film Casablanca?",
+    "gold_answer": "The Los Angeles Dance Theater",
+    "context": [
+      "The Los Angeles Dance Theater is a dance-oriented production company founded in 2003 by George Balanchine protege John Clifford.  The company was requested by Warner Bros.  Theatre Ventures, Inc., the live theatre division of Warner Bros.  Studios.  The company was founded for the purpose of creating a live-stage dance version of the film \"Casablanca\". \" \"Casablanca, The Dance\"\" premiered in Beijing, China on the 5th of April, 2005 at the 10,000 seat \"Great Hall of the People\" to sold-out audiences and standing ovations.  A projected world tour was cancelled when Warner Bros. ceased live theatre operations after the failure of their first Broadway musical, \"Lestat\".  Later, Warner Bros. restarted producing musicals, fueling rumors about the revival of the \"Casablanca, The Dance,\" world tour."
+    ],
+    "generated_answer": "The Los Angeles Dance Theater, founded by John Clifford (a protege of George Balanchine), was the production company established to create a live-stage dance version of the film \"Casablanca.\"",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4135912656784058,
+    "mean_prob": 0.8763275146484375,
+    "min_prob": 0.0006364992004819214,
+    "sds": 0.5932891368865967,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 21,
+    "ds_index": 718,
+    "question": "Albanians in Montenegro which make up 4.91 of the county's total population could be members of the Albanian Coalation Perspect which is a what? ",
+    "gold_answer": "Albanian political party in Montenegro",
+    "context": [
+      "Albanians (Albanian: \"Shqiptar\u00ebt\" ) are a nation and ethnic group, native to Albania, Kosovo and other countries who share a common culture, ancestry and speak the Albanian language as a native tongue.  Legally, the term is used to refer to the citizens of the Republic of Albania.  Ethnic Albanians speak the Albanian language and more than half of ethnic Albanians live in Albania and Kosovo.  A large Albanian population lives in Greece, Italy, the Republic of Macedonia, with smaller Albanian populations located in Serbia and Montenegro."
+    ],
+    "generated_answer": "Albanians in Montenegro, including those who might be members of the Albanian Coalition Perspekt, could be part of a political organization that advocates for the rights and interests of the Albanian community in the country.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.593913197517395,
+    "mean_prob": 0.8137166500091553,
+    "min_prob": 0.002831872785463929,
+    "sds": 0.810370683670044,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 22,
+    "ds_index": 7152,
+    "question": "The author of the young adult novel Running Before Wind was the first woman to write the screenplay for which Disney animated feature?",
+    "gold_answer": "Beauty and the Beast",
+    "context": [
+      "Running Before the Wind is a young adult novel by American writer Linda Woolverton, published in 1987 by Houghton Mifflin Harcourt."
+    ],
+    "generated_answer": "Linda Woolverton, the author of \"Running Before the Wind,\" was the first woman to write the screenplay for the Disney animated feature \"Beauty and the Beast.\"",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3013731241226196,
+    "mean_prob": 0.9175890684127808,
+    "min_prob": 0.005220124498009682,
+    "sds": 0.8741627931594849,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 23,
+    "ds_index": 874,
+    "question": "The birthplace of George McCall Theal is a port city of what bay?",
+    "gold_answer": "Bay of Fundy",
+    "context": [
+      "Phillip McCallen (born Portadown, Armagh) is a Northern Ireland born former motorcycle racer, now turned to dealer in his retirement from road racing."
+    ],
+    "generated_answer": "The provided context does not contain any information about George McCall Theal or his birthplace. Therefore, it's not possible to answer the question based on the given information.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.24299955368042,
+    "mean_prob": 0.8579204678535461,
+    "min_prob": 0.22743341326713562,
+    "sds": 0.987452507019043,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 24,
+    "ds_index": 3407,
+    "question": "An American football quarterback for the Chicago Bears was a star of a game released when?",
+    "gold_answer": "July 14, 2009",
+    "context": [
+      "The 1999 Chicago Bears season was their 80th regular season completed in the National Football League (NFL).  On January 24, Dick Jauron was named head coach.  The club posted a 6\u201310 record under Jauron, who replaced Dave Wannstedt."
+    ],
+    "generated_answer": "The context provided does not contain information about an American football quarterback for the Chicago Bears being a star of a video game or any game release date. Therefore, the question cannot be answered based solely on the given context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.402074933052063,
+    "mean_prob": 0.8014490008354187,
+    "min_prob": 0.05215810239315033,
+    "sds": 0.9653562307357788,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 25,
+    "ds_index": 368,
+    "question": "Haruki Murakami said that writing \"Dance Dance Dance\" had been a healing act after his unexpected fame following the publication of a novel published in which year ?",
+    "gold_answer": "1987",
+    "context": [
+      "Dance Dance Dance (\u30c0\u30f3\u30b9\u30fb\u30c0\u30f3\u30b9\u30fb\u30c0\u30f3\u30b9 , Dansu Dansu Dansu ) is the sixth novel by Japanese writer Haruki Murakami.  First published in 1988, it was translated into English by Alfred Birnbaum in 1994.  The book is a sequel to Murakami's novel \"A Wild Sheep Chase\".  In 2001, Murakami said that writing \"Dance Dance Dance\" had been a healing act after his unexpected fame following the publication of \"Norwegian Wood\" and that, because of this, he had enjoyed writing \"Dance\" more than any other."
+    ],
+    "generated_answer": "Haruki Murakami said that writing \"Dance Dance Dance\" had been a healing act after his unexpected fame following the publication of \"Norwegian Wood,\" which was published in 1987.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.0923957824707031,
+    "mean_prob": 0.9756041765213013,
+    "min_prob": 0.02571360021829605,
+    "sds": 0.6583541631698608,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 26,
+    "ds_index": 6429,
+    "question": "What year did The Chronicle of Philanthropy's publishing overlap with Antic?",
+    "gold_answer": "1988",
+    "context": [
+      "Philanthropy is a quarterly magazine published by the Philanthropy Roundtable.  First published as a newsletter in 1987, \"Philanthropy\" became a glossy magazine in 1996.  The magazine's primary focus is philanthropy, with a special interest in donor intent and philanthropic freedom.  The magazine is headquartered in Washington, D.C."
+    ],
+    "generated_answer": "The given context does not provide information about The Chronicle of Philanthropy or Antic, nor does it mention any overlapping publication periods. Therefore, the question cannot be answered based on the provided information.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4366925954818726,
+    "mean_prob": 0.808368980884552,
+    "min_prob": 0.054151616990566254,
+    "sds": 0.9131869673728943,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 27,
+    "ds_index": 925,
+    "question": "Which genus has more species, Bactris and Epigaea?",
+    "gold_answer": "Bactris",
+    "context": [
+      "Pediocactus (Greek: \u03c0\u03b5\u03b4\u03af\u03bf\u03bd (pedion) means \"plain\", \"flat\", \"field\") is a genus of cacti.  The genus comprises between 6 and 11 species, depending upon the authority.  Species of this genus are referred to as hedgehog cacti, though that name is also applied to plants from the genera \"Echinocereus\" and \"Echinopsis\".  Species may also be referred to as pincushion cacti, a common name which is also applied to other genera."
+    ],
+    "generated_answer": "The given context does not provide information about the number of species in the genera Bactris and Epigaea. Therefore, an answer cannot be determined from the provided text.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5507769584655762,
+    "mean_prob": 0.8143324255943298,
+    "min_prob": 0.0073861475102603436,
+    "sds": 0.9649765491485596,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 28,
+    "ds_index": 5968,
+    "question": "Crestfallen's artwork is done by a photographer of which nationality?",
+    "gold_answer": "Ukrainian",
+    "context": [
+      "Shrovetide Revellers is a painting by the Dutch Golden Age painter Frans Hals, painted in 1615 and now in the Metropolitan Museum of Art, New York City.  The painting shows people enjoying festivities at Shrovetide (Dutch: \"Carnaval\")."
+    ],
+    "generated_answer": "The context does not provide information about an artwork named \"Crestfallen\" or its creator's nationality. Therefore, the given answer cannot be derived from the provided context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.8640199899673462,
+    "mean_prob": 0.7250348329544067,
+    "min_prob": 0.005212737247347832,
+    "sds": 1.0352764129638672,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 29,
+    "ds_index": 2229,
+    "question": "\"Look At Us Now\" is a song by American DJs based in which city ?",
+    "gold_answer": "Los Angeles",
+    "context": [
+      "\"Look at Us\" is a song co-written and recorded by American country music artist Craig Morgan.  It was released in May 2004 as the fourth single from the album \"I Love It\".  The song reached #27 on the \"Billboard\" Hot Country Singles & Tracks chart.  The song was written by Morgan, Larry Bastian and Buddy Cannon."
+    ],
+    "generated_answer": "The question contains incorrect information based on the provided context. \"Look at Us\" is a country music song by Craig Morgan, not an electronic dance song by DJs. The context does not mention any city associated with the song's creators.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.432922601699829,
+    "mean_prob": 0.7827264666557312,
+    "min_prob": 0.06359144300222397,
+    "sds": 0.6763516664505005,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 30,
+    "ds_index": 2897,
+    "question": "Which bay in the Irish Sea is located Wales's first offshore wind farm?",
+    "gold_answer": "Liverpool Bay",
+    "context": [
+      "Walney Wind Farm is an offshore wind farm 14\u00a0km west of Walney Island off the coast of Cumbria, in the Irish Sea, England.  It has a capacity of 367\u00a0MW, which makes it one of the world's largest offshore wind farms.  The wind farm was developed by Walney (UK) Offshore Windfarms Limited, a partnership between DONG Energy and Scottish and Southern Energy.  The farm is immediately north west of the West of Duddon Sands Wind Farm and also to the west of Ormonde Wind Farm.  The farm is in water depths ranging from 19m to 23m and covers an area of approximately 73\u00a0km."
+    ],
+    "generated_answer": "The context provided does not contain information about Wales's first offshore wind farm or any specific bay in the Irish Sea where it is located. It only discusses the Walney Wind Farm off the coast of Cumbria, England.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2639495134353638,
+    "mean_prob": 0.8675578832626343,
+    "min_prob": 0.0754052922129631,
+    "sds": 0.6864879131317139,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 31,
+    "ds_index": 3906,
+    "question": "What title did the Queen of the United Kingdom of Great Britain and Ireland give to Jeremiah Meyer?",
+    "gold_answer": "Painter in Miniatures",
+    "context": [
+      "Charles I (19 November 1600 \u2013 30 January 1649 ) was monarch of the three kingdoms of England, Scotland, and Ireland from 27 March 1625 until his execution in 1649."
+    ],
+    "generated_answer": "The given context does not provide any information about Jeremiah Meyer or any titles given by the Queen of the United Kingdom of Great Britain and Ireland to him. Therefore, the question cannot be answered based on the provided context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2273316383361816,
+    "mean_prob": 0.869236409664154,
+    "min_prob": 0.08860106021165848,
+    "sds": 1.0674188137054443,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 32,
+    "ds_index": 5892,
+    "question": "Who directed the film that Mads Mikkelsen won the award for Best Actor for his performance in at the 58th Bodil Awards?",
+    "gold_answer": "Nicolas Winding Refn",
+    "context": [
+      "The 55th Bodil Awards  were held on 3 March 2002 in the Imperial Cinema in Copenhagen, Denmark, honouring the best national and foreign films of 2001.  S\u00f8ren \u00d8stergaard and Louise Mieritz hosted the event which was broadcast live on DR2.  Ole Christian Madsen's \"\" won the awards for Best Film and Best Actress in a Leading Role (Stine Stengade).  Jens Oking and Susanne Juhasz, both from \"One-Hand Clapping\", won the awards for Best Leading Actor and Best Supporting Actress respectively, and Tommy Kenter in \"Fukssvansen\" received the Best Supporting Actor award. \"\"  was named Best American Film and Swedish \"Songs from the Second Floor\" Best Non-American Film."
+    ],
+    "generated_answer": "The given context does not provide information about Mads Mikkelsen winning an award for Best Actor at the 58th Bodil Awards or any other specific film he acted in. The provided information is about the 55th Bodil Awards. Therefore, I cannot answer the question based on the given context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4318097829818726,
+    "mean_prob": 0.7976014614105225,
+    "min_prob": 0.051010068506002426,
+    "sds": 0.9482619762420654,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 33,
+    "ds_index": 4807,
+    "question": "Which \"The Chronicles of Narnia\" character is prominently featured in \"The Lion, the Witch and the Wardrobe\" and is a close friend with Lucy Pevensie whom she meets in the Lantern Waste.",
+    "gold_answer": "Mr. Tumnus",
+    "context": [
+      "Lucy Pevensie is a fictional character in C. S. Lewis's \"The Chronicles of Narnia\" series.  She is the youngest of the four Pevensie children, and the first to find the Wardrobe entrance to Narnia in \"The Lion, the Witch and the Wardrobe\".  Of all the Pevensie children, Lucy is the closest to Aslan.  Also, of all the humans who have visited Narnia, Lucy is perhaps the one that believes in Narnia the most.  She is ultimately crowned Queen Lucy the Valiant, co-ruler of Narnia along with her two brothers and her sister.  Lucy is the central character of the four siblings in the novels.  Lucy is a principal character in three of the seven books (\"The Lion, the Witch and the Wardrobe\", \"Prince Caspian\", and \"The Voyage of the Dawn Treader\"), and a minor character in two others (\"The Horse and His Boy\" and \"The Last Battle\")."
+    ],
+    "generated_answer": "In \"The Lion, the Witch and the Wardrobe,\" Susan Pevensie is Lucy's close friend whom she meets, but the character prominently featured as meeting Lucy in the Lantern Waste is Mr. Tumnus, the Faun.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.7816778421401978,
+    "mean_prob": 0.8151830434799194,
+    "min_prob": 0.0018534479895606637,
+    "sds": 0.8743651509284973,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 34,
+    "ds_index": 5586,
+    "question": "What fellow Turkish footballer did Darko Kova\u010devi\u0107 form an offensive partnership with during his tenure at Real Sociedad?",
+    "gold_answer": "Nihat Kahveci",
+    "context": [
+      "Darko Kova\u010devi\u0107 (] ; Serbian Cyrillic: ; born 18 November 1973) is a Serbian former footballer who played as a forward.  He began his career in Serbia with Proleter Zrenjanin and subsequently played for Red Star Belgrade, with whom he won a Yugoslav League title and two Yugoslav Cups.  His prolific performances earned him a move to Premier League side Sheffield Wednesday, although his time in England was less successful.  He is mainly known for his spells at Real Sociedad where his offensive partnership with Nihat Kahveci was one of the best in Spain.  Kova\u010devi\u0107 also had positive spells with Italian club Juventus and Greek side Olympiacos.  At international level, he represented Yugoslavia at the 1998 FIFA World Cup and at UEFA Euro 2000."
+    ],
+    "generated_answer": "Nihat Kahveci was the fellow Turkish footballer with whom Darko Kova\u010devi\u0107 formed an offensive partnership at Real Sociedad.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2049189805984497,
+    "mean_prob": 0.9377595782279968,
+    "min_prob": 0.02297605760395527,
+    "sds": 0.8057876229286194,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 35,
+    "ds_index": 7084,
+    "question": "What is the translation of the name of the river on which Widnes is located ?",
+    "gold_answer": "boundary river",
+    "context": [
+      "Widnes is an industrial town in the unitary authority of Halton and the ceremonial county of Cheshire in Northwest England.  In 2011 it had a population of 60,221.  Historically in Lancashire, it is on the northern bank of the River Mersey where the estuary narrows to form the Runcorn Gap.  Directly to the south across the Mersey is the town of Runcorn.  Upstream and 8 mi to the east is the town of Warrington, and downstream to the west is Speke, part of the city of Liverpool."
+    ],
+    "generated_answer": "The River Mersey does not require translation as it is the proper name of the river on which Widnes is located.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4657599925994873,
+    "mean_prob": 0.8601070046424866,
+    "min_prob": 0.003754750359803438,
+    "sds": 0.9504814743995667,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 36,
+    "ds_index": 4937,
+    "question": "When was the American film, television and theater actress born who was a star in the film the Matchmaker and also received the 40th AFI Life Achievement Award?",
+    "gold_answer": "April 24, 1934",
+    "context": [
+      "The AFI Life Achievement Award was established by the Board of Directors of the American Film Institute on February 26, 1973, to honor a single individual for his or her lifetime contribution to enriching American culture through motion pictures and television.  The recipient is selected and honored at a ceremony annually, with the award presented by a master of ceremonies and recently, the prior year's recipient, who usually gives a brief synopsis of the awarded individual and career background including highlights and achievements."
+    ],
+    "generated_answer": "The American film, television, and theater actress who starred in the film \"The Matchmaker\" and received the 40th AFI Life Achievement Award is Katharine Hepburn, who was born on May 12, 1907.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.318921446800232,
+    "mean_prob": 0.9218112230300903,
+    "min_prob": 0.00015829154290258884,
+    "sds": 1.0096118450164795,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 37,
+    "ds_index": 2065,
+    "question": "What are both Jack Rabbit and Leap-The-Dips made of?",
+    "gold_answer": "wooden",
+    "context": [
+      "Jack Rabbit is an \"out and back\" wooden roller coaster located at Seabreeze Amusement Park in Irondequoit, New York.  At its opening in 1920, it was the fastest roller coaster in the world.  The Giant Dipper in Santa Cruz, California, superseded it in 1924.  Jack Rabbit is the fourth oldest operating roller coaster in the world and the second oldest in the USA.  The oldest, Leap-The-Dips in Altoona, Pennsylvania, was closed from 1985 to 1999, making Jack Rabbit the oldest \"continuously operating\" coaster in the country."
+    ],
+    "generated_answer": "Both Jack Rabbit and Leap-The-Dips are wooden roller coasters.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3091422319412231,
+    "mean_prob": 0.9158058762550354,
+    "min_prob": 0.02888963371515274,
+    "sds": 0.7037340998649597,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 0,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 38,
+    "ds_index": 6609,
+    "question": "Gaia is a space observatory of the European Space Agency, what is Astrosat?",
+    "gold_answer": "India's first dedicated multi-wavelength space observatory.",
+    "context": [
+      "Gaia is a space observatory of the European Space Agency (ESA) designed for astrometry: measuring the positions and distances of stars with unprecedented precision.  The mission aims to construct the largest and most precise 3D space catalog ever made, totalling approximately 1 billion astronomical objects, mainly stars but also planets, comets, asteroids and quasars among others."
+    ],
+    "generated_answer": "Astrosat is not mentioned in the given context about Gaia. However, to answer your question concisely: Astrosat is a multi-wavelength space-based observatory launched by the Indian Space Research Organisation (ISRO) for observing celestial sources in X-ray, optical, and ultraviolet regions of the electromagnetic spectrum.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5913119316101074,
+    "mean_prob": 0.8146851658821106,
+    "min_prob": 8.509992039762437e-05,
+    "sds": 0.853664219379425,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 39,
+    "ds_index": 4991,
+    "question": "When was the Austrian \"Schutzstaffel\" (SS) officer born based on who's life Schapira co-authored a book?",
+    "gold_answer": "8 April 1912",
+    "context": [
+      "Franz Schuh (born March 15, 1947) is an Austrian novelist, literary critic and, above all, essayist in the tradition of Karl Kraus and Alfred Polgar.  Schuh was born, and lives, in Vienna, where, just like his predecessors, he prefers to write in one of the traditional coffeehouses."
+    ],
+    "generated_answer": "The provided context does not contain any information about an Austrian \"Schutzstaffel\" (SS) officer or a book co-authored by Schapira. Therefore, there is no relevant information to answer the given question based on the context provided.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.274794101715088,
+    "mean_prob": 0.8565613627433777,
+    "min_prob": 0.12283645570278168,
+    "sds": 0.9829545617103577,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 40,
+    "ds_index": 4652,
+    "question": "The Lucy Maud Montgomery novel about the character Anne Shirley was first translated into Japanese by what woman?",
+    "gold_answer": "Hanako Muraoka",
+    "context": [
+      "Lucy Maud Montgomery {'1': \", '2': \", '3': \", '4': \"} (November 30, 1874 \u2013 April 24, 1942) published as L.M. Montgomery, was a Canadian author best known for a series of novels beginning in 1908 with \"Anne of Green Gables\".  The book was an immediate success.  The central character, Anne Shirley, an orphaned girl, made Montgomery famous in her lifetime and gave her an international following."
+    ],
+    "generated_answer": "The provided context does not contain information about the first Japanese translator of Lucy Maud Montgomery's works. Therefore, the answer cannot be derived from the given text alone.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5908485651016235,
+    "mean_prob": 0.7427883148193359,
+    "min_prob": 0.04182640090584755,
+    "sds": 0.9878164529800415,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 41,
+    "ds_index": 4281,
+    "question": "What was the previous occupation of the Canadian-born Indian-American actress and model who appeared in Tina & Lolo alongside Karishma Tanna?",
+    "gold_answer": "pornstar",
+    "context": [
+      "Sara Catharina Alstr\u00f6m (born October 28, 1975 in Stockholm) is a Swedish actress.  She started acting when she was 11 years old, then together with her younger sister Hanna.  She studied at Balettakademien 1993\u201395 and Kulturama 1994\u201396 and later in New York City at Actors Studio and Stella Adler Studio of Acting."
+    ],
+    "generated_answer": "The provided context does not contain information about a Canadian-born Indian-American actress and model who appeared in \"Tina & Lolo\" alongside Karishma Tanna. The context is about Sara Catharina Alstr\u00f6m, a Swedish actress. Therefore, I cannot answer the question based on the given context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.1363548040390015,
+    "mean_prob": 0.9083865880966187,
+    "min_prob": 0.22195148468017578,
+    "sds": 0.7873007655143738,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 42,
+    "ds_index": 3706,
+    "question": "Both Dusty Drake and Joe Diffie sing which genre of music?",
+    "gold_answer": "country",
+    "context": [
+      "Dean Buffalini (born February 23, 1965) is an American country music artist, known professionally as Dusty Drake.  Drake played various venues in his native Pennsylvania for several years before moving to Nashville, Tennessee, co-writing a 1996 single for Joe Diffie.  By 2003, Drake was signed to Warner Bros.  Records as a recording artist.  That year, he released three singles from his self-titled debut album, including \"One Last Time\", his first Top 40 entry on the Hot Country Songs charts.  Drake released a fourth single for the label before exiting in 2004."
+    ],
+    "generated_answer": "Both Dusty Drake and Joe Diffie sing country music.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2163845300674438,
+    "mean_prob": 0.9245821833610535,
+    "min_prob": 0.0953470841050148,
+    "sds": 0.8718721866607666,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 43,
+    "ds_index": 161,
+    "question": "Which man who presented the Australia 2022 FIFA World Cup bid was born on October 22, 1930?",
+    "gold_answer": "Frank Lowy",
+    "context": [
+      "Australia submitted an unsuccessful bid for the 2022 FIFA World Cup.  On 2 December 2010 FIFA announced that the event would be held in Qatar.  Australia also lodged a bid for the 2018 World Cup, but withdrew the bid on 10 June 2010.  The 2018 and 2022 World Cups will be the 21st and 22nd editions of the FIFA World Cup.  The bidding procedure to host both the 2018 and 2022 FIFA World Cup began in January 2009, and national associations had until 2 February 2009 to register their interest.  The bid was presented by Frank Lowy, Ben Buckley, Quentin Bryce and Elle Macpherson.  However, due to controversies of Qatar hosting, Australia's bid is possible if FIFA decides to strip Qatar's 2022 hosting rights."
+    ],
+    "generated_answer": "Frank Lowy, who was born on October 22, 1930, presented the Australia 2022 FIFA World Cup bid.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2979843616485596,
+    "mean_prob": 0.9239928126335144,
+    "min_prob": 0.0014939773827791214,
+    "sds": 0.9823728203773499,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 44,
+    "ds_index": 6959,
+    "question": "Yau Ma Tei North is a district of a city with how many citizens?",
+    "gold_answer": "7.2 million",
+    "context": [
+      "The Tema Metropolis District is one of the ten (10) districts in the Greater Accra Region of Ghana.  Its capital is Tema.  This metropolis is grouped into twenty-six communities.  The most popular and busiest communities are Communities 1, 2, 4, 7, 8, 9, 13 (Sakumono), 18,19 and 20."
+    ],
+    "generated_answer": "The provided context does not contain any information about Yau Ma Tei North or its population. Therefore, it's not possible to answer the question based on the given context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2605582475662231,
+    "mean_prob": 0.85772705078125,
+    "min_prob": 0.11383738368749619,
+    "sds": 1.2003052234649658,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 45,
+    "ds_index": 724,
+    "question": "Which team's 2013-2014 season had players including a Slovenian who plays at both the point guard and shooting guard positions?",
+    "gold_answer": "the Phoenix Suns",
+    "context": [
+      "Ognjen Kuzmi\u0107 (Serbian Cyrillic: , ; born May 16, 1990) is a Serbian professional basketball player for Real Madrid of the Liga ACB and the EuroLeague.  Standing at 2.14 m , he plays at the center position.  He was selected with the 52nd overall pick in the 2012 NBA draft by the Golden State Warriors."
+    ],
+    "generated_answer": "The question cannot be answered based solely on the provided context about Ognjen Kuzmi\u0107, as it asks about a Slovenian player at the point guard and shooting guard positions, which is not mentioned in the given information.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4595128297805786,
+    "mean_prob": 0.7953213453292847,
+    "min_prob": 0.030884644016623497,
+    "sds": 0.5994411110877991,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 46,
+    "ds_index": 858,
+    "question": "Which magazine is focused more on the adult demographic, Jack and Jill or Paper?",
+    "gold_answer": "Paper",
+    "context": [
+      "Genre magazine (ISSN 1074-5246  ) was a New York city-based monthly periodical from 1992 to 2009 written for gay men.  It was owned by gay press publisher Window Media."
+    ],
+    "generated_answer": "The given context does not provide information about Jack and Jill or Paper magazines to determine which one is more focused on an adult demographic. Additional details about these magazines would be needed to answer this question accurately.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.8642771244049072,
+    "mean_prob": 0.7740312814712524,
+    "min_prob": 0.00010500325151951984,
+    "sds": 0.9878056645393372,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 47,
+    "ds_index": 3743,
+    "question": "What phone series serves as the successor to phones officially unveiled at the \"Samsung Unpacked 2015\" event?",
+    "gold_answer": "The S7 series",
+    "context": [
+      "Samsung Galaxy S6, Samsung Galaxy S6 Edge, and Samsung Galaxy S6 Edge+ are Android smartphones manufactured and marketed by Samsung Electronics.  The S6 line serves as a successor to the Galaxy S5.  The S6 and S6 Edge smartphones were officially unveiled in the first \"Samsung Unpacked 2015\" event at Mobile World Congress on 1 March 2015, while the bigger S6 Edge+ was officially unveiled together with the Samsung Galaxy Note 5 in the second \"Samsung Unpacked 2015\" event at New York on 13 August 2015.  Alongside the S6, Samsung also unveiled the S6 Edge (and later on the bigger S6 Edge+), a variant whose screen is wrapped along the sides of the device; the curvature is usable for several additional features.  The Galaxy S6 and S6 Edge were released on 10 April 2015 in 20 countries while the S6 Edge+ was released on 21 August 2015 in 20 countries."
+    ],
+    "generated_answer": "The Samsung Galaxy S6 series serves as the successor to the Galaxy S5 series and was officially unveiled at the \"Samsung Unpacked 2015\" events.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2436002492904663,
+    "mean_prob": 0.9021464586257935,
+    "min_prob": 0.03694423660635948,
+    "sds": 0.7182441353797913,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 48,
+    "ds_index": 103,
+    "question": "Where is the stadium at which 1964 Georgia Tech Yellow Jackets football team played their home game located? ",
+    "gold_answer": "North Avenue at Techwood Drive",
+    "context": [
+      "The 2006 Georgia Tech Yellow Jackets football team represented the Georgia Institute of Technology in the 2006 NCAA Division I FBS football season.  The team's coach was former Dallas Cowboys, Samford Bulldogs, and Troy Trojans coach Chan Gailey.  The Yellow Jackets played their home games at Bobby Dodd Stadium in Atlanta."
+    ],
+    "generated_answer": "The context provided does not specify the location of the stadium for the 1964 Georgia Tech Yellow Jackets football team, but it mentions that in 2006, the team played at Bobby Dodd Stadium in Atlanta. Assuming continuity, the 1964 team likely also played in Atlanta, though this cannot be confirmed from the given information alone.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.648681402206421,
+    "mean_prob": 0.8015007376670837,
+    "min_prob": 0.0016142583917826414,
+    "sds": 0.6691830158233643,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 49,
+    "ds_index": 599,
+    "question": "When was the American actor, film director which  Dana Brunetti is the president of his company born ",
+    "gold_answer": "July 26, 1959",
+    "context": [
+      "Dana Brunetti (born June 11, 1973) is an American film producer and social networking entrepreneur.  He is the president of Kevin Spacey's production company, Trigger Street Productions.  In 2016, he became the president of Relativity Media with Kevin Spacey taking on a chairman position."
+    ],
+    "generated_answer": "The context does not provide the birth date of the American actor and film director for whom Dana Brunetti is the president of his company. However, it mentions Kevin Spacey, who has a production company associated with Dana Brunetti; Kevin Spacey is an actor and director, and if referring to him, he was born on August 26, 1959.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.7610313892364502,
+    "mean_prob": 0.8024377822875977,
+    "min_prob": 0.00010139233199879527,
+    "sds": 0.7036513090133667,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 50,
+    "ds_index": 3373,
+    "question": "Arthur Noss was a gunner for the commader during which two European theatre battles in WWII?",
+    "gold_answer": "Battle of Britain and the Battle of Malta",
+    "context": [
+      "Second Lieutenant Arthur Rex Hurden Noss {'1': \", '2': \", '3': \", '4': \"} (22 January 1897 \u2013 15 September 1917) was a British World War I flying ace credited with nine aerial victories.  He won a Military Cross as Keith Park's gunner, and was killed in a flying accident shortly thereafter."
+    ],
+    "generated_answer": "The provided context does not mention any involvement of Arthur Noss in World War II battles. Instead, it refers to his service as a gunner for Commander Keith Park during World War I. There is no information about him participating in European theatre battles during World War II.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.306312918663025,
+    "mean_prob": 0.8186785578727722,
+    "min_prob": 0.1968350112438202,
+    "sds": 0.9701164960861206,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 51,
+    "ds_index": 1416,
+    "question": "Are Maro Ajemian and Patricia Field both pianists?",
+    "gold_answer": "no",
+    "context": [
+      "Maro Ajemian (July 9, 1921 \u2013 September 18, 1978) was an American pianist.  Ajemian's career in contemporary music got its impetus from her Armenian heritage; she became known as a contemporary pianist after performing the U.S. premiere of Aram Khachaturian's Piano Concerto, which she chose to play based on the fact that Khachaturian was Armenian."
+    ],
+    "generated_answer": "No, based on the given context, only Maro Ajemian is described as a pianist; there is no information provided about Patricia Field's profession.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 2.0974080562591553,
+    "mean_prob": 0.8372818231582642,
+    "min_prob": 8.186587365344167e-06,
+    "sds": 0.9219867587089539,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 52,
+    "ds_index": 4537,
+    "question": "Which name adopted by African-American activist Allen Donaldson co-found Black Power movement of the 1960s and 1970s",
+    "gold_answer": "Hakim Abdullah Jamal",
+    "context": [
+      "The Black Power movement was a political movement to achieve a form of Black Power and the many philosophies it contains.  The movement saw various forms of activism some violent and some peaceful, all hoping to achieve black empowerment.  The Black Power movement also represented socialist movements, all with the general motivation of improving the standing of black people in society.  Originated during the Civil Rights Movement, some doubted the philosophy of the movement begging for more radical action, taking influences from Malcolm X.  The cornerstone of the movement was the Black Panther Party, a Black Power organization dedicated to socialism and the use of violence to achieve it.  The Black Power movement developed amidst the criticisms of the Civil Rights Movement in the early 1960s, and over time and into the 1970s, the movement grew and became more violent.  After years of violence, many left the movement and the police began arresting violent actors in the movement.  The Black Power movement also spilled out into the Caribbean creating the Black Power Revolution."
+    ],
+    "generated_answer": "Stokely Carmichael, not Allen Donaldson, is more famously associated with coining and popularizing the term \"Black Power\" in the mid-1960s. There is no widely recognized figure named Allen Donaldson known for co-founding the Black Power movement.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 2.119828462600708,
+    "mean_prob": 0.8019941449165344,
+    "min_prob": 2.597517534397298e-09,
+    "sds": 0.9828423857688904,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 53,
+    "ds_index": 2188,
+    "question": "what year was the writer of the blog Preposterous Universe born?",
+    "gold_answer": "1966",
+    "context": [
+      "Bloggingheads.tv (sometimes abbreviated \"bhtv\") is a political, world events, philosophy, and science video blog discussion site in which the participants take part in an active back and forth conversation via webcam which is then broadcast online to viewers.  The site was started by the journalist Robert Wright (\"The Evolution of God\", \"\", \"The Moral Animal\" ) and the blogger and journalist Mickey Kaus on November 1, 2005.  (Kaus has since dropped out of operational duties of the site as he didn't want his frequent linking to be seen as a conflict of interest.)  Most of the earlier discussions posted to the site involved one or both of those individuals, but since has grown to include a total of over one thousand individual contributors, mostly journalists, academics, scientists, authors, well known political bloggers, and other notable individuals."
+    ],
+    "generated_answer": "The provided context does not contain information about the birth year of the writer of the blog \"Preposterous Universe.\" Therefore, the question cannot be answered based solely on the given information.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3433817625045776,
+    "mean_prob": 0.8531051278114319,
+    "min_prob": 0.046397026628255844,
+    "sds": 1.0977091789245605,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 54,
+    "ds_index": 3396,
+    "question": "What Future Publishing founder co-hosted the annual TED Conference with June Cohen?",
+    "gold_answer": "Chris Anderson",
+    "context": [
+      "June Cohen is an American producer.  She was the Executive Producer of TED Media for TED (Technology, Entertainment, Design), until December 2015.  She led the effort to bring the conference online, launching the podcast series TEDTalks in 2006, the redesigned TED.com in 2007, the TED Open Translation Project in 2009, the TED Open TV Project in 2010 and TED Conversations in 2011.  Cohen joined the TED staff in 2005.  She also produced TED's year-round salons, edited the TED Blog, and co-curated and co-hosted the annual conference in Long Beach, with TED curator Chris Anderson.  She lives in New York City."
+    ],
+    "generated_answer": "The question contains an error; June Cohen did not co-host the annual TED Conference with the founder of Future Publishing. Instead, she co-hosted it with TED curator Chris Anderson. There is no mention of a Future Publishing founder being involved in this capacity.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4737040996551514,
+    "mean_prob": 0.8003571629524231,
+    "min_prob": 0.016020646318793297,
+    "sds": 0.8488924503326416,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 55,
+    "ds_index": 5832,
+    "question": "What type of games are both Sector 41 and Enchanted Forest?",
+    "gold_answer": "board",
+    "context": [
+      "Sector 41 is a board game published by David Long and Michael Lachtanski of Scimitar Games.  The game became available for pre-order in February 2009 and was officially released in April 2009."
+    ],
+    "generated_answer": "Both Sector 41 and Enchanted Forest are board games.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2970988750457764,
+    "mean_prob": 0.9280945658683777,
+    "min_prob": 0.027118561789393425,
+    "sds": 0.761266827583313,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 56,
+    "ds_index": 3480,
+    "question": "What 2014 Ottawa Fury goalkeeper coach missed a shot deflected off Ronnie Whelan in the 1987 Football League Cup Final?",
+    "gold_answer": "Bruce Grobbelaar",
+    "context": [
+      "Mark Richard Tyler (born 2 April 1977) is an English professional footballer who plays as a goalkeeper and is the goalkeeping coach at League One club Peterborough United.  He played for the England national under-17 team and the England national under-20 team."
+    ],
+    "generated_answer": "The question does not correspond to the given context about Mark Richard Tyler. The context provided does not mention any incident involving a shot deflected off Ronnie Whelan in the 1987 Football League Cup Final nor does it state that Mark Tyler was a goalkeeper coach for Ottawa Fury in 2014. Therefore, based on the provided information, this question cannot be answered accurately.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3880877494812012,
+    "mean_prob": 0.8055214285850525,
+    "min_prob": 0.05599124729633331,
+    "sds": 0.751952052116394,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 57,
+    "ds_index": 5253,
+    "question": "In what year was the 1965 World Series MVP elected to the Baseball Hall of Fame?",
+    "gold_answer": "1972",
+    "context": [
+      "Frank Robinson (born August 31, 1935) is an American former Major League Baseball (MLB) outfielder and manager.  He played for five teams from 1956 to 1976, and became the only player to win league MVP honors in both the National and American Leagues.  He won the Triple Crown, was a member of two teams that won the World Series (the 1966 and 1970 Baltimore Orioles), and amassed the fourth-most career home runs at the time of his retirement (he is currently 10th).  Robinson was elected to the Baseball Hall of Fame in 1982."
+    ],
+    "generated_answer": "The context does not provide information about the 1965 World Series MVP or when they were elected to the Baseball Hall of Fame. However, it mentions that Frank Robinson, who is discussed in the context, was elected to the Baseball Hall of Fame in 1982. Without additional information about the 1965 World Series MVP, the answer cannot be determined from the given context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2971209287643433,
+    "mean_prob": 0.8389093279838562,
+    "min_prob": 0.11382294446229935,
+    "sds": 0.6073322296142578,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 58,
+    "ds_index": 2651,
+    "question": "Giuseppina Tuissi played a role in the execution of a National Fasict Party leader, as well as what female associated with the leader?",
+    "gold_answer": "Clara Petacci",
+    "context": [
+      "Kathryn Cholette is a Canadian left-green, who served as leader of the Green Party of Canada from 1988 to 1990.  Just prior to the end of her term as leader, Cholette publicly resigned her post in an article entitled \"Why I Left the Green Party\".  She was the first woman elected to lead a federal political party in Canada, preceding Audrey McLaughlin by a year."
+    ],
+    "generated_answer": "The provided context does not contain any information about Giuseppina Tuissi or her involvement with the National Fascist Party or any female associated with its leader. The context is about Kathryn Cholette and her role in the Green Party of Canada. Therefore, the question cannot be answered based on the given information.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2980488538742065,
+    "mean_prob": 0.8300608396530151,
+    "min_prob": 0.09061746299266815,
+    "sds": 0.8147305250167847,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 59,
+    "ds_index": 6052,
+    "question": "Is Dappy or Tobias Sammet German? ",
+    "gold_answer": "Tobias Sammet (21 November 1977) is a German musician",
+    "context": [
+      "Tobias Hoesl (born 29 September 1961 in Munich, West Germany) is a German television actor."
+    ],
+    "generated_answer": "Neither Dappy nor Tobias Sammet is mentioned in the given context. However, based on general knowledge, Tobias Sammet is German; Dappy is not. The context provided is about Tobias Hoesl, who is German.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.8424615859985352,
+    "mean_prob": 0.8235107660293579,
+    "min_prob": 4.006231756648049e-05,
+    "sds": 0.9215959310531616,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 60,
+    "ds_index": 4589,
+    "question": "Who directed the 2014 American biographical survival drama film which Laura Elizabeth Dern was nominated for the Academy Award for Best Supporting Actress in",
+    "gold_answer": "Jean-Marc Vall\u00e9e",
+    "context": [
+      "Laura Elizabeth Dern (born February 10, 1967) is an American actress.  For her performance in the 1991 film \"Rambling Rose\", she was nominated for the Academy Award for Best Actress, while for her performance in the 2014 film \"Wild\", she was nominated for the Academy Award for Best Supporting Actress.  Her other film roles include \"Mask\" (1985), \"Smooth Talk\" (1985), \"Blue Velvet\" (1986), \"Wild at Heart\" (1990), \"Jurassic Park\" (1993), \"Citizen Ruth\" (1996), \"October Sky\" (1999), \"I Am Sam\" (2001), \"Inland Empire\" (2006), \"The Master\" (2012), \"The Fault in Our Stars\" (2014), and \"\" (2017).  She is known for her collaborations with filmmaker David Lynch, having appeared in four of his films and the 2017 \"Twin Peaks\" revival."
+    ],
+    "generated_answer": "The 2014 American biographical survival drama film \"Wild,\" for which Laura Elizabeth Dern was nominated for the Academy Award for Best Supporting Actress, was directed by Jean-Marc Vall\u00e9e.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.032792329788208,
+    "mean_prob": 0.9744000434875488,
+    "min_prob": 0.49951785802841187,
+    "sds": 0.7942108511924744,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 61,
+    "ds_index": 3771,
+    "question": "Rowland Salley's best-known tune is \"Killing the Blues\", which has been most recently covered by which American singer-songwriter active mainly in the outlaw country music and Southern rock genres?",
+    "gold_answer": "Shooter Jennings",
+    "context": [
+      "Outlaw Blues is a 1977 American drama film directed by Richard T. Heffron and starring Peter Fonda and Susan Saint James.  Written by Bill L. Norton, the film is about an ex-convict and songwriter trying to break into the music business in Austin, Texas.  When a famous country singer steals one of his songs and turns it into a hit, the songwriter confronts him, and in a struggle the country singer accidentally shoots himself.  Once again running from the law, the songwriter, with the help of a savvy backup singer, records his stolen song himself, and his version becomes an even bigger hit.  Some of the songs were sung by Peter Fonda, and three of the songs were written by Hoyt Axton."
+    ],
+    "generated_answer": "Based on the given context, the answer does not directly correspond to the question asked, as the context does not mention Rowland Salley or any recent cover of \"Killing the Blues\" by an American singer-songwriter in the outlaw country music and Southern rock genres. The information provided is about the film \"Outlaw Blues\" and its plot involving a songwriter and a stolen song. Therefore, no specific answer can be derived from the given context for the asked question.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5326755046844482,
+    "mean_prob": 0.7600661516189575,
+    "min_prob": 0.04490334913134575,
+    "sds": 0.7583540678024292,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 62,
+    "ds_index": 4847,
+    "question": "In what year were the European Athletics Junior Championships held in the capital of Slovenia?",
+    "gold_answer": "1997",
+    "context": [
+      "The Rhythmic Gymnastics Junior European Championships are the European championships for junior gymnasts for the sport of rhythmic gymnastics.  They were first held in 1987.  Prior to 1993, they were held as a separate event.  Since the 1993 edition in Bucharest, Romania, the Junior European Championships were integrated to the senior European Championships.  The competition is organized by the European Union of Gymnastics."
+    ],
+    "generated_answer": "The provided context does not contain information about the European Athletics Junior Championships or the capital of Slovenia. Therefore, the question cannot be answered based on the given information.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3164844512939453,
+    "mean_prob": 0.8428593873977661,
+    "min_prob": 0.1191965714097023,
+    "sds": 0.8860097527503967,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 63,
+    "ds_index": 3597,
+    "question": "Valais is known for the resort municipality in which district in Switzerland?",
+    "gold_answer": "Sierre",
+    "context": [
+      "The canton of Valais (] ; German: \"Wallis\" , ] ) is one of the 26 cantons of Switzerland, situated in the southwestern part of the country, around the valley of the Rh\u00f4ne from its headwaters to Lake Geneva, separating the Pennine Alps from the Bernese Alps.  The canton is simultaneously one of the driest regions of Switzerland in its central Rh\u00f4ne valley and among the wettest, having large amounts of snow and rain up on the highest peaks found in Switzerland.  The canton of Valais is widely known for the Matterhorn and resort towns such as Crans-Montana, Saas Fee and Zermatt.  It is composed of 13 districts (hence the 13 stars on the flag) and its capital is Sion."
+    ],
+    "generated_answer": "Valais is known for resort municipalities like Zermatt, which is located in the Visp district of Switzerland.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 2.253142833709717,
+    "mean_prob": 0.7109829187393188,
+    "min_prob": 0.0007002191850915551,
+    "sds": 0.8425037860870361,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 64,
+    "ds_index": 6576,
+    "question": "What team was formed in 1996 that starred players like Robert Parish?",
+    "gold_answer": "50 Greatest Players in National Basketball Association History",
+    "context": [
+      "The 2013 Robert Morris Colonials football team represented Robert Morris University in the 2013 NCAA Division I FCS football season.  They were led by 20th-year head coach Joe Walton and played their home games at Joe Walton Stadium.  They were a member of the Northeast Conference.  They finished the season 5\u20136, 3\u20133 in NEC play to finish in a three way tie for third place.  Head coach Joe Walton retired at the end of the season."
+    ],
+    "generated_answer": "The context provided does not contain information about a team formed in 1996 that featured players like Robert Parish. The given text is about the Robert Morris Colonials football team from the 2013 season. Therefore, the question cannot be answered based on the provided context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3907009363174438,
+    "mean_prob": 0.8068022727966309,
+    "min_prob": 0.06921256333589554,
+    "sds": 0.7918314933776855,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 65,
+    "ds_index": 1827,
+    "question": "What type of games are both Castle Risk and Elfenland?",
+    "gold_answer": "board game",
+    "context": [
+      "Castle Risk is a version of the board game Risk that is played on a map of Europe.  It was first released as a stand-alone game by Parker Brothers in 1986 and later appeared on the reverse side of the board in an early 1990s version of the standard Risk game."
+    ],
+    "generated_answer": "Both Castle Risk and Elfenland are board games.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.0009251832962036,
+    "mean_prob": 0.9990782141685486,
+    "min_prob": 0.9924073815345764,
+    "sds": 0.7221550345420837,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 0,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 66,
+    "ds_index": 1297,
+    "question": "Tryon D. Lewis is a lawyer from Odessa, Texas which is located in what county?",
+    "gold_answer": "Ector County",
+    "context": [
+      "The Henderson County Courthouse, built in 1913, is an historic 3-story redbrick Classical Revival style courthouse building with full basement located at 100 East Tyler Street in Athens, Texas.  The courthouse has been designated as a Recorded Texas Historic Landmark since 2002.  Designed by L. L. Thurman, who also previously designed the Jeff Davis County Courthouse in Fort Davis, it is unusual for its angled wings.  It also has a central cupola which is not seen in most images, but there is no rotunda under the cupola.  It is Henderson County's fourth courthouse and the second in Athens.  The first one was built in 1850 in Buffalo, now a ghost town, and the second was built in 1861 in Centerville, which is also a ghost town today.  The third courthouse was built in Athens in 1887."
+    ],
+    "generated_answer": "The question does not provide information about Tryon D. Lewis or Odessa, Texas, within the given context about the Henderson County Courthouse. However, Odessa, Texas, is located in Ector County.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2959243059158325,
+    "mean_prob": 0.8395507335662842,
+    "min_prob": 0.11438722163438797,
+    "sds": 0.9592383503913879,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 67,
+    "ds_index": 4285,
+    "question": "What New York City\u2013based hip-hop musical group consists of rappers including Darryl Hill?",
+    "gold_answer": "The Wu-Tang Clan",
+    "context": [
+      "Hip hop music in Washington, D.C. has been an important part of the culture of the area.  The traditional style of hip hop in the city has been described as not quite the same as New York City hip hop and not quite the same as Southern hip hop.  Rather, it has been influenced by both regions to form its own unique style of music.  The population of D.C. is not large enough to support as many distinct subgenres of rap as other metropolitan areas, and as a result, the sound and style of D.C. hip hop is very mixed and blended.  Prominent D.C. based hip hop artists include Wale, Oddisee, Fat Trel, Shy Glizzy, Lightshow, Ant Glizzy, Percy Jonez & Santino Ranks of YNWV and a few newcomers , GoldLink, Chaz French & Jay IDK.  Many of these newcomers are typically featured on local radio stations such as 93.9 WKYS.  20bello a rapper, director and promoter was the original founder of the DMV (DC area moniker) Music movement.  He remains to this day very instrumental in creating a music scene where young upcoming artist could thrive hence the recent article in the Washington Examiner"
+    ],
+    "generated_answer": "The context provided does not contain information about a New York City-based hip-hop musical group consisting of rappers including Darryl Hill. Therefore, the answer cannot be derived from the given text.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3068900108337402,
+    "mean_prob": 0.8388466238975525,
+    "min_prob": 0.08285386860370636,
+    "sds": 0.860781729221344,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 68,
+    "ds_index": 5665,
+    "question": "Which airport Albany International Airport and Dane County Regional Airport is nearer its local town ?",
+    "gold_answer": "Dane County Regional Airport",
+    "context": [
+      "Albany Municipal Airport (FAA LID: S12) is a general aviation airport located 3 NM east of the city of Albany in Linn County, Oregon, United States.  It is publicly owned and operated by the City of Albany.  It is the oldest known operating airfield in Oregon, opening in 1920.  There are 58 aircraft based at the municipal airport; 49 Single engine airplanes, 7 multi engine, and 2 jet airplanes.  On average there are 62 aircraft operations per day."
+    ],
+    "generated_answer": "Based on the provided context, Albany Municipal Airport is closer to the city of Albany, being only 3 NM (nautical miles) east of the city. There is no information given about Dane County Regional Airport's proximity to its local town. Therefore, we can only definitively say that Albany Municipal Airport is nearer to its local town compared to the information provided about Dane County Regional Airport.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.6590421199798584,
+    "mean_prob": 0.8051794767379761,
+    "min_prob": 0.001481004641391337,
+    "sds": 0.7580966353416443,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 69,
+    "ds_index": 1506,
+    "question": "Johnnie Casson appeared on which ex-professional footballer's British television show?",
+    "gold_answer": "Des O'Connor",
+    "context": [
+      "David Barry Kitson (born 21 January 1980) is an English former footballer who played as a striker.  He has made 420 appearances in the Premier League and Football League, including 135 for Reading."
+    ],
+    "generated_answer": "The context provided does not contain information about Johnnie Casson or any television show hosted by David Barry Kitson or any other ex-professional footballer. Therefore, the question cannot be answered based on the given context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2975189685821533,
+    "mean_prob": 0.8565568923950195,
+    "min_prob": 0.05995190143585205,
+    "sds": 0.9236030578613281,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 70,
+    "ds_index": 5859,
+    "question": "Which genus has more species, Monstera or Cercis?",
+    "gold_answer": "Monstera",
+    "context": [
+      "Monstera is a genus of about 50 species of flowering plants in the arum family, Araceae, native to tropical regions of the Americas.  The genus is named from the Latin word for \"monstrous\" or \"abnormal\", and refers to the unusual leaves with natural holes that members of the genus have."
+    ],
+    "generated_answer": "The context only provides information about the Monstera genus, stating it includes about 50 species. Without specific information about the number of species in the Cercis genus, we cannot determine which has more species based on the given context alone.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4175118207931519,
+    "mean_prob": 0.8326679468154907,
+    "min_prob": 0.034870993345975876,
+    "sds": 0.9237984418869019,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 71,
+    "ds_index": 186,
+    "question": "Who were the directors of the 2009 American science fiction film starring the actor who played Dexter Morgan in the Showtime TV Network series \"Dexter\"?",
+    "gold_answer": "Mark Neveldine and Brian Taylor",
+    "context": [
+      "\"Dexter\" is an American television drama that was broadcast on the premium cable channel Showtime from October 1, 2006 to September 22, 2013.  A total of 96 episodes of \"Dexter\" were broadcast over eight seasons.  The series is based on characters created by Jeff Lindsay for his \"Dexter\" series of novels.  The series follows the life of Dexter Morgan (Michael C. Hall), a Miami Metro Police Department blood pattern analyst with a double life.  While investigating murders in the homicide division, Dexter hunts and kills murderers and criminals who have escaped the justice system.  Although the first season is based on the events of \"Darkly Dreaming Dexter\", the series' subsequent seasons do not follow the novels in the series.  Departing from the narrative of Lindsay's second Dexter novel \"Dearly Devoted Dexter\", the show's writer Daniel Cerone said that the writers \"didn't see the opportunity in the second book\" to adapt it."
+    ],
+    "generated_answer": "The question does not provide enough information to determine which specific 2009 American science fiction film and its directors are being referred to, as Michael C. Hall, who played Dexter Morgan, has appeared in multiple films besides \"Dexter.\" However, if the context is referring to the most notable film he starred in during that period, it would be \"The Fourth Kind,\" directed by Christopher Smith.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.6940726041793823,
+    "mean_prob": 0.7157559990882874,
+    "min_prob": 0.013733768835663795,
+    "sds": 1.003515601158142,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 72,
+    "ds_index": 4777,
+    "question": "Reinhold O. Schmidt was a UFO contactee in the same era as which Polish-American citizen?",
+    "gold_answer": "George Adamski",
+    "context": [
+      "Miros\u0142aw Hermaszewski (born September 15, 1941) is a retired Polish Air Force officer and cosmonaut.  He became the first (and to this day remains the only) Polish national in space, when he flew aboard the Soviet Soyuz 30 spacecraft in 1978."
+    ],
+    "generated_answer": "Reinhold O. Schmidt was a UFO contactee in the same era as Stefan Szymborski, a Polish-American citizen known for his claims of extraterrestrial contact, though it's important to note that Miros\u0142aw Hermaszewski, the first Polish person in space, is not directly related to UFO contactee stories.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.600046992301941,
+    "mean_prob": 0.8174583315849304,
+    "min_prob": 5.0364953494863585e-05,
+    "sds": 0.8022958040237427,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 73,
+    "ds_index": 2520,
+    "question": " Here I Am Again is an album by what American country singer who had a career of almost 60 years",
+    "gold_answer": "Loretta Lynn",
+    "context": [
+      "\"Here I Am Again\" is a song written by Shel Silverstein that was originally performed by American country music artist Loretta Lynn.  It was released as a single in June 1972 via Decca Records."
+    ],
+    "generated_answer": "\"Here I Am Again\" is a song by Loretta Lynn, an American country singer who had a career spanning nearly 60 years. However, it is important to note that \"Here I Am Again\" is a single and not an album.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5866118669509888,
+    "mean_prob": 0.8658589124679565,
+    "min_prob": 2.1733942503487924e-06,
+    "sds": 0.5112245082855225,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 74,
+    "ds_index": 2967,
+    "question": "Which band has the guitarist Gorden Mack, Red House Painters or Daughtry?",
+    "gold_answer": "Red House Painters",
+    "context": [
+      "Red House Painters were an American rock band, formed in San Francisco, California in 1988.  They were one of the most prominent acts associated with the slowcore/sadcore subgenre.  Fronted by primary songwriter Mark Kozelek (vocals, guitar), the band also included drummer Anthony Koutsos and bass guitarist Jerry Vessel.  Guitarists Gorden Mack and Phil Carney both performed with the band during separate six-year tenures."
+    ],
+    "generated_answer": "Gorden Mack performed with Red House Painters, not Daughtry.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5186800956726074,
+    "mean_prob": 0.801521360874176,
+    "min_prob": 0.06364789605140686,
+    "sds": 0.9939784407615662,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 75,
+    "ds_index": 2473,
+    "question": "Are Trent Edwards and Lucy Saroyan both football players?",
+    "gold_answer": "no",
+    "context": [
+      "Trent Addison Edwards (born October 30, 1983) is a former American football quarterback.  He played college football at Stanford and was drafted by the Buffalo Bills in the third round of the 2007 NFL Draft."
+    ],
+    "generated_answer": "No, Trent Edwards is a former American football quarterback, but there is no information provided about Lucy Saroyan's occupation or whether she is a football player.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.290166974067688,
+    "mean_prob": 0.8782085180282593,
+    "min_prob": 0.021349437534809113,
+    "sds": 0.909220814704895,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 76,
+    "ds_index": 2959,
+    "question": "What was the goal as a photographer of the man whose \"Message from the Interior\" was published by Eakins Press?",
+    "gold_answer": "to make pictures that are \"literate, authoritative, transcendent\"",
+    "context": [
+      "Andr\u00e9 Kert\u00e9sz (] ; 2 July 1894 \u2013 28 September 1985), born Kert\u00e9sz Andor, was a Hungarian-born photographer known for his groundbreaking contributions to photographic composition and the photo essay.  In the early years of his career, his then-unorthodox camera angles and style prevented his work from gaining wider recognition.  Kert\u00e9sz never felt that he had gained the worldwide recognition he deserved.  Today he is considered one of the seminal figures of photojournalism."
+    ],
+    "generated_answer": "The context provided does not mention \"Message from the Interior\" or its publication by Eakins Press, so we cannot directly infer Andr\u00e9 Kert\u00e9sz's specific goal related to this work from the given information. However, based on the context, Kert\u00e9sz aimed to innovate in photographic composition and the photo essay, often using unorthodox camera angles, though he felt he did not receive the recognition he deserved during his early career.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5243479013442993,
+    "mean_prob": 0.7664165496826172,
+    "min_prob": 0.017215479165315628,
+    "sds": 0.7857205271720886,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 77,
+    "ds_index": 6111,
+    "question": "Are Steve Perry and Dennis Lyxz\u00e9n both members of the same band ?",
+    "gold_answer": "no",
+    "context": [
+      "Jason Perry (born 29 December 1969) is a Grammy award-winning English record producer and singer/songwriter.  He is the lead vocalist of the Suffolk based band \u2019A\u2019.  He has an identical twin brother, Adam, and an older brother, Giles, both of whom are also members of the band.  Recently, Perry has produced albums by Greywind, Fatherson, Don Broco, Molotov, McBusted, Matthew P, Ivyrise, The Blackout, Kids in Glass Houses, Get Cape.  Wear Cape.  Fly, Futures, Matt Willis and McFly."
+    ],
+    "generated_answer": "No, based on the given context, neither Steve Perry nor Dennis Lyxz\u00e9n are mentioned as members of the same band. The context discusses Jason Perry and his involvement with the band 'A'.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2723664045333862,
+    "mean_prob": 0.8564738035202026,
+    "min_prob": 0.13629697263240814,
+    "sds": 0.7967860698699951,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 78,
+    "ds_index": 7144,
+    "question": "Which was founded first, University of California, Santa Barbara or Hamdard University?",
+    "gold_answer": "University of California, Santa Barbara",
+    "context": [
+      "The University of California, Santa Barbara (commonly referred to as UC Santa Barbara or UCSB) is a public research university and one of the 10 campuses of the University of California system.  The main campus is located on a 1022 acre site near Isla Vista, California, United States, 8 mi from Santa Barbara and 100 mi northwest of Los Angeles.  Tracing its roots back to 1891 as an independent teachers' college, UCSB joined the University of California system in 1944 and is the third-oldest general-education campus in the system."
+    ],
+    "generated_answer": "University of California, Santa Barbara (UCSB) was founded first, tracing its roots back to 1891 as an independent teachers' college, whereas Hamdard University was established later in 1987.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4827510118484497,
+    "mean_prob": 0.8539939522743225,
+    "min_prob": 0.0014575326349586248,
+    "sds": 0.6747076511383057,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 79,
+    "ds_index": 2640,
+    "question": "Many right wing WNP were  connected to a clandestine operation ran by a \"stay-behind\"  operation ran by what organization?",
+    "gold_answer": "NATO",
+    "context": [
+      "The Belgrade Special Police (, SP UGB) was a Serbian collaborationist police organisation directed and controlled by the German Gestapo (German: \"Geheime Staatspolizei\" ) in the German-occupied territory of Serbia from 1941 to 1944 during World War II.  It grew out of the Belgrade General Police of the interwar period, which had a significant role in the suppression of the Communist Party of Yugoslavia after that organisation was banned in 1920.  Eighty per cent of work of the SP UGB related to suspected communists.  It initially had a responsibility to investigate other groups, such as the Chetniks of Dra\u017ea Mihailovi\u0107, but ended up cooperating with Mihailovi\u0107's Chetnik movement.  The SP UGB had significant autonomy in who it arrested, tortured and interrogated, and who it sent to the Banjica concentration camp, but did not have the power to release prisoners from the camp, a power which was retained by the Gestapo.  The SP UGB exchanged information with a number of different agencies, including the German military intelligence service, the \"Abwehr\", and other collaborationist organisations such as the Serbian Volunteer Corps."
+    ],
+    "generated_answer": "The context provided does not mention any \"right wing WNP\" or a \"stay-behind\" operation. Therefore, the question cannot be answered based on the given information.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.241647481918335,
+    "mean_prob": 0.8429220914840698,
+    "min_prob": 0.25985708832740784,
+    "sds": 1.1057612895965576,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 80,
+    "ds_index": 3601,
+    "question": "Which areas of the United States were still able to deny sames sex marriages after the case in which Edith \"Edie\" Windsor was the main plaintiff?",
+    "gold_answer": "American Samoa, but not on all Native American tribal lands",
+    "context": [
+      "Same-sex immigration policy in the United States denied couples in same-sex relationships the same rights and privileges afforded different-sex couples based on several court decisions and the Defense of Marriage Act (DOMA) until the U.S. Supreme Court ruled Section 3 of DOMA unconstitutional in \"United States v. Windsor\" on June 26, 2013."
+    ],
+    "generated_answer": "After the \"United States v. Windsor\" case, some states were still able to deny same-sex marriages until the Supreme Court's decision in \"Obergefell v. Hodges\" in 2015, which legalized same-sex marriage nationwide. However, immediately following \"Windsor,\" while Section 3 of DOMA was struck down, states could still ban same-sex marriage under their own laws without violating federal constitutional protections.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.6168855428695679,
+    "mean_prob": 0.7862966060638428,
+    "min_prob": 0.0009787845192477107,
+    "sds": 0.6543501019477844,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 81,
+    "ds_index": 473,
+    "question": "Which \"Official Ireland\" group comprises about  78.3% of the population of Ireland? ",
+    "gold_answer": "The Catholic Church in Ireland",
+    "context": [
+      "The repartition of Ireland has been suggested as a possible solution to the continuing political disagreement in Northern Ireland.  The essential problem was that the partition of Ireland was gerrymandered, and as a result Northern Ireland contains a large Irish nationalist minority.  Much of the Irish nationalist population lives in the south and west of the region, but a significant percentage lives in Belfast and some smaller communities in the north and east, whilst Irish unionists constitute a majority of the population in the north and east of the region with some smaller communities in the south and west.  The geographical area in which unionists are a majority is less than half of Northern Ireland (see graphic below), but eastern areas have a much higher population density.  Collectively, Northern Ireland is split, with unionists comprising approximately 48% of the population, and falling quickly.  At the last general election unionists secured precisely 50% of the seats.  None of these proposals are currently supported by any political party in Ireland."
+    ],
+    "generated_answer": "The question does not provide enough information from the given context to determine which group comprises about 78.3% of the population of Ireland. The context primarily discusses the division within Northern Ireland and does not give statistics for the whole of Ireland. Therefore, based solely on the provided context, an accurate answer cannot be given.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4926625490188599,
+    "mean_prob": 0.7535253763198853,
+    "min_prob": 0.10761316120624542,
+    "sds": 0.7767320871353149,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 82,
+    "ds_index": 2349,
+    "question": "What Nickelodeon movie stars the actress and YouTuber who appeared alongside Jon Voight in the 2016 film American Wrestler:The Wizard?",
+    "gold_answer": "Terry the Tomboy",
+    "context": [
+      "American Wrestler: The Wizard is a 2016 sports biographical film set in the world of competitive high school wrestling, and starring William Fichtner, Jon Voight, Ali Afshar, Gabriel Basso, Kevin G. Schmidt, Lia Marie Johnson and George Kosturos.  In 1980, 17-year-old Ali Jahani escapes Iran after the Iran hostage crisis and must adjust to life in a small California town only to face more hostility in America due to the hostage crisis.  Wanting to fit in, Ali joins the school's wrestling team and becomes the squad's star member.  Ali faces a mountain of adversity everywhere he turns, but through determination and with a chance to change how others see him, Ali must step up and learn to be a hero against all odds."
+    ],
+    "generated_answer": "Lia Marie Johnson, who appeared alongside Jon Voight in the 2016 film \"American Wrestler: The Wizard,\" starred in the Nickelodeon movie \"Wizards on Winter Break\" (2015).",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.2506835460662842,
+    "mean_prob": 0.8770703077316284,
+    "min_prob": 0.02830348163843155,
+    "sds": 0.9745325446128845,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 83,
+    "ds_index": 4828,
+    "question": "Which sister of Margarita \"Peggy\" Schuyler Van Rensselaer is sometimes called Betsey?",
+    "gold_answer": "Elizabeth Hamilton",
+    "context": [
+      "Shirley Bonne (born May 22, 1934) is a former television actress who portrayed Eileen Sherwood in the CBS television sitcom \"My Sister Eileen\", which aired during the 1960-1961 season.  Bonne played an aspiring actress in New York City sharing an apartment with her older sister, Ruth Sherwood, a magazine writer played by Elaine Stritch.  Her series co-stars included Raymond Bailey, Rose Marie, Stubby Kaye, and Jack Weston."
+    ],
+    "generated_answer": "The context provided does not contain any information about Margarita \"Peggy\" Schuyler Van Rensselaer or her sister Betsey. The text is about Shirley Bonne, an actress who starred in the TV show \"My Sister Eileen.\" Therefore, the question cannot be answered based on the given context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.163859248161316,
+    "mean_prob": 0.89668208360672,
+    "min_prob": 0.17538650333881378,
+    "sds": 0.7810013294219971,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 84,
+    "ds_index": 5789,
+    "question": "Domestic Disturbance stars an actor who voiced what character in \"Monsters, Inc.\"?",
+    "gold_answer": "Randall Boggs",
+    "context": [
+      "Monsters, Inc. is a 2001 American computer-animated comedy film produced by Pixar Animation Studios and distributed by Walt Disney Pictures.  Featuring the voices of John Goodman, Billy Crystal, Steve Buscemi, James Coburn, and Jennifer Tilly, the film was directed by Pete Docter in his directorial debut, and executive produced by John Lasseter and Andrew Stanton.  The film centers on two monsters employed at the titular energy-producing factory Monsters, Inc. \u2014 top scarer James P. \"Sulley\" Sullivan and his one-eyed partner and best friend Mike Wazowski.  In the film, employees at Monsters, Inc. generate their city's power by scaring children, but they themselves are afraid that the children are toxic to them, and when one child enters the factory, Sulley and Mike must return her home before it is too late."
+    ],
+    "generated_answer": "Domestic Disturbance does not star an actor from \"Monsters, Inc.\" based on the provided context. However, if you're asking about actors who starred in other works and also voiced characters in \"Monsters, Inc.,\" John Goodman voiced James P. \"Sulley\" Sullivan.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.7101631164550781,
+    "mean_prob": 0.7827931642532349,
+    "min_prob": 0.00025366852059960365,
+    "sds": 0.8998579978942871,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 85,
+    "ds_index": 634,
+    "question": "The Worst Journey in the World is a memoir written by which English explorer of Antarctica?",
+    "gold_answer": "Apsley George Benet Cherry-Garrard",
+    "context": [
+      "The Worst Journey in the World is a memoir of the 1910\u20131913 British Antarctic Expedition led by Robert Falcon Scott.  It was written and published in 1922 by a member of the expedition, Apsley Cherry-Garrard, and has earned wide praise for its frank treatment of the difficulties of the expedition, the causes of its disastrous outcome, and the meaning (if any) of human suffering under extreme conditions."
+    ],
+    "generated_answer": "The Worst Journey in the World is a memoir written by Apsley Cherry-Garrard, an English explorer of Antarctica.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.3435144424438477,
+    "mean_prob": 0.9216837882995605,
+    "min_prob": 0.008568601682782173,
+    "sds": 0.5880472660064697,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 86,
+    "ds_index": 254,
+    "question": "in 1999, Spirit Halloween LLC was purchased by a mall retailer that has how many stores in the United States and Canada ?",
+    "gold_answer": "over 600 stores",
+    "context": [
+      "Spirit Halloween LLC is a seasonal retailer that supplies Halloween decorations, costumes and accessories.  It was founded in 1983 and is based in Egg Harbor Township, New Jersey.  In 1999, the store had 60 seasonal locations and was purchased by Spencer Gifts."
+    ],
+    "generated_answer": "In 1999, Spirit Halloween LLC was purchased by Spencer Gifts, but the context does not provide the number of stores Spencer Gifts had in the United States and Canada at that time.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.288848638534546,
+    "mean_prob": 0.889063835144043,
+    "min_prob": 0.01015614252537489,
+    "sds": 0.7425239682197571,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 87,
+    "ds_index": 2489,
+    "question": "Kalle M\u00e4kinen is nicknamed after a Spanish football that captains what two teams?",
+    "gold_answer": "Real Madrid and the Spain national team",
+    "context": [
+      "Kalle M\u00e4kinen (born 1 February 1989) is a Finnish footballer who last played for the Finnish Veikkausliiga club Maskun Palloseura.  He was nicknamed \"Sergio\" because his style of play was similar to that of Spanish fullback Sergio Ramos"
+    ],
+    "generated_answer": "Kalle M\u00e4kinen is nicknamed after his playing style resembling that of Sergio Ramos, who captains Real Madrid and the Spain national team.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.6636757850646973,
+    "mean_prob": 0.8204765319824219,
+    "min_prob": 0.0039022474084049463,
+    "sds": 0.7828588485717773,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 88,
+    "ds_index": 2227,
+    "question": "Matt Doheny lost his primary race to what current youngest woman ever elected to Congress?",
+    "gold_answer": "Elise Stefanik",
+    "context": [
+      "Matt Doheny is an American businessman, lawyer, and politician.  He was a Republican candidate for the United States Congress in New York State in 2010 and 2012, losing narrowly on both occasions to Democrat Bill Owens.  In 2014, he ran in the Republican primary for New York's 21st congressional district.  Doheny lost the primary to Elise Stefanik, who subsequently went on to win the general election."
+    ],
+    "generated_answer": "Matt Doheny lost his primary race to Elise Stefanik, who became the youngest woman ever elected to Congress.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.20597505569458,
+    "mean_prob": 0.9096491932868958,
+    "min_prob": 0.10783465951681137,
+    "sds": 0.8183695673942566,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 89,
+    "ds_index": 5757,
+    "question": "Kresy, which roughly was a part of the land beyond the so-called Curson Line, was drawn for what reason?",
+    "gold_answer": "demarcation line between the newly emerging states, the Second Polish Republic, and the Soviet Union",
+    "context": [
+      "Krenides (Ancient\u00a0Greek: \u039a\u03c1\u03b5\u03bd\u03af\u03b4\u03b5\u03c2 ) was an ancient Greek city located in Thrace, located in the region between the river Strymon and the river Nestos. It was founded by colonists from Thasos at 360BC.  Krenides was close to Mount Pangaion with its rich gold veins and to another Thasian colony, Datos. The two colonies provoked the Thracians but at the same time gave Phillip II of Macedon the justification for penetrating the area and founding Philippi in 356 BC.Phillip intervened to protect the city when it was threatened by Thracians under Kersobleptes."
+    ],
+    "generated_answer": "The context provided does not contain information about Kresy or the Curzon Line. Therefore, I cannot answer the question based solely on the given text.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.5606045722961426,
+    "mean_prob": 0.7587860822677612,
+    "min_prob": 0.05246865004301071,
+    "sds": 1.1425822973251343,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 90,
+    "ds_index": 3581,
+    "question": "The team that would become the Little Giants was located in the county seat of which Ohio county?",
+    "gold_answer": "Mahoning County",
+    "context": [
+      "Little Giants is a 1994 American family sports comedy film, starring Rick Moranis and Ed O'Neill as brothers in a small Ohio town, coaching rival Pee-Wee Football teams."
+    ],
+    "generated_answer": "The context does not specify the exact county or its seat where the team that would become the Little Giants was located. However, since the movie is set in a small town in Ohio, we can infer it's likely a fictional location within the state. Without more specific information from the movie's setting details, an exact answer cannot be provided based solely on the given context.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4882981777191162,
+    "mean_prob": 0.7685357928276062,
+    "min_prob": 0.01795952394604683,
+    "sds": 0.7810912728309631,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 91,
+    "ds_index": 3152,
+    "question": "Which film was not a 3D computer-animation Cars 3 or Smith!?",
+    "gold_answer": "Smith!",
+    "context": [
+      "In the year 2010, there was a dramatic increase and prominence in the use of 3D-technology in filmmaking after the success of \"Avatar\" in the format, with releases such as \"Alice in Wonderland\", \"Clash of the Titans\", \"Jackass 3D\", all animated films, with numerous other titles being released in 3D formats."
+    ],
+    "generated_answer": "\"Cars 3\" was not a 3D computer-animated film based on the given context, which does not mention it but implies discussion of films including animations released in 3D formats around 2010. \"Smith!\" is not mentioned and seems out of the context's scope. However, since \"Cars 3\" came out later than 2010 and wasn't part of the initial 3D boom referenced, the answer points to \"Cars 3\"",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 2.4993932247161865,
+    "mean_prob": 0.6392924785614014,
+    "min_prob": 2.5039360025402857e-06,
+    "sds": 0.9203718304634094,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 92,
+    "ds_index": 2253,
+    "question": "Between Greyia and Calibanus, which genus contains more species?",
+    "gold_answer": "Greyia",
+    "context": [
+      "Greyia is a genus of plant in family Melianthaceae.  It contains three species:"
+    ],
+    "generated_answer": "Calibanus contains more species than Greyia, as Greyia only has three species while Calibanus has four. However, since the context only provides information about Greyia, we can only compare based on given data, making Calibanus appear to have more based on external knowledge.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 2.796233654022217,
+    "mean_prob": 0.6342790126800537,
+    "min_prob": 8.760060154600069e-06,
+    "sds": 0.8977144360542297,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 93,
+    "ds_index": 847,
+    "question": "The Polar Bear and Daiquiri are both examples of what?",
+    "gold_answer": "cocktails",
+    "context": [
+      "The polar bear (\"Ursus maritimus\") is a carnivorous bear whose native range lies largely within the Arctic Circle, encompassing the Arctic Ocean, its surrounding seas and surrounding land masses.  It is a large bear, approximately the same size as the omnivorous Kodiak bear (\"Ursus arctos middendorffi\").  A boar (adult male) weighs around 350 \u2013 , while a sow (adult female) is about half that size.  Although it is the sister species of the brown bear, it has evolved to occupy a narrower ecological niche, with many body characteristics adapted for cold temperatures, for moving across snow, ice and open water, and for hunting seals, which make up most of its diet.  Although most polar bears are born on land, they spend most of their time on the sea ice.  Their scientific name means \"maritime bear\" and derives from this fact.  Polar bears hunt their preferred food of seals from the edge of sea ice, often living off fat reserves when no sea ice is present.  Because of their dependence on the sea ice, polar bears are classified as marine mammals."
+    ],
+    "generated_answer": "The polar bear and daiquiri are both examples provided in different contexts; the polar bear is an example of a species described in the text, while a daiquiri is not mentioned but would be out of context\u2014typically, it refers to a cocktail, making this pairing unusual and unrelated based on the given information. If the question aims to find a common category, more context is needed since these two items do not share a clear common classification from the provided text alone.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 2.5137078762054443,
+    "mean_prob": 0.6402143239974976,
+    "min_prob": 0.0012892758240923285,
+    "sds": 1.04734206199646,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 94,
+    "ds_index": 3315,
+    "question": "Which wrestler, who died in 2009, featured on the wrestling show Starrcade?",
+    "gold_answer": "\"Dr. Death\" Steve Williams",
+    "context": [
+      "Starrcade (1990) was the eighth annual Starrcade professional wrestling pay-per-view (PPV) event produced by World Championship Wrestling (WCW).  It was the third Starrcade event held by WCW, and the final under the National Wrestling Alliance (NWA) banner and the first under the World Championship Wrestling (WCW) banner.  It took place on December 16, 1990 from the Kiel Auditorium in St. Louis, Missouri."
+    ],
+    "generated_answer": "Based on the given context alone, there is no specific wrestler mentioned as having featured on the 1990 Starrcade event who died in 2009. Additional information would be needed to accurately answer this question. However, a notable wrestler associated with that era who fits the criteria is Ricky Steamboat, though he did not wrestle at this particular Starrcade. For a precise answer, more details about the participants of that specific Starrcade event are required.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.6595990657806396,
+    "mean_prob": 0.7337098717689514,
+    "min_prob": 0.007783899083733559,
+    "sds": 0.8647643327713013,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 95,
+    "ds_index": 5205,
+    "question": "What sibling of John D. Rockefeller III was the chairman of Chase Manhattan Corporation?",
+    "gold_answer": "David Rockefeller",
+    "context": [
+      "David Rockefeller (June 12, 1915 \u2013 March 20, 2017) was an American banker who was chairman and chief executive of Chase Manhattan Corporation.  He was the oldest living member of the Rockefeller family and family patriarch from August 2004 until his death in March 2017.  Rockefeller was a son of John D. Rockefeller Jr. and Abby Aldrich Rockefeller, and a grandson of John D. Rockefeller and Laura Spelman Rockefeller."
+    ],
+    "generated_answer": "David Rockefeller, a sibling of John D. Rockefeller III, was the chairman of Chase Manhattan Corporation.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.4626550674438477,
+    "mean_prob": 0.8492022752761841,
+    "min_prob": 0.011961088515818119,
+    "sds": 0.5340000987052917,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 96,
+    "ds_index": 99,
+    "question": "Are Yingkou and Fuding the same level of city?",
+    "gold_answer": "no",
+    "context": [
+      "Yingkou () is a prefecture-level city of Liaoning province, People's Republic of China.  It is a port city of the Bohai Sea, and is the location of the mouth of the Liao River."
+    ],
+    "generated_answer": "No, based on the given context, Yingkou is described as a prefecture-level city in Liaoning province, China. Fuding is not mentioned, but if it is also referred to as a prefecture-level city in China, then they would be the same level; however, without specific information about Fuding's administrative classification, this cannot be confirmed. Assuming Fuding is similarly classified, they would be at the same administrative level.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.7757432460784912,
+    "mean_prob": 0.7705391645431519,
+    "min_prob": 0.00018923378956969827,
+    "sds": 0.768388569355011,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 97,
+    "ds_index": 3276,
+    "question": "Were Shadows Over Camelot and Battle Sheep released by the same publisher?",
+    "gold_answer": "no",
+    "context": [
+      "Shadows Over Camelot is an Arthurian-themed board game designed by Serge Laget and Bruno Cathala, illustrated by Julien Delval and Cyrille Daujean.  The game was unveiled by the publishers Days of Wonder at the 2005 American International Toy Fair and was more widely released in May and June 2005.  The game was also published in French as \"Les Chevaliers de la Table Ronde\" and in German as \"Schatten \u00fcber Camelot\".  In 2008, an expansion for Shadows over Camelot was released titled \"Merlin's Company\"."
+    ],
+    "generated_answer": "Based solely on the provided context about Shadows Over Camelot, there is no information given about Battle Sheep or its publisher, so it cannot be determined if they were released by the same publisher.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 2.0657148361206055,
+    "mean_prob": 0.780897855758667,
+    "min_prob": 0.0006239775684662163,
+    "sds": 0.9067662954330444,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 98,
+    "ds_index": 159,
+    "question": "The song \"Chim Chim Cher-ee\" can be heard  in the \"Mary Poppins\" scene of a Disney ride that debuted in what year?",
+    "gold_answer": "1989",
+    "context": [
+      "\"Chim Chim Cher-ee\" is a song from \"Mary Poppins\", the 1964 musical motion picture.  It was originally sung by Dick Van Dyke and Julie Andrews, and also is featured in the Cameron Mackintosh/Disney \"Mary Poppins\" musical.  The song can be heard in the \"Mary Poppins\" scene of The Great Movie Ride at Disney's Hollywood Studios and during the \"Mary Poppins\" segment of \"\" at Disneyland."
+    ],
+    "generated_answer": "The song \"Chim Chim Cher-ee\" can be heard in the \"Mary Poppins\" scene of The Great Movie Ride at Disney's Hollywood Studios, which debuted in 1989.",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.1757209300994873,
+    "mean_prob": 0.9569992423057556,
+    "min_prob": 0.0031726674642413855,
+    "sds": 0.4960574805736542,
+    "hallucinated": 1,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 1,
+      "judge_b_label": 1,
+      "judge_a_raw": "HALLUCINATED",
+      "judge_b_raw": "HALLUCINATED",
+      "voting": "conservative_double"
+    }
+  },
+  {
+    "id": 99,
+    "ds_index": 6306,
+    "question": "The Black Star Line was a part of the Marcus Garvey movement that was also known by what names?",
+    "gold_answer": "Colonization movement or Black Zionism",
+    "context": [
+      "Marcus Mosiah Garvey Jr., ONH (17 August 188710 June 1940), was a proponent of Black nationalism in Jamaica and especially the United States.  He was a leader of a mass movement called Pan-Africanism and he founded the Universal Negro Improvement Association and African Communities League (UNIA-ACL).  He also founded the Black Star Line, a shipping and passenger line which promoted the return of the African diaspora to their ancestral lands.  Although most American Black leaders condemned his methods and his support for racial segregation, Garvey attracted a large following.  The Black Star Line went bankrupt and Garvey was imprisoned for mail fraud in the selling of its stock.  His movement then rapidly collapsed."
+    ],
+    "generated_answer": "The Black Star Line was a part of the Marcus Garvey movement also known as the Universal Negro Improvement Association and African Communities League (UNIA-ACL).",
+    "retrieval_k": 1,
+    "seed": 1,
+    "perplexity": 1.19936203956604,
+    "mean_prob": 0.9418340921401978,
+    "min_prob": 0.010592591017484665,
+    "sds": 0.6281948685646057,
+    "hallucinated": 0,
+    "judge": {
+      "judge_model": "claude-opus-4-6",
+      "judge_a_label": 0,
+      "judge_b_label": 0,
+      "judge_a_raw": "FAITHFUL",
+      "judge_b_raw": "FAITHFUL",
+      "voting": "conservative_double"
+    }
+  }
+]
